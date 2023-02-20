@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="12737" tvg-country="Qatar" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311010508135042_15.png" group-title="News",[HD]al jazeera@@6
+https://epg.pw/stream/7d39d78c52dab8895fb6899904cbeff5bd56d0b2cc93a1def7c805f3d6772115.ctv
 #EXTINF:-1 tvg-id="12737" tvg-country="Qatar" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311010508135042_15.png" group-title="News",[BD]Al Jazeera@@2
 https://epg.pw/stream/4b77dd85958d266060fc4a2745dfcc149a4ac764d5477e7b73e096f1185c26f7.m3u8
 #EXTINF:-1 tvg-id="12737" tvg-country="Qatar" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311010508135042_15.png" group-title="News",[BD]aljazeera hd@@1
@@ -39,8 +41,6 @@ https://epg.pw/stream/e202e1e56eae17b4f2017a6f974fdce23d23e86e49fec2480042cd5a7d
 https://epg.pw/stream/81937040ecbc575310d572f98852e7f71db1ce139db2085999f7193ecefe4022.ctv
 #EXTINF:-1 tvg-id="12737" tvg-country="Qatar" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311010508135042_15.png" group-title="News",[HD]al jazeera sd
 https://epg.pw/stream/bd3eab47782a86f793e81b285399932cea898abe27b5d8eead8d639f76dcf542.ctv
-#EXTINF:-1 tvg-id="12737" tvg-country="Qatar" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311010508135042_15.png" group-title="News",[VGA]al jazeera@@3
-https://epg.pw/stream/aa2a8f89d7881c9bbaae2c1de47dec12b348daffb859392af327f8c976d72843.m3u8
 #EXTINF:-1 tvg-id="12737" tvg-country="Qatar" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311010508135042_15.png" group-title="News",[VGA]al jazeera@@1
 https://epg.pw/stream/208c6559fae9069e512999aa533eb22207492d3cbb699e9afa760f3572d8fd83.m3u8
 #EXTINF:-1 tvg-id="12737" tvg-country="Qatar" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311010508135042_15.png" group-title="News",[BD]al jazeera hd
@@ -55,6 +55,8 @@ https://epg.pw/stream/178063e82b1f0ff283d0a6f0f15b9c74615cdd05191fd9ecfae8fd6324
 https://epg.pw/stream/77f47baba8f6fc6a5cc0827f1c277f7d4e0f82a5de8f2fd4ec98af796f8c7931.ctv
 #EXTINF:-1 tvg-id="12737" tvg-country="Qatar" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311010508135042_15.png" group-title="News",[BD]jazeera
 https://epg.pw/stream/362c40e8b325c1a333b89c86e99067e0cfae98cd7fcfee84eb0303a2693d978b.ctv
+#EXTINF:-1 tvg-id="12737" tvg-country="Qatar" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311010508135042_15.png" group-title="News",[BD]aljazeera@@3
+https://epg.pw/stream/c01753479b68e9df8c7a2a92f775fdfc845eec8cc17a27320528d2c1122ede17.ctv
 #EXTINF:-1 tvg-id="12737" tvg-country="Qatar" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311010508135042_15.png" group-title="News",[VGA]al jazeera
 https://epg.pw/stream/a55ce9ddfd1c899f90d2d5364ca45be057b9f8bb4b6482fbb434b09ec9675d50.m3u8
 #EXTINF:-1 tvg-id="12737" tvg-country="Qatar" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/11/large/20220311010508135042_15.png" group-title="News",[VGA]al jazeera english
@@ -89,6 +91,8 @@ https://epg.pw/stream/48f68cfc598cf559c920aa6424f6143ed94fe554ff65a85e977e011f3b
 https://epg.pw/stream/bf046e272ef2f9801b6f7137f94616564ac62be1f60bc700f3ad93ed8c92b46b.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="العربية" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="Sport",[BD]alkass 3
 https://epg.pw/stream/b23d4bd7fcb88cc40791d1617fef70c796e7f9de58b0be8b34284f5db2d423f5.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="Arabic" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/b59e567ab3cf482c5631bc5085ec72dc.jpg" group-title="Generic",[BD]tatabrada tv
+https://epg.pw/stream/fbb750f72f836dc6e318f3e31507c234440868fd061a5aa75d20e3c9e4567c30.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="Arabic" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/b59e567ab3cf482c5631bc5085ec72dc.jpg" group-title="Generic",[HD]qatar en vivo
 https://epg.pw/stream/7f25f92837409102d705899cd8c61b3d19623f82f975b01b76c9d04c959fd44e.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="Arabic" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/b59e567ab3cf482c5631bc5085ec72dc.jpg" group-title="Generic",[SD]qatar tv 2 (720p)
@@ -145,8 +149,12 @@ https://epg.pw/stream/0a1554ef92d55a2a835a57290985ce3431b828288791885e4dce2a7f51
 https://epg.pw/stream/089a35cd16520ea8848d484583e9b76fd8af3fdb14c6351cebcc5b3ceb7f70c6.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/08/07/20160807213856639207_56.jpg" group-title="Sport",[BD]bein sports 11 hd
 https://epg.pw/stream/72e6026ca33816f23e10796a153d6137dbaf522ba804259de797a1daea1a3a34.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/08/07/20160807213856639207_56.jpg" group-title="Sport",[BD]bein sports 11 hd@@1
+https://epg.pw/stream/e8890617918e7502bbc8c41afed47be76960508d5933d3921b00c8cd5e42156b.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/20/20160920022700717507_18.png" group-title="Sport",[HD]bein sport1 sd
 https://epg.pw/stream/3cdb565b2f66d7bfe9ad5a531ea68534f2f0ec2fef3b84b40201acff2a8728fb.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/20/20160920022700717507_18.png" group-title="Sport",[BD]tringsport1
+https://epg.pw/stream/53835e4553fc7bb03261d94d3113c825492a4082b4cef31bdff93c76f6c424d8.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174053788102_27.png" group-title="Entertainment",[BD]al rayyan@@1
 https://epg.pw/stream/51fff41e543823f9d4a91d01289b5b935f7389a3873471b4c2a8bca6b4544532.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174053788102_27.png" group-title="Entertainment",[BD]al rayyan
@@ -229,6 +237,8 @@ https://epg.pw/stream/f025e0392de887152bc3495828085258877616217f0d5e9a23401ad1d6
 https://epg.pw/stream/c8d46d3adb16018ad5c79dfbdc0f6aad30a4cc132b8c0a0149a4dceae61ad53f.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174154957657_95.png" group-title="News",[BD]aljazeera mubasher hevc
 https://epg.pw/stream/2d35bfe6733aa6bf5f1d48637cc9562e5948729c697504d17caf22f33be7f28c.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174154957657_95.png" group-title="News",[BD]aljazeera mubasher
+https://epg.pw/stream/0251ab3de235b32359cd5b1b44e18a573f63697f4be4a3a079f243c8504cc8d2.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174154957657_95.png" group-title="News",[SD]al jazeera mubasher (1080p)
 https://epg.pw/stream/2e63a74261ce7acb951869524c41a5d8ed5d3e09d5b6f0e48068112dce66a1dc.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174154957657_95.png" group-title="News",[BD]jazeera mubasher-2@@1
@@ -245,6 +255,8 @@ https://epg.pw/stream/acd2bc4fbffcc9b2f775dc16651421e24feb038c9419542c19e185d4a9
 https://epg.pw/stream/838181cb682974c263e70580aa376f56639bcf2fccf5284a4de1c96b2e48e9c0.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173943574051_55.png" group-title="Sport",[BD]OAN (1080p)
 https://epg.pw/stream/8862c87ee3df1eae8ba3381e2032a436be14a281135a4a528aad5d1e82a60870.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173943574051_55.png" group-title="Sport",[SD]ocean tv
+https://epg.pw/stream/53cc4e2793320c2e5789bf42d4c2ec2ce4e1727b5b2998223e5d1e990b3db30a.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/30/20150430032518967352_33.jpg" group-title="Sport",[BD]bein sport 3
 https://epg.pw/stream/970e96ca7a59a459bfb92e16a74e62b6e1c4dc362cc078011d3f03b89304b1f9.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/30/20150430032518967352_33.jpg" group-title="Sport",[BD]bein sport 3@@1
@@ -275,6 +287,8 @@ https://epg.pw/stream/444ef465fc5920b4b758cd8283a48f8e99e06fbc17e78259855ee94d02
 https://epg.pw/stream/b84b98bb0fc1754c9347fc4d1caeac5596badb35baf1a56d3df686a9d44bc48d.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722002802130605_38.png" group-title="Sport",[BD]bein sport 9 fhd
 https://epg.pw/stream/12e5b8b3d820d012c0dff0bcdc2a41f63e3e9f7dc419e6f5c65311ec4915b3c1.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722002802130605_38.png" group-title="Sport",[BD]bein sport 9 fhd@@1
+https://epg.pw/stream/341f29461d6b369e7b1442bbb125af3e23e755b8a034730f01cc61de40cd2f36.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722000911144242_62.png" group-title="Sport",[BD]dw arabic
 https://epg.pw/stream/f24081ec295caa3de3ad03e43e6091fdcebcf0eb45d44b373471d69398afcedd.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Qatar" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722001647588139_56.png" group-title="Sport",[BD]qatar 2

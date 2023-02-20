@@ -17,7 +17,6 @@
 [BD]itv patagonia@@5,https://epg.pw/stream/5e02291256cc0e9fc3028d18e92213767964f3d2ed931ffdf58cdd93020a13f4.m3u8
 [VGA]itv patagonia@@1,https://epg.pw/stream/cdb9b5d43476ca0ff8c3fae2d4331361dc66b71a32735896e598a5df38f67dfd.m3u8
 [BD]itv patagonia@@4,https://epg.pw/stream/4d544452c01e01b25e43b3c3df610d52c1500e42a4b02e61c592e525f20990d1.m3u8
-[BD]hd1 fhd,https://epg.pw/stream/075478ac26ff917ad4c346a53c93894c3ee4183588be2e20260cae5e77450aa7.ctv
 [SD]24 horas españa,https://epg.pw/stream/e5f15d3b685cd0dc9cf83dc44c59a8e55d6400914fe832418cf1d2c1fcd5a540.m3u8
 [HD]24 horas,https://epg.pw/stream/b8299de49420cbe3aaa101e79c8d28bbc5cf7403fe25c07f792b61a8acbf7df5.ctv
 [HD]24 horas@@2,https://epg.pw/stream/a6c95705911dba19d7c3a5dd8e0736031b7aa3cb1d56c5dd4f68d3b5235fd3b3.ctv
@@ -59,7 +58,6 @@
 [BD]adn@@1,https://epg.pw/stream/ee7111e6a778c97b97f810ced71689b7df548609b39f7a46327086e5da3070ab.m3u8
 [BD]adn,https://epg.pw/stream/09e9601536f82031d7d61118b902e633060727bd97ae0da9ad7c0c96114d564f.m3u8
 [HD]ADN 40 (480p),https://epg.pw/stream/3bf79e56351d83628d53cbdf14d7301e18ce242dba1fe3893b3af9cec4871774.m3u8
-[HD]camara de diputados,https://epg.pw/stream/56e1fd2251358171435cd31551ed87320e3ddd4e2ef524f82f770b3616dd6a78.m3u8
 [BD]music top@@14,https://epg.pw/stream/7f485a352f9ea78dbdab97fa2b6b8c2155c13866b04223168e8867539b8b05f1.m3u8
 [BD]music top@@11,https://epg.pw/stream/fd05e113f2abc5cfc33196c3ad251f206adf390e2075db62c030ee60f9ef1385.m3u8
 [BD]music top@@13,https://epg.pw/stream/4bde13fe8dbd5b0f22033f6ae08421ee1aba719300a41c4e4cd13d20cb7b4c07.m3u8
@@ -102,14 +100,16 @@
 [SD]canal 13 - ni,https://epg.pw/stream/dddda4913b6d025c203b979a68e7a3b2513f8cb222fa3a6286a01205c2fa3e65.ctv
 [HD]cnn chile@@3,https://epg.pw/stream/a5d582bf0a767b54c530503f38aad21eebcf9a72c5d1a14f218b9104a92017c6.m3u8
 [BD]cine 3 canela,https://epg.pw/stream/8602d13d714e4370f8c5c5bc763e9e444441b3d133ac977a6a1fa23b4a55fe14.m3u8
-[HD]etc tv,https://epg.pw/stream/68aaeb7052cf344dfb64eaac6a37774e33ef823d7b6a22439bbe74fe9b783091.ctv
+[VGA]etc tv,https://epg.pw/stream/68aaeb7052cf344dfb64eaac6a37774e33ef823d7b6a22439bbe74fe9b783091.ctv
 [VGA]cl | tv chile,https://epg.pw/stream/29bd915f633dc0ee2c35f4eb926d79dcc08544972055444026b0db029134fc72.m3u8
-[HD]trece chile,https://epg.pw/stream/42317e776a08187e856caf239369b1281002a5570cd4547c33341c4e81132327.m3u8
+[VGA]trece chile,https://epg.pw/stream/42317e776a08187e856caf239369b1281002a5570cd4547c33341c4e81132327.m3u8
 [BD]ChiveTV,https://epg.pw/stream/ee9c445b723e72dbdf43f171f79c4740db4e08de0877d811dc96810d081e705f.m3u8
+[BD]tv 2 charlie hd,https://epg.pw/stream/6d5374d20cc086dd0867974bc4cddb4022ad93fa2bd945d2742327f8b075503f.ctv
 [HD]cnn chile ca,https://epg.pw/stream/548927d4e65cc6901525fc5bad33d55ffac80b0fbcc01bd782587569db9ff02f.m3u8
 [HD]tvchile,https://epg.pw/stream/3b1659e3bd3ab547e3fbefdeae4e4db334abce3faed7e6ba3e91350ed7d08a18.ctv
 [HD]tvr - chile,https://epg.pw/stream/2a807c864e4505cbdc7ea290da07e91f16c847e9b9dfa8b67df05c681d151189.m3u8
 [SD]tv mas - chile,https://epg.pw/stream/43cfb7675d13183d8769aefe6e91bf037c1275c7886ca8b714855f9d631887a3.m3u8
+[HD]cable,https://epg.pw/stream/851b46114728f6d495f53d49979d35e35b7afe258d5cc0461514af0525c49f48.ctv
 [BD]cl | canal 13,https://epg.pw/stream/77ab32cdbb6306223acbad4e0790a9aab73c6ced61b6396d774c22d2c8a12430.ctv
 [HD]canal 13 chile,https://epg.pw/stream/c67b76913980d499120fe1a8d60b6849f995091447ffe98ade0b326d1ec9e0d9.ctv
 [HD]La Red (720p) [Not 24/7],https://epg.pw/stream/7e6ca05d6849dc8961ba349b85452887ae48d83ca5c5f710aed06dd3d9f4d2e2.m3u8
@@ -119,6 +119,7 @@
 [BD]la red op2,https://epg.pw/stream/333693cfb16997e9d7e26c89ade4ba6eee02edc65ba7c7b333b060988b9a7d9d.m3u8
 [BD]la red@@3,https://epg.pw/stream/09b7a8be468a0c3f251d6b14326794cd9fd8a860c0f6b1b61c436caa5d185538.m3u8
 [HD]la red@@1,https://epg.pw/stream/d1ea95da1261c98b86456e9a29b980226f23e7353e3a008c3b05ce205223b584.ctv
+[BD]hd1 fhd,https://epg.pw/stream/075478ac26ff917ad4c346a53c93894c3ee4183588be2e20260cae5e77450aa7.ctv
 [VGA]tv chile,https://epg.pw/stream/6d36ec28e6c2d901a56565e164dd2b223b2298e9661e70cd656e398ecff6f83c.ctv
 [BD]mega - chile hd,https://epg.pw/stream/fdd737f48e8967c3f69eff2521515b497e23c6fde1ffd75d1e5b2a45150779e3.m3u8
 [HD]Mega TV (Jaen) (720p) [Not 24/7],https://epg.pw/stream/d0bdb4ec0dd55200a3cd6abc0f3155cb6bc013232e8b0f0809ae00bae10fd55d.m3u8
