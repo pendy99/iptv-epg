@@ -26,9 +26,11 @@
 [BD]Redbox 1: Spotlight (1080p),https://epg.pw/stream/8b0ee592a14428907ca9291b0c412b5d51b6f49493fce32a47f382583832c6e1.m3u8
 [BD]Spotlight (1080p),https://epg.pw/stream/43055707194124254b9cc98931840535af2c740cb2a96b1b2c8478f1b1e839b4.m3u8
 [BD]vip premiere hd,https://epg.pw/stream/2a462b819ccf4f5389c95d0e05ff7798b5ecaaec9f4fc032395b7ed48c5deda1.m3u8
+[BD]vip premiere@@1,https://epg.pw/stream/a811c7dcc955f2cd6ba5a88a749b33d9617d30a663c4bd380cef418aecc498e8.m3u8
 [BD]vip premiere,https://epg.pw/stream/cb15e39d74c500d7aa252fc0f99fa1da9d1fbc11dfc35abcd8ec12f1eab1358e.m3u8
 [BD]film premiere,https://epg.pw/stream/f519598194c33743e27929a301708f5c4f271d37e98d63c78288961f21edc131.ctv
 [BD]vip premiere hd@@3,https://epg.pw/stream/e30ae1de078b5f24549674e0ef84518fcd3fa56259beabe4e70a9baf35610af6.ctv
+[BD]vip premiere hd@@4,https://epg.pw/stream/30b0437f6f4dc530ae1fb473affc82d5e754c92d1ffea8bb43ee10541af1e8f6.ctv
 [BD]film 1 premiere lbr,https://epg.pw/stream/e3083cb7d38494393506d251031e7c5a8ac61976ff2f599ce85b28ebe0d37e23.ctv
 [BD]film 1 premiere lbr@@1,https://epg.pw/stream/df7305320faab348184fb4d4a8901541a921c94cd127dc43a9eee07766446836.ctv
 [BD]AT5,https://epg.pw/stream/78028ce3fdadf2c96d156e5e07fea08875623ffc852f7ca29f59863c53cfe49d.ctv
@@ -50,6 +52,7 @@
 [HD]xite lbr,https://epg.pw/stream/0d27fb6836c8e6de18e6515461d2ee35abef15312aa2b0b2d5ef1a662ec098ac.ctv
 [BD]xite lbr@@1,https://epg.pw/stream/6a1fbb9a9f6425e4928feffc819242756bbe441c87f1a0c8e4993a0022d66f50.ctv
 [BD]XITE Hits@@1,https://epg.pw/stream/1ca65df530860021bf7270c02819fac7c06a5f2591edabbce6e93c9a57ad3307.m3u8
+[HD]xite@@2,https://epg.pw/stream/3dba239805fd94d6de678668ac98ac3889607cd3025a6958176827d5d1edcb1b.m3u8
 [VGA]Fite (720p) [Not 24/7],https://epg.pw/stream/1dfba72a85d9c44a63b6dd1d847870c150d096ac4c196ffbbb167c2f1573c64d.m3u8
 [HD]xite hd,https://epg.pw/stream/95c52f4f19acb73e456a13db46c8aa2f9453258cf96fdef53012eb05373152d5.m3u8
 [HD]XITE,https://epg.pw/stream/487833f546cb7d5c831f11a411e58808d397104fc7b92eadac50cbf6aa537eaf.m3u8
@@ -67,6 +70,7 @@
 [BD]24 kitchen,https://epg.pw/stream/e1e93074c70d03283ecbc603a1cc02402bad3ffec184e2e2fad84ca9776426ec.ctv
 [BD]Hell's Kitchen@@6,https://epg.pw/stream/734c73b5f51710de2cb3345b41458e7ae23ed232f2a6577f965519465ace01e6.m3u8
 [HD]hells kitchen,https://epg.pw/stream/f5241b3f68254e46d1fab2017dbd9b2721be9ce9c62a804e7959615eef5c014e.m3u8
+[BD]kitchen nightmares,https://epg.pw/stream/ec03a54659c01f845c3bd327248ce7eb7c6831de8d37d9309cf7d9e32ac677d5.m3u8
 [BD]24 kitchen hd,https://epg.pw/stream/3ccda90f33512f8669067e7b2204cbb502dbd385929857ccdef862eb45107e05.ctv
 [BD]Hell's Kitchen@@3,https://epg.pw/stream/a275ef4c660a17b7b38d4ae20a2bbff142ecbf62e63630f9fb3d4bc874c0f2ff.m3u8
 [BD]pt -  24 kitchen hd nos,https://epg.pw/stream/1cc164720b2071532faebcbb98179696dbbdd36789bfa3e1d8433c4477bd5791.ctv
@@ -99,9 +103,8 @@
 [BD]npo 3 lbr,https://epg.pw/stream/66102ee0e1693cee6cc7bee58f30f8f7e7ecd3ac63f052628f11fc3a42f88f76.ctv
 [BD]npo 3 lbr@@1,https://epg.pw/stream/65f3a72157c21aad14ac1cdd0a71aa751fb716ef1ea646e1b5d438eb9f4de0a5.ctv
 [BD]comedy central@@8,https://epg.pw/stream/4d8dafabbeea636919db25b9a31c9b4411a5552764d71655e433af41aaf7f0e2.m3u8
-[HD]comedy central@@7,https://epg.pw/stream/0a208c483f81250313b8b527dcf63f9b4798096867f68c53d20511cbc5943c0a.ctv
+[SD]comedy central@@7,https://epg.pw/stream/0a208c483f81250313b8b527dcf63f9b4798096867f68c53d20511cbc5943c0a.ctv
 [BD]comedy central hd+,https://epg.pw/stream/cef820d881a8f8d5a2b32f72fbb4d32f23dffd55af87b3f8fa8289b8edbd6446.ctv
-[BD]comedycentralhd@@3,https://epg.pw/stream/b74325d04d88ae7dc15d00cc2a7ab0338ba6debcaa47b006c941601537e6119e.ctv
 [HD]comedy central +1 hd,https://epg.pw/stream/2c2a856057ae2cff584f795392c50a4fff985129d6b0405548b6af831281790c.ctv
 [BD]comedycentral full hd@@2,https://epg.pw/stream/4fb123ab81f8f36b488bd610278b8b00e974a6f1d2f564d623d5e36a385e5e19.ctv
 [BD]sp -  comedycentral 4k,https://epg.pw/stream/475f2bf35d1ce2e9b8a51ca4c79c6e1984354e771c858eeddbc703d80df2efe0.ctv
@@ -109,13 +112,14 @@
 [BD]comedy central@@15,https://epg.pw/stream/e898614da5b32e496525688b0a14558b2c80bc8cfd6bf10a2c87bd1db7f1c911.ctv
 [BD]comedy central hd@@5,https://epg.pw/stream/d3a4a7f8fa9a09d1e97cbdb1ff9a48e852e494cf87999ac1421e8df024747078.m3u8
 [BD]comedy central hd@@6,https://epg.pw/stream/75530db3a5fc5627f48db385e90de9450b7de358307f811154e426c48c9fd120.ctv
+[HD]deu★comedy central,https://epg.pw/stream/d0bcfc9e85a0b2b188d01cf3b241d29c3d97720704f1c23be3a611fdc05b773e.ctv
 [BD]comedy central fhd,https://epg.pw/stream/49c7fede3139afac1e6a125b19af8ec9ab810bf3ce90d98560f324a0b8abd319.ctv
-[BD]comedy central fhd@@1,https://epg.pw/stream/a04cb23acdd3595b59241c249f0be43f37d7b767685c987791527f5b0258dda6.ctv
+[HD]comedy central fhd@@1,https://epg.pw/stream/a04cb23acdd3595b59241c249f0be43f37d7b767685c987791527f5b0258dda6.ctv
 [HD]comedy central uk,https://epg.pw/stream/bbc8b2805be66c1491af7f057657d0898f316bfaa684ea639ea3b4e85fc349c5.ctv
 [BD]comedy central@@16,https://epg.pw/stream/2ded88bb33ac6ad3ce786f1a273f0ffab566a34540bdab83868c5d4bf2cd7118.ctv
+[BD]bra★comedy central,https://epg.pw/stream/3f68af581c2b50e2d87e6d7ef79b3663570c381dde171f927b8128c9fbfe39f8.ctv
 [BD]comedy central hd@@1,https://epg.pw/stream/f35ff7c16b734e841d83f9a8ef80db671141cb883490b5df37bcaac3edf3dd39.ctv
 [BD]comedy central lbr@@1,https://epg.pw/stream/425849e4ac62b974b6d47ff1dcf5f86c7fd03a9f59470b5a0f88198f3eee00e6.ctv
-[BD]comedy central hd@@2,https://epg.pw/stream/013ad760f0176d0872dbd8ec04ae538ed35178c060dbf53ef03f178a19863553.ctv
 [BD]comedy central@@17,https://epg.pw/stream/59d9a508b5123a437cf9dbca9ddf2912b92b31141dafb7c9e2c10d57fa2ad6d3.ctv
 [HD]comedy сentral,https://epg.pw/stream/9ffe6248bdd90b163b3b06b0714efa9f9e045620175678b7035a39090d9cead4.ctv
 [HD]comedy central@@13,https://epg.pw/stream/a0f2d0d96a99e9fd5b33fd8dca84acc1bb0323c5093405c038ed9e99fcb30ca6.ctv
