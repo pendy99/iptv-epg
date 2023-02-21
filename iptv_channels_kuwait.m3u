@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="فارسی" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/a4cc6752191374b372759078f8a85abd.png" group-title="Movie",[HD]ok teve@@1
 https://epg.pw/stream/57a25d0bdc821a86899e6edece8100bfbe4ae63ec45d631f3403566afdbd77df.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="فارسی" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/a4cc6752191374b372759078f8a85abd.png" group-title="Movie",[VGA]TV1
+#EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="فارسی" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/a4cc6752191374b372759078f8a85abd.png" group-title="Movie",[HD]TV1
 https://epg.pw/stream/082ce641424296ec8cbb0dec77735953fd31bb191b8584810cc68e9847b79071.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="فارسی" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/a4cc6752191374b372759078f8a85abd.png" group-title="Movie",[BD]DLTV 1
 https://epg.pw/stream/167a20de0543f12db2c12243640e2be8ee849ceacce5ef176d0db77edaf0d21e.m3u8
@@ -43,6 +43,10 @@ https://epg.pw/stream/571f8843b990bacb0bb84a688732b7300606e03dc40e328a26a2a476e9
 https://epg.pw/stream/a971d7136230fe174ed0da47cb6e9c3547bb90e8ca8ac4b99e04fd1a1af12cfd.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174808787128_11.png" group-title="Entertainment",[HD]cpe tv@@1
 https://epg.pw/stream/8e78b8ed8fa389728da234a3db319398249d0f722966b714869dcc17fa0db36c.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174740188682_91.png" group-title="Generic",[BD]tv sarajevo@@1
+https://epg.pw/stream/814abae6d189484593aeff98dfdfa56896a63ed0064acf16d9f846354b5b0c10.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174740188682_91.png" group-title="Generic",[BD]tv sarajevo
+https://epg.pw/stream/cb0c3d7d3760da6caba62cab2728d7126cc657027c3fd8f4eaf332752ae04e74.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174740188682_91.png" group-title="Generic",[BD]ktv arabe
 https://epg.pw/stream/28a49e15eb6722f7762be3dc3c3b1bec0ca101c282ab0d92944f8e891a824238.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/06/20170306122525602025_49.jpg" group-title="Generic",[BD]ethraa sd@@1
@@ -59,12 +63,18 @@ https://epg.pw/stream/153c6cd566b4079ff50024905b26ad6dafed73a36e5cc925d445105bf2
 https://epg.pw/stream/7cb2e50cd0d8a697093c94b582b673bf445ea979a34d3cca30242b7520739785.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/06/20170306123420038759_90.png" group-title="Entertainment",[BD]albawadi tv
 https://epg.pw/stream/243c5aea4fa83600701f5203cdc5f987b320033951fac00d99b47758ee80428f.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613233230194707_47.jpg" group-title="Movie",[BD]tcm cinema@@1
+https://epg.pw/stream/b550ee8c5b8d83a2b84c11cb9348ab3f37efbdfda7806d34df0a04733bdc47c6.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613233230194707_47.jpg" group-title="Movie",[BD]Timeline (1080p)
 https://epg.pw/stream/b4a6e297e3a209f482b8c628c78a49edad8bd64b08fcbeb5c05aae3cf1726ab8.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613233230194707_47.jpg" group-title="Movie",[VGA]multicinema
 https://epg.pw/stream/1de24ef44e58d8481d58fee2c7d41c4c414337e9eb73e640974c586fa0f1ef6e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613233230194707_47.jpg" group-title="Movie",[BD]Timeline
 https://epg.pw/stream/90967784d52c54c1490b4e23961945c86b6d7a114db0cd8724e9fd510769817d.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613233230194707_47.jpg" group-title="Movie",[BD]tcm cinema
+https://epg.pw/stream/69b937936ed6f12a584888f2bdf5a58c4e91defcb60d11aa8edbc3548ce765e8.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613233230194707_47.jpg" group-title="Movie",[SD]multicinema@@2
+https://epg.pw/stream/fd81a876d49617065cbdc49d9db3c5ea6e8cd3daace0cac478ba745781f1dd8b.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613233230194707_47.jpg" group-title="Movie",[HD]Timeline
 https://epg.pw/stream/1958ff0988b690ebbc9c85ed203ebe4b23b8001ab0309e6e3d4088a30e152ff8.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Kuwait" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613233230194707_47.jpg" group-title="Movie",[HD]cine - tcm

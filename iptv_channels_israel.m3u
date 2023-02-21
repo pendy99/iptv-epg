@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102204931755109_13.jpg" group-title="Generic",[HD]canal 10 san rafael@@1
+https://epg.pw/stream/f68fa927d139bb0fd4b2c8b00052bfbab2bd549611e92266f2bb2affa7773bef.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102204931755109_13.jpg" group-title="Generic",[SD]channel 10
 https://epg.pw/stream/fefb220b536b504f25545a2514a7b2d500b25e10a80c22ec5dc6282b66df1ce1.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102214232173142_81.jpg" group-title="Generic",[BD]channel 20
@@ -17,6 +19,10 @@ https://epg.pw/stream/5e3fe4dfb97243573f991ccf462517a7afd2f1cd38095ee0c55397c0b2
 https://epg.pw/stream/4b914b12104f980490adb12c42c497779484a7ea64faac6484482a6f50761205.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020308388476_75.png" group-title="Sport",[BD]istanbul tv
 https://epg.pw/stream/8ffbe0420d5fe0994228fd209f01e2f03f669ae02050c3061d0e325254f8db7a.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020308388476_75.png" group-title="Sport",[BD]tn sahel tv@@1
+https://epg.pw/stream/2bf930ecdbafa24dcc71c54666714dd3c201f972ee9af011c6048c23f3527f45.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020308388476_75.png" group-title="Sport",[BD]tn sahel tv
+https://epg.pw/stream/5de40327ab898c555df8edeea983b177d719ff23dfc608a63743866965f06568.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020308388476_75.png" group-title="Sport",[HD]sahel tv
 https://epg.pw/stream/e8b6198af5e4378bffd6d0bbd860cb16f9242dd1cd1793f0dbb2d5a5e32ded72.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/11/21/20151121004929866665_82.jpg" group-title="Sport",[BD]rs news sports 5@@1
@@ -43,6 +49,8 @@ https://epg.pw/stream/9c5db675273f2b923793af95199d4f6d771431640325c392afaf44c418
 https://epg.pw/stream/9fed1b2eeaadd4781a08c9aa30f12bdf8af91712da2dedc44fa3761170aef670.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/11/22/20151122084303717081_48.jpg" group-title="Sport",[BD]eleven 1@@2
 https://epg.pw/stream/dfd5345ea885b0daee710a62e85a83cce4bd0ffa51a4e395e18a06fe96d639c8.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/07/20151207033602563683_64.jpg" group-title="Sport",[HD]sport 5@@2
+https://epg.pw/stream/90015d6a5e651612555d1d8783f07b2de78fa58632a3e01ccf20641ceddbeca3.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/07/20151207033602563683_64.jpg" group-title="Sport",[SD]live sport hd 
 https://epg.pw/stream/77ce92fc632b95f347ba9a36395a02142237ba76dd9af6b4109e0f0a38d8b469.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/07/20151207033602563683_64.jpg" group-title="Sport",[HD]yes sport 5 live
@@ -63,6 +71,8 @@ https://epg.pw/stream/c64c81e5b865c5a0baab9cf6349e09a3f5194d76f0d8b3e1bd4f7b241b
 https://epg.pw/stream/9068d35288f41f9c56ba62a14730d75eb1d92f77bc0cd7fac60edbc4c41bd389.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/07/20151207033602563683_64.jpg" group-title="Sport",[BD]rmc sport live 11
 https://epg.pw/stream/7a7d41f6994d080b56ce0a27387dcf93422e9e1ac5753c3f1db7b7d1aa617e27.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/07/20151207033602563683_64.jpg" group-title="Sport",[HD]sport 5@@1
+https://epg.pw/stream/f2e49045fb19fe30d0c148b381b5991e560a34743e8634c10195ef8bef76079d.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/07/20151207033602563683_64.jpg" group-title="Sport",[BD]QAZsport_live
 https://epg.pw/stream/8067904b17184153b5dff94c42d2d68bc65c4e2d02597a53c6f42e1219a1bafd.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/07/20151207033602563683_64.jpg" group-title="Sport",[BD]FR_RMC_SPORT_LIVE 7
@@ -165,10 +175,18 @@ https://epg.pw/stream/2371d5811943cb2a9f3034f4907e385e842a9827f87f2328d33111face
 https://epg.pw/stream/f75a6e55306386c59c33520b390cb16d161190f1ae88b91b41156afc9904779e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/12/20151212234124180592_19.jpg" group-title="Documentary",[HD]aliento vision
 https://epg.pw/stream/e48f50e431a7b2e243e90ccd06474190178c3d33a4feffc02d69714938d3975d.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Russian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/25/20151225224352974572_71.jpg" group-title="Sport",[HD]diema sport 2 hd
+https://epg.pw/stream/f4f38a10846ce87ac195596ddd699ca14937d5126c0e3da15392a78b0f1c9291.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Russian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/25/20151225224352974572_71.jpg" group-title="Sport",[BD]diema sport 
 https://epg.pw/stream/55bd0ba3367018be17d0163f4cccea360443184f4722057ee3b520a70cbcf7b5.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Russian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/25/20151225224352974572_71.jpg" group-title="Sport",[BD]diema sport hd@@1
+https://epg.pw/stream/850a621a05e4015ee2de49e92f4391aa3fd3b63f83b69a32f81db7aa0081347e.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Russian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/25/20151225224352974572_71.jpg" group-title="Sport",[HD]diema sport 2 hd@@1
+https://epg.pw/stream/91a206febd37bb1d593483007f3b4bee22ef5f4457c5f624b4994b36cbfc11e5.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Russian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/25/20151225224352974572_71.jpg" group-title="Sport",[SD]diema sport 2 @@1
 https://epg.pw/stream/36cfb628fcdae420ef385d77fddb9d89788c3933151917e8bdd1fb23edf197b7.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Russian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/25/20151225224352974572_71.jpg" group-title="Sport",[BD]diema sport hd
+https://epg.pw/stream/5309cf82d0ad80bfbe972b23f6af34715e6560f96a48181e3df4f497465de7ae.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Russian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/25/20151225224352974572_71.jpg" group-title="Sport",[BD]diema sport 2 
 https://epg.pw/stream/83b3d554738f04e7237c513314a6236413ee05d6d088b9869e725f6d7436612b.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Israel" tvg-language="Russian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/25/20151225224352974572_71.jpg" group-title="Sport",[BD]diema sport
@@ -191,6 +209,10 @@ https://epg.pw/stream/b7774382c1e767ee591935be734b9a791e7a1e2f1f7e0845bbbf224293
 https://epg.pw/stream/d2d93f1e9982ab2c111e71f589310e2708e5c9aa057a23b3d1e7927819a7a557.m3u8
 #EXTINF:-1 tvg-id="3748" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/07/20170707234256515721_56.png" group-title="Sport",[HD]bein sport hd 1
 https://epg.pw/stream/2fc3306a06f4fc4d0aeccaf6a5385d8be1b4c57252afabfe2af866ec708c9d88.ctv
+#EXTINF:-1 tvg-id="3748" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/07/20170707234256515721_56.png" group-title="Sport",[BD]tvp sport hd+@@1
+https://epg.pw/stream/65f5fef81b8083a8f1d333b5d50a964496b3e8d95cb78b5b206184c01e3cacaa.ctv
+#EXTINF:-1 tvg-id="3748" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/07/20170707234256515721_56.png" group-title="Sport",[BD]tvp sport hd+
+https://epg.pw/stream/b599b9fe0aac607f3ca2fe4fb13dddb2a9395dfd990702ea57621247bfd9919c.ctv
 #EXTINF:-1 tvg-id="3748" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/07/20170707234256515721_56.png" group-title="Sport",[HD]DE: Dazn Sport 2 HD+@@1
 https://epg.pw/stream/e0a1bf98e4384e77e64c8ace5e2b51da91f9b39f4c1ab009c901aca5245959ed.ctv
 #EXTINF:-1 tvg-id="3748" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/07/20170707234256515721_56.png" group-title="Sport",[HD]DE: Dazn Sport HD+@@1
@@ -199,7 +221,7 @@ https://epg.pw/stream/2b9ee3d5f84759435971a966d434ba71aa382ada47ac47e6822f4deb3a
 https://epg.pw/stream/3c667d073f083a2119a26af47a62233e6ee1f16c0668881799b5d5d8604e3b99.ctv
 #EXTINF:-1 tvg-id="3748" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/07/20170707234256515721_56.png" group-title="Sport",[BD]RO: Digi Sport 4 HD@@1
 https://epg.pw/stream/ee6816311dbcdc82b133cd3ebee429a3e48bb6b411737a17ae35f7e6babfed45.ctv
-#EXTINF:-1 tvg-id="3748" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/07/20170707234256515721_56.png" group-title="Sport",[SD]RO: Digi Sport 1 HD@@1
+#EXTINF:-1 tvg-id="3748" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/07/20170707234256515721_56.png" group-title="Sport",[HD]RO: Digi Sport 1 HD@@1
 https://epg.pw/stream/51a5b550a0fbe44b13f211f0777ea4a2407c2803b03641f9e73648815ab08326.ctv
 #EXTINF:-1 tvg-id="3748" tvg-country="Israel" tvg-language="Hebrew" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/07/20170707234256515721_56.png" group-title="Sport",[HD]RO: Digi Sport 2 HD@@1
 https://epg.pw/stream/faf0bc393418d1765097ca2cd049ce0960740950402308fb10d99fd16fe40892.ctv
