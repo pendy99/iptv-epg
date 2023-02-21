@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Chinese" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/f7ceba7e365d1d9aeb8512ade980f857.jpg" group-title="Hot",[BD]China阿泡丶
 https://epg.pw/stream/3fbcbbb176697a0754699eee0de8350ff39b43b4180c9090275435b7c8f7fec6.ctv
+#EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/d8b5492da67eebf1d972b887e0156b57.png" group-title="Other",[BD]chn
+https://epg.pw/stream/b06d09f98abf1bc595f12617c3753b3108be2624086de4f9b5bf50f7fd1a9025.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/b03727da11c1dc9c75a9d38f4f80f776.png" group-title="Other",[HD]trend media@@1
 https://epg.pw/stream/95b162c4d12835756d46f870d89f70421742d80e31024632ca0e58b3360717ca.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/b03727da11c1dc9c75a9d38f4f80f776.png" group-title="Other",[HD]trend media
@@ -421,6 +423,8 @@ https://epg.pw/stream/de87833cd6f4cdc71532a1e0e3a579b8f40bd92b1694fad834253d656f
 https://epg.pw/stream/1a494aaaffa7f27d550e2270a9d2ddf9b5caa7fed45237f1d7504cfa1abbc7a4.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/12/16/large/20221216014452380617_19.png" group-title="Generic",[VGA]kbs world
 https://epg.pw/stream/edbe298f37492faa95766b41cb977fc8cdd0bb2cadc68b77afbeec678d3bf3a1.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/12/16/large/20221216014452380617_19.png" group-title="Generic",[HD]times now world
+https://epg.pw/stream/cccd12beececc3995e35eb11cdcc80bec3238a1961e18630ec3abc0e3f30e069.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/12/16/large/20221216014452380617_19.png" group-title="Generic",[HD]KBS World (720p)
 https://epg.pw/stream/88434ff7f64421fd3f23826453d1942c3abfa79816bb83fa431ad755ccb18dfb.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/12/16/large/20221216014452380617_19.png" group-title="Generic",[HD]KBS World@@2
@@ -639,7 +643,7 @@ https://epg.pw/stream/6c9094147d14c0d79c4a0095ab4cb1938ba03cb5f958cab76def49e48d
 https://epg.pw/stream/3730215f40a35e778214c68880328aac549453f8f34df80ca8664e26fdc127cf.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/18/20170218011957339922_43.jpg" group-title="Movie",[VGA]70號[853*480]
 https://epg.pw/stream/1169c6081dd0359d17a5b12231f41428128ff91372996b1f79ba1ca874a63a4f.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/18/20170218011957339922_43.jpg" group-title="Movie",[SD]70s Cinema
+#EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/18/20170218011957339922_43.jpg" group-title="Movie",[HD]70s Cinema
 https://epg.pw/stream/fed94e7379e000c800b0d806c1937a80bd2ae7afa0a52d1b3114b284bae55fdb.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/12/20/large/20221220154141128112_12.jpg" group-title="Generic",[VGA]gcn
 https://epg.pw/stream/5ff83d0157669a7df3a37941ad4e71aa9f3314de7c88c193c5c7e3173ac440c2.m3u8
