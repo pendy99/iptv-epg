@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<tv date="20230221051003 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_TH.xml">
+<tv date="20230222051002 +0000" generator-info-name="epg.pw" generator-info-url="https://epg.pw" source-info-name="FREE EPG" source-info-url="https://epg.pw/xmltv/epg_TH.xml">
   <channel id="64001">
     <display-name lang="TH">TrueID Volleyball</display-name>
   </channel>
@@ -12,65 +12,17 @@
   <channel id="63829">
     <display-name lang="TH">ช่อง 5</display-name>
   </channel>
-  <channel id="63830">
-    <display-name lang="TH">สถานีโทรทัศน์เพื่อการท่องเที่ยวและกีฬา</display-name>
-  </channel>
   <channel id="63832">
     <display-name lang="TH">ทีเอ็นเอ็น 16</display-name>
-  </channel>
-  <channel id="63833">
-    <display-name lang="TH">เจเคเอ็น 18</display-name>
-  </channel>
-  <channel id="63834">
-    <display-name lang="TH">เนชั่น ทีวี</display-name>
-  </channel>
-  <channel id="63835">
-    <display-name lang="TH">เวิร์คพอยท์ ทีวี</display-name>
   </channel>
   <channel id="63836">
     <display-name lang="TH">ทรูโฟร์ยู</display-name>
   </channel>
-  <channel id="63837">
-    <display-name lang="TH">จีเอ็มเอ็ม 25</display-name>
-  </channel>
-  <channel id="63838">
-    <display-name lang="TH">ช่อง 8</display-name>
-  </channel>
-  <channel id="63839">
-    <display-name lang="TH">โมโน 29</display-name>
-  </channel>
-  <channel id="63840">
-    <display-name lang="TH">9 เอ็มคอต HD</display-name>
-  </channel>
-  <channel id="63841">
-    <display-name lang="TH">วัน HD</display-name>
-  </channel>
-  <channel id="63842">
-    <display-name lang="TH">ไทยรัฐ ทีวี HD</display-name>
-  </channel>
-  <channel id="63843">
-    <display-name lang="TH">ช่อง 3 HD</display-name>
-  </channel>
-  <channel id="63844">
-    <display-name lang="TH">อมรินทร์ HD</display-name>
-  </channel>
-  <channel id="63845">
-    <display-name lang="TH">ช่อง 7HD</display-name>
-  </channel>
-  <channel id="63846">
-    <display-name lang="TH">พีพีทีวี HD</display-name>
-  </channel>
   <channel id="63847">
     <display-name lang="TH">Rama Channel</display-name>
   </channel>
-  <channel id="63848">
-    <display-name lang="TH">True Shopping</display-name>
-  </channel>
   <channel id="63851">
     <display-name lang="TH">ทรู ปลูกปัญญา</display-name>
-  </channel>
-  <channel id="63852">
-    <display-name lang="TH">True Select</display-name>
   </channel>
   <channel id="63853">
     <display-name lang="TH">Warner TV</display-name>
@@ -327,11 +279,4 @@
   <channel id="63997">
     <display-name lang="TH">เอ็นเอฟแอล แอนด์ เอ็นบีเอ ทีวี</display-name>
   </channel>
-  <programme channel="64001" start="20230221230000 +0000" stop="20230222000000 +0000">
-    <title lang="zh">เทปบันทึกการแข่งขัน Volleyball Thailand League 2022/23 (9.00-24.00)</title>
-    <date>20230221</date>
-    <audio>
-      <stereo>stereo</stereo>
-    </audio>
-  </programme>
 </tv>
