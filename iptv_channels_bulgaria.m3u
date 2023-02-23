@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/77612cefe7d091d9758320f2e00754a1.png" group-title="Generic",[BD]bnt world
-https://epg.pw/stream/4c47054a3aa4c6bf2df23c73c60ad81f88655ed2810d80d182c40078f80ef885.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/77612cefe7d091d9758320f2e00754a1.png" group-title="Generic",[BD]bnt world@@1
-https://epg.pw/stream/5c1431dc76284f0dc877663e58daf39e13837c3520cc7870ebea7b9141003dc5.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174730115192_27.png" group-title="Other",[VGA]TV7 Benevento (288p) [Not 24/7]
 https://epg.pw/stream/1619e1b22dc8823ad875b6f09aad21b37329633d8ed2b3839d3364454b5d5e99.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174730115192_27.png" group-title="Other",[SD]tv7 bordeaux (720p)
@@ -21,125 +17,37 @@ https://epg.pw/stream/c97853d242808192eaa35e77fa485de2e9660108c148f31572111ec032
 https://epg.pw/stream/ee984bb751b1331f2f0ad74be5bbb570d4d89b8de4c3525c4f8bd53bcedb45ac.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174730115192_27.png" group-title="Other",[BD]FUEL TV@@7
 https://epg.pw/stream/d76029c09cbfe8e34f78e53bab880cf776a670b29efde7ad3cdf9c514dbdd1ea.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174730115192_27.png" group-title="Other",[HD]Gusto TV@@7
-https://epg.pw/stream/1a1b4b15895e4634a6defe42d39148d75cb4661c0f79e79a116705566a8cb1ce.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174730115192_27.png" group-title="Other",[SD]tv7 colmar (576p)
-https://epg.pw/stream/b5eadc27e6b715b20876657e40ffded1a2b648003fa7f2b5f4dbff9c68fbfe71.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174730115192_27.png" group-title="Other",[HD]TV7 Bordeaux (720p)
-https://epg.pw/stream/b53b1c8488fa7e02b5cdb0672ed4fc892d929f227cd0a713d0aa2705c69afbab.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174730115192_27.png" group-title="Other",[BD]tv 7
-https://epg.pw/stream/32e167443aea00da7a5e011516f6d42857f3638988100f742a5e0e17ad8d30f9.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174730115192_27.png" group-title="Other",[BD]DLTV 7
-https://epg.pw/stream/39313b185079f0895c5aa880bedfa234f7963f674e74557f94f6bcdae3896a8e.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174730115192_27.png" group-title="Other",[SD]TV7 Colmar (576p)
-https://epg.pw/stream/6a30dd8d74a1ab3bf6f7d52f3f539b5a4334519b2d056260d518c753376fafad.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174730115192_27.png" group-title="Other",[BD]earth tv the world live 24/7
-https://epg.pw/stream/96045d03f1f32bf57ff3d4569c9d96060896b2e9b3226f03892709dd0aefe26a.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174730115192_27.png" group-title="Other",[BD]rocco tv 7/24
-https://epg.pw/stream/6cd8b3766061b93396ec88277fbcab21336d6f1c34223b6b9771983a51c0aa70.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174730115192_27.png" group-title="Other",[HD]tv 777
-https://epg.pw/stream/80bf980b603ac2951245c674e3d408cdf65769844480d1f51145f3c7d298438d.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174730115192_27.png" group-title="Other",[HD][芬兰]taevas tv 7 (720p)
-https://epg.pw/stream/cb870d314807c68ac5a54b48ccac18822d581bc892916753d0c37228ff6cb76f.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174730115192_27.png" group-title="Other",[BD]Fuel TV (1080p)@@7
-https://epg.pw/stream/debb74c5d72fd13c9f8d272d58cbdaafc2a5068f790eca5e175c12d8c331b91c.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174730115192_27.png" group-title="Other",[SD]tv7 benevento (288p) [not 24/7]
-https://epg.pw/stream/f7ec77631993d2cfbb0074342bf017af2dfcbe4167a3b725e6120c901b5fa2b5.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174730115192_27.png" group-title="Other",[HD][芬兰]himlen tv 7 (720p)
-https://epg.pw/stream/faaa1ddaac8b04ca0c7496ef8475d87c7206ee8a31b0e7cc1342dd3341a57dad.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174730115192_27.png" group-title="Other",[HD]Pluto TV Dogs 24/7 (720p)
-https://epg.pw/stream/cdf3a8499c1eebc93d45e86ded5d9a61dbcfa161c3499b9c7c48faf5d42c9c02.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103130558140428_30.jpg" group-title="Entertainment",[BD]bnt 1 hd
 https://epg.pw/stream/6ef56010d799d471e5c0c280fada9c011b7e730093a678762bf3f6b5814cdef6.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103130558140428_30.jpg" group-title="Entertainment",[BD]bnt 1 hd@@1
-https://epg.pw/stream/bdb4fec12bb073d938240b5f8c0434cbba9c3dca60baa256d40b42435d7bc79e.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103130626557363_55.jpg" group-title="Generic",[BD]bnt 2 hd
 https://epg.pw/stream/38739bc17dd5c3df0f609eee7e16724175d92418d8c9fdbbcbfec8b8491c68fd.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103130626557363_55.jpg" group-title="Generic",[BD]bnt 2 hd@@1
-https://epg.pw/stream/50871d0b668416aa9c9e90ef1fb68b9801162f0eaac051efc687b82841e62b3f.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103131210993255_27.jpg" group-title="Generic",[SD]btv@@5
 https://epg.pw/stream/7aeba3477cddcb3fc68717faa541b0346002af864f3ca126e027dec25fb5f8b4.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103131210993255_27.jpg" group-title="Generic",[HD]btv@@6
 https://epg.pw/stream/f4562148f2f690bc9c55f132b6ab593bdcfd7e00f09edafa1fc25aada299bf13.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103131210993255_27.jpg" group-title="Generic",[BD]btv@@3
-https://epg.pw/stream/5dce4be810bcacc0acbeb687e7a7598ae8c2d758ec76eef685c992cb39c9c6e0.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103131210993255_27.jpg" group-title="Generic",[BD]btv fhd
-https://epg.pw/stream/6d4cfcab311cc49a2760752c96fefc1028921787becbcb33e6457ad284d277c6.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103132214315686_88.jpg" group-title="Generic",[VGA]on air
 https://epg.pw/stream/a3289605bc1a732096f2e705547521a115c8301f792e3dd43892e7e6d3fe51d8.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103132214315686_88.jpg" group-title="Generic",[BD]bulgaria on air
-https://epg.pw/stream/afbd4829bbfb98a59f03eff1235f52d779383ad0b5a33fec354c8a763643a049.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103132214315686_88.jpg" group-title="Generic",[HD]bulgaria on air@@1
-https://epg.pw/stream/911b6c7bcb5742143f2350e7d57e41b08d7d5bff1e35976117c8e02424358fe6.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103135543539649_30.jpg" group-title="Entertainment",[VGA]V Pop2
-https://epg.pw/stream/3d48b7d4abaf7852dbd5f2c07b697eadb26a451e46b8a5f5606322493288f8a5.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103135543539649_30.jpg" group-title="Entertainment",[BD]pop
-https://epg.pw/stream/237e675a8103df47eb8cbd181bd7b7f9c25908fc7b38e87ddb983f6e6fbd7e82.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103135543539649_30.jpg" group-title="Entertainment",[SD]POP (East)
-https://epg.pw/stream/12e4f2862a52bb65173c7810565b3814a9fbf0e5522781120fc3aca3a30ebfee.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103135543539649_30.jpg" group-title="Entertainment",[VGA]V Pop2
-https://epg.pw/stream/92158d6da71f9c62fa32020d3a1eb411c97bab6a4d9fd37a66fc640886bf98fa.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103140018831970_23.jpg" group-title="Entertainment",[HD]tiankov orient folk hd+
 https://epg.pw/stream/c779899d5c33a168a85d9c6177a961fcdcde3b54a430f332fb2eab36a1634d96.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103140018831970_23.jpg" group-title="Entertainment",[HD]tiankov orient folk hd+@@1
-https://epg.pw/stream/8de3fd4ddb3b386004680589938e2b17066a89d99b8903a5685f30962022ba85.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103140018831970_23.jpg" group-title="Entertainment",[HD]tiankov folk hd+@@1
-https://epg.pw/stream/4e2b05f4d115721c2cb6b183563d7eacf232645c9b4f20d5520e091e924b242c.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103140018831970_23.jpg" group-title="Entertainment",[HD]tiankov folk hd+
-https://epg.pw/stream/03f72f7cdde30b26dfe1f786d41992c078149f394c338d46dc24bc63b5ae13f1.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103141653932790_37.jpg" group-title="Generic",[HD]magic@@1
-https://epg.pw/stream/0a467af1ab38c3d2c62116ce585137c203e5b6bc001a0b1302fae8db5d3ae556.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103143825698319_20.jpg" group-title="Generic",[BD]canal 13 la rioja@@2
 https://epg.pw/stream/1d6201d1504ba417583ae416d0dbf7fe1fbf1ec27836f3a0982db81dffe5fb07.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103143825698319_20.jpg" group-title="Generic",[BD]canal 13 la rioja
 https://epg.pw/stream/3702e0fee1a063d0f1be8c56b52fcff63b1ed5e3c8335e79f01e8ab477b98d74.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103143825698319_20.jpg" group-title="Generic",[SD]canal 3 burkinabe
-https://epg.pw/stream/fde115e9b00f8ff3e594b78dcfdc032b1ea40a84122143cc14d38a1d62ed41ef.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103144612142051_42.jpg" group-title="Documentary",[BD]this is bulgaria
 https://epg.pw/stream/975320236174274dcf97d0348789974c522c939de0ae908f1a75a15d76c3e25d.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103144612142051_42.jpg" group-title="Documentary",[HD]bulgaria 24 hd+
-https://epg.pw/stream/9a911fc7009bbd779b80bfbb1e0de9d1c11bf606e257b16e2f0b7a1df4831384.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103144612142051_42.jpg" group-title="Documentary",[HD]bulgaria 24 hd+@@1
-https://epg.pw/stream/479857bf2c484afd8b868919803988a17565c8d151076e4840a72581667df17c.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103144612142051_42.jpg" group-title="Documentary",[HD]this is bulgaria hd
-https://epg.pw/stream/6335138dda01da5c641c50f6dff186971dd6be9cfb9e2353daf36c4ef8ce409c.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103144612142051_42.jpg" group-title="Documentary",[BD]24h-larva
-https://epg.pw/stream/200e486ac5bfa417b2a515401985e7570a2f82fafc76cd2dec489ca75ba73e93.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103145330975952_80.jpg" group-title="Entertainment",[BD]kanal 6
 https://epg.pw/stream/c423206eb3f2a0bf1f94f46ef9807735eae388829845e219308756d80d1d5d84.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103145330975952_80.jpg" group-title="Entertainment",[BD]kanal 6 fhd
-https://epg.pw/stream/ca1289a919ad33213fbbc6f3e4e86a72e0d0921c37d6ca2b4241d669d6022045.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103145330975952_80.jpg" group-title="Entertainment",[BD]kanal 6 fhd@@1
-https://epg.pw/stream/980aa66860f2887144979aa20dde623369c159176f030f6513deef94a020e25a.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231043729397_81.png" group-title="Sport",[HD]ring hd
 https://epg.pw/stream/2173b30d2c899a0af1cb1ba8de8d61784241252c508db8e820b5967c097fd83d.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231333159255_82.png" group-title="Sport",[BD]sportska tv@@1
 https://epg.pw/stream/32efcc2bd155cc423994102e196528bd31e95e91c73c0bee40ab74b0248f60fa.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231333159255_82.png" group-title="Sport",[VGA]oriental tv
 https://epg.pw/stream/bc1e4c7000a12f4ba862341260a6c8feba6f1356b5468934b98d328f49a7060e.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231333159255_82.png" group-title="Sport",[BD]sportal hd@@1
-https://epg.pw/stream/48ad2c2e67c6a05d564e71a432cb10b24ed3eb586c0aee99fe9e7807249924b9.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231333159255_82.png" group-title="Sport",[HD]sportska tv
-https://epg.pw/stream/bd89db9178f1b066f6df3fa89089cf4ead52768185671f248b543735992ecf63.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231333159255_82.png" group-title="Sport",[BD]sportal hd
-https://epg.pw/stream/605e77a7dd68201a6d2ff147054616885a3a82dd2e0a31c25c286931383b1fff.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231333159255_82.png" group-title="Sport",[BD]sportska tv@@2
-https://epg.pw/stream/5b35d9a0cbfbd43b9b44e72aaee36644f080574b6cd66795f961aaa8fb0445a6.ctv
-#EXTINF:-1 tvg-id="7886" tvg-country="Bulgaria" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/06/20150206073018723316_85.png" group-title="Other",[HD]SCT
-https://epg.pw/stream/d4066169366d31df971ec6dc1e93bc34bd488821f53b6291ed7d3fca854e180e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174153925161_29.png" group-title="Entertainment",[HD]dstv
 https://epg.pw/stream/3ea9cd01bb73e9b079bfc828034145875f6daab3ba53c3d1d4505994625cad53.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174153925161_29.png" group-title="Entertainment",[BD]Dust
-https://epg.pw/stream/540b46726994b00cbf76623e723a9d7db0c835bcb72446376b90a4107de4b59e.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174153925161_29.png" group-title="Entertainment",[BD]DUST
-https://epg.pw/stream/5142c206d435b6c1aaa6a15f17872a9a0d036353783b68fb39d895f214cb748c.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174153925161_29.png" group-title="Entertainment",[BD]Dust
-https://epg.pw/stream/98bbf68b7a17fd3c31a90c27e890a654bf1a419d547825afe06d7e5faaf8751e.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174903138662_14.png" group-title="Entertainment",[BD]first channel hd
 https://epg.pw/stream/c1ad32e314652d31cc37d8c4be310b858ad4c3949b292189828425cb1021046f.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174903138662_14.png" group-title="Entertainment",[BD]first channel hd@@1
 https://epg.pw/stream/924f7ce28994c35220786ad122bd5fd96c7f294ce4e8c109c431c13f5d79730b.ctv
 #EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174903138662_14.png" group-title="Entertainment",[BD]MCN6 Music Channel (1080p) [Not 24/7]
 https://epg.pw/stream/4f60f6c451ad3cd7aa7adbb23f47c6d120f66e294758eee2c30fbf075fb98e66.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Bulgaria" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174903138662_14.png" group-title="Entertainment",[SD]mcn6 music channel (1080p) [not 24/7]
-https://epg.pw/stream/626fce510aeabebe2303fb913902a4197d6dec19ee6e575da73eaa55cb4b1e9d.m3u8
