@@ -1,15 +1,15 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-id="" tvg-country="El Salvador" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174627259915_46.png" group-title="Other",[BD]che★lfm tv
-https://epg.pw/stream/caa9836ded0967a8ba2e1d030296af5de6d672962576f41c73beb474a89b4cab.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="El Salvador" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174627259915_46.png" group-title="Other",[VGA]talim tv
-https://epg.pw/stream/5e46d1314977734989e0dde48c2a0f02080c9e3971fe85b0f8c9fee2826acde4.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="El Salvador" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174627259915_46.png" group-title="Other",[VGA]Elim TV
-https://epg.pw/stream/f343823b4f4299283b1a5cad8e92512a8f846d9805a710649a45c6606312f758.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="El Salvador" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174627259915_46.png" group-title="Other",[SD]elim tv
-https://epg.pw/stream/a465b7129ae6d2d559f6ec4b784c9314e668d46d19e1cf591a20166e15749bf2.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="El Salvador" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205537119999_50.png" group-title="Sport",[HD]canal 4 salto
+#EXTINF:-1 tvg-name="Canal 4 (El Salvador)" tvg-id="" tvg-country="El Salvador" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205537119999_50.png" group-title="Sport",[HD]canal 4 salto
 https://epg.pw/stream/58a1925da8fd83c4e1a03e80318be3665c83bf364757493de7c3d28ecde7bad3.ctv
-#EXTINF:-1 tvg-id="" tvg-country="El Salvador" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205537119999_50.png" group-title="Sport",[SD]tele el salvador
+#EXTINF:-1 tvg-name="Canal 4 (El Salvador)" tvg-id="" tvg-country="El Salvador" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205537119999_50.png" group-title="Sport",[SD]tele el salvador
 https://epg.pw/stream/cd7f54fedc14f4420b94486ffda687a8a16101b7ede44cd7fea3c14e85af5eea.ctv
-#EXTINF:-1 tvg-id="" tvg-country="El Salvador" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205537119999_50.png" group-title="Sport",[VGA]ni | canal 4
+#EXTINF:-1 tvg-name="Canal 4 (El Salvador)" tvg-id="" tvg-country="El Salvador" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205537119999_50.png" group-title="Sport",[VGA]ni | canal 4
 https://epg.pw/stream/4cf0c985d2d6674e6913b010a1354638be713c2b3604fda2054893bfe4cf568a.m3u8
+#EXTINF:-1 tvg-name="Elim TV" tvg-id="" tvg-country="El Salvador" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174627259915_46.png" group-title="Other",[BD]che★lfm tv[geo-blocked]
+https://epg.pw/stream/caa9836ded0967a8ba2e1d030296af5de6d672962576f41c73beb474a89b4cab.m3u8
+#EXTINF:-1 tvg-name="Elim TV" tvg-id="" tvg-country="El Salvador" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174627259915_46.png" group-title="Other",[VGA]talim tv[geo-blocked]
+https://epg.pw/stream/5e46d1314977734989e0dde48c2a0f02080c9e3971fe85b0f8c9fee2826acde4.m3u8
+#EXTINF:-1 tvg-name="Elim TV" tvg-id="" tvg-country="El Salvador" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174627259915_46.png" group-title="Other",[VGA]Elim TV[geo-blocked]
+https://epg.pw/stream/f343823b4f4299283b1a5cad8e92512a8f846d9805a710649a45c6606312f758.m3u8
+#EXTINF:-1 tvg-name="Elim TV" tvg-id="" tvg-country="El Salvador" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174627259915_46.png" group-title="Other",[SD]elim tv[geo-blocked]
+https://epg.pw/stream/a465b7129ae6d2d559f6ec4b784c9314e668d46d19e1cf591a20166e15749bf2.m3u8

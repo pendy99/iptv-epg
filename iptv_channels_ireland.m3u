@@ -1,21 +1,19 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-id="" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/12/27/large/20161227225415710049_47.png" group-title="Sport",[HD]setanta sports 1 hd @@2
-https://epg.pw/stream/b5f6a11825d025f89797276d1d03304cb794c1161cbc9af6a6a2fb7ca364de14.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/12/27/large/20161227225415710049_47.png" group-title="Sport",[HD]setanta sports 2 hd @@1
-https://epg.pw/stream/8b804ef18de9a29802695adcd006df488570cdec913cabe21605fee24cb3de43.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/12/27/large/20161227225415710049_47.png" group-title="Sport",[BD]setanta ukraine + 
-https://epg.pw/stream/6ec371669ab2733db8a89155e385e376b1776bc213457a781b233c5b5b9a6469.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/11/05/large/20151105171019689468_59.jpg" group-title="Generic",[VGA]irl★tg4
-https://epg.pw/stream/92c62c5966e99441f5bda3dad12d988d8e1a249bfa3c0b2285b9be6d3273cf8b.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/11/05/large/20151105171019689468_59.jpg" group-title="Generic",[HD]tg4
-https://epg.pw/stream/a8bce7fb71ac9a5f1ac2050fe34d25ce4e565fbbb77c9867f37047aea76580e2.m3u8
-#EXTINF:-1 tvg-id="6864" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/04/20151204224355589984_34.png" group-title="Sport",[BD]setanta sports ukraine
+#EXTINF:-1 tvg-name="SETANTA SPORTS+" tvg-id="6864" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/04/20151204224355589984_34.png" group-title="Sport",[BD]setanta sports ukraine[geo-blocked]
 https://epg.pw/stream/5fd7e33f3eb0a29626a5e7e43f1c9c7116b3ff15c5d948d08cf3d8c77929e7c4.m3u8
-#EXTINF:-1 tvg-id="6864" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/04/20151204224355589984_34.png" group-title="Sport",[BD]setanta sport 1 ru
-https://epg.pw/stream/abf0e3a69ad149f752079896996bb7d3e96aa0e595604f5f41bc705132b03ec6.ctv
-#EXTINF:-1 tvg-id="6864" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/04/20151204224355589984_34.png" group-title="Sport",[BD]setanta sports 2
+#EXTINF:-1 tvg-name="SETANTA SPORTS+" tvg-id="6864" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/04/20151204224355589984_34.png" group-title="Sport",[BD]setanta sports 2
 https://epg.pw/stream/603653ff20283e37bfaee0db4631dd893f7f850a55cc50bd0e054041bbc986eb.ctv
-#EXTINF:-1 tvg-id="6864" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/04/20151204224355589984_34.png" group-title="Sport",[BD]233 tnt sports hd
+#EXTINF:-1 tvg-name="SETANTA SPORTS+" tvg-id="6864" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/04/20151204224355589984_34.png" group-title="Sport",[BD]233 tnt sports hd[geo-blocked]
 https://epg.pw/stream/fa0339c98f2375ba8d3e125098de4bea104d69b303e41a0a0bbf56bc947d357a.ctv
-#EXTINF:-1 tvg-id="" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/13/20150713164056581987_20.jpg" group-title="Generic",[BD]RTV Slingeland (1080p) [Not 24/7]
+#EXTINF:-1 tvg-name="Setanta" tvg-id="" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/12/27/large/20161227225415710049_47.png" group-title="Sport",[HD]setanta sports 1 hd @@2[geo-blocked]
+https://epg.pw/stream/b5f6a11825d025f89797276d1d03304cb794c1161cbc9af6a6a2fb7ca364de14.m3u8
+#EXTINF:-1 tvg-name="Setanta" tvg-id="" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/12/27/large/20161227225415710049_47.png" group-title="Sport",[HD]setanta sports 2 hd @@1
+https://epg.pw/stream/8b804ef18de9a29802695adcd006df488570cdec913cabe21605fee24cb3de43.m3u8
+#EXTINF:-1 tvg-name="Setanta" tvg-id="" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2016/12/27/large/20161227225415710049_47.png" group-title="Sport",[BD]setanta ukraine + [geo-blocked]
+https://epg.pw/stream/6ec371669ab2733db8a89155e385e376b1776bc213457a781b233c5b5b9a6469.ctv
+#EXTINF:-1 tvg-name="TG4 Ireland" tvg-id="" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/11/05/large/20151105171019689468_59.jpg" group-title="Generic",[VGA]irl★tg4[geo-blocked]
+https://epg.pw/stream/92c62c5966e99441f5bda3dad12d988d8e1a249bfa3c0b2285b9be6d3273cf8b.m3u8
+#EXTINF:-1 tvg-name="TG4 Ireland" tvg-id="" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/11/05/large/20151105171019689468_59.jpg" group-title="Generic",[HD]tg4[geo-blocked]
+https://epg.pw/stream/a8bce7fb71ac9a5f1ac2050fe34d25ce4e565fbbb77c9867f37047aea76580e2.m3u8
+#EXTINF:-1 tvg-name="TV3 Ireland" tvg-id="" tvg-country="Ireland" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/13/20150713164056581987_20.jpg" group-title="Generic",[BD]RTV Slingeland (1080p) [Not 24/7]
 https://epg.pw/stream/41fd39e98bbd425b907b68d268352ff7ffa61ba9ee7245a4ae906a236faaedb1.m3u8

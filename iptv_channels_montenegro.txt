@@ -10,13 +10,16 @@
 #下載地址為https://epg.pw/app_download.html
 
 
-[HD]TVCG Parlamentarni,https://epg.pw/stream/927a4e0346504cfcdc3f67eb3384a0ca1c6e3de0457a4b3c47b731395658f2d5.m3u8
-[HD]TVCG Sat (720p) [Not 24/7],https://epg.pw/stream/7a7d270146b8cebf23ff395a055985034eac02a214cd92090d2f37a24ca1a570.m3u8
-[BD]tv costa@@1,https://epg.pw/stream/3f6f0860ec9a82ef3790daed9205aaa2b49155f4356f4426da404cb47569d4af.m3u8
-[HD]tv com santos,https://epg.pw/stream/618246c39b33e2e2e388699a5b8476523293df89ca056ad4cf34c4a07782de80.m3u8
-[BD]rtcg sat@@1,https://epg.pw/stream/5741c281cd8362c9ccc535d1b5a920a8120ca03570c7bfefb1f4af958802444d.ctv
-[HD]rtcg sat,https://epg.pw/stream/dbf85700fbeccab58be0c08783d6cec5bf413fe2d7afb0f951b91a7438d878f1.ctv
-[BD]rtcg 1@@1,https://epg.pw/stream/271719742e9e80cf459d5ebd7aa8049760519a6f913b81d4f95f3f945fcaae77.ctv
-[BD]rtcg 2,https://epg.pw/stream/1f1219a31e69f6dfe640a7be24f271e56ec0aeb4b592e145c6571e09af8ed7ca.ctv
-[HD]rtcg 2@@1,https://epg.pw/stream/45bb5f1e3f6f90d81861baee99752c417da0839d5e9aeca5f46c2325534d2f8a.ctv
-[BD]rtcg 1,https://epg.pw/stream/40ab8a9f1611741063f916a9cd5d281e1e345dc88a1136094f463db5efc03f35.ctv
+Generic,#genre#
+RTCG,https://epg.pw/stream/271719742e9e80cf459d5ebd7aa8049760519a6f913b81d4f95f3f945fcaae77.ctv
+RTCG,https://epg.pw/stream/1f1219a31e69f6dfe640a7be24f271e56ec0aeb4b592e145c6571e09af8ed7ca.ctv
+RTCG,https://epg.pw/stream/45bb5f1e3f6f90d81861baee99752c417da0839d5e9aeca5f46c2325534d2f8a.ctv
+RTCG,https://epg.pw/stream/40ab8a9f1611741063f916a9cd5d281e1e345dc88a1136094f463db5efc03f35.ctv
+News,#genre#
+RTCG SAT,https://epg.pw/stream/5741c281cd8362c9ccc535d1b5a920a8120ca03570c7bfefb1f4af958802444d.ctv
+RTCG SAT,https://epg.pw/stream/dbf85700fbeccab58be0c08783d6cec5bf413fe2d7afb0f951b91a7438d878f1.ctv
+TV_CG_SAT,https://epg.pw/stream/7a7d270146b8cebf23ff395a055985034eac02a214cd92090d2f37a24ca1a570.m3u8
+TV_CG_SAT,https://epg.pw/stream/3f6f0860ec9a82ef3790daed9205aaa2b49155f4356f4426da404cb47569d4af.m3u8
+TV_CG_SAT,https://epg.pw/stream/618246c39b33e2e2e388699a5b8476523293df89ca056ad4cf34c4a07782de80.m3u8
+Sport,#genre#
+TVCG 2,https://epg.pw/stream/927a4e0346504cfcdc3f67eb3384a0ca1c6e3de0457a4b3c47b731395658f2d5.m3u8
