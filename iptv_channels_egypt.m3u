@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-name="4G Cinema" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/04/20170204143146366121_23.jpg" group-title="Movie",[BD]cinema 34
-https://epg.pw/stream/da19eda31cca9ee2bf4afd5f07876df53b35ad74aa9d44484e9807bfb1cf7fe6.ctv
 #EXTINF:-1 tvg-name="4G Cinema" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/04/20170204143146366121_23.jpg" group-title="Movie",[BD]cine real@@4[geo-blocked]
 https://epg.pw/stream/b8f1b690957f43e20bec493d9f8032067292cff314f2f4e2aed03d6db111c39e.m3u8
 #EXTINF:-1 tvg-name="Aeon Alwatan TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175002294869_36.png" group-title="Entertainment",[SD]elwatania tv@@1
@@ -93,6 +91,8 @@ https://epg.pw/stream/abee93a4e487a6042c7c09c0d0098b94cfb96ed823d6725d603c191a4f
 https://epg.pw/stream/8bfb6d1dd1863739f38db57547e3790498a4d1dcdb3c9293147733523128c51b.ctv
 #EXTINF:-1 tvg-name="Al Masriyah Egypt" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613194505249874_53.png" group-title="Generic",[BD]egy-al-masryia@@1
 https://epg.pw/stream/00bb7f80f2aeda1d102caa25754a47f6ec555dc1f8f57de3a8f9da0005d5274f.ctv
+#EXTINF:-1 tvg-name="Al Minhaj" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/04/20170304202601393989_72.png" group-title="Generic",[HD]minhaj[geo-blocked]
+https://epg.pw/stream/4f675fe63bbef05a455393377bcd4d32d5bb3327b45292a623073430ff094e95.ctv
 #EXTINF:-1 tvg-name="Al Nada TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613194413900087_26.png" group-title="Generic",[BD]anandham tv
 rtmp://live.singamcloud.in:1935/anandhamtv/anandhamtv
 #EXTINF:-1 tvg-name="Al Nada TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613194413900087_26.png" group-title="Generic",[SD]allahdah tv@@1
@@ -111,10 +111,10 @@ https://epg.pw/stream/57a0969bee5416be09a288abd28ea50c75508f8bf52914495aea42e89f
 https://epg.pw/stream/4042a8ae27ab5897c2c5b109a3995fbb310d82a8ab765c5a02481ebf466a7ee8.ctv
 #EXTINF:-1 tvg-name="Al Nahar Cinema" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/06/20170306085624105794_57.jpg" group-title="Entertainment",[SD]al nahar one[geo-blocked]
 https://epg.pw/stream/f48d6d49c25a2bf49267bfa8ab5ca8903a3e3122f492b5030577b07098046ce6.ctv
-#EXTINF:-1 tvg-name="Al Nahar Drama" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613194159560009_70.png" group-title="Movie",[SD]eg: al nahar drama
-https://epg.pw/stream/3644464cdcf0c2db7132b17cef5630f50c8f89cf2f4b1ad1ab953343cafb7089.ctv
 #EXTINF:-1 tvg-name="Al Nas Channel" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613193358161285_85.png" group-title="Generic",[BD]hallmark channel hd
 https://epg.pw/stream/35d71e43bf4d9e056bfa3fcc326dc5e7521307e59e6698b7acecf64dbefec844.ctv
+#EXTINF:-1 tvg-name="Al Saeedah" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613193834189724_90.png" group-title="Generic",[HD]al saeedah ye
+https://epg.pw/stream/0ae3949d54b942d6fc249faa0d0225d2922c0668ce287f0344d0d321f77b868b.ctv
 #EXTINF:-1 tvg-name="Al fady TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/04/21/20170421060722776132_31.jpg" group-title="Other",[BD]alföld tv
 https://epg.pw/stream/0a3b5c6bb54dc87f7aafc4c52d605742cb4c8418d6e90c6976cad28ed074af1a.m3u8
 #EXTINF:-1 tvg-name="Al fady TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/04/21/20170421060722776132_31.jpg" group-title="Other",[VGA]Al Fady (Iraq)[geo-blocked]
@@ -149,8 +149,6 @@ https://epg.pw/stream/803454fa36057c57e343a1ac81f0ece2fc884a9add4e4f8a164ab1a054
 https://epg.pw/stream/fd8219ef0bb7767c867f14cb55278993e73fc53acf8e09516d889f877b3f30cc.ctv
 #EXTINF:-1 tvg-name="Alhayat" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613194611847812_42.png" group-title="Generic",[HD]egy-alhayat-hd
 https://epg.pw/stream/61940f67b0785b38f6764b5da4bd0191fe694198db4a569751308cb447b55202.ctv
-#EXTINF:-1 tvg-name="Alhayat" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613194611847812_42.png" group-title="Generic",[BD]hayat[geo-blocked]
-https://epg.pw/stream/1bd26d717109edccfbe5f9587dded8a4c2d0b9e3b7ed3b7d40698aff3b082791.ctv
 #EXTINF:-1 tvg-name="Alhayat" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613194611847812_42.png" group-title="Generic",[BD]alphacy
 https://epg.pw/stream/44a2f797d1ac55f3698132ed673b573ee9be50bd1ac247be7634e4742b6c2360.m3u8
 #EXTINF:-1 tvg-name="Alhayat" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613194611847812_42.png" group-title="Generic",[BD]alhayat egy@@1
@@ -169,7 +167,7 @@ https://epg.pw/stream/4be091bf516820c32731942796607273f47714536b6ef951d0027ce62e
 https://epg.pw/stream/550b3d00e82249fdf2d6ae1924b0e85fb311cb01b40eb984e739606ae21a1a1d.m3u8
 #EXTINF:-1 tvg-name="Aljalia TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/29/20161229032947391398_83.png" group-title="Generic",[HD]rajawali tv[geo-blocked]
 https://epg.pw/stream/5ad316716ee631fa125328ed559a63691ff44173741b3e12adebc0e339c892dd.ctv
-#EXTINF:-1 tvg-name="Aljalia TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/29/20161229032947391398_83.png" group-title="Generic",[HD]es: laligatv bar
+#EXTINF:-1 tvg-name="Aljalia TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/29/20161229032947391398_83.png" group-title="Generic",[BD]es: laligatv bar
 https://epg.pw/stream/0def37e3cd5683a24fa7aed38f048f7cce57dd442c44acc1c97550f3034c081d.ctv
 #EXTINF:-1 tvg-name="Alkeraza TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/04/21/20170421060335185196_77.jpg" group-title="Other",[HD]Alkerazatv (720p)
 https://epg.pw/stream/0e136bfcb20831d894fafd49c3e82b20edc4e28f81458c8e36771c4897dae909.m3u8
@@ -209,7 +207,7 @@ https://epg.pw/stream/ac761cb418c87a94c18a4237004b639fa3dee628eeb7543298c8481cd2
 https://epg.pw/stream/ea46241ad78168a4e96ae36e5271bfd0835e8855f1a35f9c51667c8798492070.ctv
 #EXTINF:-1 tvg-name="CBC" tvg-id="5898" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174234972704_14.png" group-title="Generic",[HD]cbc
 https://epg.pw/stream/ba2a742632484edabd434f3eca767da97b7ebf6a6e31b9a7864ac35e307220d6.m3u8
-#EXTINF:-1 tvg-name="CBC" tvg-id="5898" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174234972704_14.png" group-title="Generic",[HD]ca| cbc calgary hd[geo-blocked]
+#EXTINF:-1 tvg-name="CBC" tvg-id="5898" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174234972704_14.png" group-title="Generic",[SD]ca| cbc calgary hd[geo-blocked]
 https://epg.pw/stream/db6cff04af7a416f39897e62a1a0e90498075141f5168d82ebd8ea8906bd0ccd.ctv
 #EXTINF:-1 tvg-name="CBC" tvg-id="5898" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174234972704_14.png" group-title="Generic",[BD]cbc news highlights[geo-blocked]
 https://epg.pw/stream/fa0b6d3c75bd0cf51c9a22b1e2a77e40f13a541fcd9287a398e77fcb49f04a0f.m3u8
@@ -297,8 +295,6 @@ https://epg.pw/stream/309db8e0b132b70be253d47335ed99c995b161779f1637df2a5d1e204e
 https://epg.pw/stream/13b979ff539f63aa0c1a728b894c68327ee11f1bd0f5128a36591eeee390adf5.ctv
 #EXTINF:-1 tvg-name="Cairo Cinema TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717150134590078_26.jpg" group-title="Movie",[SD]cocina tv[geo-blocked]
 https://epg.pw/stream/86b96819133cfd7c54f0a23e649c7bea4852c6d505a137dd2ccf8129105afc77.m3u8
-#EXTINF:-1 tvg-name="Cairo Zaman" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/06/20170306080240484165_71.png" group-title="Movie",[HD]iron man[geo-blocked]
-https://epg.pw/stream/a30fff91e7b4ad696512ad1cfca7568e0e5d697f2a50394b8930a6ecfb6d4d4d.ctv
 #EXTINF:-1 tvg-name="Chr Koogi TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174032536888_55.png" group-title="Cartoon",[BD]koogi tv
 https://epg.pw/stream/edfe682e57afb322e6d2af15b87dd28c3e96e42b1077b6064b3be925217c7467.ctv
 #EXTINF:-1 tvg-name="Chr Koogi TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174032536888_55.png" group-title="Cartoon",[BD]koogi tv (1080p)
@@ -307,8 +303,6 @@ https://epg.pw/stream/9c3c4e1861aa871a7be1b44d5f3d1e9c1c0c2f3b6b596c0406fa939fc3
 https://epg.pw/stream/685e80a42036c4f9b112440690a6bb5e3d1ab0eada06312bc3af25f76e5ba2e0.ctv
 #EXTINF:-1 tvg-name="Chr Koogi TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174032536888_55.png" group-title="Cartoon",[BD]koogi hd
 https://epg.pw/stream/85afc3da6afbf570aa71996018f6445e5e471435cc35f70c6f0f5ac44c44c7cd.ctv
-#EXTINF:-1 tvg-name="Cima" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/19/20150619223044618851_88.png" group-title="Movie",[VGA]climax[geo-blocked]
-https://epg.pw/stream/62d6603abec5e88a71fb7c00bab019109f337136256e050ea76968270be53ea2.m3u8
 #EXTINF:-1 tvg-name="Cima" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/19/20150619223044618851_88.png" group-title="Movie",[VGA]cma
 https://epg.pw/stream/03d24b5baea4e2abfa8fddd50a782510bca08b10e4a4c68eaad1c64c5fbe5079.m3u8
 #EXTINF:-1 tvg-name="Cima TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821084315752774_58.png" group-title="Generic",[HD]ictimai tv1[geo-blocked]
@@ -375,7 +369,7 @@ https://epg.pw/stream/9c85187c8058147bf5ea9abea97d3abed9beb5b6746d101be5381d838a
 https://epg.pw/stream/c7bdaaf7d46c4cf5ac1d2c04bd5e6ecb141c54e53c3f315ad9f008a17aee80d4.ctv
 #EXTINF:-1 tvg-name="Dijlah" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174601163962_10.png" group-title="News",[BD]Dijlah (1080p)
 https://epg.pw/stream/f696a502f01bf1250d52c1c68003a5824cc04d9a0afdf1be6ac6a79dc59acd8e.m3u8
-#EXTINF:-1 tvg-name="Drama 2" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174532875254_91.png" group-title="Generic",[SD]es: movistar drama
+#EXTINF:-1 tvg-name="Drama 2" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174532875254_91.png" group-title="Generic",[HD]es: movistar drama
 https://epg.pw/stream/71ef3b9f4a78f95977c0c65bde36266b7569e229f26dce4e18b6b207df9dcf6f.ctv
 #EXTINF:-1 tvg-name="Drama 2" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174532875254_91.png" group-title="Generic",[VGA]ma: 2m hd
 https://epg.pw/stream/de788a2f4917887102eabac5256e4fcc491e772d4ec5c3bd7843452f7eebb5ad.ctv
@@ -393,13 +387,13 @@ https://epg.pw/stream/61f1d16bc76117f04b5ecdd6d4369d7336ac3be59d175f7c29657daa8b
 https://epg.pw/stream/8e2e9ffb2cb7cb6751c62dd61ecb446dd818063cf95462b467ef66339a4f30e5.m3u8
 #EXTINF:-1 tvg-name="Drama 2" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174532875254_91.png" group-title="Generic",[BD]movistar drama 1080p
 https://epg.pw/stream/e29dd3bae393161b20d1c352cfa8fe3a49d20f258ebc496abcc632ba78ebf932.ctv
-#EXTINF:-1 tvg-name="Drama 2" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174532875254_91.png" group-title="Generic",[HD]m+ drama 2 hd@@1[geo-blocked]
+#EXTINF:-1 tvg-name="Drama 2" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174532875254_91.png" group-title="Generic",[BD]m+ drama 2 hd@@1[geo-blocked]
 https://epg.pw/stream/4d5bfe209f77846756069f031c81370a2dc861958be8ae0542a856c3a6c20cbf.ctv
-#EXTINF:-1 tvg-name="Drama 2" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174532875254_91.png" group-title="Generic",[HD]m+ drama 2 hd@@2
+#EXTINF:-1 tvg-name="Drama 2" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174532875254_91.png" group-title="Generic",[BD]m+ drama 2 hd@@2
 https://epg.pw/stream/b01bf110f168a554332b6407e1d02858b3aef841b68a3abcad92faf77734fb90.ctv
 #EXTINF:-1 tvg-name="Drama 2" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174532875254_91.png" group-title="Generic",[HD]rts drama
 https://epg.pw/stream/be7c69809ee25dd4e0dd6416b40c372cf720c982996df4049c1aa215b47bcb0d.ctv
-#EXTINF:-1 tvg-name="Drama 2" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174532875254_91.png" group-title="Generic",[HD]m+ drama 2 full hd@@2
+#EXTINF:-1 tvg-name="Drama 2" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174532875254_91.png" group-title="Generic",[BD]m+ drama 2 full hd@@2
 https://epg.pw/stream/8192a71e53eaa8daec6eeb4fdf92d88361a9e0cf37dcd8b57d3b045dab6217e3.ctv
 #EXTINF:-1 tvg-name="Drama 2" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174532875254_91.png" group-title="Generic",[BD]novelas drama[geo-blocked]
 https://epg.pw/stream/9356001b8a490fcecac42d7e048ec786b0cd955675524c087a01f361382cae27.m3u8
@@ -427,7 +421,7 @@ https://epg.pw/stream/eb4b46dda55574642388b78c2e30138e200df4496694a346a423b37bec
 https://epg.pw/stream/243e5dd3874b9992e115d68bfcb2f86d0c8c0e47533e640b49201ba4b1e97142.ctv
 #EXTINF:-1 tvg-name="Drama 2" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174532875254_91.png" group-title="Generic",[HD]Drama Filme - Rakuten TV@@2[geo-blocked]
 https://epg.pw/stream/8720205add370899e4d703983d5d7758b5f8733746ed77b0052a38e0d79c18a9.m3u8
-#EXTINF:-1 tvg-name="Drama 2" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174532875254_91.png" group-title="Generic",[BD]es| m+ drama fhd[geo-blocked]
+#EXTINF:-1 tvg-name="Drama 2" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174532875254_91.png" group-title="Generic",[HD]es| m+ drama fhd[geo-blocked]
 https://epg.pw/stream/3bab48bec0979b567cbbfa67b6c452364f8cc9b79a8e7c62e1888f784452f3ba.ctv
 #EXTINF:-1 tvg-name="Drama 2" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174532875254_91.png" group-title="Generic",[BD]Film UA Drama[geo-blocked]
 https://epg.pw/stream/9a6aef189d49e4f70d831de45978bf9c0ad81960e396fc19edb021d3dfeb0c6b.ctv
@@ -491,6 +485,8 @@ https://epg.pw/stream/1395c223362ad07ff6d7325186f5414b9af1082b7cfa7e74c3500d830e
 https://epg.pw/stream/5611e7a93dde4236c4e0478c7db86a2b0867f3d3210f03251e0d06856963b0a5.ctv
 #EXTINF:-1 tvg-name="El Mehwar Drama" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613192459253066_83.png" group-title="Generic",[BD]drama hd[geo-blocked]
 https://epg.pw/stream/fdd3088116d1261d4133e165668e2a6d4683a9196d3e5d9da244f00a467189e4.ctv
+#EXTINF:-1 tvg-name="El Mehwar Drama" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613192459253066_83.png" group-title="Generic",[SD]drama@@1
+https://epg.pw/stream/666b2a0ab0c93ae15c81ca6d456dca35108f358cf6b27b48be35bfe10ded71b8.ctv
 #EXTINF:-1 tvg-name="Elmoled" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/18/20170218102516384013_24.jpg" group-title="Entertainment",[HD]elmoled  egy@@1
 https://epg.pw/stream/72da3b69661c6142f909d6dc9e1f3904935376eab3ace6fd64578bbfb9b57ab9.ctv
 #EXTINF:-1 tvg-name="Elmoled" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/18/20170218102516384013_24.jpg" group-title="Entertainment",[BD]Telemolise (1080p)[geo-blocked]
@@ -667,13 +663,15 @@ https://epg.pw/stream/1c130646aae5c8212cbbe846e3d9cd6ac3607bd878fe40d877b584ff5f
 https://epg.pw/stream/4f364369b32fd941f1e95c0e31ff8b84cb38819182e3c5b2ea8402676f1c225f.ctv
 #EXTINF:-1 tvg-name="MBC 2" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217224028561654_82.jpg" group-title="Generic",[VGA]imc@@2[geo-blocked]
 https://epg.pw/stream/2110f61860a0ee732b5b3755a2c034c2ce477f3c74b98517740489e660263053.ctv
-#EXTINF:-1 tvg-name="MBC 2" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217224028561654_82.jpg" group-title="Generic",[BD]mbc2 4k[geo-blocked]
+#EXTINF:-1 tvg-name="MBC 2" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217224028561654_82.jpg" group-title="Generic",[SD]mbc2 4k[geo-blocked]
 https://epg.pw/stream/ed7a59d5f4b8b0b53f0a3a433e916a7d5462ee337b9fcdbcbbc077f31cd2bed8.ctv
 #EXTINF:-1 tvg-name="MBC 2" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217224028561654_82.jpg" group-title="Generic",[BD]mbc 2 fhd
 https://epg.pw/stream/5f8e0f7fcd68f662a88ce329e99a535c9430bd1a600a39b58f87bc0da3260f63.ctv
 #EXTINF:-1 tvg-name="MBC 2" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217224028561654_82.jpg" group-title="Generic",[BD]mbc 2 ᴴᴰ@@1[geo-blocked]
 https://epg.pw/stream/07a569ed4897bba1cd77e18f1568a4629f4b02ff10be5b2fce73f12cba92ebdd.ctv
-#EXTINF:-1 tvg-name="MBC 2" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217224028561654_82.jpg" group-title="Generic",[BD]mbc 2 ᴴᴰ
+#EXTINF:-1 tvg-name="MBC 2" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217224028561654_82.jpg" group-title="Generic",[BD]mbc 2 hd
+https://epg.pw/stream/bf3178ccc7f711340e0f06e5111c197c1a4b6f7f9df19e1487bc1c2ae488341a.ctv
+#EXTINF:-1 tvg-name="MBC 2" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217224028561654_82.jpg" group-title="Generic",[SD]mbc 2 ᴴᴰ
 https://epg.pw/stream/fad04365ff92f7f7bfba86e2cd3c9e3617a6de8c72042b8a644e78cde2f6c60d.ctv
 #EXTINF:-1 tvg-name="MBC 2" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217224028561654_82.jpg" group-title="Generic",[SD]mbc 2 hd@@1
 https://epg.pw/stream/b40aa4a4e666e1b6391a10a89cdd75476c02e8a37bc1d2f31415b1c469b92519.ctv
@@ -701,7 +699,7 @@ https://epg.pw/stream/7a1578a3c24034571e5b1509c97712ace746cd19f7c1e678208b8ddbce
 https://epg.pw/stream/3185ab7e73ce244f33ea9fd58cd520b034aeb354fb1a06cbb1bd4022dcbf1df7.m3u8
 #EXTINF:-1 tvg-name="MBC 4" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217224104954012_96.jpg" group-title="Generic",[SD]ar-mbc-4
 https://epg.pw/stream/d66f4678a4065a9a8dbf07b7fa77186b3c6685a948ef6e0a7f2a5630f990f795.ctv
-#EXTINF:-1 tvg-name="MBC Action" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/MBC_ACTION.PNG" group-title="Movie",[BD]mbc action ᴴᴰ[geo-blocked]
+#EXTINF:-1 tvg-name="MBC Action" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/MBC_ACTION.PNG" group-title="Movie",[SD]mbc action ᴴᴰ[geo-blocked]
 https://epg.pw/stream/f4db6a9f2d8e12725f19888ca57175515802466da2cc8517e45c43c8dbdc6aa1.ctv
 #EXTINF:-1 tvg-name="MBC Action" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/MBC_ACTION.PNG" group-title="Movie",[HD]nbc dayton
 https://epg.pw/stream/9954648639722ad36724792c923999bf43f37255e4e0ab7ccf4f1d82f8ff064c.ctv
@@ -715,11 +713,11 @@ https://epg.pw/stream/dfc0da89e216d7d4fe9d82f426e85f9e08463e8d247fe5488c4ed0a677
 https://epg.pw/stream/39bf84bf20f46f609f805c30ee211b35ffabdc1ed4483fdc2effe1b83950cae6.ctv
 #EXTINF:-1 tvg-name="MBC Action" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/MBC_ACTION.PNG" group-title="Movie",[BD]abc dayton
 https://epg.pw/stream/d4977b6be32e47cf71e9a32565c8b83829d6769d7c99d269a652342f760d19ae.ctv
-#EXTINF:-1 tvg-name="MBC Action" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/MBC_ACTION.PNG" group-title="Movie",[BD]mbc action 4k
+#EXTINF:-1 tvg-name="MBC Action" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/MBC_ACTION.PNG" group-title="Movie",[SD]mbc action 4k
 https://epg.pw/stream/feef2e14a8c3735a8c026e677ebcacbe337c0625d1ee64fbbdff527a374ba612.ctv
 #EXTINF:-1 tvg-name="MBC Action" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/MBC_ACTION.PNG" group-title="Movie",[HD]m. accion sd
 https://epg.pw/stream/61b73fc8adbd91b8d2255dd3de8ac2bf32d232ed007c6b1b05294753dd8c6c22.ctv
-#EXTINF:-1 tvg-name="MBC Action" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/MBC_ACTION.PNG" group-title="Movie",[BD]mbc action ᴴᴰ@@1[geo-blocked]
+#EXTINF:-1 tvg-name="MBC Action" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/MBC_ACTION.PNG" group-title="Movie",[SD]mbc action ᴴᴰ@@1[geo-blocked]
 https://epg.pw/stream/58223509b5e0b9797d4a2a03bae2591fde14f41375ea2af7b4227e505a29ae0c.ctv
 #EXTINF:-1 tvg-name="MBC Action" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/img/logo/MBC_ACTION.PNG" group-title="Movie",[SD]ar-mbc-action@@1[geo-blocked]
 https://epg.pw/stream/e501fb34f6f3a819e47ea52feb5eb6d5f4f04c04476a509aa0d092629fa0d039.ctv
@@ -733,11 +731,11 @@ https://epg.pw/stream/ab9fa7d087b349d2eaf319df0af57b9b55bcc02b4ee97e2b9b6f137c9a
 https://epg.pw/stream/190d62cf051acc250875d3a82f4bdce32673433e9e247b60e7a7e8e48e918096.ctv
 #EXTINF:-1 tvg-name="MBC Bollywood" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217154216702584_21.jpg" group-title="Movie",[BD]mbc bollywood  4k
 https://epg.pw/stream/830b451a76dac23fe368d56e36cf173e324fb0f51252f1e723782676d196cf3b.ctv
-#EXTINF:-1 tvg-name="MBC Bollywood" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217154216702584_21.jpg" group-title="Movie",[BD]mbc bollywood ᴴᴰ@@1
+#EXTINF:-1 tvg-name="MBC Bollywood" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217154216702584_21.jpg" group-title="Movie",[HD]mbc bollywood ᴴᴰ@@1
 https://epg.pw/stream/c3bf835dbd0590e3c4f99bcad68b0585129e4bfcb890e67d45ac542aef6bca81.ctv
 #EXTINF:-1 tvg-name="MBC Bollywood" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217154216702584_21.jpg" group-title="Movie",[SD]ar-mbc-bollywood
 https://epg.pw/stream/12a9021ae1911960b386ea5d373d9a28ba2324f78f69a9b548eb498185b28047.ctv
-#EXTINF:-1 tvg-name="MBC Bollywood" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217154216702584_21.jpg" group-title="Movie",[BD]mbc bollywood ᴴᴰ
+#EXTINF:-1 tvg-name="MBC Bollywood" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217154216702584_21.jpg" group-title="Movie",[HD]mbc bollywood ᴴᴰ
 https://epg.pw/stream/c7e6154388380b8616b5b9d8a091bf4c7e326e37ea4f98152840864f07e89d4d.ctv
 #EXTINF:-1 tvg-name="MBC Bollywood" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217154216702584_21.jpg" group-title="Movie",[BD]MBC Bollywood (1080p) [Geo-blocked][geo-blocked]
 https://epg.pw/stream/07c544b9a3acc1d627b0db00db33c9360aa8c574f52514c2f408206ce01763db.m3u8
@@ -747,8 +745,6 @@ https://epg.pw/stream/ac48f35139b473006b0e8e7ff47d12a01a05b36d7afbc1c563ad198a97
 https://epg.pw/stream/98b019dd204ca6af58e2bc955dda9ac84874b694e18566282b7e0b7a17fc61b1.ctv
 #EXTINF:-1 tvg-name="MBC Masr" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217223906569045_86.jpg" group-title="Generic",[BD]mbc masr@@3
 https://epg.pw/stream/fab701d9c4f34d0c4d9ebccc1ae1e2f2df662b4b382fc5251b1ed2ed2dcfe755.ctv
-#EXTINF:-1 tvg-name="MBC Masr" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217223906569045_86.jpg" group-title="Generic",[HD]mbc max@@2[geo-blocked]
-https://epg.pw/stream/ab3826f26affdc4d56f9857e844b5060e3eb16bfceb401d0de8574816756d7c4.ctv
 #EXTINF:-1 tvg-name="MBC Masr" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217223906569045_86.jpg" group-title="Generic",[BD]mbc masr@@5
 https://epg.pw/stream/925d2cb00c9fd7bbd6bcac6acee9f894714248a2cc5c4d2d586ea67117a19cc2.ctv
 #EXTINF:-1 tvg-name="MBC Masr" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217223906569045_86.jpg" group-title="Generic",[BD]mbc max 4k@@2
@@ -775,7 +771,7 @@ https://epg.pw/stream/7b156ea8834b44f006a54fd2061e669de786922b93be322f4bf1c5f72b
 https://epg.pw/stream/b971a4b244b2e617aed18dad7ee8b8f7c0f75f99e7b5907e8d08bc871490fdc7.ctv
 #EXTINF:-1 tvg-name="MBC Masr 2" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217223933265568_25.jpg" group-title="Generic",[SD]ar-mbc-masr-2@@1
 https://epg.pw/stream/a634a283a600228c1cd724fa9f0b7c0126cfbcc7c4954e5b577e530f3a9c3ed3.ctv
-#EXTINF:-1 tvg-name="MBC Masr 2" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217223933265568_25.jpg" group-title="Generic",[BD]mbc max ᴴᴰ
+#EXTINF:-1 tvg-name="MBC Masr 2" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217223933265568_25.jpg" group-title="Generic",[HD]mbc max ᴴᴰ
 https://epg.pw/stream/ed389bf0c1927a959d02d35b59ad03a53ed8d5546c56ed5ae03a2c76d85668b9.ctv
 #EXTINF:-1 tvg-name="MBC Masr 2" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217223933265568_25.jpg" group-title="Generic",[SD]ar-mbc-masr-2
 https://epg.pw/stream/930f7dc1ca6636ec425812819eb3007660ad43b84b450298aaa48b0fcc1bcfc0.ctv
@@ -789,11 +785,13 @@ https://epg.pw/stream/35c532888eff146062cebf7c0cd66bde8d41f61d254aff04d0bea81f6c
 https://epg.pw/stream/9b962ab2ccf1cc4baff82fba6c524d3b1e290e5ae35a5e1bc4f43feac20ddd9a.ctv
 #EXTINF:-1 tvg-name="MBC Masr 2" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217223933265568_25.jpg" group-title="Generic",[BD]mbc masr 1 4k
 https://epg.pw/stream/9a742771e1066503fb4dd8ccc57bab101d2f83c2fa9c0ee8362786fa04aa89f9.ctv
+#EXTINF:-1 tvg-name="MBC Masr 2" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217223933265568_25.jpg" group-title="Generic",[HD]mbc masr 2 hd
+https://epg.pw/stream/522d6524b8dbe78051e67e8cbb42d156834e8e54ed7d1efe98406f19aba517a1.ctv
 #EXTINF:-1 tvg-name="MBC Masr 2" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217223933265568_25.jpg" group-title="Generic",[HD]mbc masr 1 ᴴᴰ
 https://epg.pw/stream/866380b3ce556f371487b01052b19d32a312666ce558e29b43dbda7d8011f6ce.ctv
 #EXTINF:-1 tvg-name="MBC Masr 2" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217223933265568_25.jpg" group-title="Generic",[BD]mbc masr hd +6h
 https://epg.pw/stream/bab9231acf64e3a6998cb46c93bf9080b892b2a74e4780b12f6b9e34ceb44637.ctv
-#EXTINF:-1 tvg-name="MBC Masr 2" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217223933265568_25.jpg" group-title="Generic",[BD]mbc max ᴴᴰ@@1
+#EXTINF:-1 tvg-name="MBC Masr 2" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217223933265568_25.jpg" group-title="Generic",[HD]mbc max ᴴᴰ@@1
 https://epg.pw/stream/637cb97306d8d29c600612f30f21b6661d8eee9b7645c9b51de3ddf902bd7ea7.ctv
 #EXTINF:-1 tvg-name="MBC Masr 2" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217223933265568_25.jpg" group-title="Generic",[BD]mbc masr 2@@2
 https://epg.pw/stream/eb62d9476b683e8f91bf3a85ac2b94186e1c6495047e67485bed8b39d798bb14.ctv
@@ -805,7 +803,7 @@ https://epg.pw/stream/d1cd58885714bf2abf1fd5269eccccabb153e5ee39ddd829ce14fd6793
 https://epg.pw/stream/76076b380ff0e3d2b7978280a3e6d76f239fed0a502a3dea49abc462a3be0444.ctv
 #EXTINF:-1 tvg-name="MBC Pro Sports 2" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217230739168711_19.jpg" group-title="Sport",[SD]pro 2
 https://epg.pw/stream/86ed7e6b7c5eba4edd9c48b569a3cd1a9e5a6a3776c5daba3e3cbac08e89a89a.ctv
-#EXTINF:-1 tvg-name="MBC Variety HD" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217231553123874_73.jpg" group-title="Entertainment",[HD]mbc plus variety
+#EXTINF:-1 tvg-name="MBC Variety HD" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217231553123874_73.jpg" group-title="Entertainment",[BD]mbc plus variety
 https://epg.pw/stream/21e47541b221cab3330696c873ae270c6d0443f496eed9525a5a665c1dc4aa88.ctv
 #EXTINF:-1 tvg-name="MBC Variety HD" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/12/17/large/20221217231553123874_73.jpg" group-title="Entertainment",[BD]mbc variety  ᴴᴰ
 https://epg.pw/stream/9a32c19b7fe8273505fc97d528cf979afcb7adc8958d6ba4091cc7763213ab97.ctv
@@ -885,6 +883,8 @@ https://epg.pw/stream/4558608029846ea52e4fd9632fcd2edd81657f3a8727cbec2485ccee2b
 https://epg.pw/stream/0843cefcb8efe41a5481f10c281bbcee66d4b9d137145b77b641dc4d3602c66c.ctv
 #EXTINF:-1 tvg-name="Nile Comedy" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613191359577598_78.png" group-title="Movie",[SD]egy-nile-comedy
 https://epg.pw/stream/dfb5600edf6cd25228f7def5f164fbd18821fe0012de8e71e9c793d59bcccfb8.ctv
+#EXTINF:-1 tvg-name="Nile Comedy" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613191359577598_78.png" group-title="Movie",[SD]nile comedy
+https://epg.pw/stream/44c0778dffd546cbdc59d5f9b5b9f53c39c04cb9e746a0f60a6a05d6f4ef63d4.ctv
 #EXTINF:-1 tvg-name="Nile Comedy" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613191359577598_78.png" group-title="Movie",[BD]cineman comedy hd[geo-blocked]
 https://epg.pw/stream/f7a19521eaf98ecda3d0104aeed4148340d59ed6ba75811ddd558711dcd88f7b.m3u8
 #EXTINF:-1 tvg-name="Nile Comedy" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613191359577598_78.png" group-title="Movie",[HD]nile comedy egy@@2
@@ -955,13 +955,15 @@ https://epg.pw/stream/cd7e35f5910537495dfa11fab2e97ee4fb183b6692f66d8577fa50cffa
 https://epg.pw/stream/e7ced780aec16b111fa90a42f71e39b431b0825aee8a2984610b584414e0507a.ctv
 #EXTINF:-1 tvg-name="Nile Sport" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613191007293605_38.png" group-title="Sport",[SD]nile sport@@1
 https://epg.pw/stream/9dbca6cd9b78012463f76b20954cd1230357a0e680628fddb70c10253d49348e.ctv
+#EXTINF:-1 tvg-name="Nile Sport" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613191007293605_38.png" group-title="Sport",[SD]nile sport
+https://epg.pw/stream/c920282f70cd92538e0f388f902cb52aa34d9f467a28bd743e7b7a4cc30235c8.ctv
 #EXTINF:-1 tvg-name="Nile Sport" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613191007293605_38.png" group-title="Sport",[SD]nile sport@@2
 https://epg.pw/stream/4752d5dfa0984312d3f9f5cf231c04adf18ce37544e0f998b2378afe0c48eaee.ctv
 #EXTINF:-1 tvg-name="Nile TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/20/20150720233444672900_31.jpg" group-title="Generic",[HD]nila tv
 https://epg.pw/stream/01bdf3ced966ac06c7351901c62010ff7d6d5cd542fe51973a138e84c853583e.m3u8
 #EXTINF:-1 tvg-name="Nile TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/20/20150720233444672900_31.jpg" group-title="Generic",[HD]nile tv egy@@2
 https://epg.pw/stream/26a128780b5a93159bf45226166381187d0fd0abeccad1dc78d0fc05f4f40cda.ctv
-#EXTINF:-1 tvg-name="Nile TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/20/20150720233444672900_31.jpg" group-title="Generic",[BD]niloya tv
+#EXTINF:-1 tvg-name="Nile TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/20/20150720233444672900_31.jpg" group-title="Generic",[HD]niloya tv
 https://epg.pw/stream/90e3adfaa46f5bc899d70416e45fb50c4538c12e1ba2a5f74af4141accd7ecbc.ctv
 #EXTINF:-1 tvg-name="Nile TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/20/20150720233444672900_31.jpg" group-title="Generic",[BD]nila tv@@1
 https://epg.pw/stream/017419cb1dc12894953744cc872b7cb4958cd6c36c07e9b322b2f50dc3b82584.m3u8
@@ -983,6 +985,8 @@ https://epg.pw/stream/50c1df6ee164b3f543fda60aadd635d61132a61c6eaa23d09cf6b963aa
 https://epg.pw/stream/0bd07380e997fd946b0617c06cad73567ea1f042f06f62ab9aff23aab03cfc13.ctv
 #EXTINF:-1 tvg-name="Nile TV International" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613190932262067_77.png" group-title="Generic",[VGA]jiangsu tv international[geo-blocked]
 https://epg.pw/stream/9276809b31a311b16a4d43302a2a98cb5c55e3805a916bc1264a46cf633e5cff.ctv
+#EXTINF:-1 tvg-name="NogoumFM TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/21/20170321171726012728_20.jpg" group-title="Entertainment",[SD]nogoum fm tv@@2
+https://epg.pw/stream/71125519a5d7b0e3917e02aaaa1eda1bd7326824f39d6732e4a7dc8efba23777.ctv
 #EXTINF:-1 tvg-name="ON Drama Egypt" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/04/30/20170430234054187945_89.jpg" group-title="Movie",[HD]on drama egy
 https://epg.pw/stream/1952f10be9c0331d6f89b03eddd05a9dbac839d2c976381b5e916df9dc475b40.ctv
 #EXTINF:-1 tvg-name="ON Drama Egypt" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/04/30/20170430234054187945_89.jpg" group-title="Movie",[SD]egy-on-drama-sd@@1
@@ -991,6 +995,8 @@ https://epg.pw/stream/63a504b225f9b52e09a6a830213149ff4a7e09638a567235e409b110df
 https://epg.pw/stream/b5dfda31564a90f6008d437b7dfd9fff6b76c268e6860c947f9a32220d66bef9.ctv
 #EXTINF:-1 tvg-name="ON Drama Egypt" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/04/30/20170430234054187945_89.jpg" group-title="Movie",[SD]egy-on-drama-sd
 https://epg.pw/stream/31a8cd88d4ce643b96b8f823aa15a9b66bb7999ab03c85b3062f8bfce9b72531.ctv
+#EXTINF:-1 tvg-name="ON Drama Egypt" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/04/30/20170430234054187945_89.jpg" group-title="Movie",[SD]on drama
+https://epg.pw/stream/1a12d295062e90c220eb3af4cdc3dfc06e2e8381ab6b204e3705568b5cc7cc1c.ctv
 #EXTINF:-1 tvg-name="ON Drama Egypt" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/04/30/20170430234054187945_89.jpg" group-title="Movie",[HD]on drama egy@@2
 https://epg.pw/stream/f5baef2f03aa7ae7f8f707535f95a3f5d4f2ac2515147e583ff438a5d36392d6.ctv
 #EXTINF:-1 tvg-name="ON E Egypt" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/06/20170306103827742167_79.png" group-title="Entertainment",[BD]on e egy[geo-blocked]
@@ -1001,7 +1007,7 @@ https://epg.pw/stream/63a5d870529f07b9baecfdddddc833e2134144d1afd2eeffd07803bfdc
 https://epg.pw/stream/b77746c6762b330163c72501f9859cae76db6fde245efaaaa251eebf3e3f1113.ctv
 #EXTINF:-1 tvg-name="ON E Egypt" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/06/20170306103827742167_79.png" group-title="Entertainment",[BD]on e egy@@2
 https://epg.pw/stream/e3c2dbec414cc83d00ea23b27b9509b91ef434d5a1fa2d17e848ea6058b145c8.ctv
-#EXTINF:-1 tvg-name="ON E HD" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/31/20170131103737909861_66.png" group-title="Sport",[BD]one e hevc
+#EXTINF:-1 tvg-name="ON E HD" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/31/20170131103737909861_66.png" group-title="Sport",[SD]one e hevc
 https://epg.pw/stream/c53519f5d074548374526be5c732df0eb5cec4a0fc7c23cc6cd8c1c61262af88.ctv
 #EXTINF:-1 tvg-name="ON Plus" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/31/20170131165125367318_70.png" group-title="Entertainment",[HD]joj plus@@1
 https://epg.pw/stream/cde627a4f50b8d4e401a8ab7afd6fb98d6812c9d50f679051be9e26f52fd81cc.ctv
@@ -1019,7 +1025,7 @@ https://epg.pw/stream/a5f7c816ae22cb1f7a2e352c71cd2bfab837e6debc196e12c8d2920693
 https://epg.pw/stream/213540792f1236cfd5904c3f1aed241dda2b5d8f173a4e83afb528e3096f1d30.ctv
 #EXTINF:-1 tvg-name="ON Sport*" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/31/20170131165019082985_49.png" group-title="Sport",[HD]on time sport 1 hd
 https://epg.pw/stream/0be204d82af2bf0befaf3fb73c33f7e636321bbd00268423d5edc1f8d0c7a149.ctv
-#EXTINF:-1 tvg-name="ON Sport*" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/31/20170131165019082985_49.png" group-title="Sport",[BD]oman sport hd@@1
+#EXTINF:-1 tvg-name="ON Sport*" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/31/20170131165019082985_49.png" group-title="Sport",[HD]oman sport hd@@1
 https://epg.pw/stream/31160c44d9e136f84723474a85f2104b764d3c7c4a2a0cc4f9e1b2e3db313f3d.ctv
 #EXTINF:-1 tvg-name="ON Sport*" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/31/20170131165019082985_49.png" group-title="Sport",[BD]oman tv sports hd@@2
 https://epg.pw/stream/e922b26201df27503066411b4a97a67f3878e4b81e5e0a89be618d1d58c2d944.ctv
@@ -1041,8 +1047,6 @@ https://epg.pw/stream/6f9c7909ac0ef82b337efb236ffd7d3ee016001b3def1e4196ecd2a44b
 https://epg.pw/stream/6adcbf7c63f82ea1641d29e6642ae70e6bcf9b8e8a4f639d56dbcdb939e23b90.m3u8
 #EXTINF:-1 tvg-name="ON TV" tvg-id="3615" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613190857893129_31.png" group-title="Generic",[SD]bonum tv
 https://epg.pw/stream/a7d05a9a6f26a921483ccfb1a79ca25db90c8f1605b72c8118c65eb2c0d9c6f3.ctv
-#EXTINF:-1 tvg-name="ON TV" tvg-id="3615" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613190857893129_31.png" group-title="Generic",[SD]pontv[geo-blocked]
-https://epg.pw/stream/aee5973f4e973409128960f9eedb1977d7d9582676533e169c5a5874799f527e.m3u8
 #EXTINF:-1 tvg-name="ON TV" tvg-id="3615" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613190857893129_31.png" group-title="Generic",[HD]on tv[geo-blocked]
 https://epg.pw/stream/57f11e578e2216bb225ff73a6f14ade017e2849b32c7dac292fd044b831da60c.m3u8
 #EXTINF:-1 tvg-name="ON TV" tvg-id="3615" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613190857893129_31.png" group-title="Generic",[SD]n tv (us eastern) (720p) [not 24/7][geo-blocked]
@@ -1095,6 +1099,8 @@ https://epg.pw/stream/0ecc1c3f2111e72e8ad4f99bf1f7f3f487899b5440c2c0b39a9a5f3af2
 https://epg.pw/stream/6fb07f7e259c6001ba3733cff17cafe4b059cd83d96a76d540e396109bf4ad72.m3u8
 #EXTINF:-1 tvg-name="Rahma TV" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722095419296564_46.jpg" group-title="Other",[SD]rhema tv@@1
 https://epg.pw/stream/abc9ec70d4261f62e55f96a78e5fcda37aacb78448ec705595f57c1f19d29d1a.ctv
+#EXTINF:-1 tvg-name="Rahma TV" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722095419296564_46.jpg" group-title="Other",[BD]raham tv
+https://epg.pw/stream/6f830c9da22ab71d24dc1b032d2f05d4ad640585aea56ffe83c268c27dc56177.ctv
 #EXTINF:-1 tvg-name="Rahma TV" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722095419296564_46.jpg" group-title="Other",[HD]al rahma egy@@1
 https://epg.pw/stream/4b412cbdab296fdfa9d7c3512013ea1c5ce073a02156354c5584abba8260e5d4.ctv
 #EXTINF:-1 tvg-name="Rahma TV" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722095419296564_46.jpg" group-title="Other",[VGA]rhema tv
@@ -1119,8 +1125,12 @@ https://epg.pw/stream/92aa8532cde0e1fd6b20eca47d6f4e0381ced5d9db3843fffa53965d94
 https://epg.pw/stream/a664ea08513103cbf6efd7e2f34c0db9755d139b01a0583446145af11d293791.ctv
 #EXTINF:-1 tvg-name="Rotana Cinema AR" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/24/20161224021619827621_73.jpg" group-title="Movie",[BD]rotana cinema ksa hd@@1
 https://epg.pw/stream/7b80c4d236ce48e096b403e7881b5fb7abd5c56a3c7e9b43825d41478d370521.ctv
+#EXTINF:-1 tvg-name="Sabaia TV" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/01/20150701123116424026_40.jpg" group-title="Entertainment",[HD]bahia tv@@2
+https://epg.pw/stream/287c63b68fa2e4aee8249eed052a5f270f9a1ebce0e20c11995462a2b307bf97.ctv
 #EXTINF:-1 tvg-name="Sabaia TV" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/01/20150701123116424026_40.jpg" group-title="Entertainment",[BD]surabaya tv[geo-blocked]
 https://epg.pw/stream/857542c2254b8975082fd03f3ff0312e65ae9fb8b18d9752af10901b6c3ea037.m3u8
+#EXTINF:-1 tvg-name="Sada El Balad Drama" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613185143566926_92.png" group-title="Movie",[SD]sada el balad drama@@1
+https://epg.pw/stream/45a9c6104b7f5e0a2360030c772b709414851bdb628149b73a9728909c9c23bd.ctv
 #EXTINF:-1 tvg-name="Safa TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/04/20170304195050637163_71.jpg" group-title="Generic",[BD]sofia tv@@1
 https://epg.pw/stream/887fd032194d8e8177d4e453cce0db633fa78629b4c66448509c18f810699808.ctv
 #EXTINF:-1 tvg-name="Safa TV" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/04/20170304195050637163_71.jpg" group-title="Generic",[SD]safa[geo-blocked]
@@ -1141,6 +1151,8 @@ https://epg.pw/stream/617fbd2deda383ea5ec7c684ec1f0512afac7cd7c94e54aaeff863c68c
 https://epg.pw/stream/dda231d2c3efc009c374fd67876cebeb2a8160687db1a0059268caa3a72422b7.ctv
 #EXTINF:-1 tvg-name="Ten" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/30/20150630203313450143_82.jpg" group-title="Generic",[SD]ten
 https://epg.pw/stream/142c75a942d578620da777a0c1b2aeae0cf78b1cf8cd95235a9f38048f530e80.ctv
+#EXTINF:-1 tvg-name="Ten" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/30/20150630203313450143_82.jpg" group-title="Generic",[SD]ten@@3[geo-blocked]
+https://epg.pw/stream/3c6145de7dd434eeac746a5f44e75ef276068c52a97f3bb7da25ab44eb69786b.ctv
 #EXTINF:-1 tvg-name="Ten" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/30/20150630203313450143_82.jpg" group-title="Generic",[HD]ten 1
 https://epg.pw/stream/8465e257c051a37efb7719dfd3a5dd388d70f9c36f4a23ad9636b341a7aca8ae.ctv
 #EXTINF:-1 tvg-name="Ten" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/30/20150630203313450143_82.jpg" group-title="Generic",[BD]ten 2
@@ -1153,6 +1165,8 @@ https://epg.pw/stream/0bc8010cd4af7c4225add687ff67133e6fb03f03304a9786d366782704
 https://epg.pw/stream/91d085d40d78c8889fd91adf0237b0e76572cb22f2e0f13924a1065455a4a98c.m3u8
 #EXTINF:-1 tvg-name="Ten" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/30/20150630203313450143_82.jpg" group-title="Generic",[HD]ten canal 10[geo-blocked]
 https://epg.pw/stream/f4483dded9a4fd63d88a7bda62f66e09cd07bb22986b39e3cc8a4c5fdf1d8480.m3u8
+#EXTINF:-1 tvg-name="Ten" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/30/20150630203313450143_82.jpg" group-title="Generic",[BD]teins
+https://epg.pw/stream/c4598a02a16b4adf06022ec2b4805ebf7281397e12e7ebe75f4eb185d8bbb3ad.ctv
 #EXTINF:-1 tvg-name="Ten" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/30/20150630203313450143_82.jpg" group-title="Generic",[HD]ten sd
 https://epg.pw/stream/bb6891c4147170cca6363a85f7b41b4bbc0427317e2a8278dc9d49c8e2da02fc.ctv
 #EXTINF:-1 tvg-name="Ten" tvg-id="" tvg-country="Egypt" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/30/20150630203313450143_82.jpg" group-title="Generic",[BD]ten sport 
@@ -1197,8 +1211,6 @@ https://epg.pw/stream/177b96d05631373f0b7c5457bebc75290bb143a8c90678d4463e066875
 https://epg.pw/stream/cb172a24490611d2704379250c1e34fa8797c7d7bd45b7c64edb5679cc6b7830.m3u8
 #EXTINF:-1 tvg-name="beit" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/12/26/20161226002600170280_12.jpg" group-title="Movie",[SD]3bit[geo-blocked]
 https://epg.pw/stream/2f896df4492d2dbd20a313cf92e2b4c682e1fd5ae0494a7cd85263fb844b7f00.m3u8
-#EXTINF:-1 tvg-name="jannah" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020738729486_28.png" group-title="Cartoon",[HD]hannah
-https://epg.pw/stream/2d9344ba569ea06fe026db17fe8746a73be237326fd5912375685cd3166a0d73.m3u8
 #EXTINF:-1 tvg-name="jannah" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020738729486_28.png" group-title="Cartoon",[SD]dzair jannah@@2
 https://epg.pw/stream/2db9ae4a6f36ccc56b358653db45d251bf9257fb4531019f042409bbeffaf50a.ctv
 #EXTINF:-1 tvg-name="jannah" tvg-id="" tvg-country="Egypt" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020738729486_28.png" group-title="Cartoon",[SD]dzair jannah@@1
