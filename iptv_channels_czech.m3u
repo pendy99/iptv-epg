@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="Doma TV" tvg-id="" tvg-country="Czech" tvg-language="Czech" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/14/20140914035901192437_94.jpg" group-title="Entertainment",[BD]domatv
 https://epg.pw/stream/aa0e76c8fcaefd413b5f856cb8e95ebe8ae7887dd9996878a2c4e7f8794a4f53.ctv
-#EXTINF:-1 tvg-name="Doma TV" tvg-id="" tvg-country="Czech" tvg-language="Czech" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/14/20140914035901192437_94.jpg" group-title="Entertainment",[BD]doma hd@@1
+#EXTINF:-1 tvg-name="Doma TV" tvg-id="" tvg-country="Czech" tvg-language="Czech" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/14/20140914035901192437_94.jpg" group-title="Entertainment",[HD]doma hd@@1
 https://epg.pw/stream/a1e7e7b274ca6e7fa5cc8af86a6c48749c39e1358f9a45847ed6f2c29ddaecb9.ctv
 #EXTINF:-1 tvg-name="Doma TV" tvg-id="" tvg-country="Czech" tvg-language="Czech" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/14/20140914035901192437_94.jpg" group-title="Entertainment",[BD]doma hd
 https://epg.pw/stream/573825513613d16fffb7d5c94dd89f8bb2059c055b65a934e7405804c7e113c3.ctv
@@ -17,13 +17,13 @@ https://epg.pw/stream/c01e42216a3a548eb8c16434c9c294679ac4f373a829e93eff2ee226f3
 https://epg.pw/stream/4728eee372ad12758d18c1daa7b0dd966018dd75b2a9c1f01830ad30c095fc6d.m3u8
 #EXTINF:-1 tvg-name="Relax TV Czech Republic" tvg-id="" tvg-country="Czech" tvg-language="Czech" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103170604952236_70.jpg" group-title="Generic",[BD]Republic TV[geo-blocked]
 https://epg.pw/stream/fb58b894641055995bc70c9c37ff5c415d538ae56c23634795c2578fc8300bb4.m3u8
-#EXTINF:-1 tvg-name="Rozhlas A Televízia Slovenska" tvg-id="" tvg-country="Czech" tvg-language="Slovenčina" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/14/20140614143713056178_11.png" group-title="Generic",[HD]a+@@3
+#EXTINF:-1 tvg-name="Rozhlas A Televízia Slovenska" tvg-id="" tvg-country="Czech" tvg-language="Slovenčina" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/14/20140614143713056178_11.png" group-title="Generic",[VGA]a+@@3
 https://epg.pw/stream/acbd0a0bc09cdad154e0f294b9d953af05ce3fecad5a519821814c2e59084498.m3u8
 #EXTINF:-1 tvg-name="TV Nove Zamky" tvg-id="" tvg-country="Czech" tvg-language="Slovenčina" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/14/20140614143742736403_44.png" group-title="Generic",[HD]nove
 https://epg.pw/stream/48400d71f23ebea58bb2891a74b728ff5733feed52616de0b1d45665d0a27511.ctv
 #EXTINF:-1 tvg-name="TV Nove Zamky" tvg-id="" tvg-country="Czech" tvg-language="Slovenčina" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/14/20140614143742736403_44.png" group-title="Generic",[SD]tv nové zámky
 https://epg.pw/stream/7eea48fb0807472bfc760de9520177ab07d80ed85d7a1c9621a49a322b9fc499.m3u8
-#EXTINF:-1 tvg-name="TV Nove Zamky" tvg-id="" tvg-country="Czech" tvg-language="Slovenčina" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/14/20140614143742736403_44.png" group-title="Generic",[BD]tv nova m[geo-blocked]
+#EXTINF:-1 tvg-name="TV Nove Zamky" tvg-id="" tvg-country="Czech" tvg-language="Slovenčina" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/14/20140614143742736403_44.png" group-title="Generic",[HD]tv nova m[geo-blocked]
 https://epg.pw/stream/40a391e6e91f6000981c279836228b9da57cfdae6782aec318e5a49d10778e75.ctv
 #EXTINF:-1 tvg-name="TVR Ruzinov" tvg-id="" tvg-country="Czech" tvg-language="Slovenčina" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/14/20140614143457219594_12.png" group-title="Generic",[VGA]tvr
 https://epg.pw/stream/5ba60b5f8e05d6b9f0dff7d95fdd544951668b5cbb9e1296417b40e2263999ba.m3u8
@@ -33,7 +33,7 @@ https://epg.pw/stream/5bf587d172cc6f19e7a4c03f13d53b75a51383274f3c14402a7ea40023
 https://epg.pw/stream/3a9cb501883e2dd033745a20f4fb425e5404f87375fc3675ac82da2c74e6b7b3.ctv
 #EXTINF:-1 tvg-name="Televize SPORT 5" tvg-id="" tvg-country="Czech" tvg-language="Czech" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231316212502_11.png" group-title="Sport",[BD]eleven sport 5@@1[geo-blocked]
 https://epg.pw/stream/87e774a54067ab99ccedfb5e5165fce7a410d8bb875221c9369bc423a552e90f.m3u8
-#EXTINF:-1 tvg-name="Televízia Pezinok" tvg-id="" tvg-country="Czech" tvg-language="Slovenčina" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/14/20140614144114781434_81.png" group-title="Generic",[HD]pannon televízió[geo-blocked]
+#EXTINF:-1 tvg-name="Televízia Pezinok" tvg-id="" tvg-country="Czech" tvg-language="Slovenčina" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/14/20140614144114781434_81.png" group-title="Generic",[VGA]pannon televízió[geo-blocked]
 https://epg.pw/stream/201e1afacdb6535339d1052bf589a1b839555c77747b3c7f3f9f3ddc9a6ecad7.m3u8
 #EXTINF:-1 tvg-name="Televízia Plus" tvg-id="" tvg-country="Czech" tvg-language="Slovenčina" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/14/20140614142739079332_38.png" group-title="Generic",[HD]telehit plus hd
 https://epg.pw/stream/9438311f0c76587a3f22f71ed8b8c059876a7dc3c4011c0f5ee7a063316eeab1.ctv
@@ -41,9 +41,9 @@ https://epg.pw/stream/9438311f0c76587a3f22f71ed8b8c059876a7dc3c4011c0f5ee7a06331
 https://epg.pw/stream/5b6a4447e5085738befc50557ba0f632321706b841e57b652c7842f0f23b7289.m3u8
 #EXTINF:-1 tvg-name="Televízia Reduta" tvg-id="" tvg-country="Czech" tvg-language="Slovenčina" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173959324805_76.png" group-title="Generic",[BD]duna televizio
 https://epg.pw/stream/6bf95293df77297e28ed0694f7d5b4acb83ce6cd6bae16a26fd5c25f973149a7.ctv
-#EXTINF:-1 tvg-name="Televízia Region" tvg-id="" tvg-country="Czech" tvg-language="Slovenčina" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/14/20140614143313258766_27.png" group-title="Generic",[SD]televideo regional[geo-blocked]
+#EXTINF:-1 tvg-name="Televízia Region" tvg-id="" tvg-country="Czech" tvg-language="Slovenčina" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/14/20140614143313258766_27.png" group-title="Generic",[VGA]televideo regional[geo-blocked]
 https://epg.pw/stream/83559ffbde15b3ff4c67e4de1fffa1eae756385e5ab8707a47a440ca84faa189.m3u8
-#EXTINF:-1 tvg-name="Televízia Region" tvg-id="" tvg-country="Czech" tvg-language="Slovenčina" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/14/20140614143313258766_27.png" group-title="Generic",[BD]debrecen televízió
+#EXTINF:-1 tvg-name="Televízia Region" tvg-id="" tvg-country="Czech" tvg-language="Slovenčina" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/14/20140614143313258766_27.png" group-title="Generic",[HD]debrecen televízió
 https://epg.pw/stream/d0b168ec0650288a131bfd63f023debc284913b48d033a44d2f46a0b5cb68cae.m3u8
 #EXTINF:-1 tvg-name="Televízia Senica" tvg-id="" tvg-country="Czech" tvg-language="Slovenčina" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/14/20140614144036622182_24.png" group-title="Generic",[VGA]Televizia OSEM (360p)[geo-blocked]
 https://epg.pw/stream/e1c0e8a5616c0cb174eab7e58c9ee1dfda6fb5b0b9a4afbc8f2f1fcea0e7f599.m3u8
