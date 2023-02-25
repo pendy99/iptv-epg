@@ -36,7 +36,7 @@ Htv[geo-blocked],https://epg.pw/stream/651a5b022cf97353187dcdc34e358149d6806cac8
 Htv,https://epg.pw/stream/f52153c40b6b0b411cae729634ebc870afd127aaaae7e6863191f7906279d4a7.m3u8
 Htv[geo-blocked],https://epg.pw/stream/46bcf3a44b911cf61212c646bae1a661ec1f804c622a84211ca12ee1f665793b.m3u8
 Htv,https://epg.pw/stream/addfc4dd55d0ed90656b826ce31aed490e6226e579710ac0f954ed0fe3b243ca.m3u8
-Htv,https://epg.pw/stream/e8dd5f4c0e75f3ada6ad7c34cfebb266d25ae1d05010ac1911958a9635d202a7.m3u8
+Htv[geo-blocked],https://epg.pw/stream/e8dd5f4c0e75f3ada6ad7c34cfebb266d25ae1d05010ac1911958a9635d202a7.m3u8
 Htv,https://epg.pw/stream/e4acb7d8a59819d737f0d92558a6d605fd55ea574c0dc2bc3011a60ead301193.m3u8
 Htv[geo-blocked],https://epg.pw/stream/4c094be952474f452cf23dcc6b4cc31b3b2e110b6eab821cde5aa20ecb04ae6d.m3u8
 Htv[geo-blocked],https://epg.pw/stream/11582555c2274e69bc3f66bd0405cf6dd7823c530f3a228d146b3392609f10a6.m3u8
@@ -71,7 +71,7 @@ Otv[geo-blocked],https://epg.pw/stream/25f3159ecfdbfa90e6267d5918785f6aa81391127
 Otv,https://epg.pw/stream/33f1df4164d6f8d393c58011d4878af4182f4f45a303c5b111a6665605226a4b.ctv
 Otv[geo-blocked],https://epg.pw/stream/6bbfcdda24340b796b3420eb6e733c060c1d4fa7b45b055ee618f2bc03446306.ctv
 Otv,https://epg.pw/stream/335ad55457f65e0279f6d108f9f4c0b9c917acb95524594eb50967ea2e48e289.ctv
-Otv,https://epg.pw/stream/c522de654ff4dcc94b07a64fc9e34c5201b620fb676b0699d8a45e3de19e5eb9.ctv
+Otv[geo-blocked],https://epg.pw/stream/c522de654ff4dcc94b07a64fc9e34c5201b620fb676b0699d8a45e3de19e5eb9.ctv
 SBN[geo-blocked],https://epg.pw/stream/d6c84ede6535137d8b243b4ccb54e665c1c633793cc059d1435486285597980d.m3u8
 SBN[geo-blocked],https://epg.pw/stream/64c68e7879b01e248cf21af4b8b985bd0a5d3b73d43deca5be6e28fe43be0156.m3u8
 SCH TV,https://epg.pw/stream/9cfb96b3a3334183b3748bcfeec42ef88d857220d9d72c1e180b2bd230ae710a.m3u8
@@ -187,7 +187,7 @@ BloomBerg,https://epg.pw/stream/452e8d68ce4918e1a19dfdde9553127e066907d3adc2df5e
 BloomBerg[geo-blocked],https://epg.pw/stream/e46b57c1cefa1ea7f5c57782458b88bcdff31f98cf77cc5dc16d2a60bb65c6c4.m3u8
 BloomBerg[geo-blocked],https://epg.pw/stream/fe1959443e87e20362c4764721713f07f0ddcf36d7ce5c32a3837e3a47cec2d1.m3u8
 BloomBerg[geo-blocked],https://epg.pw/stream/879254049733e4988d117ec1c95fb86cec796b9fbee4ba063ea252f4bb4c5806.ctv
-BloomBerg,https://epg.pw/stream/77ace07bb364111cc981c238208094d08277e2e3e1580371465dcad6e117b869.ctv
+BloomBerg[geo-blocked],https://epg.pw/stream/77ace07bb364111cc981c238208094d08277e2e3e1580371465dcad6e117b869.ctv
 BloomBerg[geo-blocked],https://epg.pw/stream/7e5773c77fc531b00efe2574a1b78c42b1ac537eeaa92168fc354cc3dc0cdeec.m3u8
 BloomBerg[geo-blocked],https://epg.pw/stream/abf45a2ec13b578d3764ea9d6e9eb785ffdbc94d36d41456bb7f35c7039f53ce.m3u8
 BloomBerg[geo-blocked],https://epg.pw/stream/0fc05b7fc36c4a20b0e26aea777cc7137cffb970dbfcf865d4c3505abcdf525e.m3u8
@@ -331,6 +331,7 @@ Other,#genre#
 ETV MN[geo-blocked],https://epg.pw/stream/281500e0d9fac7e4859005a4dfc06f976fd1a29623d2c3a4b31abe19b2ecbb04.m3u8
 ETV MN[geo-blocked],https://epg.pw/stream/8b137148daa2b8433be895601b6468315fa5067a5efa4e45a38eb357e27875c7.m3u8
 Sport,#genre#
+Sport BOX,https://epg.pw/stream/2305c233a3f6445dc0579536b076347f23ef6dbef1ce2b7291b567108c3b17d7.ctv
 Sport BOX,https://epg.pw/stream/8c89d83d0c60cd4e84686a830d967f4a3b5ad93375d7d02443b74de29f160ec1.ctv
 Sport BOX[geo-blocked],https://epg.pw/stream/d46b15ccb676fe6709d7d8f7d9eab734cf6bbc27ae8f9baac7fb999979fd037f.m3u8
 Sport BOX,https://epg.pw/stream/d0a74ea4659a6a914a293479a5f518fe35aee345aa22b6fcdba98ce16e55d8c1.ctv

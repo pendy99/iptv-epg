@@ -263,7 +263,8 @@ HITS,https://epg.pw/stream/d966e1833186748014d13a0af29071d9206a7acfaebafdbecb874
 HITS[geo-blocked],https://epg.pw/stream/471ead7963a07b199dd1d0b3bee3c517636bb9528f856c3ef3d9e5298124927a.m3u8
 HITS,https://epg.pw/stream/4b17551bb0b5523f46f535ad5805d75fb174c7fe15edd8b19f1b25c847a07256.ctv
 HITS,https://epg.pw/stream/62482dadc759803aada3725b677f0f842f8dc5323ef746cf98b01b1504099ab2.m3u8
-HITS,https://epg.pw/stream/dba17d0453b696bf69743d4840bee446bf8457d51dbf428fb47054e8cf3957f0.ctv
+HITS[geo-blocked],https://epg.pw/stream/dba17d0453b696bf69743d4840bee446bf8457d51dbf428fb47054e8cf3957f0.ctv
+HITS[geo-blocked],https://epg.pw/stream/2f9e2f0b97afe69b1e8841c44cddfb40c3ef0973b22737ba5715a308964d7c7e.ctv
 HITS[geo-blocked],https://epg.pw/stream/5579461ff245f4704794a8ac9e7a1432e49b53ec8fa56e64dd2c383d575fed9b.ctv
 HITS[geo-blocked],https://epg.pw/stream/6401e5098f2dadca6f1d3076390d09180f005fcbc58852503535e80c079fece5.ctv
 HITS[geo-blocked],https://epg.pw/stream/4252d4c482c91873cd3b05497e8f2afddd4872cc0eda3362fd08a4af3290521c.m3u8
@@ -291,7 +292,7 @@ KIX[geo-blocked],https://epg.pw/stream/41dbd8752516cdeaf33d87b4c5715d311f8ebf2a2
 KIX[geo-blocked],https://epg.pw/stream/6dc20f3f4070b641dc7f9626a35c489fd4dcec4e2350243285fd264921315957.ctv
 KIX[geo-blocked],https://epg.pw/stream/f07400f510384060de9e89803cfc2533d0ae7739900fcdae41f73f2c55d28348.m3u8
 KIX[geo-blocked],https://epg.pw/stream/42ca11c699a974ab60d17d904f0de71aea70841ad60dfa205846e62172df9f90.m3u8
-KIX,https://epg.pw/stream/e921b88ae1f0eac826eac32b1a8d4df9a4b2bae01d5f52778a3c544211eebc9e.ctv
+KIX[geo-blocked],https://epg.pw/stream/e921b88ae1f0eac826eac32b1a8d4df9a4b2bae01d5f52778a3c544211eebc9e.ctv
 KIX[geo-blocked],https://epg.pw/stream/d9ff0aad2c927148f6ca6f91d67441e836dab913ac5642c6764c65475e84b6c0.m3u8
 KIX[geo-blocked],https://epg.pw/stream/a6e9ce582a29d1b064d63068cc710f978d6377895e3eb3259d3b2a0213645194.ctv
 KIX,https://epg.pw/stream/df0b65dd6a8fe9e74b4b0cc365f0a38e20d285761df11048ee03898843b054df.m3u8
@@ -343,7 +344,7 @@ TLC World,https://epg.pw/stream/e262bb23dea2762fdddf87c6445cc4af52b3c9d50bfcac48
 Other,#genre#
 Afn[geo-blocked],https://epg.pw/stream/8fdafb35c46a1eeb846ccf86d5eb710cd3d663f22ac5693a003a25948fea3a38.ctv
 Afn[geo-blocked],https://epg.pw/stream/8571e0918476c5d2a3977e1e19b3458d8fc238046f3bb122e58eedbc6c245c5f.ctv
-Afn,https://epg.pw/stream/731528961d330843ea6b9b0d23541e27bd04f5f44ab2ed5dbd42534e85a69ef8.ctv
+Afn[geo-blocked],https://epg.pw/stream/731528961d330843ea6b9b0d23541e27bd04f5f44ab2ed5dbd42534e85a69ef8.ctv
 Afn[geo-blocked],https://epg.pw/stream/1516ff7ac35bb8f6c5cd9359ebedd060f1ce8d55aa49317a651e75909a4e089c.ctv
 BETV,https://epg.pw/stream/9bc1b50558b910aca7fe40ab0eef4b9acc347d7f789cd817b4242b85e3f50e63.m3u8
 BETV[geo-blocked],https://epg.pw/stream/c52b9755e56b9aea122a4031a6ef2e0b1cf005c5f658e45148686b27c9c82a93.m3u8
@@ -392,7 +393,9 @@ History Channel[geo-blocked],https://epg.pw/stream/4903e52eaad923dc69088db2921e7
 History Channel,https://epg.pw/stream/51ddb5eafb25fa25becbc1a259cc4f72476d6fcb0dce58eb6e93894cb461fa81.m3u8
 History Channel,https://epg.pw/stream/4e9a7e42c4e4c7daefe4e52017f9acbb3e373a24ca643f93307413e4cf89541b.ctv
 MOB TV,https://epg.pw/stream/66cad94d28a0a6ddc9ad3a747fa4fdfd9a2f07b787c79e4fc77caacf45051f2b.ctv
+MOB TV,https://epg.pw/stream/3caf0625ddc0abbd08c2374f3b1637c558c9e36ce495f7b69a364788bc7fb202.ctv
 Sport,#genre#
+HUB Sports2,https://epg.pw/stream/6f773318ff305027520c1c914feba70a7655ad3acd025d568a44d87fcdf41b01.ctv
 HUBPREMIER EFL 1[geo-blocked],https://epg.pw/stream/080ad2ce993a3e5561e0b48b47fecd0c4e47f30204d80406e69a61646c756067.ctv
 HUBPREMIER EFL 1,https://epg.pw/stream/dd1addd69ad2657f6de078ec165b906cbed19e2c4ef39a8311e9d97e4639271c.ctv
 HUBPREMIER EFL 1,https://epg.pw/stream/e2cf7832ac684c848de60b0bcd89dfaf058a13fca64f4449b9b33a94ea3720c0.m3u8
