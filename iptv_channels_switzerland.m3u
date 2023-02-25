@@ -1,8 +1,10 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="Canal Plus Family HD" tvg-id="" tvg-country="Switzerland" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722030153082830_60.png" group-title="Generic",[HD]canal+  family[geo-blocked]
 https://epg.pw/stream/a0815d92a14999cb1a353e05e5e67e2b6d8ec62947b26a14118985b37b18f734.ctv
-#EXTINF:-1 tvg-name="Canal Plus Family HD" tvg-id="" tvg-country="Switzerland" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722030153082830_60.png" group-title="Generic",[SD]canal+  family@@2
+#EXTINF:-1 tvg-name="Canal Plus Family HD" tvg-id="" tvg-country="Switzerland" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722030153082830_60.png" group-title="Generic",[HD]canal+  family@@2
 https://epg.pw/stream/fab95331f1fe1bae66821b4b7519993632729bd3bf9d464b6ca44148ec633302.ctv
+#EXTINF:-1 tvg-name="Canal Plus Family HD" tvg-id="" tvg-country="Switzerland" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722030153082830_60.png" group-title="Generic",[HD]canal+ family@@1
+https://epg.pw/stream/779f39da4f932a5ef1e01ff5269c0b3ba48e027585f3a63d2d420ff22b594055.ctv
 #EXTINF:-1 tvg-name="ROUGE TV" tvg-id="" tvg-country="Switzerland" tvg-language="French" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/c238851ba7450ae83e38b198b8056ca5.png" group-title="Entertainment",[HD]che★rouge tv[geo-blocked]
 https://epg.pw/stream/0b83309dde7d5f5a14088413b8cea0031b77cc36110eb3aabd8492fbe7f63305.m3u8
 #EXTINF:-1 tvg-name="ROUGE TV" tvg-id="" tvg-country="Switzerland" tvg-language="French" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/c238851ba7450ae83e38b198b8056ca5.png" group-title="Entertainment",[HD]baton rouge[geo-blocked]
@@ -19,7 +21,7 @@ https://epg.pw/stream/29ba95664491feca18653622ebc249325f1179196cc9c1c81b59630bae
 https://epg.pw/stream/191d4098b19eaa21fe264d6fd2cffb618aedae86ce8a488c83dd8babad6fa566.m3u8
 #EXTINF:-1 tvg-name="RSI La1 HD" tvg-id="" tvg-country="Switzerland" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2015/11/23/large/20151123210111725196_57.jpg" group-title="Generic",[HD]it| rsi la 2 hd[geo-blocked]
 https://epg.pw/stream/a4779c71ddceccdac2762a39744bcbb0a35cd9e6fb268f85a5bd62295f8aa662.ctv
-#EXTINF:-1 tvg-name="RSI La2 HD Italia" tvg-id="" tvg-country="Switzerland" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2015/11/23/large/20151123210607710700_74.jpg" group-title="Generic",[HD]rsi la2[geo-blocked]
+#EXTINF:-1 tvg-name="RSI La2 HD Italia" tvg-id="" tvg-country="Switzerland" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2015/11/23/large/20151123210607710700_74.jpg" group-title="Generic",[BD]rsi la2[geo-blocked]
 https://epg.pw/stream/43e9c3bb82d391bab26f7feda3a506d8a0a6873e54b7ab14ac57a4eea65c7de5.ctv
 #EXTINF:-1 tvg-name="RTS UN HD" tvg-id="52122" tvg-country="Switzerland" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/22/20150722100250936074_80.png" group-title="Generic",[HD]rts un hd
 https://epg.pw/stream/ce4ccb8fa1a18cc0046ca2d7d790e3af6a76b8b06487d1acaa3b79bbd631bf4a.ctv
