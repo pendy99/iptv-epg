@@ -73,7 +73,7 @@ https://epg.pw/stream/32b0e13d90de8c39938d10715890c0f903659f0b523591eaf5de4876a1
 https://epg.pw/stream/7958406fbbd45d456090598e607a58b6f646ba45bcf010dbeb25b23a3522814b.m3u8
 #EXTINF:-1 tvg-name="DeA Kids" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2022/04/19/large/20220419004706411644_27.jpg" group-title="Cartoon",[SD]dei kids
 https://epg.pw/stream/11460534caf6c922ff20de9ea49869cc18ee23b54fbdd6590cc1bff77ae837af.m3u8
-#EXTINF:-1 tvg-name="Discovery  (IT)" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2020/06/26/large/20200626210457074609_96.png" group-title="Generic",[HD]discovery theater sd
+#EXTINF:-1 tvg-name="Discovery  (IT)" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2020/06/26/large/20200626210457074609_96.png" group-title="Generic",[BD]discovery theater sd
 https://epg.pw/stream/ca3140518be8c80e2eaadbcba762920e8388ab569b06c20f0d2f5b002bedb47c.ctv
 #EXTINF:-1 tvg-name="Discovery  (IT)" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2020/06/26/large/20200626210457074609_96.png" group-title="Generic",[BD]usa | discovery theater[geo-blocked]
 https://epg.pw/stream/f7986ad31a22edae4d915b1072a4725019dba4b293d4f2dc196b17e2592ca38b.m3u8
@@ -229,9 +229,9 @@ https://epg.pw/stream/9f19d9cba1b11fb95c6cd7c2dc9f67335aef36e6726f58b7555dbb60e4
 https://epg.pw/stream/4f2278ee05cbc55ee3491fee8ee571b6fb7abaf07a2302f80f12f2a469a38fb6.ctv
 #EXTINF:-1 tvg-name="Premium Crime Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2015/11/25/large/20151125182159772082_68.jpg" group-title="Movie",[HD]law & crime[geo-blocked]
 https://epg.pw/stream/a319b27b8f67b341e07ef10037a7f5064d9c2d3f706adb29f83ef545d85aacd4.m3u8
-#EXTINF:-1 tvg-name="Premium Extra 1 Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2015/11/25/large/20151125190445207376_58.jpg" group-title="Entertainment",[HD]bein premium 1sd
+#EXTINF:-1 tvg-name="Premium Extra 1 Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2015/11/25/large/20151125190445207376_58.jpg" group-title="Entertainment",[SD]bein premium 1sd
 https://epg.pw/stream/c55a3f555016755bf8bd3b3b1de1cea850d92e2145eaca9acbc38f2fc9df5b12.ctv
-#EXTINF:-1 tvg-name="Premium Extra 1 Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2015/11/25/large/20151125190445207376_58.jpg" group-title="Entertainment",[VGA](bn-hd) bein premium 1hd
+#EXTINF:-1 tvg-name="Premium Extra 1 Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2015/11/25/large/20151125190445207376_58.jpg" group-title="Entertainment",[SD](bn-hd) bein premium 1hd
 https://epg.pw/stream/2588a07011c2325ad86178356c8974a53efb1bc80fec00b00f075dd89d5de63e.ctv
 #EXTINF:-1 tvg-name="Premium Extra 1 Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2015/11/25/large/20151125190445207376_58.jpg" group-title="Entertainment",[HD]bein 1 premium
 https://epg.pw/stream/e71be4d8d8c3a9897ee677bec7a327a174e9b9c948741b9a2e71d488719810ff.ctv
@@ -351,7 +351,9 @@ https://epg.pw/stream/aeb54de2acaa965cdc8eb58e53bed5fb6b3be2a0a0803c6a24bc7b0793
 https://epg.pw/stream/aa98a32d372a3fddce93df915312712da7e3d36c9e0235af0739117984b164b2.m3u8
 #EXTINF:-1 tvg-name="Rai Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2019/01/16/large/20190116223706790494_26.PNG" group-title="Generic",[BD]rai italia hq
 https://epg.pw/stream/2357b378a0198fe85b651c5976157540ad7ca929a979c5ec2be1cc2a4787a0d5.ctv
-#EXTINF:-1 tvg-name="Rai Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2019/01/16/large/20190116223706790494_26.PNG" group-title="Generic",[SD]rai italia
+#EXTINF:-1 tvg-name="Rai Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2019/01/16/large/20190116223706790494_26.PNG" group-title="Generic",[HD]rai italia@@1
+https://epg.pw/stream/ea93e1c25a406349a3d2c6b30ac30e208088e5768ebb26f305e4e796ecd7b487.ctv
+#EXTINF:-1 tvg-name="Rai Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2019/01/16/large/20190116223706790494_26.PNG" group-title="Generic",[BD]rai italia
 https://epg.pw/stream/4239d5922c5d675d68416dd3102f75e37ca9e762bc4c8559c2a743feed929f67.ctv
 #EXTINF:-1 tvg-name="Rai Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2019/01/16/large/20190116223706790494_26.PNG" group-title="Generic",[VGA]RAI Italia Asia (576p)[geo-blocked]
 https://epg.pw/stream/1d52d2772ea3cec7658048f6fa72c96d6012626496ada3b22463e7197d7ff432.m3u8
@@ -415,17 +417,17 @@ https://epg.pw/stream/cc5a2b245c00c1769b529b487bb339202f6541fbe74b2411bf6a9d3daf
 https://epg.pw/stream/1e4b2aeaa4684d6230a3e2414825de8796b27ba011ff5281b0864beda96a7b5a.ctv
 #EXTINF:-1 tvg-name="Sky Family HD Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127172944421531_11.jpg" group-title="Movie",[HD]cl | mx family
 https://epg.pw/stream/3cb65050941e3ef959fe075919a090ed48d7c822b3a3c5e302b52e4cb2e91c0c.ctv
-#EXTINF:-1 tvg-name="Sky Moto GP HD Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127180831202748_60.jpg" group-title="Sport",[BD]it| sky moto gp hd[geo-blocked]
+#EXTINF:-1 tvg-name="Sky Moto GP HD Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127180831202748_60.jpg" group-title="Sport",[HD]it| sky moto gp hd[geo-blocked]
 https://epg.pw/stream/25c6ff3cb24098929b7afb17f0f71b1efda0fbc1edb789d9ab9554a208eeff35.ctv
 #EXTINF:-1 tvg-name="Sky Passion HD Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127171958037445_51.jpg" group-title="Movie",[HD]PASSION XXX
 https://epg.pw/stream/34aff3afbd5be9b0fcccc0500a2d3414b0b9b3b9519c1cd88d8d1c25c95ae4ae.m3u8
-#EXTINF:-1 tvg-name="Sky Passion HD Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127171958037445_51.jpg" group-title="Movie",[HD]rtl passion
+#EXTINF:-1 tvg-name="Sky Passion HD Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127171958037445_51.jpg" group-title="Movie",[BD]rtl passion
 https://epg.pw/stream/fd5d8dc542b9ad0c6a8846de220710c53256179bd95f415248b5b75d63e6759a.ctv
-#EXTINF:-1 tvg-name="Sky Passion HD Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127171958037445_51.jpg" group-title="Movie",[HD]rtl passion@@1
+#EXTINF:-1 tvg-name="Sky Passion HD Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127171958037445_51.jpg" group-title="Movie",[BD]rtl passion@@1
 https://epg.pw/stream/c1c10a01e86a9f4cfb9da7f31d66277f54d25946eb1533e1f488fbd773204271.ctv
 #EXTINF:-1 tvg-name="Sky Passion HD Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127171958037445_51.jpg" group-title="Movie",[BD]Passion XXX[geo-blocked]
 https://epg.pw/stream/49ac7c8bbcdde90f8587cd04b4b9d9b315473c63e55ebe5af5fa30b495014d03.m3u8
-#EXTINF:-1 tvg-name="Sky Primafila Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2015/10/26/large/20151026084641114595_94.jpg" group-title="Movie",[VGA]it| sky primafila 4 hd[geo-blocked]
+#EXTINF:-1 tvg-name="Sky Primafila Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2015/10/26/large/20151026084641114595_94.jpg" group-title="Movie",[BD]it| sky primafila 4 hd[geo-blocked]
 https://epg.pw/stream/d097171543660422f9f2624fe997de41a439d21b5c28f64413b1c934a2748953.ctv
 #EXTINF:-1 tvg-name="Sky Primafila Italia" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2015/10/26/large/20151026084641114595_94.jpg" group-title="Movie",[BD]it| sky primafila 5 hd[geo-blocked]
 https://epg.pw/stream/b058cf788b47cac2999b5296219d4b154b3be9152a58543067f3458ff2ad1da9.ctv
@@ -685,7 +687,7 @@ https://epg.pw/stream/190a2e5a5fb4d9e9013902f2cee5ace4e36887e4ed66a59422dd42474c
 https://epg.pw/stream/8b9077b6bb570f3068369a9845f32fc7e38fe1dcf21ffc2c6d14a43c31b969d8.ctv
 #EXTINF:-1 tvg-name="Top Crime" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2022/04/19/large/20220419010105193059_55.png" group-title="Movie",[SD]top crime@@2
 https://epg.pw/stream/c7defb25884b9fad0241f439f775a9fab5ddab46c30b377f9c3f59558fa0a96c.ctv
-#EXTINF:-1 tvg-name="Top Crime" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2022/04/19/large/20220419010105193059_55.png" group-title="Movie",[SD]plutotv crime[geo-blocked]
+#EXTINF:-1 tvg-name="Top Crime" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2022/04/19/large/20220419010105193059_55.png" group-title="Movie",[HD]plutotv crime[geo-blocked]
 https://epg.pw/stream/e46c332b67b173b2dd49b68cd0ecd66d31ddc76b2a4be5b43a9b1223e80d795a.m3u8
 #EXTINF:-1 tvg-name="Top Crime" tvg-id="" tvg-country="Italy" tvg-language="Italiano" tvg-logo="https://epg.pw/media/images/channel/2022/04/19/large/20220419010105193059_55.png" group-title="Movie",[BD]Top Cine[geo-blocked]
 https://epg.pw/stream/4a04da63514e202219c55db0fd24a0882f78902b371037efbcc2860354085143.m3u8
