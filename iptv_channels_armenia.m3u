@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-name="3ABN Kids" tvg-id="" tvg-country="Armenia" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/09/30/large/20220930173605576264_27.jpg" group-title="Cartoon",[BD]3abn kids network@@1
+https://epg.pw/stream/765db6199e2852ed8609d84b7ad0c635167e19d3df2893b09bb20f7dc0cc8e63.m3u8
 #EXTINF:-1 tvg-name="3ABN Kids" tvg-id="" tvg-country="Armenia" tvg-language="Kurdish" tvg-logo="https://epg.pw/media/images/channel/2022/09/30/large/20220930173605576264_27.jpg" group-title="Cartoon",[HD]3abn kids network
 https://epg.pw/stream/738e6f77f10848694d1add81e8d69f12a66384f00a334066668f20b2485d0044.m3u8
 #EXTINF:-1 tvg-name="Anime" tvg-id="8105" tvg-country="Armenia" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/11/26/20161126223124883956_82.jpg" group-title="Cartoon",[SD]ani@@2
@@ -55,6 +57,8 @@ https://epg.pw/stream/486764e05f0fafddca533025e35e2fdfa4a4906025a33648bfaf707e0a
 https://epg.pw/stream/e0f2834cbc38b7121457d25c1c67d1c755ede2614ffa72bd57704ad779df270d.ctv
 #EXTINF:-1 tvg-name="Armenia TV" tvg-id="" tvg-country="Armenia" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/14/20170114235036853927_27.png" group-title="Entertainment",[BD]armenia tv
 https://epg.pw/stream/ecf0b81ff46a3ebdd36c0815df08360a2d223fd40bbfe3b62f7cc7261a843541.ctv
+#EXTINF:-1 tvg-name="Armenia TV" tvg-id="" tvg-country="Armenia" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/14/20170114235036853927_27.png" group-title="Entertainment",[BD]armenia premium[geo-blocked]
+https://epg.pw/stream/7a6a75e073bbb8d93674370d287aecb9df119c23f39a7a96603b02118c2fccca.m3u8
 #EXTINF:-1 tvg-name="Armenia TV" tvg-id="" tvg-country="Armenia" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/14/20170114235036853927_27.png" group-title="Entertainment",[HD]armenia tv [geo-blocked]
 https://epg.pw/stream/4b6213c5720279dca25579e1a09d2969e1237d51f316feaf8f4669d11eec7def.m3u8
 #EXTINF:-1 tvg-name="Armenia TV" tvg-id="" tvg-country="Armenia" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/14/20170114235036853927_27.png" group-title="Entertainment",[VGA]türkmenistan tv

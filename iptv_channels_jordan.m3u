@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-name="Jordan TV" tvg-id="" tvg-country="Jordan" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613183400860882_29.png" group-title="Generic",[HD]jordan tv
+https://epg.pw/stream/b570d18a72738ba7ca0fb5900b0a6a6bd0d8ab940f41117613d1cdf4cbc7f1a2.ctv
 #EXTINF:-1 tvg-name="NART TV" tvg-id="" tvg-country="Jordan" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174342081100_40.png" group-title="Entertainment",[BD]nuart tv@@1[geo-blocked]
 https://epg.pw/stream/898e9b66f5329ab67533242c4deca3f8791b977f48fc66c9e06628329b1f13f0.ctv
 #EXTINF:-1 tvg-name="NART TV" tvg-id="" tvg-country="Jordan" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174342081100_40.png" group-title="Entertainment",[HD]nrt 3 tv hd@@1
@@ -7,8 +9,12 @@ https://epg.pw/stream/5aa8a0abe685382c00839ef56b97045e93d92551120e00ecb86196b0c3
 https://epg.pw/stream/8e6560dac43eed1b864550efb02b1aea9d7803a84610a01b0257827d009509da.ctv
 #EXTINF:-1 tvg-name="Noon TV" tvg-id="" tvg-country="Jordan" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/21/20150621112447455088_59.png" group-title="Other",[HD]noos tv
 https://epg.pw/stream/9f7f403cc632fc5bf633e7434fb71d1f11d438c8dfd3cda232eacedb5cd37f56.m3u8
+#EXTINF:-1 tvg-name="Noon TV" tvg-id="" tvg-country="Jordan" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/21/20150621112447455088_59.png" group-title="Other",[BD]mohona tv@@2[geo-blocked]
+https://epg.pw/stream/516c01b8f7ed5c9df1f34cb2590f1bde1c0d88448545bb2e1361cc3b357bb8ac.ctv
 #EXTINF:-1 tvg-name="Noon TV" tvg-id="" tvg-country="Jordan" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/21/20150621112447455088_59.png" group-title="Other",[HD]sono onda tv@@3[geo-blocked]
 https://epg.pw/stream/a567c8322e2348305bdb0933e444d9171447dbb6481575e9a67f8e15c0fcb4b0.m3u8
+#EXTINF:-1 tvg-name="Sana TV" tvg-id="" tvg-country="Jordan" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174201524147_24.png" group-title="Entertainment",[SD]sandzak tv@@2
+https://epg.pw/stream/fbaaaee8de00cc5900fd46fda44b5fd379fc0f86e7bbb8efa36176536c5e25c9.ctv
 #EXTINF:-1 tvg-name="Sana TV" tvg-id="" tvg-country="Jordan" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174201524147_24.png" group-title="Entertainment",[SD]sana tv (576p) [not 24/7]
 https://epg.pw/stream/9d8575be5a56f2ffb6dc75f107cf4c9759886b48fba65179d68b534990cea9b6.m3u8
 #EXTINF:-1 tvg-name="Sana TV" tvg-id="" tvg-country="Jordan" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174201524147_24.png" group-title="Entertainment",[HD]posavina tv@@2
@@ -23,9 +29,11 @@ https://epg.pw/stream/84579ec1d0b45a7255a4a3517b984ae6e2edc1027cc12502bb2541fc8a
 https://epg.pw/stream/1caecca7915fabcd7f4581e6002639f8d8f0396853ef06282994754f95c8cb51.ctv
 #EXTINF:-1 tvg-name="Sana TV" tvg-id="" tvg-country="Jordan" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174201524147_24.png" group-title="Entertainment",[SD]speranta tv
 https://epg.pw/stream/04441065a7a3b386cbf92dbac4df11b6215b4e0eb4245c4a1d7393cf370d2b5d.ctv
+#EXTINF:-1 tvg-name="Sana TV" tvg-id="" tvg-country="Jordan" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174201524147_24.png" group-title="Entertainment",[SD]sandzak tv@@1[geo-blocked]
+https://epg.pw/stream/3965398347bf491e27bf5dbbae54c0d5631ecf77eb8e6e0b6e532086258cc491.ctv
 #EXTINF:-1 tvg-name="Sana TV" tvg-id="" tvg-country="Jordan" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174201524147_24.png" group-title="Entertainment",[VGA]sanjuanera tv
 https://epg.pw/stream/6942e3f6d04be38346d71c21e716ed6db5dcf44397071d9ff08ec6164b59a399.m3u8
-#EXTINF:-1 tvg-name="Sana TV" tvg-id="" tvg-country="Jordan" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174201524147_24.png" group-title="Entertainment",[BD]sansad tv hd[geo-blocked]
+#EXTINF:-1 tvg-name="Sana TV" tvg-id="" tvg-country="Jordan" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174201524147_24.png" group-title="Entertainment",[VGA]sansad tv hd[geo-blocked]
 https://epg.pw/stream/b785d08e4546a7cd99a7040459a856dc2f8c1e907dd074f617b0538b83f1c913.m3u8
 #EXTINF:-1 tvg-name="Sana TV" tvg-id="" tvg-country="Jordan" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174201524147_24.png" group-title="Entertainment",[BD]scan tv
 https://epg.pw/stream/e6546c5cb252500c5b11f6750a75b5e61dcaa2257ba857068211cc344a29e934.ctv
