@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-name="Canal IPe" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152150055294_79.png" group-title="Cartoon",[BD]canal ipe hd
-https://epg.pw/stream/6137a49c9933afc34a6efd6468b455ff38def904211bd1de25d87603fccc1376.ctv
 #EXTINF:-1 tvg-name="Canal IPe" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152150055294_79.png" group-title="Cartoon",[BD]canal ipe
 https://epg.pw/stream/b47d691d398216ae73997ca4ab0fae6edea7e3db7187d86f6483b82cebc21799.m3u8
 #EXTINF:-1 tvg-name="Canal IPe" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152150055294_79.png" group-title="Cartoon",[HD]canal i@@1
@@ -61,6 +59,8 @@ https://epg.pw/stream/77e87170249cbfe69741e943bb4579355f2f592ae3f61a80ccddac7120
 https://epg.pw/stream/0fa39f947e2b3773bc9caf2e3fd63c590cbd7d7ef0b95dbc214a1bac803e45ab.ctv
 #EXTINF:-1 tvg-name="Movistar Deportes" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231059704676_93.png" group-title="Sport",[BD]movistar deportes hd[geo-blocked]
 https://epg.pw/stream/11bba92bb8c86357d8da637a809aa423e2773d26da4a7700349748c57b12506f.m3u8
+#EXTINF:-1 tvg-name="Movistar Deportes" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231059704676_93.png" group-title="Sport",[BD]movistar+ series[geo-blocked]
+https://epg.pw/stream/dd45ee4f396904b2eda370e87a9c2e1ba26997c74deb62f7d012c0316c4e378a.ctv
 #EXTINF:-1 tvg-name="Movistar Deportes" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231059704676_93.png" group-title="Sport",[BD]movistar deportes plus
 https://epg.pw/stream/681d5c6ea0d02360092066934a52825e797654d6ffc3704404c6461c5ae1d747.ctv
 #EXTINF:-1 tvg-name="Movistar Deportes" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231059704676_93.png" group-title="Sport",[SD]movistar deportes 7 sd
@@ -69,8 +69,6 @@ https://epg.pw/stream/123b6cc585f8de8d85ec3234af554bda1e01776e00563cc31024e5efbf
 https://epg.pw/stream/f6f387f10f3e24d25f25df3d91b1fbe9393aedece6063a3c8299db5b1b7aadd5.ctv
 #EXTINF:-1 tvg-name="Movistar Deportes" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231059704676_93.png" group-title="Sport",[BD]movistar deportes hd@@1
 https://epg.pw/stream/2ce23cd0a83e6eeee6fa769df20a59ae7a9ed89e8a2d84bbd1ff071371607167.ctv
-#EXTINF:-1 tvg-name="Movistar Deportes" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231059704676_93.png" group-title="Sport",[BD]movistar deportes 2 hd@@1
-https://epg.pw/stream/ee0cc8067269f47b5e34bf765466d5098bdbd1c697b696bf2bfaeaf93a3f8e19.ctv
 #EXTINF:-1 tvg-name="Movistar Deportes" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231059704676_93.png" group-title="Sport",[BD]movistar deportes fhd
 https://epg.pw/stream/ece427b27ded9151d9815426a363b027e8045bf33b4c4ae60c60e462cf90195b.ctv
 #EXTINF:-1 tvg-name="Movistar Deportes" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231059704676_93.png" group-title="Sport",[HD]movistar deportes hd 720p
@@ -79,13 +77,11 @@ https://epg.pw/stream/aa2b2ef9f3711fd2855ecd4cc37108013a63bcdf8ef7f40aab3c6e13b0
 https://epg.pw/stream/6b7b1ed28c1a2c0cace9079479f21e8b7779e99e66d211886d2a66829626c1ec.ctv
 #EXTINF:-1 tvg-name="Movistar Deportes" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231059704676_93.png" group-title="Sport",[SD]movistar deportes sd
 https://epg.pw/stream/8872e0e9b59af08d7b108fd38e9cfeecc198886dec94b9d7fa618e8b800774f5.ctv
-#EXTINF:-1 tvg-name="Movistar Deportes" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231059704676_93.png" group-title="Sport",[BD]movistar deportes hd 1080p
-https://epg.pw/stream/55a9ea1c598187a98b368680d9e3520a398a73b532792193ba165d0ceb84049d.ctv
 #EXTINF:-1 tvg-name="Movistar Deportes" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231059704676_93.png" group-title="Sport",[BD]movistar deportes hd@@3
 https://epg.pw/stream/decfe412dab768d2f8c7ed0120634ed7a7c729d3f944e7c886c1b12ac00163be.ctv
-#EXTINF:-1 tvg-name="Movistar Deportes" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231059704676_93.png" group-title="Sport",[SD]movistar series hd@@1[geo-blocked]
+#EXTINF:-1 tvg-name="Movistar Deportes" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231059704676_93.png" group-title="Sport",[HD]movistar series hd@@1[geo-blocked]
 https://epg.pw/stream/22d2e7513596dc374748daa110563ebc37b17981e375e6bc3845d72ffb834bd8.m3u8
-#EXTINF:-1 tvg-name="Movistar Deportes" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231059704676_93.png" group-title="Sport",[HD]movistar deporte hd
+#EXTINF:-1 tvg-name="Movistar Deportes" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231059704676_93.png" group-title="Sport",[SD]movistar deporte hd
 https://epg.pw/stream/5e624274270118070be692a79c6aa7338d28fc4fff4a343b6218e5485b141667.m3u8
 #EXTINF:-1 tvg-name="Movistar Deportes" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231059704676_93.png" group-title="Sport",[BD]movistar deportes@@1
 https://epg.pw/stream/7f7e4f4d0cda292955651d5174c8c6dc3db891d6b6b40c49148d462fe58d2c41.ctv
@@ -95,10 +91,6 @@ https://epg.pw/stream/bd33b61392038914a5a55d1750d5d6a25e6db7f6b1d103174882ffa9d3
 https://epg.pw/stream/92f39f2f5e66b578134f63d36f237651acd82c24386d0cc61fd9ed10a5c59f1d.ctv
 #EXTINF:-1 tvg-name="RPP" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/17/large/20220517053216783027_78.png" group-title="News",[HD]rpp@@2
 https://epg.pw/stream/561f7601f8d4bd105204f27826202a02a1c65088873f4f5cf835e4417ea37f78.ctv
-#EXTINF:-1 tvg-name="RPP" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/17/large/20220517053216783027_78.png" group-title="News",[HD]rpp
-https://epg.pw/stream/5a1f8096b9db80c6fc572d7af500bd551496c2c2ddb9bcd3f45f8716a61cb87e.ctv
-#EXTINF:-1 tvg-name="RPP" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/17/large/20220517053216783027_78.png" group-title="News",[HD]rpp@@1
-https://epg.pw/stream/ac492de2725a3d8c47a98c1ffaf87dc1e6741983e2085e0f5db6ccbb1838f6c9.ctv
 #EXTINF:-1 tvg-name="RPP" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/17/large/20220517053216783027_78.png" group-title="News",[HD]rpp hd@@1
 https://epg.pw/stream/723d03f1e985525a9a4f36b8d65c82f4dd006b2b1a403009afcf8768613b6f53.ctv
 #EXTINF:-1 tvg-name="RPP" tvg-id="" tvg-country="Peru" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/17/large/20220517053216783027_78.png" group-title="News",[HD]rpp hd

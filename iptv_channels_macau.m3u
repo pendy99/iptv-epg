@@ -1,6 +1,12 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="Canal Macau" tvg-id="" tvg-country="澳門" tvg-language="其它" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044741732158_54.png" group-title="綜藝",[HD]TDM Macau (720p)[geo-blocked]
 https://epg.pw/stream/3913df98dcc0a272253124124e61dabc129206d8efc8a962faf7a12eed5da68f.m3u8
+#EXTINF:-1 tvg-name="澳亞衛視" tvg-id="4162" tvg-country="澳門" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/15/large/20220315221538975176_84.png" group-title="綜合",[HD]澳亚卫视
+https://epg.pw/stream/716ffaf7cf3837ea1126be0a336f4d3cf0012ba8892bf22019637dc3622b6cfe.m3u8
+#EXTINF:-1 tvg-name="澳亞衛視" tvg-id="4162" tvg-country="澳門" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/15/large/20220315221538975176_84.png" group-title="綜合",[HD]澳亚卫视@@2[geo-blocked]
+https://epg.pw/stream/e6f14208a046bf4c00c6e3310ec4b3a446986a4f31417fdc33b8939a99c49ce0.m3u8
+#EXTINF:-1 tvg-name="澳亞衛視" tvg-id="4162" tvg-country="澳門" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/15/large/20220315221538975176_84.png" group-title="綜合",[HD]澳亚卫视@@1
+https://epg.pw/stream/70ef11eeb23c39a54bf7630eb11059695a564b50b14445ea696374a79bcc1507.ctv
 #EXTINF:-1 tvg-name="澳亞衛視" tvg-id="4162" tvg-country="澳門" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/15/large/20220315221538975176_84.png" group-title="綜合",[VGA]澳亞衛視[geo-blocked]
 https://epg.pw/stream/31457bcc6390bfbdadc8331c703145a6a574d46f7526107a8fda33e5dcab97d8.ctv
 #EXTINF:-1 tvg-name="澳亞衛視" tvg-id="4162" tvg-country="澳門" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/15/large/20220315221538975176_84.png" group-title="綜合",[VGA]澳亚卫视
@@ -9,6 +15,12 @@ https://epg.pw/stream/11a3fb8e40c32e40297b79900bb515bd5a9358b271ad81fe99db41974a
 https://epg.pw/stream/a1c7807d4a156da33781e7a71b70017291742c1834a9858c3fc58db2e4215658.m3u8
 #EXTINF:-1 tvg-name="澳亞衛視" tvg-id="4162" tvg-country="澳門" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2022/03/15/large/20220315221538975176_84.png" group-title="綜合",[VGA]澳亚卫视[geo-blocked]
 https://epg.pw/stream/e384110ba7db106d4f6824ed9a5ea0b0743430b5bb0500eb599a140c5eaf0eea.m3u8
+#EXTINF:-1 tvg-name="澳視澳門" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719142956282911_66.png" group-title="綜合",[BD]澳视澳门@@5[geo-blocked]
+https://epg.pw/stream/bfd325d187cec0b3977f44298f7d387f13bd0043fb1b6f885c5c2a886a0624a1.m3u8
+#EXTINF:-1 tvg-name="澳視澳門" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719142956282911_66.png" group-title="綜合",[BD]澳视澳门@@6[geo-blocked]
+https://epg.pw/stream/3ef5386d48b384742084539916fb0e276baa92d4417b51cab43d739739edfd25.m3u8
+#EXTINF:-1 tvg-name="澳視澳門" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719142956282911_66.png" group-title="綜合",[BD]澳视澳门@@7[geo-blocked]
+https://epg.pw/stream/328a6b594a826dc12f1fc3ab5ae5f19c325b8dfa22f50d4867be53e83d14ed42.m3u8
 #EXTINF:-1 tvg-name="澳視澳門" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719142956282911_66.png" group-title="綜合",[HD]澳视澳門
 https://epg.pw/stream/f01459bb996aeb1d4f62b96d73ade1d0c47af64cc64d7a5834502e47c2200b9e.m3u8
 #EXTINF:-1 tvg-name="澳視澳門" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719142956282911_66.png" group-title="綜合",[HD]澳视澳门[geo-blocked]
@@ -45,6 +57,8 @@ https://epg.pw/stream/147aa9879ec77f1b27ef7cf347efeaf4d7302e98a010e8a3bdc23ac4a5
 https://epg.pw/stream/604d1e89725164f0e1500c7f46baf73369a3510e48eb63a8386e966715ab396f.m3u8
 #EXTINF:-1 tvg-name="澳視综艺" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521133414352048_88.jpg" group-title="綜藝",[HD]澳视综艺
 https://epg.pw/stream/2aea62fc52301b1a41224bcc73aa80e176d1c8097824ae8fbcc5b25989f4cbf3.m3u8
+#EXTINF:-1 tvg-name="澳視综艺" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521133414352048_88.jpg" group-title="綜藝",[BD]澳视综艺@@2[geo-blocked]
+https://epg.pw/stream/692a0e8c2c37404eefd44f719c1cc7ae4f1f96bf5fbda7fe4318d5f8f07ef683.m3u8
 #EXTINF:-1 tvg-name="澳視综艺" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521133414352048_88.jpg" group-title="綜藝",[SD]澳门综艺[geo-blocked]
 https://epg.pw/stream/2ddfe301c98685299c4b4f3c0b6e2c898ee5b60eb4340251f14c0f6c5559d644.m3u8
 #EXTINF:-1 tvg-name="澳視综艺" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521133414352048_88.jpg" group-title="綜藝",[HD]澳門綜藝[geo-blocked]
@@ -67,6 +81,8 @@ https://epg.pw/stream/5e3a7b75416e00482d9b802b2de5d9f84359c351d89a7448357d3aae3d
 https://epg.pw/stream/111b6f89e4ba12b4189f44cde1b65dfcc05e9d88c87bffaeb310db5183e2b5c2.m3u8
 #EXTINF:-1 tvg-name="澳視葡文" tvg-id="" tvg-country="澳門" tvg-language="葡萄牙" tvg-logo="https://epg.pw/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="綜藝",[HD]澳视葡文@@1[geo-blocked]
 https://epg.pw/stream/00e5ec97f0e5dce0728dcfaa9564ba7c9507d2aa7d65933d80794dedb07b6db3.m3u8
+#EXTINF:-1 tvg-name="澳視葡文" tvg-id="" tvg-country="澳門" tvg-language="葡萄牙" tvg-logo="https://epg.pw/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="綜藝",[BD]澳视葡文@@7[geo-blocked]
+https://epg.pw/stream/c5a637dc71d82fb9584874230c4da381f58a35cda7818a8cac994b76027f437c.m3u8
 #EXTINF:-1 tvg-name="澳視葡文" tvg-id="" tvg-country="澳門" tvg-language="葡萄牙" tvg-logo="https://epg.pw/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="綜藝",[HD]澳视葡文@@1[geo-blocked]
 https://epg.pw/stream/f6878e72a5b023cdcd641e5c5823cfb87ad39ce4c667972b3d960acb4e9b687d.m3u8
 #EXTINF:-1 tvg-name="澳視葡文" tvg-id="" tvg-country="澳門" tvg-language="葡萄牙" tvg-logo="https://epg.pw/media/images/channel/2022/05/19/large/20220519235326309197_26.jpg" group-title="綜藝",[HD]澳视葡语[geo-blocked]
@@ -101,6 +117,8 @@ https://epg.pw/stream/194c676c78253d07bed068ebfcc4ceb38cf96cb251a8c092e568f31b22
 https://epg.pw/stream/a38579e237955dd16c9c615aa9294bfe4f004aca1df611b08295ffa9cf8cea8c.m3u8
 #EXTINF:-1 tvg-name="澳視體育" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143523253830_24.png" group-title="運動",[HD]澳门体育[geo-blocked]
 https://epg.pw/stream/f092aa42a9886653c9ea63e82c7d5cd3155e4309c0314bf4d41a181b029955da.m3u8
+#EXTINF:-1 tvg-name="澳視體育" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143523253830_24.png" group-title="運動",[BD]澳视体育@@1[geo-blocked]
+https://epg.pw/stream/68902281903ea3c15002d466d4f77c416434e07e42ad053dfc9daaf6a1207023.m3u8
 #EXTINF:-1 tvg-name="澳視體育" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143523253830_24.png" group-title="運動",[HD]澳视体育[geo-blocked]
 https://epg.pw/stream/54eab79838d0d62991586484042cd85db8755365cd9cf8b3d318148ce72400d7.m3u8
 #EXTINF:-1 tvg-name="澳視體育" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143523253830_24.png" group-title="運動",[HD]澳视体育
@@ -109,6 +127,10 @@ https://epg.pw/stream/bd72341f624e53f0eaaf8016a3b9d66f2ae4c76ce91ea8492629a7a5a4
 https://epg.pw/stream/17874b157ae059f942f1b9768aca6f1e4865c7f45ac384f9848a08d5c5218e89.m3u8
 #EXTINF:-1 tvg-name="澳視高清" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143658567197_89.png" group-title="綜合",[HD]澳門綜藝[geo-blocked]
 https://epg.pw/stream/0f79c4be0385c68f4578b149fae7524038686a68b35cb7a27817d5cd909bf73c.m3u8
+#EXTINF:-1 tvg-name="澳門MACAU" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521144701785913_98.jpeg" group-title="綜藝",[BD]澳门macau@@7[geo-blocked]
+https://epg.pw/stream/50b3cb23014119801165ada883ecee5666f868f2513d9c16cfb1b1222d4ccc96.m3u8
+#EXTINF:-1 tvg-name="澳門MACAU" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521144701785913_98.jpeg" group-title="綜藝",[BD]澳门macau@@8[geo-blocked]
+https://epg.pw/stream/e41160713cbba3b228fed4dc996e013234c0624cb73930a09dfae1b0eaa8ab5c.m3u8
 #EXTINF:-1 tvg-name="澳門MACAU" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521144701785913_98.jpeg" group-title="綜藝",[HD]澳视macau
 https://epg.pw/stream/01544d677cb76b9c95155a468ab186663e91cde8a8ea9ba5cef905c2b46735d0.m3u8
 #EXTINF:-1 tvg-name="澳門MACAU" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521144701785913_98.jpeg" group-title="綜藝",[HD]澳視MACAU[geo-blocked]
@@ -151,12 +173,22 @@ https://epg.pw/stream/3bc97c76ef5a63793723969c8a287a05195a0f5e10c4fc1dfefa8856e3
 https://epg.pw/stream/378a118333f0b9676736b4e292f13da982c01be4fcb98a6bfe4668704ad966b7.m3u8
 #EXTINF:-1 tvg-name="澳門MACAU" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521144701785913_98.jpeg" group-title="綜藝",[HD]澳門-MACAU[geo-blocked]
 https://epg.pw/stream/2381a34319af62c51bce3c3cfb30159a084df54f029df9708064d655f36a8e66.m3u8
+#EXTINF:-1 tvg-name="澳門蓮花" tvg-id="" tvg-country="澳門" tvg-language="英文" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/2608cd4edd95a446eb0477f7ee3a95aa.jpg" group-title="綜合",[BD]澳门莲花@@8[geo-blocked]
+https://epg.pw/stream/5f63cbd95f9c375a5b7407672758ce02f0b69773e6a2b4ed9cd43d3502861816.ctv
+#EXTINF:-1 tvg-name="澳門蓮花" tvg-id="" tvg-country="澳門" tvg-language="英文" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/2608cd4edd95a446eb0477f7ee3a95aa.jpg" group-title="綜合",[BD]澳门莲花@@5
+https://epg.pw/stream/bce0a3e1a6a9e63da5f3ec859be574d6440a0fe7a61ffde10c7e5b355001133a.ctv
+#EXTINF:-1 tvg-name="澳門蓮花" tvg-id="" tvg-country="澳門" tvg-language="英文" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/2608cd4edd95a446eb0477f7ee3a95aa.jpg" group-title="綜合",[BD]澳门莲花@@6
+https://epg.pw/stream/ae256b8519d3e9164f6ecfe4b1e9c044dcf40b22f9c501dfadefc6d0230e0f30.ctv
 #EXTINF:-1 tvg-name="澳門蓮花" tvg-id="" tvg-country="澳門" tvg-language="英文" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/2608cd4edd95a446eb0477f7ee3a95aa.jpg" group-title="綜合",[BD]澳门莲花@@1[geo-blocked]
 https://epg.pw/stream/46701a7f8b2c1d2629d545781cfc9491171f8de0e90a4c0138531df6694699eb.ctv
 #EXTINF:-1 tvg-name="澳門蓮花" tvg-id="" tvg-country="澳門" tvg-language="英文" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/2608cd4edd95a446eb0477f7ee3a95aa.jpg" group-title="綜合",[BD]澳门莲花[geo-blocked]
 https://epg.pw/stream/a3fedf56e9bd44261f9d0d9e709a6859b3bcf4d253c4e04c7f1af7ab102cccdf.m3u8
+#EXTINF:-1 tvg-name="澳門蓮花" tvg-id="" tvg-country="澳門" tvg-language="英文" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/2608cd4edd95a446eb0477f7ee3a95aa.jpg" group-title="綜合",[BD]澳門蓮花[geo-blocked]
+https://epg.pw/stream/28834df9a7a71f04b99e219245d7caf26b962386626551b807d1f7cae4afe7b8.ctv
 #EXTINF:-1 tvg-name="澳門蓮花" tvg-id="" tvg-country="澳門" tvg-language="英文" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/2608cd4edd95a446eb0477f7ee3a95aa.jpg" group-title="綜合",[BD]澳门莲花
 https://epg.pw/stream/9f6b2eee2a72192ddda341e5576b7a9550570298bd10c8439c28240ea0a3fe4c.m3u8
+#EXTINF:-1 tvg-name="澳門蓮花" tvg-id="" tvg-country="澳門" tvg-language="英文" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/2608cd4edd95a446eb0477f7ee3a95aa.jpg" group-title="綜合",[BD]澳门莲花@@7
+https://epg.pw/stream/09334e60cbc66d302a0b7cb1e6e4fb71d89b35725ead76528768446dcd983664.ctv
 #EXTINF:-1 tvg-name="澳門蓮花" tvg-id="" tvg-country="澳門" tvg-language="英文" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/2608cd4edd95a446eb0477f7ee3a95aa.jpg" group-title="綜合",[BD]澳门莲花
 https://epg.pw/stream/56eafc37277be45c7117ad264911cde8620db5b818c942bcff378b0d76825194.ctv
 #EXTINF:-1 tvg-name="澳門蓮花" tvg-id="" tvg-country="澳門" tvg-language="英文" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/2608cd4edd95a446eb0477f7ee3a95aa.jpg" group-title="綜合",[BD]澳门莲花@@1[geo-blocked]
@@ -169,6 +201,8 @@ https://epg.pw/stream/e436026f67ac00aab777d051e8039d1f2b5a94b24a3c3e99d4880fbec0
 https://epg.pw/stream/426804b9b6067013660eb915faa7719d275cb5f82557162ba76c42710b4212d8.m3u8
 #EXTINF:-1 tvg-name="澳門衛視" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521033247894760_19.jpg" group-title="綜合",[HD]澳门卫视[1280*720][geo-blocked]
 https://epg.pw/stream/39826005b8d1510d426d28f5a30b536ce5fecd09d4de8d9e5fdecab44f2f7631.m3u8
+#EXTINF:-1 tvg-name="澳門衛視" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521033247894760_19.jpg" group-title="綜合",[BD]澳门卫视@@4[geo-blocked]
+https://epg.pw/stream/88eaa7d41ad0933bc3660e738ead6b121c78c21550f1d9c9910dfaef6d2e87ec.m3u8
 #EXTINF:-1 tvg-name="澳門衛視" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521033247894760_19.jpg" group-title="綜合",[HD]澳门卫视
 https://epg.pw/stream/cba30b45ab68773380738e6c28c59ecd1dda1b7aac0d1241059ecdb055e00930.m3u8
 #EXTINF:-1 tvg-name="澳門衛視" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521033247894760_19.jpg" group-title="綜合",[HD]澳门卫星[geo-blocked]
@@ -181,6 +215,8 @@ https://epg.pw/stream/690584bcada5c816a3f5d8a7aedef64c9ce35fe3c778178b44a588387d
 https://epg.pw/stream/3d9bfde6d6a81f1f0927d80352ae0f5fbb5463f95dadfaadfe83ad978ba7a4ae.m3u8
 #EXTINF:-1 tvg-name="澳門衛視" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521033247894760_19.jpg" group-title="綜合",[HD]澳门卫视@@3
 https://epg.pw/stream/abf7c9ef46cbcd0575cab1e8c511bc388acdcdbdf84e95dd5dbfa1b56c3a2955.m3u8
+#EXTINF:-1 tvg-name="澳門資訊" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143215919020_21.jpg" group-title="新聞",[BD]澳门資訊[geo-blocked]
+https://epg.pw/stream/49314d22ac05619dc703d70bc859ac37e8ba5499c8fa428c487e03ea5e123219.m3u8
 #EXTINF:-1 tvg-name="澳門資訊" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143215919020_21.jpg" group-title="新聞",[BD]澳门资讯@@5[geo-blocked]
 https://epg.pw/stream/6567fa516e81eed9ce9d15cc2b890cdeeee893a60a138203aa5a747728118f10.m3u8
 #EXTINF:-1 tvg-name="澳門資訊" tvg-id="" tvg-country="澳門" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719143215919020_21.jpg" group-title="新聞",[HD]澳门資訊[geo-blocked]

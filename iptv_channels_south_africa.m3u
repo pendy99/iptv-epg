@@ -1,10 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-name="Oromiyaa" tvg-id="" tvg-country="South Africa" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/27/20140827050125314939_90.jpg" group-title="News",[VGA]oromar hd
-https://epg.pw/stream/d9bec9c82d08ca7f8476488b9615c8d9eebae6b560c4c5e4205977da8cd4d06a.ctv
-#EXTINF:-1 tvg-name="Oromiyaa" tvg-id="" tvg-country="South Africa" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/27/20140827050125314939_90.jpg" group-title="News",[VGA]oromar@@2
-https://epg.pw/stream/7d57d33c26cf137febc0deecaa95330debe4c608d2439952f5858a1c6ea1d23d.ctv
-#EXTINF:-1 tvg-name="Oromiyaa" tvg-id="" tvg-country="South Africa" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/27/20140827050125314939_90.jpg" group-title="News",[VGA]oromar sd
-https://epg.pw/stream/13e8bf53c2162461158294300eb178926d4ed25c66e4554614eec23668a9f99f.ctv
 #EXTINF:-1 tvg-name="Oromiyaa" tvg-id="" tvg-country="South Africa" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/27/20140827050125314939_90.jpg" group-title="News",[BD]oromar@@1[geo-blocked]
 https://epg.pw/stream/408ee82ba12b8842ae1008e50495122b6b57c8913c0c348f3e43033416b1c5d3.m3u8
 #EXTINF:-1 tvg-name="Oromiyaa" tvg-id="" tvg-country="South Africa" tvg-language="Arabic" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/27/20140827050125314939_90.jpg" group-title="News",[BD]oromar
@@ -25,6 +19,8 @@ https://epg.pw/stream/b6e8a8266ed17c4d7525bc9fd0a41e7ab79451c25cbb87d8022d4702cb
 https://epg.pw/stream/5c0fa8c61743bedef35fccbdf35d1197dcbf3f63ec39cb7de9b15deebf867bbc.ctv
 #EXTINF:-1 tvg-name="SuperSport Golf" tvg-id="" tvg-country="South Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/26/large/20220926002600644407_82.jpg" group-title="Sport",[HD]supersport motorsport[geo-blocked]
 https://epg.pw/stream/adb21237009c4ee3d5a43758a0402315ed97bf25f5e944629d0e4653ecf4df18.ctv
+#EXTINF:-1 tvg-name="SuperSport Golf" tvg-id="" tvg-country="South Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/26/large/20220926002600644407_82.jpg" group-title="Sport",[BD]supersport laliga[geo-blocked]
+https://epg.pw/stream/32757aaafdfb9cb4a01c7127d5de5700bfdcde41a6f929282c3453fd4c14476e.ctv
 #EXTINF:-1 tvg-name="SuperSport Golf" tvg-id="" tvg-country="South Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/26/large/20220926002600644407_82.jpg" group-title="Sport",[HD]supersport golf
 https://epg.pw/stream/3ad9b076236e75e6b991712ea018d285e49f826e15acb8f8baa7995c0832fe95.ctv
 #EXTINF:-1 tvg-name="SuperSport Golf" tvg-id="" tvg-country="South Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/26/large/20220926002600644407_82.jpg" group-title="Sport",[BD]supersport variety 4
@@ -41,6 +37,8 @@ https://epg.pw/stream/812b223f0cb78fbfe3124702cb31fe78d9c50856bd48546cec8ea0a3d8
 https://epg.pw/stream/82897f79ba594e9df73fc3c581d1f05478d1a14f8cc49e730f66db819bff0542.ctv
 #EXTINF:-1 tvg-name="SuperSport Golf" tvg-id="" tvg-country="South Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/26/large/20220926002600644407_82.jpg" group-title="Sport",[HD]supersport la liga
 https://epg.pw/stream/c6dec1b558bc0d614fae9ade107d982a0ebb23c6c260906505753b844c558c03.ctv
+#EXTINF:-1 tvg-name="SuperSport Golf" tvg-id="" tvg-country="South Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/26/large/20220926002600644407_82.jpg" group-title="Sport",[BD]supersport laliga fhd[geo-blocked]
+https://epg.pw/stream/75bad169178f2ebc37d48a74596dd81cb4973d640d1fdfc397e7118423740213.ctv
 #EXTINF:-1 tvg-name="SuperSport Golf" tvg-id="" tvg-country="South Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/26/large/20220926002600644407_82.jpg" group-title="Sport",[HD]supersport blitz
 https://epg.pw/stream/c5aa58eb1afc66acc73397e343fb921cdf0429086d9ca0378577370e9abdd0b1.ctv
 #EXTINF:-1 tvg-name="SuperSport Golf" tvg-id="" tvg-country="South Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/26/large/20220926002600644407_82.jpg" group-title="Sport",[HD]supersport golf hd@@1

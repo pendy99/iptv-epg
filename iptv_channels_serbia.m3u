@@ -1,9 +1,11 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="A1 BALKAN TV" tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/14/20151214020411619270_71.jpg" group-title="Entertainment",[SD]a1[geo-blocked]
 https://epg.pw/stream/f51b4c7f895799162b3386fa607febd6559711b79ef90a20467f52e494993f5a.m3u8
+#EXTINF:-1 tvg-name="DM Sat Serbia" tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821164822093806_23.png" group-title="Generic",[SD]dm sat@@1[geo-blocked]
+https://epg.pw/stream/4a96ea0042dbf27e2b44903139c01de48c3606848f2121a159c5d9fa37be2069.ctv
 #EXTINF:-1 tvg-name="KCN global TV" tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/10/20170310112312192044_61.jpg" group-title="Entertainment",[SD]kcn 2[geo-blocked]
 https://epg.pw/stream/0fbdc547a0a512b2c8dd08c6a3363a104349d7e477a0ad41ca16ad788cd451a4.ctv
-#EXTINF:-1 tvg-name="KCN global TV" tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/10/20170310112312192044_61.jpg" group-title="Entertainment",[SD]kcn 3@@1[geo-blocked]
+#EXTINF:-1 tvg-name="KCN global TV" tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/10/20170310112312192044_61.jpg" group-title="Entertainment",[HD]kcn 3@@1[geo-blocked]
 https://epg.pw/stream/222a4bda5a450a687239de53d40aac2561488fde0fd0d96f2a51a005b4644742.ctv
 #EXTINF:-1 tvg-name="KCN global TV" tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/10/20170310112312192044_61.jpg" group-title="Entertainment",[SD]kcn 2@@2
 https://epg.pw/stream/fe698e30d775d2e554dffddc7450e3c69e9b95c0228b40f6130e277ca32bff27.ctv
@@ -87,9 +89,9 @@ https://epg.pw/stream/b63562e8fbeddfd686f7e1c97c959ded3a1a9146588892d11e9ee57d34
 https://epg.pw/stream/f2a86ef27131ef42a399ea652a58743cc2febc4e657d33a98b2059b49b1f8222.ctv
 #EXTINF:-1 tvg-name="Pink Kids (RS )" tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821165754358907_75.jpg" group-title="Cartoon",[SD]pink kids@@3[geo-blocked]
 https://epg.pw/stream/087c70795bca933d794f6d7cbf204850d9fe05ed9d1e85ada01de4b4a1de42e1.ctv
-#EXTINF:-1 tvg-name="Pink Kids (RS )" tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821165754358907_75.jpg" group-title="Cartoon",[HD]pink kids@@1[geo-blocked]
+#EXTINF:-1 tvg-name="Pink Kids (RS )" tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821165754358907_75.jpg" group-title="Cartoon",[SD]pink kids@@1[geo-blocked]
 https://epg.pw/stream/0ba82e3c24db1cd49be162874478204bc50260ddee3879f107e7881e5fa7bbea.ctv
-#EXTINF:-1 tvg-name="Pink Kids (RS )" tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821165754358907_75.jpg" group-title="Cartoon",[SD]pink super kids[geo-blocked]
+#EXTINF:-1 tvg-name="Pink Kids (RS )" tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821165754358907_75.jpg" group-title="Cartoon",[HD]pink super kids[geo-blocked]
 https://epg.pw/stream/03a5469bb5d54aa005281a17b9f4fe1657575710f329463aa886237ebaf5cd77.ctv
 #EXTINF:-1 tvg-name="Pink Kids (RS )" tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821165754358907_75.jpg" group-title="Cartoon",[SD]pink super kids@@3[geo-blocked]
 https://epg.pw/stream/2ade0e3793fdf8ebcab71fe572400d531345f07a9108ccd787a38285373a058b.ctv
@@ -117,10 +119,8 @@ https://epg.pw/stream/9206621c884e0e954697ac27b713a739ad122ef0f2fc1f499dce0f00bc
 https://epg.pw/stream/d9aa286b3a34f98d340f32d4d87cb3678abc8c8e82e0e7fc8941483eaf24b815.ctv
 #EXTINF:-1 tvg-name="RTS 2 Serbia" tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/images/channel/2015/11/30/large/20151130073605752464_34.jpg" group-title="Generic",[VGA]rts@@3
 https://epg.pw/stream/d1ff020baa385609369e7894d67d92d57117b51cdc4dd17888db13311206db61.m3u8
-#EXTINF:-1 tvg-name="RTS-1" tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/06/09/20160609232225581913_90.png" group-title="News",[BD]rts 1[geo-blocked]
+#EXTINF:-1 tvg-name="RTS-1" tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/06/09/20160609232225581913_90.png" group-title="News",[HD]rts 1[geo-blocked]
 https://epg.pw/stream/2bb27d0922c533c85c024fc7c0c8db9c9229771c45f951014ae67eb0b25400a7.ctv
-#EXTINF:-1 tvg-name="RTS-1" tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/06/09/20160609232225581913_90.png" group-title="News",[BD]rts full hd
-https://epg.pw/stream/f49c667528bc9def9c9e2d8fa156efd0415aa09a0af8b761ce4a2947e8902f34.ctv
 #EXTINF:-1 tvg-name="RTS-1" tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/06/09/20160609232225581913_90.png" group-title="News",[HD]rts red telesistemas
 https://epg.pw/stream/0b5c7d8a3dff81fab995ddce5446a9e54532fad9bd02f8d1df5931c92a2de05e.ctv
 #EXTINF:-1 tvg-name="RTS-1" tvg-id="" tvg-country="Serbia" tvg-language="Serbian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/06/09/20160609232225581913_90.png" group-title="News",[HD]rts@@1

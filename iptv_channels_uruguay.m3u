@@ -1,16 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="1000 X Hora TV" tvg-id="" tvg-country="Uruguay" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205511036791_27.png" group-title="Sport",[HD]1000 x hora tv@@1[geo-blocked]
 https://epg.pw/stream/3ec41e518adf99b55ced0f2dd77842154d73381bb44acc8c07e5de053bfc7886.ctv
-#EXTINF:-1 tvg-name="1000 X Hora TV" tvg-id="" tvg-country="Uruguay" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205511036791_27.png" group-title="Sport",[HD]1000 x hora tv
-https://epg.pw/stream/c377f0ff5f664edb940cc8a218388608795004c58a192c98c08937f463136ed0.ctv
-#EXTINF:-1 tvg-name="Canal 5 Noticias y Deportes-Colonia" tvg-id="" tvg-country="Uruguay" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205534145997_15.png" group-title="Sport",[HD]canal 5@@6
-https://epg.pw/stream/ba5dcb39d7c7e8d7318e072f6018bcb82128f81a2e9a62d195782dcd12e359aa.ctv
 #EXTINF:-1 tvg-name="Canal 5 Noticias y Deportes-Colonia" tvg-id="" tvg-country="Uruguay" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205534145997_15.png" group-title="Sport",[HD]canal 5@@4[geo-blocked]
 https://epg.pw/stream/3ea30794038dbdb43e073924d3114e7ce00ab0678ac1e9b2a0b9595de74050dd.m3u8
-#EXTINF:-1 tvg-name="Canal 5 Noticias y Deportes-Colonia" tvg-id="" tvg-country="Uruguay" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205534145997_15.png" group-title="Sport",[HD]canal 5 hd
-https://epg.pw/stream/60431aa895a6c4725de26cee2b55a3838e65cdaeeabd6949d21aea99f25172dc.ctv
-#EXTINF:-1 tvg-name="Canal 5 Noticias y Deportes-Colonia" tvg-id="" tvg-country="Uruguay" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205534145997_15.png" group-title="Sport",[HD]canal 5@@7
-https://epg.pw/stream/4d8aef06de0e8852f2d11fc87e57d466bf8b687b799817e16b8860cbc6e1d4d7.ctv
 #EXTINF:-1 tvg-name="Canal 5 Noticias y Deportes-Colonia" tvg-id="" tvg-country="Uruguay" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205534145997_15.png" group-title="Sport",[BD]canal 5@@5[geo-blocked]
 https://epg.pw/stream/bc42531ebee29f5f62d3b991d6da20450165ba32adc804b403c365fbb16ca48a.m3u8
 #EXTINF:-1 tvg-name="Charrúa TV" tvg-id="" tvg-country="Uruguay" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/31/20140831041657161617_59.jpg" group-title="Generic",[BD]chacra tv@@3[geo-blocked]
@@ -27,7 +19,7 @@ https://epg.pw/stream/e82ba399409a9aa9dc7b935eb54ae75d1af534ccf16a0aca4067fdb34d
 https://epg.pw/stream/6da938a5bf12298a9f99cc3ceb612abaefaa5f0e58b5ca1d10378ba1fe50eb43.m3u8
 #EXTINF:-1 tvg-name="Latino kids TV" tvg-id="" tvg-country="Uruguay" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119220106703472_66.png" group-title="Cartoon",[HD]latino kids tv
 https://epg.pw/stream/9456bb04dd39cfc61b3327d73ccf06132a9253b798cd6e2a22ac29ee8fe123f3.m3u8
-#EXTINF:-1 tvg-name="Latino kids TV" tvg-id="" tvg-country="Uruguay" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119220106703472_66.png" group-title="Cartoon",[SD]latino kids[geo-blocked]
+#EXTINF:-1 tvg-name="Latino kids TV" tvg-id="" tvg-country="Uruguay" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119220106703472_66.png" group-title="Cartoon",[HD]latino kids[geo-blocked]
 https://epg.pw/stream/d818ebcbecb01d0d1bd3c2b46b272e275ca06bdcbe07a2d51e9aa082f2e9cc3e.m3u8
 #EXTINF:-1 tvg-name="Latino kids TV" tvg-id="" tvg-country="Uruguay" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119220106703472_66.png" group-title="Cartoon",[HD]latina red tv[geo-blocked]
 https://epg.pw/stream/ea036fb1f9a35999fa652bb2f40b6ba111f555ec6aa6d977f632eb2ee8521eed.m3u8
