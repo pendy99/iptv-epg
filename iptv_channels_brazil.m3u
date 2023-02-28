@@ -11,7 +11,7 @@ https://epg.pw/stream/d2298bec513e2dd02a48b6b392403a2a4f77ed359335f3ca8b71b2592a
 https://epg.pw/stream/5d68f29a797bc859dfdcc15d4c0a5a8a12d0d5f7dd4f0b3b15989a7d08df49c3.m3u8
 #EXTINF:-1 tvg-name="All Sports" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174820631691_82.png" group-title="Sport",[HD]all sports ao vivo hd
 https://epg.pw/stream/29aad7e90b2379269c6ef9c90f90bd1c83485618b5204fec83ad9e75fb5a269d.m3u8
-#EXTINF:-1 tvg-name="All Sports" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174820631691_82.png" group-title="Sport",[BD]all sport hd@@1
+#EXTINF:-1 tvg-name="All Sports" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174820631691_82.png" group-title="Sport",[BD]all sport hd@@1[geo-blocked]
 https://epg.pw/stream/fd283769f89fb786aa7f600d8d343037aabc970fb24378a61c8286276f83e767.m3u8
 #EXTINF:-1 tvg-name="All Sports" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174820631691_82.png" group-title="Sport",[SD]all sports (720p)[geo-blocked]
 https://epg.pw/stream/63515dd284b07aadeb00abbcd8e103549d2a4bd5f3fed1912a38ecb6f54893ee.m3u8
@@ -83,11 +83,11 @@ https://epg.pw/stream/16763cdbbdfbcb08a593b03fbe78918387bc87686417f2b21631ac1c9d
 https://epg.pw/stream/375f904b9fb99dc77b421e5a529eb31d111204a232f13328f17525d0d6e25243.ctv
 #EXTINF:-1 tvg-name="Band" tvg-id="50487" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174314612171_11.png" group-title="News",[HD]band
 https://epg.pw/stream/1677f2f084ec8482b1619d54e801d5c164d7f80988b79344c9c2076772698fdb.m3u8
-#EXTINF:-1 tvg-name="Band" tvg-id="50487" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174314612171_11.png" group-title="News",[BD]band sp hd@@1
+#EXTINF:-1 tvg-name="Band" tvg-id="50487" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174314612171_11.png" group-title="News",[HD]band sp hd@@1
 https://epg.pw/stream/ae2aa7e1ff73ecf11082d00e15c9290a716d0b13477e7309b859d1f9ee283c8f.ctv
 #EXTINF:-1 tvg-name="Band" tvg-id="50487" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174314612171_11.png" group-title="News",[VGA]band sp sd@@1
 https://epg.pw/stream/5085c676e816bb8b4f1150830a127d09222f6642d69351979fd2ad8beb2df820.ctv
-#EXTINF:-1 tvg-name="Band" tvg-id="50487" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174314612171_11.png" group-title="News",[HD]band rj hd@@1
+#EXTINF:-1 tvg-name="Band" tvg-id="50487" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174314612171_11.png" group-title="News",[BD]band rj hd@@1
 https://epg.pw/stream/011fca0a088717b24abb19f0d693a59ae4b7d4facd8c30a17bf8601173f58c0a.ctv
 #EXTINF:-1 tvg-name="Band" tvg-id="50487" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174314612171_11.png" group-title="News",[BD]band 4k[geo-blocked]
 https://epg.pw/stream/ed2870267e7a1153bb7ed21ed947d7e777f9221234ed21f5a3a8d3bad1101ffa.ctv
@@ -107,6 +107,8 @@ https://epg.pw/stream/9bbec51fc87d5176cde4f64d1e69d64e55ac3661b4eb8a54cb5c9f3f39
 https://epg.pw/stream/94a1c8ddccea98a43f3d17b890ebaa7ceb7676d7cb806f435bee392b6303884d.ctv
 #EXTINF:-1 tvg-name="Band Sports" tvg-id="45654" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/11/20/large/20221120215221487709_33.png" group-title="Sport",[HD]band sports sd@@1
 https://epg.pw/stream/269443a38bc3aeae3ff25555dbffc886f6986f9ebce19bb51b61a7c6ec85f3c4.ctv
+#EXTINF:-1 tvg-name="Band Sports" tvg-id="45654" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/11/20/large/20221120215221487709_33.png" group-title="Sport",[VGA]band sports hd@@3
+https://epg.pw/stream/5e983f5edf8a72b8e290c8e3abf0929d43cb675a33ee545ce435335331e9a44e.ctv
 #EXTINF:-1 tvg-name="Band Sports" tvg-id="45654" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/11/20/large/20221120215221487709_33.png" group-title="Sport",[VGA]band sports sd@@2
 https://epg.pw/stream/a045e087fab4c533186dc9b3c800567ba158196de29cb3e6461a7bccb315bbad.ctv
 #EXTINF:-1 tvg-name="Band Sports" tvg-id="45654" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/11/20/large/20221120215221487709_33.png" group-title="Sport",[HD]band sports hd@@1
@@ -119,7 +121,7 @@ https://epg.pw/stream/f7283becfe7c42a89ea5a7afd38f1ab00c46d255e8513572e981abc8b0
 https://epg.pw/stream/1d5b9e7dd3798b7be1cab87fa7db95bce959cde8a3d39d83023852dae759e6ae.ctv
 #EXTINF:-1 tvg-name="Band Sports" tvg-id="45654" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/11/20/large/20221120215221487709_33.png" group-title="Sport",[BD]band sports fhd@@2
 https://epg.pw/stream/5f5c33601a7fe0840c1fa37441d5e72e401131a8abc0ea0a133fe5ba8421b59f.ctv
-#EXTINF:-1 tvg-name="CN Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020654244584_90.png" group-title="Cartoon",[HD]music box brazil
+#EXTINF:-1 tvg-name="CN Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020654244584_90.png" group-title="Cartoon",[BD]music box brazil
 https://epg.pw/stream/e37f8d040ca5d40804e50e4112e8b43d01ce31ed9ef54b1a49482907e49953eb.ctv
 #EXTINF:-1 tvg-name="CN Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020654244584_90.png" group-title="Cartoon",[HD]cnn brasil hd@@3
 https://epg.pw/stream/38a860fa06fdf910f11482b76bc3f4cb092a40b4c1927b0ca8fc4091441d0008.ctv
@@ -127,7 +129,7 @@ https://epg.pw/stream/38a860fa06fdf910f11482b76bc3f4cb092a40b4c1927b0ca8fc409144
 https://epg.pw/stream/e7dbd48d5bca866958826ce850d029b1ee64f07fedf949bd07d89c6ffbecd5ed.ctv
 #EXTINF:-1 tvg-name="CN Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020654244584_90.png" group-title="Cartoon",[HD]cnn brasil hd@@2
 https://epg.pw/stream/369accf7a00531d43b5c8d7437dd7f5e27ea582c13fff73395531a018624fb81.ctv
-#EXTINF:-1 tvg-name="CN Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020654244584_90.png" group-title="Cartoon",[VGA]cnn brasil sd
+#EXTINF:-1 tvg-name="CN Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020654244584_90.png" group-title="Cartoon",[BD]cnn brasil sd
 https://epg.pw/stream/93a30fee728658145203b76e1f73acdebb27248e56b135997f9b9a1dd45fe7e5.ctv
 #EXTINF:-1 tvg-name="CN Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020654244584_90.png" group-title="Cartoon",[HD]MyTime movie network Brazil (720p)[geo-blocked]
 https://epg.pw/stream/7c05a3ee689bec850dbdad631b0a2dda3e72aefe9026052ced37cadc7767cf1c.m3u8
@@ -153,6 +155,8 @@ https://epg.pw/stream/bb8e9ae0d6bffcff90593426e9e38a7d166a5ea544970d130a4cfec26b
 https://epg.pw/stream/b3bcd635418630468997144824f807bb6cfdc0ce36bdcfd3b2fd630bae0f74e3.ctv
 #EXTINF:-1 tvg-name="Cinemax Brasil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/01/26/20150126032732404428_54.png" group-title="Entertainment",[VGA]canal brasil sd[geo-blocked]
 https://epg.pw/stream/330b6de95c447c58912ef94b2fdb523013bc73c9cc5f247948c1a933f48cf908.ctv
+#EXTINF:-1 tvg-name="Cinemax Prime Brasil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/01/26/20150126032600332852_49.jpg" group-title="Entertainment",[HD]prime box brasil hd
+https://epg.pw/stream/4bf198990fd1275891f008ff622343d8601eee420e7e37fc72e8d3b917ca0907.ctv
 #EXTINF:-1 tvg-name="Desenhos clássicos TV" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152233067180_78.png" group-title="Cartoon",[HD]cine clássicos[geo-blocked]
 https://epg.pw/stream/74a730c8c7824dec107254f92a18ea890a4b3e134e4a6470ae256dfeb8dd0cbe.m3u8
 #EXTINF:-1 tvg-name="Diario" tvg-id="45717" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020456304001_82.png" group-title="Generic",[VGA]el diario de pringles[geo-blocked]
@@ -183,6 +187,8 @@ https://epg.pw/stream/63aaf7c556ab21762b23adc761eee9749a8bb5ef37c446117617ca4c47
 https://epg.pw/stream/59bae7056e58c4a55b5bb1d15ed90455ed89c039f8e8a91507d8b65160e7c707.ctv
 #EXTINF:-1 tvg-name="Globo News Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/11/13/large/20151113065753403970_71.jpg" group-title="News",[HD]globo news[geo-blocked]
 https://epg.pw/stream/71cd2c01a94115e8a5d5a4ca21b7468090feec43cd9bd160b7078185d735f337.ctv
+#EXTINF:-1 tvg-name="Globo News Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/11/13/large/20151113065753403970_71.jpg" group-title="News",[BD]globo news hd@@4
+https://epg.pw/stream/b57b2073069ec22ecfcb18465be3806ece279009fd5798f785c4206d60fc8975.ctv
 #EXTINF:-1 tvg-name="Globo News Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/11/13/large/20151113065753403970_71.jpg" group-title="News",[VGA]globo news sd
 https://epg.pw/stream/24ac90d0de9778d6ce86fc71669202707fcf36c22770d73e01da9aaab76dec5c.ctv
 #EXTINF:-1 tvg-name="Globo News Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/11/13/large/20151113065753403970_71.jpg" group-title="News",[BD]globo news fhd
@@ -191,7 +197,7 @@ https://epg.pw/stream/24f73d4c19330dad3bd2682859327510606c5b7005247d9a90af532c46
 https://epg.pw/stream/848cf4b74807e1eaa2ae995ac51d3ca0dc575a97603ea11fbad6b315db74ae77.ctv
 #EXTINF:-1 tvg-name="Globo News Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/11/13/large/20151113065753403970_71.jpg" group-title="News",[HD]globo news hd
 https://epg.pw/stream/750f188a288ff8fb3b532fcc4e28e8939cda26111e635d50fb5c3e4252105ec2.ctv
-#EXTINF:-1 tvg-name="Globo News Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/11/13/large/20151113065753403970_71.jpg" group-title="News",[HD]globo news sd@@2
+#EXTINF:-1 tvg-name="Globo News Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/11/13/large/20151113065753403970_71.jpg" group-title="News",[VGA]globo news sd@@2
 https://epg.pw/stream/4d92d96c011032eee7a621fe7485e0597d9e50cc1e01297419d252c74597073e.ctv
 #EXTINF:-1 tvg-name="Gloob" tvg-id="45771" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716160114548110_71.png" group-title="Cartoon",[BD]gloob fhd@@1
 https://epg.pw/stream/fe275229d3996f291eba25c45c65f664885471d651fb4e14d6b03c54efb44f26.ctv
@@ -201,9 +207,9 @@ https://epg.pw/stream/e3c757fd7d596733de2bb0d3b204eedaf6258620000b7e99729dce95bd
 https://epg.pw/stream/e8329aa2063aecacf08065f2e562120774964b15945d8066ca92c41973540a9a.ctv
 #EXTINF:-1 tvg-name="Gloob" tvg-id="45771" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716160114548110_71.png" group-title="Cartoon",[VGA]gloob sd@@2
 https://epg.pw/stream/744170afd8f239b6f6f436930dd26aba837dfebd2a6443e490bab3d04abebe58.ctv
-#EXTINF:-1 tvg-name="Gloob" tvg-id="45771" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716160114548110_71.png" group-title="Cartoon",[HD]gloob sd@@1[geo-blocked]
+#EXTINF:-1 tvg-name="Gloob" tvg-id="45771" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716160114548110_71.png" group-title="Cartoon",[VGA]gloob sd@@1[geo-blocked]
 https://epg.pw/stream/5cfa29f4e3b22d869875c329236db16f2ec27204187832a95e8b14c595b41a47.ctv
-#EXTINF:-1 tvg-name="Gloob" tvg-id="45771" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716160114548110_71.png" group-title="Cartoon",[SD]gloob hd@@1[geo-blocked]
+#EXTINF:-1 tvg-name="Gloob" tvg-id="45771" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716160114548110_71.png" group-title="Cartoon",[HD]gloob hd@@1[geo-blocked]
 https://epg.pw/stream/cbcb40144c023b8088179f8f487a98925121f97ceff549c1a505502c26faba8f.ctv
 #EXTINF:-1 tvg-name="Gloob" tvg-id="45771" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716160114548110_71.png" group-title="Cartoon",[HD]gloob hd
 https://epg.pw/stream/e29dd45df6bcfcdad965c1cc8bcb0da08663b872dee7be1b847cca4f7dd6c32c.ctv
@@ -213,6 +219,8 @@ https://epg.pw/stream/62fdc99080d26330362ef6d0e89c96cf4d538683fa68fe013c1231cf7b
 https://epg.pw/stream/1228bb5d863d31f45068643ee005ba5df8446d59c902033c2e07422db41c48f8.ctv
 #EXTINF:-1 tvg-name="Gloob" tvg-id="45771" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716160114548110_71.png" group-title="Cartoon",[VGA]gloob sd
 https://epg.pw/stream/18d5260b1664f118f148e429a850329c3f1cab4164a0f82a2bf329203e6b3777.ctv
+#EXTINF:-1 tvg-name="Gloob" tvg-id="45771" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716160114548110_71.png" group-title="Cartoon",[HD]gloob hd@@3
+https://epg.pw/stream/ff403bfed6f1c56b2af9b15ddbfc5f1ff545b6efc7124b082b574d46e7211daa.ctv
 #EXTINF:-1 tvg-name="Gloob" tvg-id="45771" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716160114548110_71.png" group-title="Cartoon",[HD]bloob[geo-blocked]
 https://epg.pw/stream/148171284c97c6a6b9b42de941fc9d3edb2eb4daddf9733cc9812fb2f98c1219.m3u8
 #EXTINF:-1 tvg-name="Gospel Cartoon TV" tvg-id="" tvg-country="Brazil" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318090605335942_56.png" group-title="Cartoon",[VGA]Gospel Cartoon (360p)[geo-blocked]
@@ -229,6 +237,8 @@ https://epg.pw/stream/25f8009275536a11a023fc02ff537f1adb7d1ae2bd525cf07d2c83da12
 https://epg.pw/stream/34d8517b93e5c711bbce75cd0360ec18024fd0ff56a472085d29a50d2b49e422.m3u8
 #EXTINF:-1 tvg-name="Megapix" tvg-id="45669" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174335372587_67.png" group-title="Entertainment",[SD]mega@@4
 https://epg.pw/stream/be24c3d3603d1033767412e63123721837afa0a57e793cbd7bba1100a1a32834.m3u8
+#EXTINF:-1 tvg-name="Megapix" tvg-id="45669" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174335372587_67.png" group-title="Entertainment",[BD]megapix fhd@@3
+https://epg.pw/stream/04b427d266da966d6d2bc79952a3578ee552ec74c024f3f8c2c406c0f0dcb9a1.ctv
 #EXTINF:-1 tvg-name="Megapix" tvg-id="45669" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174335372587_67.png" group-title="Entertainment",[VGA]mega[geo-blocked]
 https://epg.pw/stream/26e6153e4c8cb7a3b69686660cfe98f41777ea1d7adb74ae6818356c639643f7.m3u8
 #EXTINF:-1 tvg-name="Megapix" tvg-id="45669" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174335372587_67.png" group-title="Entertainment",[BD]megapix fullhd[geo-blocked]
@@ -241,7 +251,7 @@ https://epg.pw/stream/fe70b4904fd6abc85a7acc2f79a795410b69ea04866ae3145636e5075e
 https://epg.pw/stream/5a70cbe630d5991e907a8d3807bff4fbcafe85beaeeca824a826c22974282111.ctv
 #EXTINF:-1 tvg-name="Megapix" tvg-id="45669" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174335372587_67.png" group-title="Entertainment",[BD]megapix fhd h265@@1
 https://epg.pw/stream/1aa2babfea1f5efba2224f010d13c34dc2554837cb1c4bf0ae92ecadc1309b8b.ctv
-#EXTINF:-1 tvg-name="Megapix" tvg-id="45669" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174335372587_67.png" group-title="Entertainment",[VGA]megapix sd@@1[geo-blocked]
+#EXTINF:-1 tvg-name="Megapix" tvg-id="45669" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174335372587_67.png" group-title="Entertainment",[HD]megapix sd@@1[geo-blocked]
 https://epg.pw/stream/fd743ed3762393919bb716c88f4ba7e9904df238015ff8680102fc0a88d0c164.ctv
 #EXTINF:-1 tvg-name="Megapix" tvg-id="45669" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174335372587_67.png" group-title="Entertainment",[SD]mega (480p)[geo-blocked]
 https://epg.pw/stream/b9728146dfd24c1357fa1cb116bed63a82f74fd3bd41c6a964f5bfeb8e5f3d6e.m3u8
@@ -277,8 +287,12 @@ https://epg.pw/stream/85a65d77cde2ed56c63f30763bf292ba6c70e390af86e3b415d2ed41d1
 https://epg.pw/stream/9a2217b4c30ffa75e3c95d4fc723d2dafa6ee974f07b2fe518a46360523bd8ec.ctv
 #EXTINF:-1 tvg-name="Multishow Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/27/20170727164051233389_25.png" group-title="Generic",[HD]multishow hd@@1
 https://epg.pw/stream/33d8a0a50a1fa5fab68e40fba4d98b517415b7026b9ae4b961ff98a56b211197.ctv
+#EXTINF:-1 tvg-name="Multishow Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/27/20170727164051233389_25.png" group-title="Generic",[BD]multishow hd@@3
+https://epg.pw/stream/9ed485241482946a96804458dbd87f3e474205b318873c4de2e87e26ce10b9f5.ctv
 #EXTINF:-1 tvg-name="Multishow Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/27/20170727164051233389_25.png" group-title="Generic",[BD]multishow 4k@@1
 https://epg.pw/stream/dc42357c65fb83431ae8cd1bbfa51f678151219ecb28305d2add3c7923822c1c.ctv
+#EXTINF:-1 tvg-name="Multishow Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/27/20170727164051233389_25.png" group-title="Generic",[HD]multishow hd@@2
+https://epg.pw/stream/8f17ecba40bfbf6d030e6752569b55fd9df511689eefc204cc1ba945085cd5a3.ctv
 #EXTINF:-1 tvg-name="Multishow Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/27/20170727164051233389_25.png" group-title="Generic",[BD]multishow 4k[geo-blocked]
 https://epg.pw/stream/be091088b49a8b52a60f1a796d069aa6223f69f30303cb8aabbac96978f1a120.ctv
 #EXTINF:-1 tvg-name="Multishow Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/27/20170727164051233389_25.png" group-title="Generic",[VGA]multishow sd@@2
@@ -289,6 +303,8 @@ https://epg.pw/stream/f0c6c771b76406a165be328eacc8ff7727e5678b7f707da9f937f24600
 https://epg.pw/stream/2740908414acd8c0cbc6d1451bcb79237f155a43727bc61e700bf751cf8a85ec.ctv
 #EXTINF:-1 tvg-name="Nordestv" tvg-id="64638" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231058114842_80.png" group-title="Sport",[HD]mtv geordies[geo-blocked]
 https://epg.pw/stream/1bd966623d29073dccaabfb398641d2f66618a0ce3965e45b57d31e27478351e.m3u8
+#EXTINF:-1 tvg-name="O Globo" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909014643643615_17.jpg" group-title="Movie",[BD]globo sp fhd h265@@2
+https://epg.pw/stream/9d8a2c4db1dd8714aa3ee2509bbf801d50e36763c957dc1562211f841e1b6446.ctv
 #EXTINF:-1 tvg-name="O Globo" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909014643643615_17.jpg" group-title="Movie",[BD]globo bahia  fhd
 https://epg.pw/stream/ac4e943f84672aeb488e89705183080457d48b6e2f9a78c6735274663529c3a3.ctv
 #EXTINF:-1 tvg-name="O Globo" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909014643643615_17.jpg" group-title="Movie",[HD]globo minas fhd
@@ -315,11 +331,15 @@ https://epg.pw/stream/82020f7808e28a20a1fd775b07efe851a07f4ea66f006083935a82ecf5
 https://epg.pw/stream/0dba9d5986e74f386fb281d61485ea0d3201d5c55d042bd9892ee861cf1dd5ee.ctv
 #EXTINF:-1 tvg-name="O Globo" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909014643643615_17.jpg" group-title="Movie",[HD]globo sp hd
 https://epg.pw/stream/e853be39ddcdf89a6f0f4f01a62ff849cbf959c2f350b1da4f46d631e6cd6f23.ctv
+#EXTINF:-1 tvg-name="O Globo" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909014643643615_17.jpg" group-title="Movie",[VGA]globo brasilia
+https://epg.pw/stream/1e3569b5883cf34c038a0fdd2ccd520eca5afb2c4c989a35a5d140fabaa244c5.ctv
+#EXTINF:-1 tvg-name="O Globo" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909014643643615_17.jpg" group-title="Movie",[BD]globo sp hd@@4
+https://epg.pw/stream/c1ba9488c3f3256d3d9975f3207271558c1254ed7b0af419764a9b85f28fb414.ctv
 #EXTINF:-1 tvg-name="O Globo" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909014643643615_17.jpg" group-title="Movie",[BD]globo sp fhd
 https://epg.pw/stream/e3168f3a5581b7ec92353f3653806628f21f07ff42f4dc4ef92f00ad648205e8.ctv
 #EXTINF:-1 tvg-name="O Globo" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909014643643615_17.jpg" group-title="Movie",[HD]globo minas sd@@1
 https://epg.pw/stream/bb8a3dbd0e1cd725a1f2c133be375163cba765b39e2a1815ee32c8e16b232a35.ctv
-#EXTINF:-1 tvg-name="O Globo" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909014643643615_17.jpg" group-title="Movie",[HD]globo minas fhd@@2
+#EXTINF:-1 tvg-name="O Globo" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909014643643615_17.jpg" group-title="Movie",[BD]globo minas fhd@@2
 https://epg.pw/stream/fe533e6cdd2eb62959d763bf71672034e9fe18fd0cffe5539e9492e7161bb65f.ctv
 #EXTINF:-1 tvg-name="O Globo" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909014643643615_17.jpg" group-title="Movie",[HD]globo recife hd
 https://epg.pw/stream/bc1796a4c34a428180380438f48dc6d89b6838da36a570dd233c89417e6be180.ctv
@@ -349,9 +369,11 @@ https://epg.pw/stream/30c7199398e6dba10f9b864b0f531d932f6cec78861647a38518332b1b
 https://epg.pw/stream/03a891a407821e7b9aceb7d2fe62e7ce50a3c3a28a2f28f4dc0e4277a27bef7f.ctv
 #EXTINF:-1 tvg-name="Paramount Channel Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163806308762_30.png" group-title="Entertainment",[BD]paramount fhd h265@@1
 https://epg.pw/stream/4219d7cbb00826014e563cfe826727148e0ccb3d530618f586685848210bcf49.ctv
+#EXTINF:-1 tvg-name="Paramount Channel Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163806308762_30.png" group-title="Entertainment",[HD]paramount channel@@1
+https://epg.pw/stream/544e27ba999c259a0b59b9061be891a327706c0d832a4aa755ee345e1e359fde.ctv
 #EXTINF:-1 tvg-name="Paramount Channel Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163806308762_30.png" group-title="Entertainment",[HD]paramount channel@@5
 https://epg.pw/stream/ea8eebb17c58b0d9ab3353b55f3b7c2eb5f51892060ad685d6015fc397462153.ctv
-#EXTINF:-1 tvg-name="Paramount Channel Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163806308762_30.png" group-title="Entertainment",[HD]paramount channel fhd@@3[geo-blocked]
+#EXTINF:-1 tvg-name="Paramount Channel Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163806308762_30.png" group-title="Entertainment",[BD]paramount channel fhd@@3[geo-blocked]
 https://epg.pw/stream/63b257ab884f8dfcc18d636d713d9903a2de0191e56659613f6dfd09833cbbbd.ctv
 #EXTINF:-1 tvg-name="Paramount Channel Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163806308762_30.png" group-title="Entertainment",[VGA]paramount sd@@2
 https://epg.pw/stream/2115b4894902d826064ac16746db6af086494a1cc0ba0e7b51dc4dbd23cbe786.ctv
@@ -359,10 +381,14 @@ https://epg.pw/stream/2115b4894902d826064ac16746db6af086494a1cc0ba0e7b51dc4dbd23
 https://epg.pw/stream/03900122304ebbe50d7a7788047ebe500f54be5b32369aedb4c30998b3268611.ctv
 #EXTINF:-1 tvg-name="Paramount Channel Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163806308762_30.png" group-title="Entertainment",[HD]paramount hd@@3
 https://epg.pw/stream/539d36ee8b83524a703b86964c10bd0699a212d4f1758f16390db7780409098c.ctv
+#EXTINF:-1 tvg-name="Paramount Channel Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163806308762_30.png" group-title="Entertainment",[BD]paramount channel hd@@2
+https://epg.pw/stream/f3e5f75c71aafd6804acc9176c8b2ec06630ad658fd3401a5fe2d95fe0613333.ctv
 #EXTINF:-1 tvg-name="Paramount Channel Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163806308762_30.png" group-title="Entertainment",[HD]paramount channel hd@@1[geo-blocked]
 https://epg.pw/stream/8d9242b6a18d9accfef5be7e3eb372ecd96fdd72b8309f42e9f630e62d1cbe68.ctv
 #EXTINF:-1 tvg-name="Paramount Channel Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163806308762_30.png" group-title="Entertainment",[VGA]paramount channel sd@@1[geo-blocked]
 https://epg.pw/stream/19d886c79bc541215dc0686fd8b5151d475606da9a37fa7865325f8c60069414.ctv
+#EXTINF:-1 tvg-name="Paramount Channel Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163806308762_30.png" group-title="Entertainment",[SD]paramount
+https://epg.pw/stream/bdad9d58bd66c77523677c0c1bdbc6d8343f44921f0d91171f80726e09b20648.ctv
 #EXTINF:-1 tvg-name="Paramount Channel Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163806308762_30.png" group-title="Entertainment",[BD]paramount@@4[geo-blocked]
 https://epg.pw/stream/703cf382204c282b6ca457712dd787eb76c7089a061d5ee664ed4d7e7c85c4ac.m3u8
 #EXTINF:-1 tvg-name="Paramount Channel Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163806308762_30.png" group-title="Entertainment",[BD]paramount fhd h265
@@ -379,6 +405,8 @@ https://epg.pw/stream/c792a9009960f175ca0b55914f6c0d1ef73f0b09f079eec0c6a7116bfe
 https://epg.pw/stream/39adbd323a60109277aeaf385744d95444d2a012113ac35d5278d6897ee6861c.ctv
 #EXTINF:-1 tvg-name="Paramount Channel Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163806308762_30.png" group-title="Entertainment",[HD]paramount movie channel@@1[geo-blocked]
 https://epg.pw/stream/b09f0d90bc91342cd26b768ac69f8efcba5d4f972ce14009f75e4c06d96bb83b.m3u8
+#EXTINF:-1 tvg-name="Paramount Channel Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163806308762_30.png" group-title="Entertainment",[HD]usa-paramount
+https://epg.pw/stream/392400ea3f2fadced63d7eb64deb768a776997679d058986eafe79461bebf885.ctv
 #EXTINF:-1 tvg-name="Paramount Channel Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163806308762_30.png" group-title="Entertainment",[HD]paramount hd@@6
 https://epg.pw/stream/eb98de37726696a54a5c336a890be9ac01a05dd7459b9f175ee4a5c7299f5c08.ctv
 #EXTINF:-1 tvg-name="Paramount Channel Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163806308762_30.png" group-title="Entertainment",[BD]paramount fhd
@@ -405,6 +433,8 @@ https://epg.pw/stream/2ff657b5fa16eb7cd044bc969badf961ae919735295d059774ddf60fb2
 https://epg.pw/stream/35c960ed8d95e0a51b2144baff71f8b995059fb32f3f7cef953f781e753be020.ctv
 #EXTINF:-1 tvg-name="Record 1 Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/22/20170722212517503695_75.png" group-title="Generic",[BD]record 4k@@1
 https://epg.pw/stream/b247571f3cd362b16d5b0af945bdeb4986260b0fe5ed8f08d22cbac4358a3c75.ctv
+#EXTINF:-1 tvg-name="Record 1 Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/22/20170722212517503695_75.png" group-title="Generic",[HD]record hd@@1
+https://epg.pw/stream/3295c9cf5581716e8c5932a77b6eecb77b904be8abc339e24d3cab7c3569ce17.ctv
 #EXTINF:-1 tvg-name="Record 1 Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/22/20170722212517503695_75.png" group-title="Generic",[HD]record rj sd
 https://epg.pw/stream/1e68dc4c1aff36a04978050a27d2468a4b6815df26248b263456e517cc9d7caf.ctv
 #EXTINF:-1 tvg-name="Record 1 Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/22/20170722212517503695_75.png" group-title="Generic",[VGA]record brasilia hd@@2
@@ -429,10 +459,12 @@ https://epg.pw/stream/9b2d0ab7a91899d2f7e37a4c459330b5d837a34bb367dce3c6dd2efa57
 https://epg.pw/stream/e923a738486207ec5f04fe4c6b17fc6a00d6c6ab2d42225a1e1b0dccdfc4572a.ctv
 #EXTINF:-1 tvg-name="Record News HD Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/22/20170722213113233424_81.png" group-title="News",[VGA]record news sd@@3
 https://epg.pw/stream/7f07fff589e0a8cdb1a66270e5299fc43b729d610194e800593f1e3c97ebbc11.ctv
-#EXTINF:-1 tvg-name="Record News HD Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/22/20170722213113233424_81.png" group-title="News",[HD]record news hd@@3
+#EXTINF:-1 tvg-name="Record News HD Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/22/20170722213113233424_81.png" group-title="News",[BD]record news hd@@3
 https://epg.pw/stream/4a83ac496eb10fdebe97cba03d07ed2dc1d09bce49e20bd98070f6c8640a9aed.ctv
 #EXTINF:-1 tvg-name="Record News HD Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/22/20170722213113233424_81.png" group-title="News",[HD]record news hd@@2
 https://epg.pw/stream/b157543ef3bd61c2efdeee492f8d0ad2eaa9d4c79eeca58ea7dcfc150aa1e2f4.ctv
+#EXTINF:-1 tvg-name="Record News HD Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/22/20170722213113233424_81.png" group-title="News",[HD]record news hd@@4
+https://epg.pw/stream/6c0092d448456f4e78e4338bc7d49d1fbf33bcea90b7a6e63b8230577a80d8fa.ctv
 #EXTINF:-1 tvg-name="Record News HD Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/22/20170722213113233424_81.png" group-title="News",[VGA]record news sd@@2[geo-blocked]
 https://epg.pw/stream/01318f17a98fb35b3cd061154fd5a89d4d132e6fd1b0b54359dfa501f7a6fb9a.ctv
 #EXTINF:-1 tvg-name="Record Rio de Janeiro" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/08/20150408022943211378_83.png" group-title="Generic",[VGA]record rn
@@ -451,6 +483,8 @@ https://epg.pw/stream/320b147a169b003c616cc143affe946c8a2142e673e1cb3472266deb3a
 https://epg.pw/stream/6b504d426000f9b2e015c46518adcdc7a1127ad9a1e0e3a13996980d830a2535.m3u8
 #EXTINF:-1 tvg-name="Rede Correio Brasil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/11/13/large/20151113073536482586_80.jpg" group-title="Generic",[HD]rede brasil@@1[geo-blocked]
 https://epg.pw/stream/00b127303804ab70b7575a087df511c22be1b1ac60f0ccc735289d55e69ce7a2.m3u8
+#EXTINF:-1 tvg-name="Rede Correio Brasil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/11/13/large/20151113073536482586_80.jpg" group-title="Generic",[BD]rede brasil@@3
+https://epg.pw/stream/a4106461895720c4abc4e97a8afcb8939f9bed0c5bfe098df385a13a63504a7d.m3u8
 #EXTINF:-1 tvg-name="Rede Familia" tvg-id="45668" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716034955321810_26.png" group-title="Entertainment",[HD]cine familiar@@3
 https://epg.pw/stream/21027b692557998a752d7e77a8dc5ec51854b608a4d916221ae7442e953fdca8.ctv
 #EXTINF:-1 tvg-name="Rede Familia" tvg-id="45668" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716034955321810_26.png" group-title="Entertainment",[SD]familia p. luche@@1[geo-blocked]
@@ -587,13 +621,13 @@ https://epg.pw/stream/1f2b45ea985839229934f322182290d90fd4f1d8f0bc16846b6f02164d
 https://epg.pw/stream/d8424fb5346e17cde3f760c21bc0aa9552ea54ee86f87d0ded2ae62f2ea84a2d.m3u8
 #EXTINF:-1 tvg-name="Rede Vida" tvg-id="45807" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/11/13/large/20151113074559794112_54.jpg" group-title="Generic",[SD]rede vida@@1
 https://epg.pw/stream/d191a2ffa1bdb3821ae20bf4475209b4ce89bc0d3562dc8edc4515b32fd16b8e.m3u8
-#EXTINF:-1 tvg-name="Rede Vida" tvg-id="45807" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/11/13/large/20151113074559794112_54.jpg" group-title="Generic",[BD]rede vida@@4[geo-blocked]
+#EXTINF:-1 tvg-name="Rede Vida" tvg-id="45807" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/11/13/large/20151113074559794112_54.jpg" group-title="Generic",[BD]rede vida@@4
 https://epg.pw/stream/3dce62fbba4c10625244ed47e9e821537c2fc003c0a28b8bb91c6f8cf2b03891.m3u8
 #EXTINF:-1 tvg-name="Rede Vida" tvg-id="45807" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/11/13/large/20151113074559794112_54.jpg" group-title="Generic",[BD]vivid red hd
 https://epg.pw/stream/b9f08d391e6f5693fafb9b97753b1cabe0130996aaae231359e0b9a6188ab903.m3u8
 #EXTINF:-1 tvg-name="Rede Vida" tvg-id="45807" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/11/13/large/20151113074559794112_54.jpg" group-title="Generic",[HD]Rede Vida (720p) [Not 24/7]
 https://epg.pw/stream/2671fd5e23f38887969ff6ba7b04f1d7fec8173b03149f6e1187913f24e89bf6.m3u8
-#EXTINF:-1 tvg-name="Rede Vida" tvg-id="45807" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/11/13/large/20151113074559794112_54.jpg" group-title="Generic",[BD]rede vida@@2
+#EXTINF:-1 tvg-name="Rede Vida" tvg-id="45807" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/11/13/large/20151113074559794112_54.jpg" group-title="Generic",[HD]rede vida@@2
 https://epg.pw/stream/ea1b6d6ba2f60c01664c918bd391e45b7db03c2a3de7daba53d764979c184525.ctv
 #EXTINF:-1 tvg-name="Rede Vida" tvg-id="45807" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/11/13/large/20151113074559794112_54.jpg" group-title="Generic",[BD]rede vida
 https://epg.pw/stream/fb1e545155fe4c67b40b7e78d42bc2077140c23921abbc412ee5ab52502c00a6.m3u8
@@ -647,7 +681,7 @@ https://epg.pw/stream/79ee145fbb378c378865fab58cc88eb407be117f694455386f1dcf86d0
 https://epg.pw/stream/0b79f85dd3199d1d0536608c429dc0fc29783ce7c0c69bd4150112ef7db5406b.m3u8
 #EXTINF:-1 tvg-name="SBT" tvg-id="50708" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015059627652_22.jpg" group-title="Generic",[BD]sbt 4k
 https://epg.pw/stream/5aca1c581bc976ff4c88995b0cc0b3616903a0a6b84099b83ca8115c3e61fd49.ctv
-#EXTINF:-1 tvg-name="SBT" tvg-id="50708" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015059627652_22.jpg" group-title="Generic",[HD]sbt@@10
+#EXTINF:-1 tvg-name="SBT" tvg-id="50708" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015059627652_22.jpg" group-title="Generic",[SD]sbt@@10
 https://epg.pw/stream/198c9e946537fc77259e1c80b7f9f82155966e77e6d3e14935b401c26e01be08.m3u8
 #EXTINF:-1 tvg-name="SBT" tvg-id="50708" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015059627652_22.jpg" group-title="Generic",[BD]sbt@@8
 https://epg.pw/stream/3c6bdeb44a29ea78691cd00305c287c82f7e6b9745842132d64f806251449acc.ctv
@@ -707,6 +741,8 @@ https://epg.pw/stream/076091e57eb67adf71c61d8295ddb77217f5fe31780fdd96c4e2c63a14
 https://epg.pw/stream/8425e7b0ab31c8346bbfced1f74ada8f59992a19700263e03ccb650d51fb7fed.ctv
 #EXTINF:-1 tvg-name="SporTV 1" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/11/24/large/20221124225810685184_36.png" group-title="Sport",[VGA]sportv sd[geo-blocked]
 https://epg.pw/stream/61eeba87b4244801a371535c5febc4d5eaab6e5b3cbe858d83c668ec7ac3d9a4.ctv
+#EXTINF:-1 tvg-name="SporTV 1" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/11/24/large/20221124225810685184_36.png" group-title="Sport",[HD]sportv hd@@3
+https://epg.pw/stream/6fdd6eef31cf8f4d6c291663c07eb215e7951b2f97289ae86056e9b013ea3276.ctv
 #EXTINF:-1 tvg-name="SporTV 1" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/11/24/large/20221124225810685184_36.png" group-title="Sport",[BD]sportv
 https://epg.pw/stream/fdb33c6a95ebc9ffe5e9e89203b376a217ee373a1c2e4cffc943b41f3654ad8f.ctv
 #EXTINF:-1 tvg-name="SporTV 1" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/11/24/large/20221124225810685184_36.png" group-title="Sport",[HD]sportv tur [geo-blocked]
@@ -761,6 +797,8 @@ https://epg.pw/stream/16bc2343bce2dda909df89de6b80acf845c332d834e25078489c99dd55
 https://epg.pw/stream/fd07a23c1e7a0f5acd308308941c8a736f69bdacc954798a8a7939aa20380149.ctv
 #EXTINF:-1 tvg-name="TBS Brazil 2" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/07/15/20180715050913123762_36.png" group-title="Entertainment",[SD]tbs@@2[geo-blocked]
 https://epg.pw/stream/5c2ffde1a3316068d44c59c3b4064ba0eef0c859f4e540299e6de63e783bbcba.m3u8
+#EXTINF:-1 tvg-name="TBS Brazil 2" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/07/15/20180715050913123762_36.png" group-title="Entertainment",[BD]tbs hd@@4
+https://epg.pw/stream/bd9c5757fbb09255d2d1bf9779e252eb210088761903d3a6c6c96392846ae780.ctv
 #EXTINF:-1 tvg-name="TBS Brazil 2" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/07/15/20180715050913123762_36.png" group-title="Entertainment",[VGA]tbs sd@@2[geo-blocked]
 https://epg.pw/stream/57b2dd95aa43a94bbcb573fe5214cfae00d577ed06f37fe43391facc2d9b18ee.ctv
 #EXTINF:-1 tvg-name="TBS Brazil 2" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/07/15/20180715050913123762_36.png" group-title="Entertainment",[HD]tbs hd@@3
@@ -807,10 +845,16 @@ https://epg.pw/stream/d84ed4d81ebfdfa3e5e8407b244f5f3d8630ca53ac1f59913a9b581ec4
 https://epg.pw/stream/bd334ac55ee608da758ecd38e50eab188cc2f2706b02d3cf0c1c0e521b18bbdd.m3u8
 #EXTINF:-1 tvg-name="TV Aparecida" tvg-id="45690" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174836266287_33.png" group-title="Generic",[BD]TV Aparecida (1080p) [Not 24/7][geo-blocked]
 https://epg.pw/stream/19953a31eb8603af32955ed65ed6f5383cd89b7943447e1d13cc1a5ff08ab9e3.m3u8
+#EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[BD]music box brasil sd[geo-blocked]
+https://epg.pw/stream/a32b2408ccfe994243830b2972cfdc77eb64386fccb3ae832fd2b5208189b736.ctv
 #EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[HD]tv brasil@@3
 https://epg.pw/stream/5f7fc97b88e059ced72055a16c03cc3ca8532977af801c4f476ab43dccbcf195.ctv
+#EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[BD]brasil - premiere 5 hd
+https://epg.pw/stream/18d693f5974225dc9384c7d873dde21b7aa18c54fa40a509e9c5c647ebbc5781.ctv
 #EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[SD]tnt sports 2 brasil (720p) [not 24/7][geo-blocked]
 https://epg.pw/stream/44c9c49c02c712e985904e84f0edc3d0f780fe8fb7d7800243993086f316cd5d.m3u8
+#EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[HD]brasil - premiere 4 hd
+https://epg.pw/stream/018bfa8d63a57e920f6dc605b595de30781703be81b439a81b5500ad35ec0a54.ctv
 #EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[VGA]wtv brasil
 https://epg.pw/stream/0e64d84b5e07cfd45d7d6f574bfb6bef57a0efe2a7e0e2c78061f47feb34f5aa.m3u8
 #EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[VGA]brazitv
@@ -825,6 +869,8 @@ https://epg.pw/stream/c9c4b404a826a02f384e9cd10955b17a718189a0629b4598d501b015b4
 https://epg.pw/stream/37ddaeb335ed5d01af593577f3318a7c434401bf2bc295534282be63cef6e713.m3u8
 #EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[SD]tv brasil 2[geo-blocked]
 https://epg.pw/stream/863ecc5000bc1a8cd8ff36a4b730d25d2e4c6de3c43193cd8c9b758ffad3efaa.m3u8
+#EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[HD]brasil - premiere 1 hd
+https://epg.pw/stream/43a0eb39652f5f84fbda764e60d61e5c018339d991e94723fcc1fbba0041ed8a.ctv
 #EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[HD]tnt sports 4 brasil (720p) [not 24/7][geo-blocked]
 https://epg.pw/stream/2694ec0d60edb3f52aa67f3ec7692e2a34a609ca74bae14ed3fdafc6a0c3b6d1.m3u8
 #EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[BD]tv brasil oeste hd@@1
@@ -841,12 +887,18 @@ https://epg.pw/stream/aa49482ec7773396bdf5c4424330c48ccf816b2ebef9f56a7754234c12
 https://epg.pw/stream/7ca9050878f7854843a9bdab1ac026b19eb5e9bd1ceedaa176f3f06e3ae979ce.m3u8
 #EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[HD]tv brasil@@2[geo-blocked]
 https://epg.pw/stream/79c511b3c199448984da7e61e6a7de8c6ecf0de23d24868bc1eab712fdb5f09e.ctv
+#EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[VGA]brasil - premiere 6 hd
+https://epg.pw/stream/e10eac83347a36e2056759cf845046069b35bcba56e80ec4b01d39a7c66b5fd1.ctv
+#EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[HD]brasil - premiere clubes hd
+https://epg.pw/stream/c689764cbb81808ed35a5cf7614f6e8a88d99322965370b1e049f1ded9fd1261.ctv
 #EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[HD]cnn brasil 2
 https://epg.pw/stream/16d9d0714e18ba33f2cebee1712e517d881c7f8d9596c48b19faabebf96becf8.m3u8
 #EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[HD]sol brasil
 https://epg.pw/stream/5e6f7b9707e01d9e21ea23b484d29b0904021744662542a1da0731be3e8f785a.m3u8
 #EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[SD]tnt sports 3 brasil (720p)[geo-blocked]
 https://epg.pw/stream/ecce06cf75066fc0755b7000a511688d5c8336d90a57204b07da2bec941828de.m3u8
+#EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[HD]brasil - premieres clubes hd
+https://epg.pw/stream/2b9d0c3d22f2ab5e56add6453bc1e949469fcb895b85e5aa1b90d871fd0172a4.ctv
 #EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[VGA]TNT Sports 3 Brasil (720p)[geo-blocked]
 https://epg.pw/stream/08c617239dbce9dc10532f1ecec9c9d7c081341cc9eacb72d086cb8946ac5a0c.m3u8
 #EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[HD]tv mais brasil
@@ -855,6 +907,8 @@ https://epg.pw/stream/33efd696075ea4f5ff990e9bb981a3b64cbed8393f51a655e956230b78
 https://epg.pw/stream/8d87d587b052d721b93111ba6ec50036c195d2a01c7c84c82f47792884ac2ba0.m3u8
 #EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[BD]Tastemade Brasil (1080p)[geo-blocked]
 https://epg.pw/stream/ce5f62c3904ccbb69f0cbd378d7cb6d31e5c4cc0aa191df1f7c5884428732d02.m3u8
+#EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[HD]tv brasil hd@@1
+https://epg.pw/stream/8d849195ff021cfcbf63ce0b1b6f477f8b003c3e3cde20e324b3d58f708b1998.ctv
 #EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[HD]rede massa brasil
 https://epg.pw/stream/689f99fa19151578bb0827af894942692db915d87dbc84f1a05c8033fec57e84.m3u8
 #EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[BD]agro brasil tv@@1
@@ -881,8 +935,12 @@ https://epg.pw/stream/ecd63ff5f050392b5fbba6f7edcdb40922c1014b4f4d50d10be76a7dd8
 https://epg.pw/stream/e0a16833f75b2a889faceb7e72938082bf39b45c14d647ca6d847874b93da9dc.ctv
 #EXTINF:-1 tvg-name="TV Cultura" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174952947596_14.png" group-title="Generic",[BD]cultura
 https://epg.pw/stream/7f7bfb462fc552520f973582fc29261ecbcd327b38b2ac0658c9d7ec265a72fe.ctv
+#EXTINF:-1 tvg-name="TV Cultura" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174952947596_14.png" group-title="Generic",[HD]cultura online
+https://epg.pw/stream/6a9d919eed356b77b0d7bc167aa2bcd4400eee6f1100d02dc5e2fc98a7900234.ctv
 #EXTINF:-1 tvg-name="TV Cultura" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174952947596_14.png" group-title="Generic",[BD]tv cultura nacional@@1[geo-blocked]
 https://epg.pw/stream/1f4a74e03d85987a2b0d789d10b6bb0f75dfcd46b99c99966345a75938c19fc2.ctv
+#EXTINF:-1 tvg-name="TV Cultura" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174952947596_14.png" group-title="Generic",[HD]tvg cultura[geo-blocked]
+https://epg.pw/stream/a813cd55dbbcd18d8ff62fe5d5acab2810d8b728f84f8c84481dc1e287513147.ctv
 #EXTINF:-1 tvg-name="TV Cultura" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174952947596_14.png" group-title="Generic",[HD]cultura 365[geo-blocked]
 https://epg.pw/stream/bbb6311c2fcdda7e270d0e9e173b286f47a5ceabea1049568cf7b66ce5b55503.m3u8
 #EXTINF:-1 tvg-name="TV Cultura" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174952947596_14.png" group-title="Generic",[HD]cultura365[geo-blocked]
@@ -905,7 +963,7 @@ https://epg.pw/stream/09497b6442ca5e2671df681c8b430490e6498b2c8d7c38e54381903f9a
 https://epg.pw/stream/27372f4d3e194a735eee8c8d35db1d303e44b3371eb12987d4729032c9d011c3.m3u8
 #EXTINF:-1 tvg-name="TV Cultura Brasil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/11/20/large/20151120082501153845_11.jpg" group-title="Generic",[HD]rádio cultura brasil[geo-blocked]
 https://epg.pw/stream/a19c3bf0defb41af7b2cd5963d2713ff1da00930a368bf590aabb830b25df394.ctv
-#EXTINF:-1 tvg-name="TV Cultura Brasil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/11/20/large/20151120082501153845_11.jpg" group-title="Generic",[BD]rádio cultura brasil@@2
+#EXTINF:-1 tvg-name="TV Cultura Brasil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/11/20/large/20151120082501153845_11.jpg" group-title="Generic",[BD]rádio cultura brasil@@2[geo-blocked]
 https://epg.pw/stream/7babfcc603beb0c8ee0ed1a45e0f1830c0399b0231323170a7da87625d7bb726.ctv
 #EXTINF:-1 tvg-name="TV Cultura Brasil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/11/20/large/20151120082501153845_11.jpg" group-title="Generic",[BD]rádio cultura brasil@@1[geo-blocked]
 https://epg.pw/stream/7e349ac961a06afb226fb20d18c13e7415e6ed53c062dc2c8f7028bd73abae7c.ctv
@@ -983,6 +1041,8 @@ https://epg.pw/stream/a1f58f24e67449dd020609f4c41e60f47e29c0d3d73011d9e16ad3483c
 https://epg.pw/stream/7dea930edb54dac9be2b1f4def7a2ae7caf12b2d87acdca12ad622f2b8c91355.m3u8
 #EXTINF:-1 tvg-name="TVU Esporte Brasil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105181016237369_96.jpg" group-title="Sport",[VGA]bo | tvu
 https://epg.pw/stream/480f1ffebd3b287705251b2021dbf39aad7321f8405bc3de4ce15151b7e69473.m3u8
+#EXTINF:-1 tvg-name="TVU Esporte Brasil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105181016237369_96.jpg" group-title="Sport",[BD]tvu@@4
+https://epg.pw/stream/90c957cc9e79a414a98adecc118c0f044a5da5a6b6fa1a65622f92d7db18cee0.ctv
 #EXTINF:-1 tvg-name="TVU Esporte Brasil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105181016237369_96.jpg" group-title="Sport",[BD]tvu@@3[geo-blocked]
 https://epg.pw/stream/b01bde811e0c40178160dacd5396719316b809a3db32833302141311ea7e57a1.m3u8
 #EXTINF:-1 tvg-name="TVU Esporte Brasil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105181016237369_96.jpg" group-title="Sport",[BD]cl | tvu[geo-blocked]
@@ -993,6 +1053,8 @@ https://epg.pw/stream/c189e97edd0fa8047a609504e97e42d030e07def1c1033e35b58de8f9c
 https://epg.pw/stream/160ebb9c8960f64c2df0132c15543e1c38b766755d209469ee5050fef1e79a5d.m3u8
 #EXTINF:-1 tvg-name="Telecine Action" tvg-id="45773" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015221436603_79.jpg" group-title="Generic",[BD]telecine touch fhd
 https://epg.pw/stream/2a537037aa0d62d5c6dd41699c6f7e492ae0530d9e3822baba007fc56b59f28e.ctv
+#EXTINF:-1 tvg-name="Telecine Action" tvg-id="45773" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015221436603_79.jpg" group-title="Generic",[BD]telecine action h265@@1
+https://epg.pw/stream/6e8584f80331178609d66790e656c88f8727be46d7a311f73209f23cf7395213.ctv
 #EXTINF:-1 tvg-name="Telecine Action" tvg-id="45773" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015221436603_79.jpg" group-title="Generic",[BD]telecine action fhd@@1
 https://epg.pw/stream/bc4c45389d442dc83396d306472de11dcf79bb3eea2ee2ce74399490732733c8.ctv
 #EXTINF:-1 tvg-name="Telecine Action" tvg-id="45773" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015221436603_79.jpg" group-title="Generic",[VGA]telecine action sd@@2
@@ -1011,6 +1073,8 @@ https://epg.pw/stream/f354c90692af8913bad825470ca5c6df3477d2d6bd57f5751680ba3181
 https://epg.pw/stream/fef087d4cb17e6bf8bf8a58721821c6192a78d6ac1d99b963c53859b5c86dd6f.ctv
 #EXTINF:-1 tvg-name="Telecine Action" tvg-id="45773" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015221436603_79.jpg" group-title="Generic",[BD]telecine touch fhd@@1
 https://epg.pw/stream/aacfbb3dbccce02f445e3f614f43537c0cbbb0bee52f5f19cfb038aec675f6ae.ctv
+#EXTINF:-1 tvg-name="Telecine Action" tvg-id="45773" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015221436603_79.jpg" group-title="Generic",[HD]telecine action hd@@2
+https://epg.pw/stream/e83f5a751924435823f2f4f4f81d4ef5df1592dac840193656fc42a29df9a112.ctv
 #EXTINF:-1 tvg-name="Telecine Action" tvg-id="45773" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015221436603_79.jpg" group-title="Generic",[VGA]telecine action sd
 https://epg.pw/stream/79b09f7aeb48fa1cb3c3db083898a3d19ef3f2f26c274a9d4f43a233025fc683.ctv
 #EXTINF:-1 tvg-name="Telecine Action" tvg-id="45773" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015221436603_79.jpg" group-title="Generic",[HD]telecine touch hd
@@ -1043,14 +1107,18 @@ https://epg.pw/stream/47be4270e0c3e630c0117a574e954e0fced6ea476831e42821c2837611
 https://epg.pw/stream/99405c015a17ddb5b178ee6b80a382c284aa64cf07ada97f63ea5f5bb08e6159.ctv
 #EXTINF:-1 tvg-name="Telecine Cult Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716161245644037_30.png" group-title="Other",[VGA]telecine cult sd
 https://epg.pw/stream/f1510b4133092c50a03076da59c64238b9c134adb20af0f974da70222bddf29b.ctv
-#EXTINF:-1 tvg-name="Telecine Fun Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716161929325646_36.png" group-title="Entertainment",[HD]telecine fun fhd@@2
+#EXTINF:-1 tvg-name="Telecine Cult Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716161245644037_30.png" group-title="Other",[HD]telecine cult hd@@2
+https://epg.pw/stream/876aca3d8f16852027b390322c406ba1ce0578f3a29f20ec8dcd6a4e1034fefc.ctv
+#EXTINF:-1 tvg-name="Telecine Fun Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716161929325646_36.png" group-title="Entertainment",[BD]telecine fun fhd@@2
 https://epg.pw/stream/5137e763b8ba3bbf52d13eeb9683f03f626aedd776a651af57e09b6f78caee5e.ctv
 #EXTINF:-1 tvg-name="Telecine Fun Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716161929325646_36.png" group-title="Entertainment",[BD]telecine fun h265@@1
 https://epg.pw/stream/aa447b1f8148e43e51b75a6763279f4bd8719d3449066447e3ca1027e3c9cd7f.ctv
-#EXTINF:-1 tvg-name="Telecine Fun Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716161929325646_36.png" group-title="Entertainment",[VGA]telecine fun sd@@2
+#EXTINF:-1 tvg-name="Telecine Fun Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716161929325646_36.png" group-title="Entertainment",[SD]telecine fun sd@@2
 https://epg.pw/stream/6292170920500c6bde33583c417b7b3fe354a3d4796c97b28a69b0d0aaec350e.ctv
 #EXTINF:-1 tvg-name="Telecine Fun Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716161929325646_36.png" group-title="Entertainment",[HD]telecine fun hd@@2
 https://epg.pw/stream/3894a9f06ee6aaa6b3cc907a6e993fdf9e9a8540e96ad9283f7dbb0e2f0c2444.ctv
+#EXTINF:-1 tvg-name="Telecine Fun Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716161929325646_36.png" group-title="Entertainment",[BD]telecine fun hd@@3
+https://epg.pw/stream/60741073d59c9305babc8546789aa58102e6411f214d8f789e7ec6cdb96d7f7d.ctv
 #EXTINF:-1 tvg-name="Telecine Fun Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716161929325646_36.png" group-title="Entertainment",[BD]telecine fun fhd
 https://epg.pw/stream/6393fa17fb165f99570ea7e8116b658c28c763367ed956cbdde57a3dff3f8cc4.ctv
 #EXTINF:-1 tvg-name="Telecine Fun Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716161929325646_36.png" group-title="Entertainment",[BD]telecine fun h265
@@ -1065,7 +1133,7 @@ https://epg.pw/stream/e2c81079e74306a1e682a54537b01c0e616cc399a24bddf5e0a449a8e1
 https://epg.pw/stream/8771453fe344f5b5eef41954e579b78303051f382d2d1a7cf444dd93e4c6dd79.ctv
 #EXTINF:-1 tvg-name="Telecine Pipoca" tvg-id="45700" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015315408909_14.jpg" group-title="Generic",[HD]telecine pipoca h265@@1
 https://epg.pw/stream/761d89c2ffbc334eea003f0b4ce8a0a95cbca7c7189a05c1a7f7e9a29ee7715a.ctv
-#EXTINF:-1 tvg-name="Telecine Pipoca" tvg-id="45700" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015315408909_14.jpg" group-title="Generic",[VGA]telecine pipoca sd@@1
+#EXTINF:-1 tvg-name="Telecine Pipoca" tvg-id="45700" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015315408909_14.jpg" group-title="Generic",[SD]telecine pipoca sd@@1
 https://epg.pw/stream/fcb438ccb4a5db27bc6f2fcada0f40c5f0593a72772bcecc6359c8dc8f07fe50.ctv
 #EXTINF:-1 tvg-name="Telecine Pipoca" tvg-id="45700" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015315408909_14.jpg" group-title="Generic",[BD]telecine pipoca fhd@@1
 https://epg.pw/stream/d6edd393178336a7deb5bf3f61f526426fed5a4c10fe37b61352cf973607c2fe.ctv
@@ -1077,19 +1145,21 @@ https://epg.pw/stream/83d285cbe8001dd274a93f83056d15999be9c9443569185d1dd69c3b5d
 https://epg.pw/stream/ac57f0ddd3097deb76cb74d0e9bf2eab8d034f00bc8ea720262b0d7d223fbec0.ctv
 #EXTINF:-1 tvg-name="Telecine Pipoca" tvg-id="45700" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015315408909_14.jpg" group-title="Generic",[BD]telecine pipoca h265
 https://epg.pw/stream/585d60087aad365454c8647f3ac669a269ddc231933e03a6e2dbc3d4f47ce652.ctv
-#EXTINF:-1 tvg-name="Telecine Pipoca" tvg-id="45700" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015315408909_14.jpg" group-title="Generic",[BD]telecine pipoca 4k@@1
+#EXTINF:-1 tvg-name="Telecine Pipoca" tvg-id="45700" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015315408909_14.jpg" group-title="Generic",[HD]telecine pipoca 4k@@1
 https://epg.pw/stream/371e34ef3f29911fb427dcac9027e605879026666311cd8604e87d5309e791f3.ctv
 #EXTINF:-1 tvg-name="Telecine Pipoca" tvg-id="45700" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015315408909_14.jpg" group-title="Generic",[VGA]telecine pipoca sd
 https://epg.pw/stream/01fdad2ba1f6f9e3c9a42caf4b5511e0e41f0e61376647fb4c5c090f73223b75.ctv
 #EXTINF:-1 tvg-name="Telecine Pipoca" tvg-id="45700" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015315408909_14.jpg" group-title="Generic",[BD]telecine pipoca fhd
 https://epg.pw/stream/16dd5973c0031aca04830d90ef637106024f7894019cf1ce1a18e9f53ded4809.ctv
+#EXTINF:-1 tvg-name="Telecine Pipoca" tvg-id="45700" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015315408909_14.jpg" group-title="Generic",[HD]telecine pipoca hd@@3
+https://epg.pw/stream/e0dba8c7cd37a443a69a0e98fb8efc332f168350e773ca87eebf571ddeb76274.ctv
 #EXTINF:-1 tvg-name="Telecine Pipoca" tvg-id="45700" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015315408909_14.jpg" group-title="Generic",[BD]telecine pipoca 4k
 https://epg.pw/stream/aa9a22f47b03398a6e2ef9534b1fa0fbf83e233789467e3cca2e29524b3477ca.ctv
 #EXTINF:-1 tvg-name="Telecine Premium Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716160937405590_46.png" group-title="Movie",[HD]telecine premium[geo-blocked]
 https://epg.pw/stream/eed90d0b66f69e73b3448fc3096b6ea34e116d14c1672b8f06d7a283e09f865d.m3u8
 #EXTINF:-1 tvg-name="Telecine Premium Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716160937405590_46.png" group-title="Movie",[HD]telecine premium hd@@1
 https://epg.pw/stream/404a1bba66899e325f460f7b0065281d0f0a445555a483ee7008e9ec8d7df772.ctv
-#EXTINF:-1 tvg-name="Telecine Premium Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716160937405590_46.png" group-title="Movie",[VGA]telecine premium sd@@2
+#EXTINF:-1 tvg-name="Telecine Premium Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716160937405590_46.png" group-title="Movie",[SD]telecine premium sd@@2
 https://epg.pw/stream/b03ad2381dadb26cf23cfa83e5e02df6c1517771756526452cec6dc08fcb6b47.ctv
 #EXTINF:-1 tvg-name="Telecine Premium Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716160937405590_46.png" group-title="Movie",[BD]telecine premium fhd@@2
 https://epg.pw/stream/c7a7f5bb48145358c166bc965a34a2e2467cd329f910d11b95b4130c33960750.ctv
@@ -1105,9 +1175,13 @@ https://epg.pw/stream/c973c85c04ca8032960b062e5ffec6cd5453857d9867f35f10c28a5240
 https://epg.pw/stream/7585976c9f9a531fd928a71bca38bd87bbbec21189219cdf57fb792f2d1ff80f.ctv
 #EXTINF:-1 tvg-name="Telecine Premium Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716160937405590_46.png" group-title="Movie",[BD]telecine premium h265
 https://epg.pw/stream/00001811b5e998d57cebb85c6ff1e42bc2d5fe0c38139a5b44f812276f91a230.ctv
+#EXTINF:-1 tvg-name="Telecine Premium Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716160937405590_46.png" group-title="Movie",[BD]telecine premium hd@@3
+https://epg.pw/stream/42405984d8d505106de457130148f4a718785416ce70eefe63cf86834e6144ff.ctv
 #EXTINF:-1 tvg-name="Telecine Premium Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716160937405590_46.png" group-title="Movie",[BD]telecine premium 4k
 https://epg.pw/stream/18e827de44ba85d7e79253750ca6aeb8a1ca34773a17d561f812002d9b639036.ctv
-#EXTINF:-1 tvg-name="Terra Viva" tvg-id="45765" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174710208044_59.png" group-title="Generic",[BD]terra viva@@2
+#EXTINF:-1 tvg-name="Telecine Premium Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/16/20170716160937405590_46.png" group-title="Movie",[BD]telecine premium hd@@2
+https://epg.pw/stream/ccf7e808f9f367f13b5550012068ac22606d97054104aca11aa3c8955af00a4e.ctv
+#EXTINF:-1 tvg-name="Terra Viva" tvg-id="45765" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174710208044_59.png" group-title="Generic",[BD]terra viva@@2[geo-blocked]
 https://epg.pw/stream/032c2d4f79177684642817812e3f191ee12ea5cc0fe5b97fcfbffe18dbfd553e.m3u8
 #EXTINF:-1 tvg-name="Terra Viva" tvg-id="45765" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174710208044_59.png" group-title="Generic",[HD]terra viva (720p) [not 24/7][geo-blocked]
 https://epg.pw/stream/0eb5b1fa30fdc0c73b5ee2d1e0f1c0eff2ecf6e806c0a4b3482d847afe8e6561.m3u8
@@ -1121,6 +1195,8 @@ https://epg.pw/stream/67341a1a0d60e9d7b7423a9912bf5be8ab02e7d2498b7cc91cc43fdd38
 https://epg.pw/stream/b368bbb719d39e15762f907877eca314ea22e37cb682488960b1cf98f8afbc93.m3u8
 #EXTINF:-1 tvg-name="Terra Viva" tvg-id="45765" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174710208044_59.png" group-title="Generic",[BD]terra viva[geo-blocked]
 https://epg.pw/stream/9d9dff89a4bfa828402b9899f990690c1f17028863b8f1848c1b77df88eed542.m3u8
+#EXTINF:-1 tvg-name="Terra Viva" tvg-id="45765" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174710208044_59.png" group-title="Generic",[VGA]tv terra viva
+https://epg.pw/stream/c958d66120be1da5ce046b8442253fdacc2b1c14c33c5a3b2452713c81208383.ctv
 #EXTINF:-1 tvg-name="Tv Aracati" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2019/03/28/large/20190328111335911549_81.png" group-title="Movie",[VGA]TV Aracati (360p)[geo-blocked]
 https://epg.pw/stream/72bc785c63363b289dff14cd43073f232fd555df7dd1223b07759651f9afc500.m3u8
 #EXTINF:-1 tvg-name="Tv Aracati" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2019/03/28/large/20190328111335911549_81.png" group-title="Movie",[SD]tv aracati hd@@1[geo-blocked]
@@ -1147,6 +1223,8 @@ https://epg.pw/stream/e511e3f03ba950545b155d69e0df548c7c7396bc34ad277e20b51e62d9
 https://epg.pw/stream/156c9f78105804c64cec7a28d58d818b1ca0460af77e76cc1e20f9d8a6471919.m3u8
 #EXTINF:-1 tvg-name="Warner Channel Brazil [HD]" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/18/20170718104533044103_62.png" group-title="Movie",[VGA]warner channel sd@@1
 https://epg.pw/stream/a280a0bf2a81bff4997b8a2da3e0c86071e14eb3b37546ce43df186ccdc5d834.ctv
+#EXTINF:-1 tvg-name="Warner Channel Brazil [HD]" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/18/20170718104533044103_62.png" group-title="Movie",[HD]warner channel hd@@5
+https://epg.pw/stream/e34e26fc67a6990fa144023af3f925e4abde0fd4730a4c9dd7ea7356325be543.ctv
 #EXTINF:-1 tvg-name="Warner Channel Brazil [HD]" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/18/20170718104533044103_62.png" group-title="Movie",[VGA]warner channel sd[geo-blocked]
 https://epg.pw/stream/908feb503d5c45b7b6c561d24d03017a4993c609991926700a9d60456a878ace.ctv
 #EXTINF:-1 tvg-name="Warner Channel Brazil [HD]" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/18/20170718104533044103_62.png" group-title="Movie",[HD]warner channel hd[geo-blocked]
@@ -1167,5 +1245,9 @@ https://epg.pw/stream/83fd611d31515b37d3adcf5896c260164f11cb99a7658a931be41be522
 https://epg.pw/stream/98fad3d07239c694918a4bbac0cfcb23d7ce5c343ce418d80dfcac3f7216b966.ctv
 #EXTINF:-1 tvg-name="Warner Channel Brazil [HD]" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/18/20170718104533044103_62.png" group-title="Movie",[BD]warner channel fhd
 https://epg.pw/stream/6288469d5d7a5e70bf1458ee03f8c7034a46e5d5c0719e28453777253026a06d.ctv
+#EXTINF:-1 tvg-name="Warner Channel Brazil [HD]" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/18/20170718104533044103_62.png" group-title="Movie",[BD]warner hd
+https://epg.pw/stream/2b6ab3676be3bbc58700be27cf7a883d00ead7740ad9de3bf6d3f1af0657fb7f.ctv
+#EXTINF:-1 tvg-name="Warner Channel Brazil [HD]" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/18/20170718104533044103_62.png" group-title="Movie",[HD]warner channel hd@@6
+https://epg.pw/stream/71b7d02f5160025588bfd286a0fbfddaf23e85596526948bc81f4d187b5d2085.ctv
 #EXTINF:-1 tvg-name="eParaná" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/07/27/20170727173133236855_51.png" group-title="Generic",[BD]paramnt
 https://epg.pw/stream/510d5b9da010e14b93d6d1115c5f67aa601670e8e700306380f39e34d1f04d52.ctv
