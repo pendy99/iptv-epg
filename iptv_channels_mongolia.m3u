@@ -91,7 +91,7 @@ https://epg.pw/stream/c809a45a4b1c647e374db07980934c8580c971cb234ee5a3dcc82235cf
 https://epg.pw/stream/8fdce622d24818ff931c9907230cb05fd8a90b7fbae1bde2baf5e13220dcb90f.m3u8
 #EXTINF:-1 tvg-name="C1 TV" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/25/20170325214843615959_15.jpg" group-title="News",[SD]1 tv fhd[geo-blocked]
 https://epg.pw/stream/63b96d51d7247f10d7b6ab1ad0102e1f1e3e3a0e4e52d29b9f1be412f074b740.ctv
-#EXTINF:-1 tvg-name="C1 TV" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/25/20170325214843615959_15.jpg" group-title="News",[VGA]tvpj@@1[geo-blocked]
+#EXTINF:-1 tvg-name="C1 TV" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/25/20170325214843615959_15.jpg" group-title="News",[HD]tvpj@@1[geo-blocked]
 https://epg.pw/stream/20c114684f0836841e340bc1ffe892e7bf6a96441f5c9c700ebda292bc9d84e9.m3u8
 #EXTINF:-1 tvg-name="C1 TV" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/25/20170325214843615959_15.jpg" group-title="News",[SD]1 tv fhd@@1
 https://epg.pw/stream/cec2ac997d152a46b8360f614357e025b831c9d743d94d946f3cef8a4701dad2.ctv
@@ -263,6 +263,10 @@ https://epg.pw/stream/744c5a63d6c217fc83cb38de7812abea797e95c668724b34dfec8f8f3a
 https://epg.pw/stream/87e6fb590d0e456389b8a490425be5d81ca9bbe48e5bf8ec6f3fb3c45b96ecf5.ctv
 #EXTINF:-1 tvg-name="MASS TV" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210215635417696_10.png" group-title="Generic",[VGA]masti tv
 https://epg.pw/stream/a50c85332e507c35bc0fd1e5eeca5d89f38a51638dad79cb5276bfc59333f654.ctv
+#EXTINF:-1 tvg-name="MNB 1" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/08/14/20160814192201999839_34.png" group-title="Generic",[VGA]fmn@@1[geo-blocked]
+https://epg.pw/stream/638884f271766e38781225db922256ae1328fd1a007abb4f7500d8c4b89842a6.ctv
+#EXTINF:-1 tvg-name="MNB 2" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/08/12/20160812113841018676_84.png" group-title="Generic",[VGA]fmn@@2[geo-blocked]
+https://epg.pw/stream/cd3acc61f4320925a27579aa29b3be18d7c938d78c4c3249187f7d2324886fc3.ctv
 #EXTINF:-1 tvg-name="MNB 2" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/08/12/20160812113841018676_84.png" group-title="Generic",[BD]NBT 2 HD (1080p)[geo-blocked]
 https://epg.pw/stream/ef0726150be221b059e178a34490e6667d89176aac3db828113c86362ad667a1.m3u8
 #EXTINF:-1 tvg-name="MNC" tvg-id="63132" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210215718574662_70.png" group-title="News",[BD]mn25[geo-blocked]
@@ -303,13 +307,13 @@ https://epg.pw/stream/fa78c845d399985fbfccc36b252343b9f1a7ef49beeee4ac5352dca26e
 https://epg.pw/stream/2cfab79f81fb29e1b33ce0eff43027dfe73415951b77d623e19fd8a1368a635d.ctv
 #EXTINF:-1 tvg-name="Movie BOX" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210215830553722_85.png" group-title="Movie",[HD]super movie 6@@1
 https://epg.pw/stream/4e68142bb3b982701c5186c6a11a32ec96f780d025e337dc4db39965ef0e8e22.ctv
-#EXTINF:-1 tvg-name="Movie BOX" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210215830553722_85.png" group-title="Movie",[HD]super movie 7@@1
+#EXTINF:-1 tvg-name="Movie BOX" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210215830553722_85.png" group-title="Movie",[BD]super movie 7@@1
 https://epg.pw/stream/caadbec97413c73cab0de41b14583a2c64f0a080826a4de289c243c34eb9850d.ctv
 #EXTINF:-1 tvg-name="Movie BOX" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210215830553722_85.png" group-title="Movie",[HD]super movie 5@@2
 https://epg.pw/stream/c4c6fdb327a2c6b26e6295b836ef6b8ae93d36a0ca27590baebef4ee38e5bf11.ctv
 #EXTINF:-1 tvg-name="Movie BOX" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210215830553722_85.png" group-title="Movie",[HD]super movie 6@@2
 https://epg.pw/stream/83e27e7ed1c5fd0937447167ceee2fca63fe1fe8f55020744bfd7a73449e583f.ctv
-#EXTINF:-1 tvg-name="Movie BOX" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210215830553722_85.png" group-title="Movie",[HD]super movie 7@@2
+#EXTINF:-1 tvg-name="Movie BOX" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210215830553722_85.png" group-title="Movie",[BD]super movie 7@@2
 https://epg.pw/stream/39c393508abfa3e57a60f771ebfb642e7797ba75c9ed52c5d5eb98fd8a182000.ctv
 #EXTINF:-1 tvg-name="Movie BOX" tvg-id="" tvg-country="Mongolia" tvg-language="Mongolian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/02/10/20170210215830553722_85.png" group-title="Movie",[HD]super movie 1@@2
 https://epg.pw/stream/f9b463b98295a4854c3db1fde24d5c20e72bdb8ddc980b03671be51f51892ee0.ctv

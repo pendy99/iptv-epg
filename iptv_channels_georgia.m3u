@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-name="Formula TV" tvg-id="" tvg-country="Georgia" tvg-language="Georgian" tvg-logo="https://epg.pw/media/images/channel/2020/04/23/large/20200423204734305666_79.png" group-title="Generic",[BD]formula tv hd[geo-blocked]
-https://epg.pw/stream/7dcafa52229ea41e1d9d6bfec3fd6c64191673820568c4c3614563da1c62feea.m3u8
 #EXTINF:-1 tvg-name="Formula TV" tvg-id="" tvg-country="Georgia" tvg-language="Georgian" tvg-logo="https://epg.pw/media/images/channel/2020/04/23/large/20200423204734305666_79.png" group-title="Generic",[BD]movistar formula 1 fhd[geo-blocked]
 https://epg.pw/stream/ce0abf5fc9ddc22ca407eeed3022eeac0a9f48937cd5b513309752a8e1d2672e.ctv
 #EXTINF:-1 tvg-name="Formula TV" tvg-id="" tvg-country="Georgia" tvg-language="Georgian" tvg-logo="https://epg.pw/media/images/channel/2020/04/23/large/20200423204734305666_79.png" group-title="Generic",[HD]movistar formula 1[geo-blocked]
@@ -19,6 +17,8 @@ https://epg.pw/stream/83dd03e928b1a3eb7aba51b6ed5d18026e2ef98e0ed07414bba04423d7
 https://epg.pw/stream/ad2191183065945c4d7e966e53784d36afecea3f439a821d3a90e53686711fbe.m3u8
 #EXTINF:-1 tvg-name="Formula TV" tvg-id="" tvg-country="Georgia" tvg-language="Georgian" tvg-logo="https://epg.pw/media/images/channel/2020/04/23/large/20200423204734305666_79.png" group-title="Generic",[BD]formediatv
 https://epg.pw/stream/82c489242ef70bf8dd63667e6497c4090aa134e122005a592734012792a1308a.m3u8
+#EXTINF:-1 tvg-name="Formula TV" tvg-id="" tvg-country="Georgia" tvg-language="Georgian" tvg-logo="https://epg.pw/media/images/channel/2020/04/23/large/20200423204734305666_79.png" group-title="Generic",[BD]formula tv hd[geo-blocked]
+https://epg.pw/stream/7dcafa52229ea41e1d9d6bfec3fd6c64191673820568c4c3614563da1c62feea.m3u8
 #EXTINF:-1 tvg-name="Imedi" tvg-id="" tvg-country="Georgia" tvg-language="Georgian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/08/19/20160819163730049193_93.jpg" group-title="News",[BD]imedi tv[geo-blocked]
 https://epg.pw/stream/1b4093f28eb83a761f5289d78fe0ae4401df17fec0f07b5f3f971a8f4a062f93.m3u8
 #EXTINF:-1 tvg-name="Imedi" tvg-id="" tvg-country="Georgia" tvg-language="Georgian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/08/19/20160819163730049193_93.jpg" group-title="News",[BD]imedi
@@ -53,7 +53,7 @@ https://epg.pw/stream/90af0149c3424d34323d56dc10d2a76f55a0cc49e79f4742d2f714b33c
 https://epg.pw/stream/4b1b23332cc617319fe4ef62d74a2c41e484a4bedf8ec8c9daa73a0d252f291c.m3u8
 #EXTINF:-1 tvg-name="TV8" tvg-id="" tvg-country="Georgia" tvg-language="Other" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/11/20150511071903763840_46.jpg" group-title="Entertainment",[VGA]tv8@@2
 https://epg.pw/stream/c11b9594e1c8283ae993df80e2bcc2e249ebf85d38f10930098a00037742a16c.m3u8
-#EXTINF:-1 tvg-name="TV8" tvg-id="" tvg-country="Georgia" tvg-language="Other" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/11/20150511071903763840_46.jpg" group-title="Entertainment",[HD]tr| tv8 int local[geo-blocked]
+#EXTINF:-1 tvg-name="TV8" tvg-id="" tvg-country="Georgia" tvg-language="Other" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/11/20150511071903763840_46.jpg" group-title="Entertainment",[BD]tr| tv8 int local[geo-blocked]
 https://epg.pw/stream/0d2641af5fce991338018ab9515806138e1b4f0d5ca65bdfd7546fd8dc3fba0e.ctv
 #EXTINF:-1 tvg-name="TV8" tvg-id="" tvg-country="Georgia" tvg-language="Other" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/11/20150511071903763840_46.jpg" group-title="Entertainment",[BD]tv 8@@2[geo-blocked]
 https://epg.pw/stream/0d1a8f6c79a33b5b9aa650450222a9f79cbb81b03650d62a36823230ddc33fc7.ctv
