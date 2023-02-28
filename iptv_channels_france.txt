@@ -195,6 +195,7 @@ Trace Urban[geo-blocked],https://epg.pw/stream/ca738e6b9325de2225c265f410e19931e
 Trace Urban,https://epg.pw/stream/53a68ab1db7281ac0e1c1a65c23b2e245557217f075c6280ae3c1fdac193cda0.m3u8
 Trace Urban,https://epg.pw/stream/8c3add652266f4c5cc7720e1f992a64b5232e6f0ff57763e890ab4a02c5b557b.m3u8
 Trace Urban[geo-blocked],https://epg.pw/stream/c9ae757db699434271b47325d4a6ce532d7a188b655d840a805ff1d8b6fd4ef1.ctv
+Trace Urban,https://epg.pw/stream/b1a2ddfa88842e045f39e33fc3a0b9cfdd4f1cee92677f66faf7f16cf4a38354.m3u8
 Trace Urban,https://epg.pw/stream/e61aeac1f366e84ffee32e15c8204c0f30b5dc487bbb2e419aaf0e63de7a38bf.m3u8
 Trace Urban[geo-blocked],https://epg.pw/stream/051eae3fab7cc41226e0354dad2c836dcc28c40bd16cc9070157e28f1d6eb8a0.m3u8
 Trace Urban,https://epg.pw/stream/65166d877848ecd4f70310d5171651e2733cae1bc5a74c7276b25e6159d673ed.m3u8
@@ -232,7 +233,6 @@ AB 1,https://epg.pw/stream/89ae65eac631a66486d544a284f46ef863e3544339d883506018b
 AB1 (FR)[geo-blocked],https://epg.pw/stream/410ae3a6b076f685e1fb07068f773dd95e1ec2e345822fb803f8ee88c9dd2b7e.m3u8
 ART France[geo-blocked],https://epg.pw/stream/26749ca88c7bf515440dd4d8f8f36a7cb90ee9bd27d4b25f56952dadeea03f17.m3u8
 ART France[geo-blocked],https://epg.pw/stream/6b641ddd407832d40b2c5a794a9916d473f4670e30af48b0c06c0c83ce8d5f3b.m3u8
-ARTE,https://epg.pw/stream/79e7b814d4e5cb60dc2616338e192f57d1992ea6bac5374187e1f25814d72ad5.ctv
 ARTE,https://epg.pw/stream/96999d6f897d02928efc6237d4cf1bdc305f82b87f3573798766bf02837196e5.m3u8
 ARTE,https://epg.pw/stream/1579edb146deb5a0844e9d4097701d259c499540b6967d4fa95133a5f7f00d65.ctv
 ARTE,https://epg.pw/stream/5a91fa8b5ea44b70caba3fb3d44a7ca4dfce7e8eb8a67e657d445cee4095c0cb.m3u8
@@ -269,7 +269,6 @@ Beur TV,https://epg.pw/stream/f5e0d71e176735019b3c6a4a3101e80fd04d02c5cdbe05fe55
 Beur TV,https://epg.pw/stream/94becdde33b5e338fee74180edc7d2d9788face29c0e88be25b2ee4cf2d9c23e.m3u8
 Beur TV[geo-blocked],https://epg.pw/stream/a8212bec291b45f572e9def74daef225c162592c38d7242d2a2f4c682313aa52.m3u8
 Beur TV,https://epg.pw/stream/4c181705b84e7c5c39a905fa7580ac4fdfcbd3ea54599259495630746a2e49dc.m3u8
-Beur TV,https://epg.pw/stream/2250ca455c519d879e51f0197d3ce1acb39ccee068b41a166064979337f5b641.ctv
 Boing France[geo-blocked],https://epg.pw/stream/3f25f223b69ac686b63e0ff689c5efd2db6f4aa9971aae30d8b0c74cc1815c9c.m3u8
 Boing France[geo-blocked],https://epg.pw/stream/1ff9547fa8229ba8c5f20fe1921ed6a476aa3fe94e4778d58ca2b254a9a2dcd7.ctv
 Canal 9 HD[geo-blocked],https://epg.pw/stream/996f8e089729badbde86e89bceed31be5ae673a148f5ca63446e5213421ceafd.m3u8
@@ -309,6 +308,7 @@ FR3[geo-blocked],https://epg.pw/stream/0068a6ec579289fd9fc9abd272edb74fe97813da8
 Foot  (FR),https://epg.pw/stream/75acc96d6f88cfddae37f54908c70f0e5f520aaddfd2fd0a80826c56b5d68bd9.ctv
 Foot  (FR),https://epg.pw/stream/8deab8df168c246c88890fb5d53cb096b3364ea9f7b0d545a12411b136569fd7.ctv
 France 2,https://epg.pw/stream/9de3a5642a4b92f85d3461d2bcea2c834781014eaaae407b974ce21bed8d048c.m3u8
+France 2[geo-blocked],https://epg.pw/stream/fc360f66c094cb91a7986ded4f8037a496a77c24ac14950b11a6471e50c6c1c8.ctv
 France 2,https://epg.pw/stream/fe9c4293169d49b6b34026d5b2e84291f7e9bb5b01336b405ae6a02fbb84eb86.m3u8
 France 2[geo-blocked],https://epg.pw/stream/edb0ad2b889811babef85e1d3923caa69edabccf6229be2f53f12d61f52bc6b1.m3u8
 France 3,https://epg.pw/stream/62f57be419e2a6ca75afe308a4c9f2596c083d4d2cc58513cbbed6583baaed1c.ctv
@@ -324,6 +324,7 @@ France 5[geo-blocked],https://epg.pw/stream/194ec31106af3a4bdb662f400bb8c9f4cdea
 France 5,https://epg.pw/stream/f2e15145c35b326cfff75f4d99608d2e065f3165983435f62d75b7a6ac9afbeb.ctv
 France 5,https://epg.pw/stream/4e3fd8cab448eb678a4b85c29a132975b3eb0f0722c3433f6a5c8e9a87bf87fb.m3u8
 France 5,https://epg.pw/stream/44a4cfb4129973d8bccc95a3fa90a91bc96578f03f142c2c33506e3b0da04bc8.ctv
+France 5[geo-blocked],https://epg.pw/stream/a8eba552964af6683427be7fcf5acb00f038cdf1b5a818ee55d12c59d4c33b8d.ctv
 France2[geo-blocked],https://epg.pw/stream/b9e2c57efb7fb2c16cff9f50f3f01b88a975f6df204eb9888ab414727cfed732.m3u8
 GRAND LILLE[geo-blocked],https://epg.pw/stream/3a7059e8e81d29a933851fee37d629e528413e23bcc0a2748bc36038b4665a2a.m3u8
 Golf Plus,https://epg.pw/stream/9833ad5a4b516c7e5be5a8cd8e8e8d54b3e15d3b326c5b0298a5376d4f7d1874.ctv
@@ -385,7 +386,6 @@ Planete  TV (FR)[geo-blocked],https://epg.pw/stream/93378e2f2a30efa4d9f57cfe9385
 Planete AE  (FR)[geo-blocked],https://epg.pw/stream/84fa06ffb0434c47e75b38e1c179a419c5d007c4ae1717545a1246cb0ea56729.ctv
 Planete AE  (FR)[geo-blocked],https://epg.pw/stream/7dcf4e93a8967a4c8ac20c3bc6f7523fad37caef1820c445060f133532f8d97e.ctv
 Plug RTL[geo-blocked],https://epg.pw/stream/7e77c68f84cef28a5b6de4bfcd87e9b05b9f509502cd5e29262576a27cfab626.ctv
-RTL 9 (FR),https://epg.pw/stream/1332f53de1ea5104777c2830832d61d955aff9e696d71340f2697d24364cd1ae.ctv
 Science et Vie TV,https://epg.pw/stream/823a5f0f52003ba4b2a4225fa51f8b45c18d22e64f6f3c311cf2080c03f6afc1.ctv
 TERRITORIAL TV[geo-blocked],https://epg.pw/stream/69f1cf8d91c669b9fedc0fa7afd05d31e2c018e4fe5529dcdfdf0017e2f9f686.m3u8
 TF1 International,https://epg.pw/stream/7c731e13ea76e3ce1996b6836d832f85f8a38c3e1fc56dd7ddfb27c42a7f47ad.m3u8
@@ -527,6 +527,7 @@ Canal+[geo-blocked],https://epg.pw/stream/bbfe1bbe59566becbf86e40ef4d3b0785f80c4
 Canal+[geo-blocked],https://epg.pw/stream/4dd943b84d7aaa4de31e6ae816bf25250f8944a36ba6c682527426a1d4765cb3.m3u8
 Canal+[geo-blocked],https://epg.pw/stream/9d83bb5f26fd6ef5462931867d2c1a7de54581765d1a8057a7225d5c01867872.m3u8
 Canal+,https://epg.pw/stream/2f6eb28363de5fe3bcb4c4b940e8b7e0718f7138515e3e6246ae6c45f2105ff9.m3u8
+Canal+,https://epg.pw/stream/4104e0cdd44cbc193c355731cf847ee07e77ee1641fb72896a792767f3327ca1.ctv
 Canal+[geo-blocked],https://epg.pw/stream/84c41103922a9f780ce9806bc80f446f4f0ba4aba4d00fd388299dfbd46551c3.ctv
 Canal+,https://epg.pw/stream/7f28638932faf34d50b6a553e30d4bc83207c9d8b29675897cde7cb71443b3b9.m3u8
 Canal+,https://epg.pw/stream/0340bc8407fc1461fc24df5d50fb2b933bb9da59564159ea5cb0169d07888e03.m3u8
@@ -648,7 +649,6 @@ Canal+[geo-blocked],https://epg.pw/stream/3a207783bec0a9bb9f3a6438ff165d22d9d08b
 Canal+[geo-blocked],https://epg.pw/stream/7c2610f7e4caf0d01cb7b969de4cae8d54fe6a58a730a9157b903484654af801.m3u8
 Canal+[geo-blocked],https://epg.pw/stream/431ac24add20207b0aa36e6c2ffc50f89672d09461e6e33de84d5f693370ff3a.m3u8
 Canal+,https://epg.pw/stream/fd3e6acba99dcbf407e653f79ccae6b836f4d0ab4db9455dbb075ebb825d72b8.m3u8
-Canal+[geo-blocked],https://epg.pw/stream/74a0e9db2c6c05792a678df336e378d42d12222e06a22331cb3f50a47c58edb2.ctv
 Canal+[geo-blocked],https://epg.pw/stream/72410d4e344fdbf33af8a18a862f858ca2c0d2fbed1dd8d0b2cace3446275f0a.ctv
 Canal+,https://epg.pw/stream/f6dc848824293122c66067a4bd55fcd8caf2defff9fe6f7609fa07650ce232e9.m3u8
 Canal+[geo-blocked],https://epg.pw/stream/43b47f61393e9bdd1c414b62edbba1f206ae2328df46a528d85309abcb8d345e.m3u8
@@ -793,7 +793,6 @@ CanalSat A La Carte 1[geo-blocked],https://epg.pw/stream/ea92a5cd930bb9028d0d823
 CanalSat A La Carte 1[geo-blocked],https://epg.pw/stream/8ddca8699b099675d504a23d35ce119ad95f4a89c03813d12ae5c831fed1d53e.ctv
 CanalSat A La Carte 1,https://epg.pw/stream/51e775043df6b1d735582392425a658f42f125b084a11d5c07dd60f895894631.ctv
 CanalSat A La Carte 1[geo-blocked],https://epg.pw/stream/d8936ef104da06e25cda017f4e96de3d764e8040a351e95bbbfe9da4378b4180.ctv
-CanalSat A La Carte 1,https://epg.pw/stream/38bfb155863453869fca5e57a2723f32cfdd7bff15229be95c644cdd8fe4a684.ctv
 CanalSat A La Carte 1[geo-blocked],https://epg.pw/stream/fe2a76b6a0fe2f22a3d66c10b34fb804fa362bd18383ccd7bc13d9d81089f79f.m3u8
 Cine Emotion HD,https://epg.pw/stream/93cff1695ca83caacd386f732d94dacaae7ae013961599e8a8a142c7cfded170.ctv
 Cine Emotion HD,https://epg.pw/stream/8647a0d3f6ff31e986ab2d8df4518d38fce16e8070d52b913491496debb48beb.ctv
@@ -886,7 +885,6 @@ Euronews EN,https://epg.pw/stream/2f1d08dd21503ee84b2a0b755bfbe6305dd536fde627d0
 Euronews EN[geo-blocked],https://epg.pw/stream/4d2538fa458c8566076fdafe99133fd55574317c47b0a97824829ea2c5358049.m3u8
 Euronews EN[geo-blocked],https://epg.pw/stream/8b53a7984439bd0250e93360c49cf64961aca6d0d6f8e765d286db658de4953e.m3u8
 Euronews EN,https://epg.pw/stream/ceaa609c83d4038ff30cdd691df7c5b804aeda02978a966ba8f068a53471a20f.m3u8
-Euronews EN[geo-blocked],https://epg.pw/stream/6210bd3766df76e8869fcb5549e03328ef21af4baf04769b42f1c8a2bc62c1da.ctv
 Euronews EN[geo-blocked],https://epg.pw/stream/1038f3a45518d1038b79c73b4090e9530c242e8785602ae3ed3041d20d92e3dd.m3u8
 Euronews EN[geo-blocked],https://epg.pw/stream/ffbf9129904d3e91e743cf61b761e2e0fe58232144f7bb002a949021c363980d.ctv
 Euronews EN[geo-blocked],https://epg.pw/stream/c55a43029644ead743851daf3acee2a81b28b69b78b4ae9b3e12bc80eff83af7.m3u8
@@ -924,7 +922,6 @@ THE FRANCE 24[geo-blocked],https://epg.pw/stream/08d9fdfa1eaa063c7992aa241ea7bd0
 THE FRANCE 24,https://epg.pw/stream/22e142cf5ff472720f0ce9cbd2337e7087b91722403dce60e5bf9e160ec4bfee.m3u8
 THE FRANCE 24[geo-blocked],https://epg.pw/stream/f57ed80f48c10eb90eb01451291c2a21a867759a09dbd75d1e0868984b4140d8.ctv
 THE FRANCE 24[geo-blocked],https://epg.pw/stream/7ee01133b6d6c991bf8b8a419953b1cad449e547495bfb6c0a3f18166e41ec98.m3u8
-THE FRANCE 24,https://epg.pw/stream/d85057314561d984b3e9d5f20a990ae4e999d8d336f38e2499bd6c88d521290b.ctv
 THE FRANCE 24[geo-blocked],https://epg.pw/stream/5fa63352e485ee40a6429e49bfce7d1623c4fc47dd32196ef4590213aae5fd0c.ctv
 THE FRANCE 24[geo-blocked],https://epg.pw/stream/b600186173ce53afe9028db8d797e353751de31ca838e19b89bbe95a693aa5fe.ctv
 THE FRANCE 24,https://epg.pw/stream/42ecd74cf00c601f2b2ca540fbfa67b7fc0ab44b3fe1f723e3114e83f9c8ce14.m3u8
@@ -982,12 +979,14 @@ Bein Sports 2 France[geo-blocked],https://epg.pw/stream/265eb2ad40473d8ad24b91f5
 Bein Sports 3 France (English),https://epg.pw/stream/eba183427941d366c2a18ebcfcc1e38d8baa682f87da7e8dd301bbc010591523.ctv
 Bein Sports 4 France (English),https://epg.pw/stream/0da40fb1e81fc77ba8e0743aca139388ecbb0743949dd1f49dcebfdf350ce039.ctv
 Bein Sports 4 France (English),https://epg.pw/stream/e6446f019d751ad21928be8c2fb0ed52cd01cade5f479544b722757009c62fab.ctv
+Bein Sports 4 France (English),https://epg.pw/stream/20312507804f81f77d73399b429d37a72eb0a8be5625fe786d7a2bd81ec5922e.ctv
 Bein Sports 4 France (English),https://epg.pw/stream/11a5e9d8a83edbbf18e70424dca62f8049dae2457924f113a2eebaf3d4a4701e.ctv
 Bein Sports 4 France (English),https://epg.pw/stream/5842f468b39f2c14f360aa25391a27f9325fef14fa58122df0f51d4250da55c9.ctv
 Bein Sports 4 France (English),https://epg.pw/stream/cfd9466dafe2bcad42ec1345bead1aebda9a092f28dc252d176cdf331840a06f.ctv
 Bein Sports 4 France (English),https://epg.pw/stream/e3c84a4495897acd498fb9bf97273e88c2e32a0822f249a0b7539ba7ea1c7956.ctv
 Bein Sports 6 France (English)[geo-blocked],https://epg.pw/stream/97f98ae496def8de6dcf029cf26ae0f06df2a14f418d054664776b9efea44d4a.ctv
 Bein Sports 6 France (English),https://epg.pw/stream/f0eefaac02682fe4af62a1144b9b2ffd9610eedc78280841f56ce62d1d8f6e5b.ctv
+Bein Sports 6 France (English),https://epg.pw/stream/796db070a0ce755d5710fdf7799ebb92ad4ea6636766226614242b4aed169d8e.ctv
 Bein Sports 6 France (English),https://epg.pw/stream/791f7a1cd4d4517adc8ca3e6d66ebaa86c8d81644bd779402ab9c54c48f6f6fb.ctv
 Bein Sports 6 France (English),https://epg.pw/stream/406d94b74c082b722d347c6670c3b74b3532483e28e8bd69d3e4b0ae4f727800.ctv
 Bein Sports 6 France (English),https://epg.pw/stream/36d9f6ff9f5e59b537772495658d5cbdffbc9b325ed9ccf596a8b30ac4651473.ctv
@@ -996,18 +995,21 @@ Bein Sports 7 France (English),https://epg.pw/stream/3e161bdb383cd7925345cfb8945
 Bein Sports 7 France (English),https://epg.pw/stream/0e7d9fcdf5bc639f2e71563f3e7c643f9ea547db8e9e55f3a96f809bbe196c7d.ctv
 Bein Sports 7 France (English),https://epg.pw/stream/599d0b77ab1e3cbecb9c3dace8e42ca265590d5bb82def6cc975ff8497f0a226.ctv
 Bein Sports 7 France (English),https://epg.pw/stream/058cf11c6fe7587802a4753e00814394f4e129733cf88772722ca21edf023d13.ctv
+Bein Sports HD,https://epg.pw/stream/c9d0560e1b555ae73594c00941dbd284014652dca95b14ccf437a58cbc0b5d6d.ctv
 Bein Sports HD[geo-blocked],https://epg.pw/stream/d75e6f651ecdeb3cb4032703843d1fc0296d1d6d93163d71e1abb098253549b6.ctv
 Bein Sports HD[geo-blocked],https://epg.pw/stream/3089aee807319238188c6df7f63ac1b9b17060811bf2b841a3c238edaab36d14.ctv
 Bein Sports HD,https://epg.pw/stream/0ec57e669779c00e0a9864b4bd12d2ded59d2fc57524549ac0d588cbc79bbc0f.ctv
 Bein Sports HD,https://epg.pw/stream/86868be7cad236069930e7e4b2b5cbb6fb35b3fc8e78c906158c2f14ba160c2c.ctv
 Bein Sports HD[geo-blocked],https://epg.pw/stream/b33140dc5cdce63f19b4493825f0bacf3c9ff10844597d68c411e675e28e1168.ctv
 Bein Sports HD[geo-blocked],https://epg.pw/stream/245a13ad569388678afec9f4ff939008c59c831cb254825a5d94f49b89a96ddf.ctv
+Bein Sports HD,https://epg.pw/stream/72753159e2724ab2b265bda9786548eb894a4409cb588d12b5b782af37b605d0.ctv
 Bein Sports HD,https://epg.pw/stream/80bb2b778479d54c384878079c7d660216cbe5d2645d9f5ebd86f1b78e379f48.ctv
 Bein Sports HD,https://epg.pw/stream/bf2738ffa825e1916c6a66c2bb91a3c97180c5edc6723372ed0ee49569540653.ctv
 Bein Sports HD,https://epg.pw/stream/f3e8321e0cf2467172678ce2d8b702b810461d0e35c0d394574f6f0317a1a9ed.m3u8
 Bein Sports HD,https://epg.pw/stream/433d9f73d99b8340a9ba645eaec4be1134abe068c8aaa725bdd362359b540d67.ctv
 Bein Sports HD,https://epg.pw/stream/85cf4004a40f9dd5d83b77098676086473ce18795a8cdf600cefcb8f0a588301.ctv
-Bein Sports HD,https://epg.pw/stream/19026e3fe6055ff3e3c767d808a221460da14c2f5cbfe194d3552dcab5cc9e74.ctv
+Bein Sports HD[geo-blocked],https://epg.pw/stream/094f1e221e9aa6aa582c529d92c1409e47ebef9f274f8383362124e5979e06ac.ctv
+Bein Sports HD,https://epg.pw/stream/54a01f2c385d068aefe6804bd681dfdf267bda38fc74583fbb93ee28aafcf56d.ctv
 Bein Sports HD,https://epg.pw/stream/58e18d058ca7fd669740741c4832b4f1d07fe81fbebcfc20c0553c8816014adc.ctv
 Bein Sports HD 1 France,https://epg.pw/stream/f1b28d4f5bba4eaf38b26568ca1344904c9059698a13ea524e2f233d3ab612b7.ctv
 Bein Sports HD 1 France,https://epg.pw/stream/2c86324ff6853d0caebd3aa6845611aa5e442dff0dd39042a1165c6f7b56eb0d.ctv
@@ -1057,6 +1059,7 @@ RMC Sport France,https://epg.pw/stream/1a90d06e3edbe4570c1c419d012d8e74f23ccf303
 RMC Sport France,https://epg.pw/stream/9eb77ea361c3a4131e3bb34ff39e18a83b7ea8ea05ced109f1f09bd1800c7596.ctv
 RMC Sport France[geo-blocked],https://epg.pw/stream/2defc3b12589db0eab58ee5f99e50ac42ba6e7761fb42b93cdd0676b814b3a61.ctv
 RMC Sport France[geo-blocked],https://epg.pw/stream/0c950f54d3df66c4abf3f9aca6d9b51276b7a420a9e041c818ae7d88310558b5.ctv
+TF1 HD[geo-blocked],https://epg.pw/stream/5493fd1aafa22a8cde20612fb4f18df5446683e89044762cdbec25a98924946a.ctv
 TFX[geo-blocked],https://epg.pw/stream/491460dffefd5d12da0b2ff29e43ec5c2be75488c9b8daf344e76fd58c544472.m3u8
 TFX[geo-blocked],https://epg.pw/stream/c35e10d1324e27ca4e6e5a36c7c2aeb13f4fcf7ec3b56e10f1e80d115bdeb412.m3u8
 TFX[geo-blocked],https://epg.pw/stream/e176db9a0d479b871bbbd95a7b7c96f198e8959efa40742ad8732f36b885a991.m3u8
@@ -1078,11 +1081,13 @@ Trace Sports,https://epg.pw/stream/e7ddf6e7ff2a293c56c2e77b6ce75abc48e0ee650aef9
 Trace Sports,https://epg.pw/stream/ff3f35c00bc206f858940463951485a6f130b1d8b4a7b41fec4b0e9e94863ad2.m3u8
 as monaco tv,https://epg.pw/stream/7b4fe9c75509e7573a6d6f9c69b9d295da99eb0d4c342930ac45ef45cef55fbc.m3u8
 as monaco tv[geo-blocked],https://epg.pw/stream/d187aac01bffa911a44227760305a92351502afa159c0f1ffbb8fbb7959c9ffc.m3u8
+beIN SPORTS France[geo-blocked],https://epg.pw/stream/a9082c8171cac329a87f31458e726d386de8f7aa5ac6838f16205dbb96fdc2f5.ctv
 beIN SPORTS France[geo-blocked],https://epg.pw/stream/d6d97259b4e348a4c5df010cccb4b810b46ac6b4da7becdefcd6a13d3733f088.m3u8
 beIN SPORTS France[geo-blocked],https://epg.pw/stream/7b32c8dede4e1a540bb0cd30d71f615581c4d6167090f2152d89c5ca85a56d09.m3u8
 beIN SPORTS France,https://epg.pw/stream/cbced98a11397faa9512b322bdf7672e7b7e8870828ac27d8997a34b4b272d06.ctv
 beIN SPORTS France[geo-blocked],https://epg.pw/stream/c834160880f53fd909cef1bf036313e35c2d37c08c43baa3812c93b5f3fb4e81.m3u8
 beIN SPORTS France[geo-blocked],https://epg.pw/stream/acb5cf0aaa9c2607cbe9ef249c55468a59d46cd99c3b3cd39ddc45aa2ccae4da.m3u8
+beIN SPORTS France,https://epg.pw/stream/7effe1843e0a4822eb0da1946e82d384ac46f6a1dfaf4fbcf54c3685c239f94d.ctv
 beIN SPORTS France[geo-blocked],https://epg.pw/stream/69e4c19b67d442631bd05c01f69ffab9f9a0d47f8dbce08ad876cfa6ede91879.m3u8
 beIN SPORTS France[geo-blocked],https://epg.pw/stream/b532fb9d9774083f6effec64edc2d447cd5baa4c26d8ced2d7158092feca013e.m3u8
 beIN SPORTS France[geo-blocked],https://epg.pw/stream/652faf84da0925c02ff0b205cae6fd1fd8b82fa1abcf3265411f725b6eb53868.m3u8

@@ -33,6 +33,8 @@ https://epg.pw/stream/54bb1e1625a9f9dbbc2523d716f28aafd261bfe7e0e4b460a323cd16b1
 https://epg.pw/stream/aac7a6aebf8d9ebe2ce595abaf3ddb09e50413e2a30993f87dd0c3a91ac04983.ctv
 #EXTINF:-1 tvg-name="ANTV" tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044510252072_92.png" group-title="Other",[VGA]antv[geo-blocked]
 https://epg.pw/stream/62a06e84a1d8f592de6a27646ae1f07227f56623b9eb3cbd9a9940aa5f1bc930.ctv
+#EXTINF:-1 tvg-name="ANTV" tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044510252072_92.png" group-title="Other",[HD]antv@@6
+https://epg.pw/stream/17531a2bb8c789a5b9dce05e426293a2d52882266607e830cb52bd53e81a186d.m3u8
 #EXTINF:-1 tvg-name="ANTV" tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044510252072_92.png" group-title="Other",[VGA]antv@@3
 https://epg.pw/stream/a88f0a4ae10583eb02511427be5a366c9ae924a2916b36d993c6c4031fe9fe17.ctv
 #EXTINF:-1 tvg-name="ANTV" tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044510252072_92.png" group-title="Other",[HD]anitv[geo-blocked]
@@ -165,8 +167,6 @@ https://epg.pw/stream/349cdaacb9b99a2d43da3536cbdc9415c679d2384117c0fb5296c9971c
 https://epg.pw/stream/f491e37d99adc1bb42f0dcc67cb9f0bc2068c71e3433dd5da78b8abedded7dea.ctv
 #EXTINF:-1 tvg-name="K+1 HD" tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/img/logo/K1_1.png" group-title="Sport",[SD]paramount full hd@@1
 https://epg.pw/stream/9effc20832384ee2038725af6bfb1b6845203656ec73281a83f5c9a9e0a2f529.ctv
-#EXTINF:-1 tvg-name="K+1 HD" tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/img/logo/K1_1.png" group-title="Sport",[HD]la ley de milo murphy serie temporada 1 hd 24/7.
-https://epg.pw/stream/35cf3c9ff8c425bcb50913ee2f313c81a0b824bafbb3313e515e5360a0948db3.ctv
 #EXTINF:-1 tvg-name="K+1 HD" tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/img/logo/K1_1.png" group-title="Sport",[BD]m+ fest full hd@@1[geo-blocked]
 https://epg.pw/stream/3202c62761e7af18634be45e8bde3374425c9f485cb99013511c9b418e20d932.ctv
 #EXTINF:-1 tvg-name="K+1 HD" tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/img/logo/K1_1.png" group-title="Sport",[BD]m+ comedia full hd@@1
@@ -275,9 +275,9 @@ https://epg.pw/stream/69b1d765c5efff1bd328e057eecdf880532a9a01e6b52136be8e8bada0
 https://epg.pw/stream/244a359b2d3806c8af71d73096b4d834c0628303f72f9db68bfbf931ae0c5d2c.m3u8
 #EXTINF:-1 tvg-name="LEDO TV" tvg-id="" tvg-country="Vietnam" tvg-language="Tiếng Việt" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/05/09/20170509164912652164_23.png" group-title="Test",[HD]playmedios tv
 https://epg.pw/stream/f8e9a717ac3c87ce8d0d8898ca385b3640c8fb3816be40f11ab1ebb21cea5409.ctv
-#EXTINF:-1 tvg-name="LEDO TV" tvg-id="" tvg-country="Vietnam" tvg-language="Tiếng Việt" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/05/09/20170509164912652164_23.png" group-title="Test",[BD]leo tv fhd@@1[geo-blocked]
+#EXTINF:-1 tvg-name="LEDO TV" tvg-id="" tvg-country="Vietnam" tvg-language="Tiếng Việt" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/05/09/20170509164912652164_23.png" group-title="Test",[HD]leo tv fhd@@1[geo-blocked]
 https://epg.pw/stream/4105fe72afdb930cb3f54a8fd7181958d10026cb4314a2cc9955e1255dbc503e.m3u8
-#EXTINF:-1 tvg-name="LSTV" tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/23/20150823000338387683_56.png" group-title="News",[HD]lasstv
+#EXTINF:-1 tvg-name="LSTV" tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/23/20150823000338387683_56.png" group-title="News",[SD]lasstv
 https://epg.pw/stream/cd8679c55e2a3e6411f05e7fab58a2354829ef2868b78d47db225c1fa326b202.m3u8
 #EXTINF:-1 tvg-name="LSTV" tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/23/20150823000338387683_56.png" group-title="News",[HD]lasstv@@1[geo-blocked]
 https://epg.pw/stream/dddba7a9d154bef4001e7b88ed6e93216336823afbba9dbbb8484288f7f847c5.m3u8
@@ -427,8 +427,6 @@ https://epg.pw/stream/7b9f01543eda00ea2ac4b68584e7a8cfa526f796826ef56f3354a6014d
 https://epg.pw/stream/de972a5f25a10051cebde76c56d0d82abdc686d55df6121bdc5bdb43b452d0e7.m3u8
 #EXTINF:-1 tvg-name="VTV4" tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/images/channel/2022/06/02/large/20220602005046296608_53.jpg" group-title="Cartoon",[SD]tv4 (360p)[geo-blocked]
 https://epg.pw/stream/f8d58bc2979773b43c432a0f6fd6c8300873eca5fdb74c79dc1cff5a24398ce6.m3u8
-#EXTINF:-1 tvg-name="VTV4" tvg-id="" tvg-country="Vietnam" tvg-language="Vietnamese" tvg-logo="https://epg.pw/media/images/channel/2022/06/02/large/20220602005046296608_53.jpg" group-title="Cartoon",[SD]tv4 svensk politik (720p)[geo-blocked]
-https://epg.pw/stream/260cef090907a26815a0dae1b4a5708e941d6879d136dff22338c3d22a405721.m3u8
 #EXTINF:-1 tvg-name="VTV5" tvg-id="" tvg-country="Vietnam" tvg-language="Tiếng Việt" tvg-logo="https://epg.pw/media/images/channel/2015/12/23/large/20151223174830601829_54.jpg" group-title="Generic",[HD]VTV5 TÂY NGUYÊN
 https://epg.pw/stream/929f74397f5664cef5e543b8d486403914483415ae0c4c80b481b5e45c80dcd2.m3u8
 #EXTINF:-1 tvg-name="VTV5" tvg-id="" tvg-country="Vietnam" tvg-language="Tiếng Việt" tvg-logo="https://epg.pw/media/images/channel/2015/12/23/large/20151223174830601829_54.jpg" group-title="Generic",[HD]VTV5 TÂY NAM BỘ HD
