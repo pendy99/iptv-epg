@@ -16,7 +16,6 @@ Biggs,https://epg.pw/stream/fb9cfcd1003361e9253269526a6b84516e7a202d15d497e4aa8c
 Biggs,https://epg.pw/stream/6d4c84b5d4618a7e4ea4afa35e51da3f419d37087dca9e9d994b0bb563a999fa.ctv
 Biggs,https://epg.pw/stream/b07c663a9b00b3fa85d637c2f1bdff7aea21d689885bb62baddad7be8d98e31a.m3u8
 Canal Panda,https://epg.pw/stream/4581e1cb8b991a5b999c969912602088de4b29848e5dc6a9fddc621d7f0afacc.ctv
-Canal Panda,https://epg.pw/stream/4924850a3b574751a165ebfe3f19610148548b4c01e87b91f16ae1658a77a03d.ctv
 Canal Panda,https://epg.pw/stream/e41763612a5086a141561b4b67de3ff4053f00ffc0e3052e9ade558766d2370a.m3u8
 Canal Panda[geo-blocked],https://epg.pw/stream/dcef0b2ebb2123a3071a05d2ded11864709ca7f34087dec8c783d64a6a4f6ce0.ctv
 Canal Panda[geo-blocked],https://epg.pw/stream/586a796a6ce6c4a0833efa6f41b3e9856b7aecbd91488e771854100308014bc6.ctv
@@ -75,6 +74,7 @@ RECORD 1 PT[geo-blocked],https://epg.pw/stream/e7494507754754b577f92c7967c468645
 RECORD 1 PT,https://epg.pw/stream/89288e0520e1d968db73e9a9bfaa6ac360ff319c8f37d385f0893b9d55538f28.m3u8
 RECORD 1 PT,https://epg.pw/stream/7652a86cd290259ecf838dc8091898f99416d02531e61a84c36f987c4258beeb.ctv
 RECORD 1 PT,https://epg.pw/stream/d226379f80796d5f34656d3118cc9808c3213ab7791a83c1549853f2960ab3cb.ctv
+SIC MULHER 1 PT,https://epg.pw/stream/849eb504a02540d7c371e15daa939fd0dc9619b6792ec211c4a5a4efc5a2cbf7.ctv
 SIC RADICAL 1 PT[geo-blocked],https://epg.pw/stream/dba2fca9d3ecb5c9beb1ff29c4f4a27c3f54a0ed83022c5eb007a460bbf140e0.m3u8
 SIC RADICAL 1 PT[geo-blocked],https://epg.pw/stream/ca9cea6d5f94e38ded5972989cfccc157cf7b0b0210b73d36ff38658107bbda4.m3u8
 SIC RADICAL 1 PT,https://epg.pw/stream/17bcb8c2e9ea3c29d106949903528b47615e27a2b3991cb6e7c59088d590ad06.ctv
@@ -159,6 +159,7 @@ RTP Madeira,https://epg.pw/stream/275ab9235b75f2f7ad1615650cc4a392eae942edf58fbe
 RTP Madeira,https://epg.pw/stream/bed68e6be37e8adfa80cef64e199f961315657f220b913110301cdfa87ff724c.ctv
 RTP Madeira[geo-blocked],https://epg.pw/stream/3e653fd07ca4dbf4ac94d803c49f9b007b7614809f452ac360672675fb4b007e.m3u8
 RTP Madeira,https://epg.pw/stream/a47842ca5fbda775328c7fe8df3d38129d8094e04e603ac51519df083f2ad9a8.m3u8
+RTP Memoria,https://epg.pw/stream/119ded21278aebc1bf3132ce9bb3acf9bd4f4420e7f26366298d7957ef2507b6.ctv
 SIC,https://epg.pw/stream/db2b82469ce804e1c366d900bc198f1d2683ff42bab024d66ae3f25f0a6862fc.ctv
 SIC,https://epg.pw/stream/bf28c052fc12c34e021d46d3b1334b6d25c70fb8e67ba08b90eaea64f28d7e1b.m3u8
 SIC,https://epg.pw/stream/955e3b82520a4db906e7ea644392b3842ac0c4cfc8b0316b0ec4fc138b1af775.m3u8
@@ -167,7 +168,6 @@ SIC,https://epg.pw/stream/c69c5a6e71fb0763e73b123251ded40a4ee53198764307e34288f7
 SIC,https://epg.pw/stream/8d70281cbe405daa0dc180644a460dc66099a708297f3aa3a2b56cc3cc59aa5a.ctv
 SIC,https://epg.pw/stream/6dadbcfe0322f46036b13ab4622f8a28a5406d283a274b30b5df943233911d8a.ctv
 SIC[geo-blocked],https://epg.pw/stream/789df18e810eda32a439c3f7dc6767f81a19df4b1734f4b7a5e4c5a9fb5231af.ctv
-SIC,https://epg.pw/stream/0130421f8a8149e4af6cb1842e5bb5c9b30f3cff46983dbb0c7d4c54e5df6eda.ctv
 SIC[geo-blocked],https://epg.pw/stream/5665f7101402e1d203ffd2727b32b6b8516e05e5f938763d19de5bb2627e53a0.ctv
 SIC Caras,https://epg.pw/stream/08df2d6f97313b315d6cb7299789b2b1d4ae249bb80d44758199cbbd061c2cf1.ctv
 TV Cancao Nova[geo-blocked],https://epg.pw/stream/05c31d7d714707fb19f8e611f679f5230b9cf1236b50a917d77376fc79ecd13c.m3u8
@@ -182,7 +182,6 @@ TV Fatima[geo-blocked],https://epg.pw/stream/a0f0f9df9cef38f54d8f3814081afd99186
 TV Fatima[geo-blocked],https://epg.pw/stream/05f4e92d33795da16e0d671d2cc77ecb7b8e866f76fde785d9325bd33954c90c.m3u8
 TV Globo Portugal[geo-blocked],https://epg.pw/stream/5ddd67d2dcfa61597f81a8afa35f3ff0ff29aa95c47e8fd8fb15c76c1cbfc1bf.m3u8
 TVI[geo-blocked],https://epg.pw/stream/6e37c6e671f0118466a2ba5f831eb03b088a40afe714af3fffd890dc08aea1f7.m3u8
-TVI,https://epg.pw/stream/66bb291a1f50066e8ab59b5b789e4e2c488614dd3ff311de41ee971d28884bfe.ctv
 TVI,https://epg.pw/stream/e60cfcb93231a90138058f3b7502dd5607789eda2ba877fa52fd84030b11d433.ctv
 TVI,https://epg.pw/stream/948dbd09f039b587d68ee9f65d8b5442fc514371abd293a4a6be76a5038a27c5.ctv
 TVI[geo-blocked],https://epg.pw/stream/138143857a5fd5c3a2931fd21fdcc2e635c828897bd42533352cba43454ec115.m3u8
@@ -268,6 +267,7 @@ CM TV,https://epg.pw/stream/425f91586f3bb5830788b5535264f22e71b515dcce9c8fbb0961
 CM TV,https://epg.pw/stream/002ac30a88d8848fa9e428a1cc8202090dbf75f8e6890a9a53210b59423cfdb3.m3u8
 CM TV,https://epg.pw/stream/dd93c370c61cf90ac5b0615e63565e7fb695862a7a18480ebbb4da3726225d9b.m3u8
 CMTV Portugal,https://epg.pw/stream/ba2e70c5d46eb20366da166f8211bcfdc700d28f7834937f6ee7c556fae38170.ctv
+CMTV Portugal,https://epg.pw/stream/bce258bf9bcf4f4595d4e7e97889d3e72e75db7b40d27b08baface808bbd2421.ctv
 Canal Parlamento Portugal,https://epg.pw/stream/257d8cf6a3359ce8c0d8bcbefdc9afd041f83e5ff89e25fed26260fd87d2b999.m3u8
 Canal Parlamento Portugal[geo-blocked],https://epg.pw/stream/3eb3d1fc8ff65fa4ce0ec85e647e02a20cb962246c49406d82f42c26608c1172.m3u8
 Canal Parlamento Portugal,https://epg.pw/stream/01164728b2cb3e644e3ee99e1acea37472d61aa9a39419a9be7b0392013213f3.m3u8
@@ -276,7 +276,7 @@ Euronews Portugal[geo-blocked],https://epg.pw/stream/997908dce83c483cf6770d9cd63
 Euronews Portugal[geo-blocked],https://epg.pw/stream/045b1553819637dc0ee2b65084432ff506bd59002a5b44940588127e43eaadfa.m3u8
 RTP Informacao[geo-blocked],https://epg.pw/stream/05865534b168af210dda731097683a6f221f2d28302a943022732309254ae660.m3u8
 Rede Mercosul[geo-blocked],https://epg.pw/stream/98c51c515885cd84eb1af8f95cd180235e7906ca81ef99d0df8b79ab665c50e9.m3u8
-SIC NOTICIAS 1 PT[geo-blocked],https://epg.pw/stream/a7d3e7310355ee72ce2d17a9798663b11ad9f5dfd2676785e76887d464e9ec49.m3u8
+SIC NOTICIAS 1 PT,https://epg.pw/stream/baa49e304d9b66abd4bc34dd3cbce1f8733e4ac0dd6fce46a80bb7daca04e76b.ctv
 Other,#genre#
 ARTV[geo-blocked],https://epg.pw/stream/a9665b87ebf4dbcd36a97da458b974a9258d2af16c6dfe44d9ce4be4aa742f43.ctv
 ARTV,https://epg.pw/stream/82506dc33c772272ac9d8b2ac58964828d81ecd3736f2c2ef20efd92a4772efc.ctv
@@ -310,11 +310,8 @@ EUROSPORT 1 Portugal,https://epg.pw/stream/4da71bc7280e1eb6e55327dafc3fffb821ebf
 EUROSPORT 1 Portugal,https://epg.pw/stream/7032f57abd0043f8800656b5cb4daed4a9eb96f575331996fc69f04e4836b0de.ctv
 EUROSPORT 1 Portugal,https://epg.pw/stream/1714c7b0cd3bcf49016786103616589e186c74a36eafc9de1b43136d3135e1df.ctv
 EUROSPORT 1 Portugal,https://epg.pw/stream/4f370944e5ab379610e7c207a6c1aeb463a7a5e3f41c598dcaebf6c04f13f038.ctv
-EUROSPORT 1 Portugal,https://epg.pw/stream/79d0360c5fb002881f2914f1640dd8e7acf5e590ad756ebdb2a932e5dc803898.ctv
 EUROSPORT 1 Portugal,https://epg.pw/stream/50fdbfb7b7d1c3852ca88eaaf8e0918b13e6e1144c6697f10ea3ef1d90bab8eb.ctv
 EUROSPORT 1 Portugal,https://epg.pw/stream/ab41da9b3c09d9ee253646a0d5333fafcb95761b557080d15083fabe942dc491.m3u8
-EUROSPORT 1 Portugal,https://epg.pw/stream/3d4e4ddf4cb02460cd3d9cbc4140f5b17eb45e6fa6e99d7cf1fe9c254d401316.ctv
-EUROSPORT 1 Portugal[geo-blocked],https://epg.pw/stream/32f58bc7b3fafe2940c2f4249faaee6161ff4dcd070523965eb149f91c3a9797.ctv
 EUROSPORT 1 Portugal,https://epg.pw/stream/1b3ba1d23d38fa542c5dcfb4c8630bfd5573052a3f7ff43038e5e9769ac0ca6c.ctv
 EUROSPORT 1 Portugal,https://epg.pw/stream/40d9de846778e7a47ddd83a16e7cd3c4131dd872ac0c5076484fe765033752dc.m3u8
 EUROSPORT 1 Portugal,https://epg.pw/stream/b79c38c942524904a4e0516c6343e0295facb83a28c4af669b8d7d27803d708a.m3u8
@@ -340,8 +337,8 @@ Porto Canal,https://epg.pw/stream/129100b37d3eb1970cb6741f68150d6c82cac6254c3419
 Porto Canal,https://epg.pw/stream/aff2636ee86bf5f2e680b9299817c1e55bedc869682f2d9f8f057f74ac62f1b9.ctv
 Porto Canal,https://epg.pw/stream/e9eb6e2cf915e73ba8abc01ea67b2a089db482fadfe75cc1cf053565004980ae.ctv
 SPORT TV 4 PT,https://epg.pw/stream/086a5846500eed61c62ae1da904a58fb462142b732eb709384a5fa81a36259f0.ctv
+SPORT TV 5 PT,https://epg.pw/stream/69809136bf0ec912895860a6ae25a29b1d71f5038c77c93c6a2d8544f38d03be.ctv
 SPORT TV 5 PT,https://epg.pw/stream/23a3fa980a64edb67aba1925cae6a70aa14aeb723fce7187f52a9e8cc23713ba.ctv
-SPORT TV 5 PT,https://epg.pw/stream/16e22162a4f9584f9fd4f5e0c972a8be420cc633daf2b561c5c90b3fc951abc2.ctv
 SPORT TV 5 PT,https://epg.pw/stream/26f0ddaf609e76b863dee02b364d5af1f1355927b55e7f1034b8a46b7f0957c5.ctv
 Sport TV 1[geo-blocked],https://epg.pw/stream/e3e1573a145214468bc74226d4c7bff27578af1d4e0b63031afc0cf9d5ee2b38.ctv
 Sport TV 1,https://epg.pw/stream/099f06bbf7a5f043c0a117dd148bd5b637c9c67cf6eb23a4f5a1c4fb46a5997b.ctv
@@ -388,6 +385,7 @@ Sport TV 3,https://epg.pw/stream/9d254b8c54f3d69da2f3694c4922749bbbba4db9a78f593
 Sport TV 3,https://epg.pw/stream/a2d72de11cb4bf3b9557f75224d6474e9077dbdc160435ac8c0067f76976764e.ctv
 Sport TV 4[geo-blocked],https://epg.pw/stream/7e3f34627d4848c8b3fefbcf0c40487d5f330ec7e493536577eb45f3c8f0911f.ctv
 Sport TV 4,https://epg.pw/stream/250494a7e85d4cd24f0e2b5a18bd825656fb78bbffc0aa7356aeaccf5a1c9e7d.ctv
+Sport TV 4,https://epg.pw/stream/9d1c5629a268bf31df6877ff589585b8898715bf519a1b2a0dfa06b0b9a11102.ctv
 Sport TV 4,https://epg.pw/stream/949c49c7ddf7e94d416898a069694c0fff5bf1268cbe88dc204a4dfbfe87747d.ctv
 Sport TV2,https://epg.pw/stream/aa86c83297c15aab1a3096fc6187ceac62ee58a4f04d829ff7d8c936c1199210.ctv
 Sport TV2,https://epg.pw/stream/f7aad79aa86372fa7c716e5c2b6b13d9d1fcbc282df34a13d3e7e05b7ec5d91c.ctv

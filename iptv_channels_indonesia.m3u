@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-name="ADITV" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/images/channel/2019/01/06/large/20190106151506505589_72.png" group-title="Other",[BD]印尼-aditv
+#EXTINF:-1 tvg-name="ADITV" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/images/channel/2019/01/06/large/20190106151506505589_72.png" group-title="Other",[HD]印尼-aditv
 https://epg.pw/stream/a8b99217a72d8b9d9b084cb8231293c596b26d053f7681d444fe454aae8377c0.m3u8
 #EXTINF:-1 tvg-name="ANTV Indonesia" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/01/20150901235624453824_73.png" group-title="Generic",[HD]axn indonesia[geo-blocked]
 https://epg.pw/stream/6ce9f9cac80ff3c32274ebfc9e01957fb28ed085d1cb7a21e7432da20d7e21cc.ctv
@@ -103,8 +103,6 @@ https://epg.pw/stream/58a3b4972230f9bb9aacbe609c6dcd4f98c6c09ab64cbcc08c421b1ab9
 https://epg.pw/stream/6db3706166029bec5a55f77f62e1bb892a0936cea973203b4d91d6914c5941a0.m3u8
 #EXTINF:-1 tvg-name="CNN Indonesia" tvg-id="63435" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173712756710_20.png" group-title="News",[HD]CNN Indonesia (720p) [Geo-blocked][geo-blocked]
 https://epg.pw/stream/dde4010843fa93dc08071b6a37749bb81a2bfee2191984f8fe39e89c877c3d26.m3u8
-#EXTINF:-1 tvg-name="Elshinta TV Indonesia" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105152809319655_78.jpg" group-title="Generic",[VGA]elshinta tv[geo-blocked]
-https://epg.pw/stream/ad67d882df4477628585912212e0906a3bec5f0d415d093c6385dbda53ec1a39.m3u8
 #EXTINF:-1 tvg-name="Elshinta TV Indonesia" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105152809319655_78.jpg" group-title="Generic",[VGA]Elshinta TV (480p) [Not 24/7] [Geo-blocked][geo-blocked]
 https://epg.pw/stream/0fd065575be21e741cd663150a57912d77ea856646173bd70d7d494c16f4a9af.m3u8
 #EXTINF:-1 tvg-name="Indosiar" tvg-id="63463" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/images/channel/2022/11/25/large/20221125163852938017_36.png" group-title="Generic",[VGA]indosiar@@2[geo-blocked]
@@ -207,8 +205,6 @@ https://epg.pw/stream/32cbc6bbac2e52419baa75014524396b1211298cae30918bc9ec806b5a
 https://epg.pw/stream/656073be173d745801a6e782ba71c0a86221b1eb999534cd36333be5b27c4833.ctv
 #EXTINF:-1 tvg-name="MNC News TV Indonesia" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021120059929931_71.jpg" group-title="News",[BD]mnc tv@@3[geo-blocked]
 https://epg.pw/stream/e6d3111aa85fcdffebced5a3454024b1de5e576cc05ca39e1445d6df0b2350b0.ctv
-#EXTINF:-1 tvg-name="MNC News TV Indonesia" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021120059929931_71.jpg" group-title="News",[HD]mnc news@@4[geo-blocked]
-https://epg.pw/stream/b719d3e189477345a8800b351b9a390f001a5ff6a4fd59927201e5c0e46808b1.ctv
 #EXTINF:-1 tvg-name="MNC News TV Indonesia" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021120059929931_71.jpg" group-title="News",[HD]mnc news[geo-blocked]
 https://epg.pw/stream/f22cd54f2acebad36869015d7942d91a25b250bd59cb756f150944c7d2730bea.ctv
 #EXTINF:-1 tvg-name="MNC News TV Indonesia" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021120059929931_71.jpg" group-title="News",[HD]mnc news@@8[geo-blocked]
@@ -507,8 +503,6 @@ https://epg.pw/stream/024c640366b961994d7045d8a901c7eefd53792a2b4903a3def9eab907
 https://epg.pw/stream/53d2cb98b08aea11d7a9ae3eb05fe7f09edb1dba4e08fbca2913991fcb6ed2d8.ctv
 #EXTINF:-1 tvg-name="beIN Sports 3 ID" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022302854916_87.png" group-title="Sport",[SD]bein sports 3 hd@@8
 https://epg.pw/stream/fbe317699def0ea5900329537c4a72dcc57e56e75429e0232b5ddf7f16c65963.ctv
-#EXTINF:-1 tvg-name="beIN Sports 3 ID" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022302854916_87.png" group-title="Sport",[BD]bein sports 3 sd@@3
-https://epg.pw/stream/02cbd5ab530cb8b68842d466bc19547d480fa3385b462816ec635793a6e7f685.ctv
 #EXTINF:-1 tvg-name="beIN Sports 3 ID" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022302854916_87.png" group-title="Sport",[BD]bein sports 3 hd@@4
 https://epg.pw/stream/b12eef231efb80d1149e4b4ca65e0d2cf71fd0091307b5a18ba3ec64a51d5d07.ctv
 #EXTINF:-1 tvg-name="beIN Sports 3 ID" tvg-id="" tvg-country="Indonesia" tvg-language="Bahasa Indonesia" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022302854916_87.png" group-title="Sport",[HD]bein sports 3 hd
