@@ -47,7 +47,7 @@ https://epg.pw/stream/3909fb527817dc6fd97edeaf20e7ed067990afdd98b923e7ee63980bdb
 https://epg.pw/stream/8fd3e353487e01b95c1e3b4b44286ae6baa3d12e613fd33a5ecec7c37fc84906.ctv
 #EXTINF:-1 tvg-name="BBC Arabic" tvg-id="" tvg-country="Canada" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174501460740_71.png" group-title="News",[SD]BBC Arabic (540p)[geo-blocked]
 https://epg.pw/stream/740b4a4b3a6315361d6724b27ff86a40452256adc8b3a7106cb08ab12aa7d0b9.m3u8
-#EXTINF:-1 tvg-name="BBC Arabic" tvg-id="" tvg-country="Canada" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174501460740_71.png" group-title="News",[SD]bbc arabic@@3[geo-blocked]
+#EXTINF:-1 tvg-name="BBC Arabic" tvg-id="" tvg-country="Canada" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174501460740_71.png" group-title="News",[VGA]bbc arabic@@3[geo-blocked]
 https://epg.pw/stream/88838e950dde34bcd0941af2cf849181d04c57ee3875cfeaa2cce6305df1ad1a.m3u8
 #EXTINF:-1 tvg-name="BBC Arabic" tvg-id="" tvg-country="Canada" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174501460740_71.png" group-title="News",[HD]bbc arabic (720p)[geo-blocked]
 https://epg.pw/stream/0147c5627417888ef66cee2d6bbafcf0035a70e3ece6386bafde425e9ef18a4f.ctv
@@ -359,7 +359,7 @@ https://epg.pw/stream/0469f7fd3d2b002788f2fa4b6c7a2beaa14e44f0290a071177dbf755b9
 https://epg.pw/stream/20356e892e223569225ac7ce246afd7a880fe65d9f26e7a8ffcb7333bc2603eb.ctv
 #EXTINF:-1 tvg-name="TSN2" tvg-id="" tvg-country="Canada" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/09/20150409064218686481_76.png" group-title="Sport",[HD]tn23@@1[geo-blocked]
 https://epg.pw/stream/37742bbd3f5015714b717b0719ad9bf857d71e59d8b1de80d81039cd9c67e86d.m3u8
-#EXTINF:-1 tvg-name="TV5 Canada" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085726471243_61.png" group-title="News",[SD]tv 5 kannada
+#EXTINF:-1 tvg-name="TV5 Canada" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085726471243_61.png" group-title="News",[VGA]tv 5 kannada
 https://epg.pw/stream/c0eeb1d8ad61c2320163492fb6b420717aed46bd564556b6b2e93a15a1477f08.ctv
 #EXTINF:-1 tvg-name="TV5 Unis" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085713816535_25.png" group-title="News",[HD]uni teve[geo-blocked]
 https://epg.pw/stream/8822a0f91877f02915bb7adc0f6839ff0cece7fe5294fba47b8fe4d6a41bf43a.m3u8
@@ -407,11 +407,13 @@ https://epg.pw/stream/661fecaa52442d9fd7719dbfce04cccdae00e7e147a03d12b51db20d55
 https://epg.pw/stream/53c8495aad692f4f4668546e8ccc4b5de8ed3852e4b1545b60611ef6686175e3.ctv
 #EXTINF:-1 tvg-name="TeleToon Canada" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/09/22/large/20220922235927563406_48.jpg" group-title="Other",[SD]ca| teletoon hd[geo-blocked]
 https://epg.pw/stream/c8d6cf9aa650e79ccf867973f060dd782420753a3671b86bc4f4e8cfdfd0fef1.ctv
+#EXTINF:-1 tvg-name="Treehouse" tvg-id="50239" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152221583956_87.png" group-title="Cartoon",[BD]house[geo-blocked]
+https://epg.pw/stream/eeefe90b43dcba1910f3140b57cbb530f513a52244a13b232d1cd5db1b7c25ee.m3u8
 #EXTINF:-1 tvg-name="Treehouse" tvg-id="50239" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152221583956_87.png" group-title="Cartoon",[SD]ca| treehouse hd[geo-blocked]
 https://epg.pw/stream/b78c09cd0c9c8e65e346f1526d3ea7f2569aa2805de085ebb9120eac4cf825b7.ctv
 #EXTINF:-1 tvg-name="Treehouse" tvg-id="50239" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152221583956_87.png" group-title="Cartoon",[SD]treehouse@@1
 https://epg.pw/stream/d911675554908537c5458494defed1a41d88e696eb0a2ee4c4c7fa181721b6a1.ctv
-#EXTINF:-1 tvg-name="Treehouse" tvg-id="50239" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152221583956_87.png" group-title="Cartoon",[HD]treehouse
+#EXTINF:-1 tvg-name="Treehouse" tvg-id="50239" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152221583956_87.png" group-title="Cartoon",[SD]treehouse
 https://epg.pw/stream/15cd030f058735c68bf2719a8516bafad150e9f44b092ac2951c38c4b1181904.ctv
 #EXTINF:-1 tvg-name="YTV" tvg-id="" tvg-country="Canada" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/09/16/20180916121125390358_33.png" group-title="Cartoon",[SD]ca| ytv hd[geo-blocked]
 https://epg.pw/stream/a73289cd70471d0b918504368f8c5d92be77f5786bce16c32303e1cf1ca3e9d4.ctv

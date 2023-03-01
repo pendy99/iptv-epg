@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="ARTV" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/01/25/20150125083354716824_71.jpg" group-title="Other",[SD]ca| ici artv hd (fr)[geo-blocked]
 https://epg.pw/stream/a9665b87ebf4dbcd36a97da458b974a9258d2af16c6dfe44d9ce4be4aa742f43.ctv
+#EXTINF:-1 tvg-name="ARTV" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/01/25/20150125083354716824_71.jpg" group-title="Other",[SD]artv@@1
+https://epg.pw/stream/82506dc33c772272ac9d8b2ac58964828d81ecd3736f2c2ef20efd92a4772efc.ctv
 #EXTINF:-1 tvg-name="ARTV" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/01/25/20150125083354716824_71.jpg" group-title="Other",[SD]artv
 https://epg.pw/stream/aadd2a35cc8e0c43a365bdf0aa7b01ea411c6c076d3367269fbb337f4ec98b48.ctv
 #EXTINF:-1 tvg-name="AXN BLACK Portugal" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/14/20150414223523278510_69.png" group-title="Movie",[SD]axn black@@3
@@ -17,7 +19,7 @@ https://epg.pw/stream/c09c9f05e6a1a5828cd6833328c5c10c3012b508c50411382feb9d4ca4
 https://epg.pw/stream/fc0809f4c571e5d988225059e6e75fdea46bb80673fe28f75cc2f0d6fb700885.ctv
 #EXTINF:-1 tvg-name="AXN WHITE Portugal" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/14/20150414223608152138_90.png" group-title="Movie",[HD]axn white hd@@7[geo-blocked]
 https://epg.pw/stream/90ebfee282bc230fc4f4102fd16811fc8c9ae7d07e608c46d7fccc3a87becb8e.ctv
-#EXTINF:-1 tvg-name="AXN WHITE Portugal" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/14/20150414223608152138_90.png" group-title="Movie",[HD]axn white hd@@6
+#EXTINF:-1 tvg-name="AXN WHITE Portugal" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/14/20150414223608152138_90.png" group-title="Movie",[BD]axn white hd@@6
 https://epg.pw/stream/97b56e399673fe8ffc0f32f392f608814e5eeb6f4742676a251b8c67b1f06324.ctv
 #EXTINF:-1 tvg-name="AXN WHITE Portugal" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/14/20150414223608152138_90.png" group-title="Movie",[BD]axn white hd@@5[geo-blocked]
 https://epg.pw/stream/eeb4fe026ba2c3756d133f44f6686e5384eed5582572cf66a8e9402a789d4c7c.ctv
@@ -177,7 +179,7 @@ https://epg.pw/stream/4fec45c1b5c845fd5eb393551852f5422e790831935f76e9cf38eb89e7
 https://epg.pw/stream/0be3387610bc17d3a8e8d5589a2fc338a69c419c47b62525c03b7ebbf28977ba.m3u8
 #EXTINF:-1 tvg-name="FOX LIFE 1 PT" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/14/20150414232930914993_71.png" group-title="Movie",[BD]fox life fhd
 https://epg.pw/stream/5d0787da343603abc1faf62f7b93f90d59b89eccdd16f3a4d571ba7802ed72de.ctv
-#EXTINF:-1 tvg-name="FOX LIFE 1 PT" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/14/20150414232930914993_71.png" group-title="Movie",[BD]fox life hd@@1[geo-blocked]
+#EXTINF:-1 tvg-name="FOX LIFE 1 PT" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/14/20150414232930914993_71.png" group-title="Movie",[SD]fox life hd@@1[geo-blocked]
 https://epg.pw/stream/fdc730b8190f8b602e588d4b56e238ce9ede44aae0882b3a0f4eea6720f03a3a.ctv
 #EXTINF:-1 tvg-name="FOX LIFE 1 PT" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/14/20150414232930914993_71.png" group-title="Movie",[BD]fox life hd@@6
 https://epg.pw/stream/e2b683a7f0cf0ea2c9ea14def082e87adbe3468d0d9712ed537f70375e5f6f84.ctv
@@ -247,7 +249,7 @@ https://epg.pw/stream/b543fae0370712bfd07a35c8a680a8694e7a510912a2cfbff1282923c2
 https://epg.pw/stream/b51b9911c35639df9533b6121412a0e2067090b330892c35ad17561a19060aa5.m3u8
 #EXTINF:-1 tvg-name="Leiria TV" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/01/28/20180128085536646872_39.jpg" group-title="Generic",[HD]energia tv@@1[geo-blocked]
 https://epg.pw/stream/11de6ca9d018b3b5ab5ea1b32099147816f2b50603e3350f0a0a02807075767b.m3u8
-#EXTINF:-1 tvg-name="MAIS TVI PT" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/15/20150415002125600542_16.png" group-title="Entertainment",[HD]mais um
+#EXTINF:-1 tvg-name="MAIS TVI PT" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/15/20150415002125600542_16.png" group-title="Entertainment",[VGA]mais um
 https://epg.pw/stream/5f3ac15665de17039362570873c18bd9ee6b8253e47b798363f69e35188729ad.m3u8
 #EXTINF:-1 tvg-name="MANA " tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506163107350855_72.png" group-title="Generic",[BD]24 7 ana@@1
 https://epg.pw/stream/aba0a82e245b9b77cb86ccf29f5352f5a2beec3dfb95678646cfffb67f0fde79.ctv
@@ -387,6 +389,8 @@ https://epg.pw/stream/96ae3a67ce496786d494df2d4c2625073c74019ddef815a4ccf2ab026d
 https://epg.pw/stream/92fab694b9becc2ee026e0c60bee291dfd01baada311475cf308951814bf9890.ctv
 #EXTINF:-1 tvg-name="RTP Acores" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613180645462298_93.png" group-title="Generic",[HD]rtp acores@@2[geo-blocked]
 https://epg.pw/stream/cb646882688a4ede9742edfa50cf20cf371046dacc78abbd47e6eb837837b88f.m3u8
+#EXTINF:-1 tvg-name="RTP Acores" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613180645462298_93.png" group-title="Generic",[SD]rtp aŀores@@1
+https://epg.pw/stream/c4d8681618811d644cce39600d038db4ed0b29e74e1b915d57671a4cac37d98a.ctv
 #EXTINF:-1 tvg-name="RTP Acores" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613180645462298_93.png" group-title="Generic",[VGA]rtp@@2
 https://epg.pw/stream/460305195b48f6b41e3f642a7ef20498edc1935f89cc15f42f79df9b4af2d361.m3u8
 #EXTINF:-1 tvg-name="RTP Acores" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613180645462298_93.png" group-title="Generic",[HD]rtp acores@@3[geo-blocked]
@@ -507,10 +511,16 @@ https://epg.pw/stream/26f0ddaf609e76b863dee02b364d5af1f1355927b55e7f1034b8a46b7f
 https://epg.pw/stream/e3e1573a145214468bc74226d4c7bff27578af1d4e0b63031afc0cf9d5ee2b38.ctv
 #EXTINF:-1 tvg-name="Sport TV 1" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174121279237_85.png" group-title="Sport",[SD]sport tv 1
 https://epg.pw/stream/099f06bbf7a5f043c0a117dd148bd5b637c9c67cf6eb23a4f5a1c4fb46a5997b.ctv
+#EXTINF:-1 tvg-name="Sport TV 1" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174121279237_85.png" group-title="Sport",[BD]sport tv 1 hd@@1
+https://epg.pw/stream/514e25405ae8e6338a87008358978ac7622edfb622c36074592ee8cc9eefc989.ctv
+#EXTINF:-1 tvg-name="Sport TV 1" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174121279237_85.png" group-title="Sport",[BD]sport tv 1@@4
+https://epg.pw/stream/73c62c9bc3432735216b2b4342692ddc1fe6287264dc2913cbddc41cdf572f23.ctv
 #EXTINF:-1 tvg-name="Sport TV 1" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174121279237_85.png" group-title="Sport",[BD]PT: SPORT TV 2 FullHD@@1
 https://epg.pw/stream/9b7d485100e49e16c4e9be1c999a2946a0497731cf5273f3326cd3142740c3e3.ctv
 #EXTINF:-1 tvg-name="Sport TV 1" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174121279237_85.png" group-title="Sport",[BD]PT: SPORT TV 1 FullHD@@1
 https://epg.pw/stream/202e0e8930bfa410932cc5207cf7177c23390fec004e67843cad232dd72e5514.ctv
+#EXTINF:-1 tvg-name="Sport TV 1" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174121279237_85.png" group-title="Sport",[BD]sport tv 1 fhd
+https://epg.pw/stream/b17b26a5bbee27bdf7435e001969aa23e89ae9863a4c0a5deab15081a536ccc7.ctv
 #EXTINF:-1 tvg-name="Sport TV 1" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174121279237_85.png" group-title="Sport",[HD]SPORT TV 1 
 https://epg.pw/stream/8720ca35583e01d8e916e574d218ad84fbf26650554941622b51c8591cb5e5a6.m3u8
 #EXTINF:-1 tvg-name="Sport TV 2" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173806585584_23.png" group-title="Sport",[HD]sportv 2 hd@@3
@@ -543,10 +553,16 @@ https://epg.pw/stream/05156597a781a306869c906f68b3ca9a5220dd734802851480740f5581
 https://epg.pw/stream/c7cd7c7eb6cf2d016c7a95f094bde03d5e9bbcd9380956dab246f44d48ded351.ctv
 #EXTINF:-1 tvg-name="Sport TV 3" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173745399752_34.png" group-title="Sport",[BD]sportv 3 h265[geo-blocked]
 https://epg.pw/stream/4f4acc73127bbad958bfb604fad5c0475de94b2e553509022277532a6c18ce02.ctv
+#EXTINF:-1 tvg-name="Sport TV 3" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173745399752_34.png" group-title="Sport",[BD]sport tv 6 hd@@1
+https://epg.pw/stream/f8b0fc0d29d422643e1e9e0159ebafc86dc1b1309f624ad5c02f67a9b8743bc3.ctv
 #EXTINF:-1 tvg-name="Sport TV 3" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173745399752_34.png" group-title="Sport",[HD]sportv 3 hd[geo-blocked]
 https://epg.pw/stream/16e9fa0ff97128999ba4644fcd4ac7fa8f18ffd984aa28cc33b1b01f25c61ae2.ctv
 #EXTINF:-1 tvg-name="Sport TV 3" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173745399752_34.png" group-title="Sport",[VGA]sportv 3 sd[geo-blocked]
 https://epg.pw/stream/5b673ec49d4cecf0a1b80f412d99e6bdbdb03830afcc740938064ff6d61c20e2.ctv
+#EXTINF:-1 tvg-name="Sport TV 3" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173745399752_34.png" group-title="Sport",[BD]sport tv 3 hd@@1
+https://epg.pw/stream/9bdebb2cd8b55baaab8a54e1cfb393c2e3abe794d0cf9e2eb0c141b9199ec52e.ctv
+#EXTINF:-1 tvg-name="Sport TV 3" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173745399752_34.png" group-title="Sport",[BD]sport tv 6 fhd
+https://epg.pw/stream/424189e9c78ea65c7ae10956243013f1f6a2d4c2fcff232ad45651f5f8f0ecdf.ctv
 #EXTINF:-1 tvg-name="Sport TV 3" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173745399752_34.png" group-title="Sport",[BD]sport tv 6 hd
 https://epg.pw/stream/bdae65f34d906fe2e0b0db22a0aa700c0c2cff8df2c210de67f1eccdb3794a5f.ctv
 #EXTINF:-1 tvg-name="Sport TV 3" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173745399752_34.png" group-title="Sport",[HD]BR: SporTV 3
@@ -565,18 +581,26 @@ https://epg.pw/stream/a9c7f2dd212831d7f09b4d28b6c0b16f2db8ff21d8f552267d76784928
 https://epg.pw/stream/03eda5d56f4403b7c183dc2166eaabf292cb3efb2b2c7f7afe4f17a78744e80a.ctv
 #EXTINF:-1 tvg-name="Sport TV 3" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173745399752_34.png" group-title="Sport",[HD]sportv 3 hd@@1
 https://epg.pw/stream/1a14eca3f8534d4926ce0b14b990ffe9b3ceb56746b5a5b4010c477896339656.ctv
+#EXTINF:-1 tvg-name="Sport TV 3" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173745399752_34.png" group-title="Sport",[BD]sport tv 3 hd
+https://epg.pw/stream/202f13cf34d701ce40744d0a33f3bc6947a2da822106f598a43194de17f09ce3.ctv
+#EXTINF:-1 tvg-name="Sport TV 3" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173745399752_34.png" group-title="Sport",[BD]sport tv +  fhd
+https://epg.pw/stream/56a2bc29275f3fb286f61e1c85c8a00afa090719b4e9cf07f1e51ad400d4b1d9.ctv
 #EXTINF:-1 tvg-name="Sport TV 3" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173745399752_34.png" group-title="Sport",[BD]sport tv 3
 https://epg.pw/stream/f228257b1252799a90ce4c2a96513e24e94e80de084ac96b8260855c23a536d4.ctv
 #EXTINF:-1 tvg-name="Sport TV 3" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173745399752_34.png" group-title="Sport",[BD]tvri sport@@3
 https://epg.pw/stream/411d5579524b67e0ed406a182ee5b5907492346279536e5e18129ff03b682371.m3u8
 #EXTINF:-1 tvg-name="Sport TV 3" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173745399752_34.png" group-title="Sport",[BD]sportv 3 hd@@3
 https://epg.pw/stream/9d254b8c54f3d69da2f3694c4922749bbbba4db9a78f59383486b5b0455fc70a.ctv
+#EXTINF:-1 tvg-name="Sport TV 3" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173745399752_34.png" group-title="Sport",[BD]sport tv 6 hd@@2
+https://epg.pw/stream/a2d72de11cb4bf3b9557f75224d6474e9077dbdc160435ac8c0067f76976764e.ctv
 #EXTINF:-1 tvg-name="Sport TV 4" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174832271533_58.png" group-title="Sport",[SD]sport tv 4@@1[geo-blocked]
 https://epg.pw/stream/7e3f34627d4848c8b3fefbcf0c40487d5f330ec7e493536577eb45f3c8f0911f.ctv
 #EXTINF:-1 tvg-name="Sport TV 4" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174832271533_58.png" group-title="Sport",[BD]sport tv 4 fhd
 https://epg.pw/stream/9d1c5629a268bf31df6877ff589585b8898715bf519a1b2a0dfa06b0b9a11102.ctv
 #EXTINF:-1 tvg-name="Sport TV 4" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174832271533_58.png" group-title="Sport",[HD]sport tv 4 hd
 https://epg.pw/stream/949c49c7ddf7e94d416898a069694c0fff5bf1268cbe88dc204a4dfbfe87747d.ctv
+#EXTINF:-1 tvg-name="Sport TV2" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/01/25/20180125084544913699_10.jpg" group-title="Sport",[SD]sport tv hd
+https://epg.pw/stream/aa86c83297c15aab1a3096fc6187ceac62ee58a4f04d829ff7d8c936c1199210.ctv
 #EXTINF:-1 tvg-name="Sport TV2" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/01/25/20180125084544913699_10.jpg" group-title="Sport",[HD]sports tv hd
 https://epg.pw/stream/f7aad79aa86372fa7c716e5c2b6b13d9d1fcbc282df34a13d3e7e05b7ec5d91c.ctv
 #EXTINF:-1 tvg-name="Sporting TV" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/01/24/20150124042558391415_30.jpg" group-title="Sport",[SD]sporting tv
@@ -585,6 +609,8 @@ https://epg.pw/stream/6d3c73e0d501ee443611a445fe69d9d4342bb9b7cec685516b489c4515
 https://epg.pw/stream/70d66989f8d76f5ba2ac52c902bab635d06690a77c498e8d3975b8fe048106b7.m3u8
 #EXTINF:-1 tvg-name="Sporting TV" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/01/24/20150124042558391415_30.jpg" group-title="Sport",[HD]valparaiso sporting@@1
 https://epg.pw/stream/80701dc41aa77bd12441b0a57ecdf002a824657793a227e85223a1621b2d58d1.m3u8
+#EXTINF:-1 tvg-name="Sporting TV" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/01/24/20150124042558391415_30.jpg" group-title="Sport",[HD]valparaiso sporting@@2[geo-blocked]
+https://epg.pw/stream/f349c20b53f3948c7df76d240caa6e06831d60166fe249fb20de684bb6d84896.m3u8
 #EXTINF:-1 tvg-name="TOROS TV PT" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/15/20150415011510541585_11.png" group-title="Entertainment",[BD]toros tv fhd[geo-blocked]
 https://epg.pw/stream/5da74921aac23f128b2d253a779a3af97c6de53e687d8cda305a87833f8a694f.ctv
 #EXTINF:-1 tvg-name="TOROS TV PT" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/04/15/20150415011510541585_11.png" group-title="Entertainment",[SD]toros tv
@@ -597,7 +623,7 @@ https://epg.pw/stream/05c31d7d714707fb19f8e611f679f5230b9cf1236b50a917d77376fc79
 https://epg.pw/stream/83abec5e5ce1e459798303645cbb97446558cd5c2eab184e8a171401ddeacd0f.m3u8
 #EXTINF:-1 tvg-name="TV Cancao Nova" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/12/20140912070155407911_94.jpg" group-title="Generic",[SD]cancao nova@@1
 https://epg.pw/stream/a3a046c29a1b944a0139fd680979d7a48b606406e6efe3f16d67891c222c9bb4.ctv
-#EXTINF:-1 tvg-name="TV Ciencia" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/12/20140912070228786166_98.jpg" group-title="Generic",[VGA]tv cinec@@2
+#EXTINF:-1 tvg-name="TV Ciencia" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/12/20140912070228786166_98.jpg" group-title="Generic",[HD]tv cinec@@2
 https://epg.pw/stream/d1dd8e6a70afa4e3199a9f07123489649d2bb3f1a2b547881c0c3bc2e2b51b4f.m3u8
 #EXTINF:-1 tvg-name="TV Ciencia" tvg-id="" tvg-country="Portugal" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/12/20140912070228786166_98.jpg" group-title="Generic",[BD]peliculas de ciencia ficcion hd 4@@1[geo-blocked]
 https://epg.pw/stream/70f22c68d5668cca8f10336f8e17d402b57ee37193c7dd373f0bd3f9826395b5.ctv

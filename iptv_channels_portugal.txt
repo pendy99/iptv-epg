@@ -124,6 +124,7 @@ RTP 3 PT,https://epg.pw/stream/6fcc8d71eb0bffb2ecb5a706e45286cc6d84fb830e2dba892
 RTP 3 PT[geo-blocked],https://epg.pw/stream/96ae3a67ce496786d494df2d4c2625073c74019ddef815a4ccf2ab026d1063e7.ctv
 RTP 3 PT,https://epg.pw/stream/92fab694b9becc2ee026e0c60bee291dfd01baada311475cf308951814bf9890.ctv
 RTP Acores[geo-blocked],https://epg.pw/stream/cb646882688a4ede9742edfa50cf20cf371046dacc78abbd47e6eb837837b88f.m3u8
+RTP Acores,https://epg.pw/stream/c4d8681618811d644cce39600d038db4ed0b29e74e1b915d57671a4cac37d98a.ctv
 RTP Acores,https://epg.pw/stream/460305195b48f6b41e3f642a7ef20498edc1935f89cc15f42f79df9b4af2d361.m3u8
 RTP Acores[geo-blocked],https://epg.pw/stream/de9c672a7418c9aca69265aea2bfc5ebd34277c1bccfb4407e20069031db06c7.m3u8
 RTP Acores,https://epg.pw/stream/5d01067a4be4e2ecd4ca774117a8663a0a2ca01ea2d588792a761f800924258c.ctv
@@ -274,6 +275,7 @@ Rede Mercosul[geo-blocked],https://epg.pw/stream/98c51c515885cd84eb1af8f95cd1802
 SIC NOTICIAS 1 PT,https://epg.pw/stream/baa49e304d9b66abd4bc34dd3cbce1f8733e4ac0dd6fce46a80bb7daca04e76b.ctv
 Other,#genre#
 ARTV[geo-blocked],https://epg.pw/stream/a9665b87ebf4dbcd36a97da458b974a9258d2af16c6dfe44d9ce4be4aa742f43.ctv
+ARTV,https://epg.pw/stream/82506dc33c772272ac9d8b2ac58964828d81ecd3736f2c2ef20efd92a4772efc.ctv
 ARTV,https://epg.pw/stream/aadd2a35cc8e0c43a365bdf0aa7b01ea411c6c076d3367269fbb337f4ec98b48.ctv
 RTPi[geo-blocked],https://epg.pw/stream/6aa3776b16bd291cd62f73877dea077b5dd2fa6af8f133f988cd79dda1c879bd.m3u8
 RTPi[geo-blocked],https://epg.pw/stream/14f5703b7f1d8a5ed3c546a1453ba7e9588cab3e4639df0d9da7b8fe3dc5ae35.m3u8
@@ -332,8 +334,11 @@ SPORT TV 5 PT,https://epg.pw/stream/69809136bf0ec912895860a6ae25a29b1d71f5038c77
 SPORT TV 5 PT,https://epg.pw/stream/26f0ddaf609e76b863dee02b364d5af1f1355927b55e7f1034b8a46b7f0957c5.ctv
 Sport TV 1[geo-blocked],https://epg.pw/stream/e3e1573a145214468bc74226d4c7bff27578af1d4e0b63031afc0cf9d5ee2b38.ctv
 Sport TV 1,https://epg.pw/stream/099f06bbf7a5f043c0a117dd148bd5b637c9c67cf6eb23a4f5a1c4fb46a5997b.ctv
+Sport TV 1,https://epg.pw/stream/514e25405ae8e6338a87008358978ac7622edfb622c36074592ee8cc9eefc989.ctv
+Sport TV 1,https://epg.pw/stream/73c62c9bc3432735216b2b4342692ddc1fe6287264dc2913cbddc41cdf572f23.ctv
 Sport TV 1,https://epg.pw/stream/9b7d485100e49e16c4e9be1c999a2946a0497731cf5273f3326cd3142740c3e3.ctv
 Sport TV 1,https://epg.pw/stream/202e0e8930bfa410932cc5207cf7177c23390fec004e67843cad232dd72e5514.ctv
+Sport TV 1,https://epg.pw/stream/b17b26a5bbee27bdf7435e001969aa23e89ae9863a4c0a5deab15081a536ccc7.ctv
 Sport TV 1,https://epg.pw/stream/8720ca35583e01d8e916e574d218ad84fbf26650554941622b51c8591cb5e5a6.m3u8
 Sport TV 2,https://epg.pw/stream/bb0fcad068f197dc69419535ca958743a143cd71fccdef2bc27d1015ec813ffe.ctv
 Sport TV 2[geo-blocked],https://epg.pw/stream/be5497cdfaa0405d67613f8e5acc9775e7008d614eaecc7f7a4aea9bdeec750f.ctv
@@ -350,8 +355,11 @@ Sport TV 2,https://epg.pw/stream/e2ba9734f638eb346bdf5b3a1f2709fe994672c641a2f7a
 Sport TV 2,https://epg.pw/stream/05156597a781a306869c906f68b3ca9a5220dd734802851480740f55811afe0c.ctv
 Sport TV 2,https://epg.pw/stream/c7cd7c7eb6cf2d016c7a95f094bde03d5e9bbcd9380956dab246f44d48ded351.ctv
 Sport TV 3[geo-blocked],https://epg.pw/stream/4f4acc73127bbad958bfb604fad5c0475de94b2e553509022277532a6c18ce02.ctv
+Sport TV 3,https://epg.pw/stream/f8b0fc0d29d422643e1e9e0159ebafc86dc1b1309f624ad5c02f67a9b8743bc3.ctv
 Sport TV 3[geo-blocked],https://epg.pw/stream/16e9fa0ff97128999ba4644fcd4ac7fa8f18ffd984aa28cc33b1b01f25c61ae2.ctv
 Sport TV 3[geo-blocked],https://epg.pw/stream/5b673ec49d4cecf0a1b80f412d99e6bdbdb03830afcc740938064ff6d61c20e2.ctv
+Sport TV 3,https://epg.pw/stream/9bdebb2cd8b55baaab8a54e1cfb393c2e3abe794d0cf9e2eb0c141b9199ec52e.ctv
+Sport TV 3,https://epg.pw/stream/424189e9c78ea65c7ae10956243013f1f6a2d4c2fcff232ad45651f5f8f0ecdf.ctv
 Sport TV 3,https://epg.pw/stream/bdae65f34d906fe2e0b0db22a0aa700c0c2cff8df2c210de67f1eccdb3794a5f.ctv
 Sport TV 3,https://epg.pw/stream/241a37a66122b8081c7fb1e8040a6a76f4b1fbf1a0d85d399c806242a086a356.ctv
 Sport TV 3,https://epg.pw/stream/562e85c544af177cd7ca814ea187df07e47924844c5aa835d38c94094c96e2da.ctv
@@ -361,13 +369,18 @@ Sport TV 3,https://epg.pw/stream/35b7a248d51e906d2ddec75b30580bc97777f21c1d4c873
 Sport TV 3,https://epg.pw/stream/a9c7f2dd212831d7f09b4d28b6c0b16f2db8ff21d8f552267d76784928323798.ctv
 Sport TV 3,https://epg.pw/stream/03eda5d56f4403b7c183dc2166eaabf292cb3efb2b2c7f7afe4f17a78744e80a.ctv
 Sport TV 3,https://epg.pw/stream/1a14eca3f8534d4926ce0b14b990ffe9b3ceb56746b5a5b4010c477896339656.ctv
+Sport TV 3,https://epg.pw/stream/202f13cf34d701ce40744d0a33f3bc6947a2da822106f598a43194de17f09ce3.ctv
+Sport TV 3,https://epg.pw/stream/56a2bc29275f3fb286f61e1c85c8a00afa090719b4e9cf07f1e51ad400d4b1d9.ctv
 Sport TV 3,https://epg.pw/stream/f228257b1252799a90ce4c2a96513e24e94e80de084ac96b8260855c23a536d4.ctv
 Sport TV 3,https://epg.pw/stream/411d5579524b67e0ed406a182ee5b5907492346279536e5e18129ff03b682371.m3u8
 Sport TV 3,https://epg.pw/stream/9d254b8c54f3d69da2f3694c4922749bbbba4db9a78f59383486b5b0455fc70a.ctv
+Sport TV 3,https://epg.pw/stream/a2d72de11cb4bf3b9557f75224d6474e9077dbdc160435ac8c0067f76976764e.ctv
 Sport TV 4[geo-blocked],https://epg.pw/stream/7e3f34627d4848c8b3fefbcf0c40487d5f330ec7e493536577eb45f3c8f0911f.ctv
 Sport TV 4,https://epg.pw/stream/9d1c5629a268bf31df6877ff589585b8898715bf519a1b2a0dfa06b0b9a11102.ctv
 Sport TV 4,https://epg.pw/stream/949c49c7ddf7e94d416898a069694c0fff5bf1268cbe88dc204a4dfbfe87747d.ctv
+Sport TV2,https://epg.pw/stream/aa86c83297c15aab1a3096fc6187ceac62ee58a4f04d829ff7d8c936c1199210.ctv
 Sport TV2,https://epg.pw/stream/f7aad79aa86372fa7c716e5c2b6b13d9d1fcbc282df34a13d3e7e05b7ec5d91c.ctv
 Sporting TV,https://epg.pw/stream/6d3c73e0d501ee443611a445fe69d9d4342bb9b7cec685516b489c45154e8338.ctv
 Sporting TV[geo-blocked],https://epg.pw/stream/70d66989f8d76f5ba2ac52c902bab635d06690a77c498e8d3975b8fe048106b7.m3u8
 Sporting TV,https://epg.pw/stream/80701dc41aa77bd12441b0a57ecdf002a824657793a227e85223a1621b2d58d1.m3u8
+Sporting TV[geo-blocked],https://epg.pw/stream/f349c20b53f3948c7df76d240caa6e06831d60166fe249fb20de684bb6d84896.m3u8
