@@ -79,7 +79,7 @@ https://epg.pw/stream/48b85937abbad24d6dcaaed4aa30df4d7028340097589d85a070359cf8
 https://epg.pw/stream/dddda4913b6d025c203b979a68e7a3b2513f8cb222fa3a6286a01205c2fa3e65.ctv
 #EXTINF:-1 tvg-name="Canal 13, Chile" tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175049459722_82.png" group-title="Entertainment",[HD]cnn chile@@3
 https://epg.pw/stream/a5d582bf0a767b54c530503f38aad21eebcf9a72c5d1a14f218b9104a92017c6.m3u8
-#EXTINF:-1 tvg-name="Canal 13, Chile" tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175049459722_82.png" group-title="Entertainment",[BD]cine 3 canela[geo-blocked]
+#EXTINF:-1 tvg-name="Canal 13, Chile" tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175049459722_82.png" group-title="Entertainment",[HD]cine 3 canela[geo-blocked]
 https://epg.pw/stream/8602d13d714e4370f8c5c5bc763e9e444441b3d133ac977a6a1fa23b4a55fe14.m3u8
 #EXTINF:-1 tvg-name="ChileVisión CHV Chile" tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174102388753_59.png" group-title="Entertainment",[BD]chv@@1
 https://epg.pw/stream/307b6854c6c4948d0af9e38cce72021d8dd57e3d512c009d4409f7e8c473088d.m3u8
@@ -147,6 +147,8 @@ https://epg.pw/stream/7d3ef0a39f74ba2020afa4881c576d1a699c65ca67c0f0d742851b65d4
 https://epg.pw/stream/7f485a352f9ea78dbdab97fa2b6b8c2155c13866b04223168e8867539b8b05f1.m3u8
 #EXTINF:-1 tvg-name="PANDERO MUSIC TOP 50 SANTIAGO CHILE LATAM" tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/29/20160929025736599943_81.png" group-title="Entertainment",[HD]music top@@11[geo-blocked]
 https://epg.pw/stream/fd05e113f2abc5cfc33196c3ad251f206adf390e2075db62c030ee60f9ef1385.m3u8
+#EXTINF:-1 tvg-name="PANDERO MUSIC TOP 50 SANTIAGO CHILE LATAM" tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/29/20160929025736599943_81.png" group-title="Entertainment",[VGA]top cine latam
+https://epg.pw/stream/05e494d56c6fe4cf2c12f9251bbb4bb34062d99e05d8a14863ac54649bfaf527.m3u8
 #EXTINF:-1 tvg-name="PANDERO MUSIC TOP 50 SANTIAGO CHILE LATAM" tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/29/20160929025736599943_81.png" group-title="Entertainment",[BD]music top@@12
 https://epg.pw/stream/970f877411e5ec6f15f9f80e316db0a6227e24ccfda6068c496e7deb05af48d7.m3u8
 #EXTINF:-1 tvg-name="PANDERO MUSIC TOP 50 SANTIAGO CHILE LATAM" tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/29/20160929025736599943_81.png" group-title="Entertainment",[HD]music top@@13
@@ -155,8 +157,6 @@ https://epg.pw/stream/e89073ba6aa61b58961b9da52e01f244a2b813eb41e6fbe5e80f23bd66
 https://epg.pw/stream/20b2dc13d220a40c243a41fa8dfa903ea3f35da074832ed2295310736e247777.m3u8
 #EXTINF:-1 tvg-name="PLAY FM SANTIAGO CHILE LATAM" tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/29/20160929025917703170_64.png" group-title="Entertainment",[HD]DT Play (Deporte Total) (720p) [Not 24/7][geo-blocked]
 https://epg.pw/stream/f405b636ff8711fe2c566cd73012a09ee56d21d66e6e0e1311027562388a63b2.m3u8
-#EXTINF:-1 tvg-name="RADIO FUTURO TV SANTIAGO CHILE LATAM" tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/29/20160929030018200168_17.png" group-title="Entertainment",[BD]TV Futuro (1080p)[geo-blocked]
-https://epg.pw/stream/f788a2435aa081be429551eb57d1e60220feb26ed55cad2547eae30b4bab7e98.m3u8
 #EXTINF:-1 tvg-name="RADIO FUTURO TV SANTIAGO CHILE LATAM" tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/09/29/20160929030018200168_17.png" group-title="Entertainment",[VGA]rpc radio[geo-blocked]
 https://epg.pw/stream/f7253763d4b8f3c8b8ec6247fd2abdf41e3511264e07c7f5803e763bb3ce9bff.m3u8
 #EXTINF:-1 tvg-name="REC TV, Chile" tvg-id="" tvg-country="Chile" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/18/20150518020642987600_68.jpg" group-title="Entertainment",[HD]trece chile[geo-blocked]
