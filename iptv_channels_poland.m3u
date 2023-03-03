@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="DocuBox" tvg-id="6895" tvg-country="Poland" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020434313812_92.png" group-title="Documentary",[BD]DocuBox
 https://epg.pw/stream/f822a92bbe6e2271a7c23f9e9d0eae820df0711d9e282a3e31e3cc17b4107c6c.m3u8
-#EXTINF:-1 tvg-name="DocuBox HD" tvg-id="6895" tvg-country="Poland" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/25/20140525032751283727_12.png" group-title="Documentary",[BD]docubox hd@@2[geo-blocked]
+#EXTINF:-1 tvg-name="DocuBox HD" tvg-id="6895" tvg-country="Poland" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/25/20140525032751283727_12.png" group-title="Documentary",[SD]docubox hd@@2[geo-blocked]
 https://epg.pw/stream/cea0f7d4f60f198c328c9608a54e975b3ee0101c7e3d9731f758bb09f18bad11.ctv
 #EXTINF:-1 tvg-name="DocuBox HD" tvg-id="6895" tvg-country="Poland" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/25/20140525032751283727_12.png" group-title="Documentary",[BD]docubox hd
 https://epg.pw/stream/d1766849b3d0af6fb52203a7021a31d6a93bf5393b44096fb16fddb3df467eab.ctv
@@ -31,7 +31,7 @@ https://epg.pw/stream/4d834794843b4c826f57fbd5ec819945a340dbe3e3702d0a07efe37c2d
 https://epg.pw/stream/e810894a5ef4128e238f7d0aa3b02eedb5eeb79ee84f62937848901d9f41be5d.m3u8
 #EXTINF:-1 tvg-name="Filmbox Arthouse Poland" tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201082347546348_95.jpg" group-title="Movie",[SD]filmbox arthouse
 https://epg.pw/stream/1bd9ba88ff7a4bf581168e7ba6bf29c6bee1af48e7091266c91e92a29d1be87a.m3u8
-#EXTINF:-1 tvg-name="Filmbox Arthouse Poland" tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201082347546348_95.jpg" group-title="Movie",[HD]filmbox arthouse@@2
+#EXTINF:-1 tvg-name="Filmbox Arthouse Poland" tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201082347546348_95.jpg" group-title="Movie",[SD]filmbox arthouse@@2
 https://epg.pw/stream/7396afa42e16853be5b383b085413223c3edcb0d21750a826219321361d86a7e.ctv
 #EXTINF:-1 tvg-name="Filmbox Extra Poland" tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201082535989302_95.jpg" group-title="Movie",[BD]filmbox extra hd@@4
 https://epg.pw/stream/04213d7df4b5475fd1824436dfba6086ea6bce87d9122bea096ce3242a694af0.ctv
@@ -81,6 +81,8 @@ https://epg.pw/stream/340ab485fa79a8b6d6493e10b02d0df96dccf968395838ec24ed2ba492
 https://epg.pw/stream/b0961eb69f825de8afc4d0fa3b37be1a4c33bb0e877f536b454f7eeb384a0c17.ctv
 #EXTINF:-1 tvg-name="NSPORT+" tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/12/20151212200852553008_33.png" group-title="Sport",[BD]nsport@@1
 https://epg.pw/stream/995dd32755b72dcd75353e8a16ea65d009b22163f5dcd427e1163e9d395ff3a8.ctv
+#EXTINF:-1 tvg-name="NSPORT+" tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/12/20151212200852553008_33.png" group-title="Sport",[HD]mnesport1[geo-blocked]
+https://epg.pw/stream/7b6801fcb7ebf0e19ea795889a65a17b3305a2621a300e9e7b601571568a187c.ctv
 #EXTINF:-1 tvg-name="NSPORT+" tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/12/20151212200852553008_33.png" group-title="Sport",[SD]mnesport3[geo-blocked]
 https://epg.pw/stream/0ef776c98fcbb9a5ac1eee0ce4a509d0a15ed618a112da23ee924252794b7d9d.ctv
 #EXTINF:-1 tvg-name="NSPORT+" tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/12/20151212200852553008_33.png" group-title="Sport",[SD]mnesport2[geo-blocked]
@@ -89,7 +91,7 @@ https://epg.pw/stream/249966eb80225690c734fbf6f9f0351a741dcce61ee5f5bfb8c473cf44
 https://epg.pw/stream/088aa79b7ecc995a8de564ac4871327688352c7f759d978d1c7573505b36511f.ctv
 #EXTINF:-1 tvg-name="News Polsat Poland" tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201084813043879_75.jpg" group-title="News",[SD]polsat news 2@@1
 https://epg.pw/stream/e4617a2a8ca92e409bf228c1c678e0e39e2e24fcdb037c732cdc27651445e646.ctv
-#EXTINF:-1 tvg-name="Polsat Sport PL" tvg-id="" tvg-country="Poland" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Sport",[HD]polsat@@1
+#EXTINF:-1 tvg-name="Polsat Sport PL" tvg-id="" tvg-country="Poland" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Sport",[BD]polsat@@1
 https://epg.pw/stream/d3e0e7fd9760c3229f345f56d1668ed67ccc1aa6c6d797800c01a78a77619367.ctv
 #EXTINF:-1 tvg-name="Polsat Sport PL" tvg-id="" tvg-country="Poland" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Sport",[SD]polsat cafe@@1
 https://epg.pw/stream/147bc4921ed033e98b81669547ffa292a7bc56840c465e18f38d7d5abef6f384.ctv
@@ -101,7 +103,7 @@ https://epg.pw/stream/b5c3137587400dfc81b7ef42e75c1f7c309526fcb600ecbcd53bf0cba3
 https://epg.pw/stream/40edfc35b2439c32facaa6d63b2d3fe14828c6614fd6146007a63159cb6061bf.ctv
 #EXTINF:-1 tvg-name="Polsat Sport PL" tvg-id="" tvg-country="Poland" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Sport",[SD]polsat cafe
 https://epg.pw/stream/6e47ccd7a27f1acae66dc5a522e3da1d24f75bc385cfcff1d100d626fda74c51.ctv
-#EXTINF:-1 tvg-name="Polsat Sport PL" tvg-id="" tvg-country="Poland" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Sport",[BD]super polsat hd@@1
+#EXTINF:-1 tvg-name="Polsat Sport PL" tvg-id="" tvg-country="Poland" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Sport",[SD]super polsat hd@@1
 https://epg.pw/stream/b3424ea4a200016d40d3e9c12685e4c324de3ff7a87c112ec689339078a5b14e.ctv
 #EXTINF:-1 tvg-name="Polsat Sport PL" tvg-id="" tvg-country="Poland" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Sport",[HD]polsat sport premium 2@@1
 https://epg.pw/stream/f92575d459e93dc264b8d481cd491ee605e6d3f7196e41a8edb7da6f14bd9215.ctv
@@ -113,22 +115,24 @@ https://epg.pw/stream/61686c8448d725d7788fc0efbcb60bcebca899174a591850c3c4ab6c8d
 https://epg.pw/stream/4f7d38da440145f5709963f29369a1dc4253656f5584d70816c516cfa9c6f470.ctv
 #EXTINF:-1 tvg-name="Polsat Sport PL" tvg-id="" tvg-country="Poland" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Sport",[BD]polsat film hd@@1
 https://epg.pw/stream/a494c899d92088b9401bb6f63fa410c1e0151faf94c5951d328c98d79e965f1b.ctv
-#EXTINF:-1 tvg-name="Polsat Sport PL" tvg-id="" tvg-country="Poland" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Sport",[VGA]polsat 2@@1
+#EXTINF:-1 tvg-name="Polsat Sport PL" tvg-id="" tvg-country="Poland" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Sport",[SD]polsat 2@@1
 https://epg.pw/stream/6abc6027d1f3a17e441a2f7810003caa6e053c73409cdb89deb36150971b26c0.ctv
 #EXTINF:-1 tvg-name="Polsat Sport PL" tvg-id="" tvg-country="Poland" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Sport",[BD]polsat sport premium 2@@2
 https://epg.pw/stream/33ed1a06f187674485ea7eb068b262bb421093f8eaca66ebcf304b83595dee1c.ctv
 #EXTINF:-1 tvg-name="Polsat Sport PL" tvg-id="" tvg-country="Poland" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Sport",[BD]polsat play[geo-blocked]
 https://epg.pw/stream/ac57685f8e6ed7e4eedda99b24766d75120f8d9e1c77ca7fa95a434d73271c1e.ctv
-#EXTINF:-1 tvg-name="Polsat Sport PL" tvg-id="" tvg-country="Poland" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Sport",[HD]polsat[geo-blocked]
+#EXTINF:-1 tvg-name="Polsat Sport PL" tvg-id="" tvg-country="Poland" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Sport",[BD]polsat[geo-blocked]
 https://epg.pw/stream/edc0730709a96e177642038f6ffd895971eb0bf31de2fb70eaea622f5deb53ec.ctv
-#EXTINF:-1 tvg-name="Polsat Sport PL" tvg-id="" tvg-country="Poland" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Sport",[VGA]polsat 2[geo-blocked]
+#EXTINF:-1 tvg-name="Polsat Sport PL" tvg-id="" tvg-country="Poland" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Sport",[SD]polsat 2[geo-blocked]
 https://epg.pw/stream/eb351e200562ed9f4509aa90cace8ef0f50cafa15a0a5b3dc836ce7fa2e6945c.ctv
-#EXTINF:-1 tvg-name="Polsat Sport PL" tvg-id="" tvg-country="Poland" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Sport",[HD]polsat sport premium 1@@1[geo-blocked]
+#EXTINF:-1 tvg-name="Polsat Sport PL" tvg-id="" tvg-country="Poland" tvg-language="Other" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231049456164_16.png" group-title="Sport",[BD]polsat sport premium 1@@1[geo-blocked]
 https://epg.pw/stream/409cff4dcc63ce07492dd23d3d7973427cbc140515953b7e123a05ea58a7c694.ctv
 #EXTINF:-1 tvg-name="TVN Style Poland" tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201085348452951_33.jpg" group-title="Documentary",[BD]tvn style@@1
 https://epg.pw/stream/9cfcf9d287704e02281fbcc0f96addfc55aab794becaed9fd28d631b34faed09.ctv
 #EXTINF:-1 tvg-name="TVN Style Poland" tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201085348452951_33.jpg" group-title="Documentary",[BD]tvn style[geo-blocked]
 https://epg.pw/stream/8f80db9789d3f9c1d348f800881174a0342a5bf493b15e67f2feb178bdaf33f3.ctv
+#EXTINF:-1 tvg-name="TVN Turbo Poland" tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201085915563423_46.jpg" group-title="Generic",[VGA]turbo@@1
+https://epg.pw/stream/14df3144c6360a428e83bac6d09263ffa6d24bba2c108b8d1e958970990cb106.ctv
 #EXTINF:-1 tvg-name="TVN Turbo Poland" tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201085915563423_46.jpg" group-title="Generic",[HD]pa | tvn
 https://epg.pw/stream/4af47c0100db909802b2eac3b50ac4af797e1a6fb43cc227a98b23ba4eb26ab3.m3u8
 #EXTINF:-1 tvg-name="TVN Turbo Poland" tvg-id="" tvg-country="Poland" tvg-language="Polish" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201085915563423_46.jpg" group-title="Generic",[VGA]turbo

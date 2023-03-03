@@ -1,10 +1,12 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-name="Algeria 3" tvg-id="" tvg-country="Africa" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717081031329501_74.jpg" group-title="Generic",[BD]algerie 3[geo-blocked]
+#EXTINF:-1 tvg-name="Algeria 3" tvg-id="" tvg-country="Africa" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717081031329501_74.jpg" group-title="Generic",[HD]algerie 3[geo-blocked]
 https://epg.pw/stream/581ec7b20086ef3cc318ccfe4b7b3997b75ed5b45f46b62542ea403eacca15b2.ctv
-#EXTINF:-1 tvg-name="Algeria 3" tvg-id="" tvg-country="Africa" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717081031329501_74.jpg" group-title="Generic",[BD]algerie 3 hd[geo-blocked]
+#EXTINF:-1 tvg-name="Algeria 3" tvg-id="" tvg-country="Africa" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717081031329501_74.jpg" group-title="Generic",[HD]algerie 3 hd[geo-blocked]
 https://epg.pw/stream/a2b428ab2de991987472501ac0fca05437658b27d9409b5801e041145f6c7412.ctv
 #EXTINF:-1 tvg-name="Algeria Tamazigh" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/19/20150619212630673193_20.png" group-title="Generic",[VGA]alg:  algerie 4 tamazight
 https://epg.pw/stream/d34a263131b530babd5a8cc469a1ded31198256710c2a08c0261a081a8b19f6a.ctv
+#EXTINF:-1 tvg-name="BEN TV Uganda" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2015/10/25/large/20151025145324282295_33.jpg" group-title="Generic",[BD]ntv uganda[geo-blocked]
+https://epg.pw/stream/8bc1b768c1e9745caaa5f9229bc01d8e4829aa33230b3da6ddfda9865a72408f.m3u8
 #EXTINF:-1 tvg-name="CNA France" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2015/12/02/large/20151202092043862814_30.jpg" group-title="Generic",[BD]CNA HD[geo-blocked]
 https://epg.pw/stream/4d6b090ec01069ac0260bebc518cb4f4a812a03058e5bbd987f98810b5efd242.m3u8
 #EXTINF:-1 tvg-name="CRTV Cameroon" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2015/10/25/large/20151025111251671975_39.jpg" group-title="Generic",[HD]crtv
@@ -99,7 +101,7 @@ https://epg.pw/stream/e8ca5244c6c28df685b7b8ed1681693d89e165749bcfc3e65e3ae09aac
 https://epg.pw/stream/1ba796439a1530c694739536aea46d35be05112993cceb362abb473b6434d8ad.ctv
 #EXTINF:-1 tvg-name="Sudan TV" tvg-id="" tvg-country="Africa" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174517013931_59.png" group-title="Generic",[SD]dan tv (720p) [not 24/7][geo-blocked]
 https://epg.pw/stream/da3ddedcd1e54f79cf09f5cda0dbecd1ea267b0ed681fa99aaf8fc9e38bcad4d.m3u8
-#EXTINF:-1 tvg-name="TV Continental" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/10/21/20151021181120510978_72.jpg" group-title="Generic",[HD]tv vconline.cl
+#EXTINF:-1 tvg-name="TV Continental" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/10/21/20151021181120510978_72.jpg" group-title="Generic",[SD]tv vconline.cl
 https://epg.pw/stream/90fc70cf7724f654a8b6817a9dfba78021a152581272a73ab73a2dff8ce0b391.m3u8
 #EXTINF:-1 tvg-name="TVC News" tvg-id="3857" tvg-country="Africa" tvg-language="English" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="News",[VGA]vtv news
 https://epg.pw/stream/7607da1e01845bf4dd228390bdaf1992130fe9c1bd085aade8be2925d5fb9572.m3u8
@@ -117,7 +119,7 @@ https://epg.pw/stream/a4049b61a819fe9ec7f894abc60c395add32e28d1d9c55eeaf98c19d88
 https://epg.pw/stream/9ce3dfc601cdc5975c6afab6bb6f1fb77aca913de3cecb2ddbeeb1f68a85abf4.m3u8
 #EXTINF:-1 tvg-name="Vision TV 4 Africa" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201110353394041_30.jpg" group-title="Generic",[BD]n vision
 https://epg.pw/stream/8bb8c3fe21db6236de731446860f1ae42aff015222a192c5e342747ad82134bc.m3u8
-#EXTINF:-1 tvg-name="Vision TV 4 Africa" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201110353394041_30.jpg" group-title="Generic",[VGA]g vision@@1[geo-blocked]
+#EXTINF:-1 tvg-name="Vision TV 4 Africa" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201110353394041_30.jpg" group-title="Generic",[BD]g vision@@1[geo-blocked]
 https://epg.pw/stream/e96ad1dc79ad5d3c6461b16370276a867c94d89d793f3504ed27cd6cb1d8e208.m3u8
 #EXTINF:-1 tvg-name="Vision TV 4 Africa" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201110353394041_30.jpg" group-title="Generic",[VGA]Vision TV 4 Africa[geo-blocked]
 https://epg.pw/stream/3fec17cc8a860d58affc4ceb2f64cb84023d8c357c977dfbee3c79b15ec5ee7e.m3u8
