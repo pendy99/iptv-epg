@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="AMARIN 34 HD" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020411135377_14.png" group-title="Generic",[HD]amarin hd[geo-blocked]
 https://epg.pw/stream/f7e05722412056cfd9e08866d6bb389a5ae1ca87ad1f630691e4ddab7f707bf1.m3u8
+#EXTINF:-1 tvg-name="AMARIN 34 HD" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020411135377_14.png" group-title="Generic",[VGA]34
+https://epg.pw/stream/d78ca3a50d01d7899d0ba8a47a78cc377d3e2a1c6e3dcdfc7f758af4a054dd0e.m3u8
 #EXTINF:-1 tvg-name="BeinSport Thailand" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/14/20150914105052131120_22.jpg" group-title="Sport",[HD]beinsport hd[geo-blocked]
 https://epg.pw/stream/9040d8cf6bb729195e3dab354f5d99e5a14233b2fd8be3bd668fd7445ef9e146.ctv
 #EXTINF:-1 tvg-name="CH 5 HD" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/25/20150725050909737136_67.jpg" group-title="Generic",[HD]cinelatino hd 5[geo-blocked]
@@ -61,7 +63,7 @@ https://epg.pw/stream/0594afec5f58578969e65688c15c1835816db6912ac34eb25640d7f0d4
 https://epg.pw/stream/db5affdf58beeb566349bc00aedc0aaf2fa997ff833358c3beed84a9f090adaf.ctv
 #EXTINF:-1 tvg-name="MOTORVISION HD" tvg-id="" tvg-country="Thailand" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174441707554_46.png" group-title="Sport",[HD]Motorvision.TV[geo-blocked]
 https://epg.pw/stream/c0ea6699774c2083736e1dffba4d722ff8ef86d525a7c34e038012226a6f28e1.m3u8
-#EXTINF:-1 tvg-name="MOTORVISION HD" tvg-id="" tvg-country="Thailand" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174441707554_46.png" group-title="Sport",[BD]motorvision tv hd[geo-blocked]
+#EXTINF:-1 tvg-name="MOTORVISION HD" tvg-id="" tvg-country="Thailand" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174441707554_46.png" group-title="Sport",[HD]motorvision tv hd[geo-blocked]
 https://epg.pw/stream/a9d3fb859e6aca780e1d4734e56e7a61e1fd266d100fd5c3960727d5e0980f82.ctv
 #EXTINF:-1 tvg-name="MOTORVISION HD" tvg-id="" tvg-country="Thailand" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174441707554_46.png" group-title="Sport",[HD]Motorvision@@3[geo-blocked]
 https://epg.pw/stream/e1049e82419d15dadf73dc4ec941c973bb0e61a360549f4cfcaa520b6b550181.m3u8
@@ -151,7 +153,7 @@ https://epg.pw/stream/cc7bf7dc802265020b19f328b526f657bb0ade3432e2ff52752a86ad65
 https://epg.pw/stream/666ee3a1c142b038a1a37d03039269434b91655cdad906b101271686da24fc52.m3u8
 #EXTINF:-1 tvg-name="NEWS TV " tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/25/20150725051603616242_60.jpg" group-title="Entertainment",[HD]WESH-TV News Orlando FL (720p) [Not 24/7][geo-blocked]
 https://epg.pw/stream/0a465b14ee71ee63da946ae061de353a2d3bb1e4bdb5b0f8b37d9941e839455d.m3u8
-#EXTINF:-1 tvg-name="NEWS TV " tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/25/20150725051603616242_60.jpg" group-title="Entertainment",[VGA]KCRA-TV News Sacramento CA (720p) [Not 24/7][geo-blocked]
+#EXTINF:-1 tvg-name="NEWS TV " tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/25/20150725051603616242_60.jpg" group-title="Entertainment",[HD]KCRA-TV News Sacramento CA (720p) [Not 24/7][geo-blocked]
 https://epg.pw/stream/31fb0775c41790979189036ba6f4da5af0e69a8bf05c6e956d0cc44dd6c1a007.m3u8
 #EXTINF:-1 tvg-name="NEWS TV " tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/25/20150725051603616242_60.jpg" group-title="Entertainment",[HD]WXXV-TV News Biloxi MS (720p)[geo-blocked]
 https://epg.pw/stream/d03fe55b68aae103b7fe756b9fb2308da19c6eb43f4b6d2b0d50f4fc15595729.m3u8
