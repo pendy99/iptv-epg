@@ -55,6 +55,7 @@ RADIO 105 TV,https://epg.pw/stream/48760f2e65db3cb5d4d32ea6d2292d501fd39deacdd82
 RADIO 105 TV[geo-blocked],https://epg.pw/stream/ceaeea41fe823a982ce31b313a00a92fe344724767b2c9f6893e0887bba615ab.m3u8
 RADIO 105 TV,https://epg.pw/stream/57f81d12277c469347470e4d25a729625aeb353d1042f73c5b8857e40ca74e44.m3u8
 RADIO 105 TV,https://epg.pw/stream/3ef6e776fe2e5645b25f3cc1b36c065dbf41c4cfbfa568d97b548af4ee4792a8.m3u8
+RADIO 105 TV,https://epg.pw/stream/abfdb9edb61fd5d823640e0a95860a66adf668f0e921aac852e6cbc3108475f6.m3u8
 RADIO 105 TV,https://epg.pw/stream/18f14b3d1531f9a448ed6d9dacc8314ec47eb6d2f36a7a0b8b29d275105e8377.ctv
 RADIO 105 TV[geo-blocked],https://epg.pw/stream/344e1c42141fe9b425865c6f1ddf04cee19cb75b63d23bc1ff9ce6d7dfed0abc.m3u8
 RADIO 105 TV,https://epg.pw/stream/8d4abd081f4fe527c8afc9796e4f410d2b360cca9dbb74630c7defdb7dce72a4.m3u8
@@ -63,8 +64,6 @@ Radio Italia TV,https://epg.pw/stream/4d313284995c454697f09cd84ae856bbed3492863a
 Radio Italia TV[geo-blocked],https://epg.pw/stream/a451da00ce3da59a87ec624aaa62a60163af28f1859f25d8af7db29bd55bfb13.m3u8
 Radio Italia TV,https://epg.pw/stream/e649523334bec7dbaea0d4b6dba8e1303f02676ec287d30d79ea75d720c425fe.m3u8
 Radio Italia TV[geo-blocked],https://epg.pw/stream/b41d3c5ce77859383b1c34ee66438aade64ae16da564f23107fc005b053c8206.m3u8
-Radio Italia TV[geo-blocked],https://epg.pw/stream/6c08fdf5ed097142c6772e285ced1f1d9340c3097746342c6557c16ae6016847.m3u8
-Radio Italia TV[geo-blocked],https://epg.pw/stream/aec9c72a09c5fbe169766cb1cfd4880c990bd3a282474b7dd13df03b7b8d60bb.m3u8
 Radio Italia TV[geo-blocked],https://epg.pw/stream/c40b179dbb24357cf27bb32018cbf215a48d9d3bcd34c1b61294fd5f7abbd931.m3u8
 Tele Arena[geo-blocked],https://epg.pw/stream/e7c60e7910046077f1f3c6b94a14c7f1753d8e80a175cae1ad039f62e241ce32.m3u8
 Tele Arena,https://epg.pw/stream/a6266eba1006ddf73fe9330e6c961c9534bbb6a0530db85ecb4617922c66ea8f.m3u8
@@ -93,6 +92,7 @@ Canale 7 Italia,https://epg.pw/stream/c0c8dc74500c5a6517dfcb5e9875eec24a8580a230
 Canale 7 Italia[geo-blocked],https://epg.pw/stream/82a7c78e950a4d0f2f9c905748ea5690c9fdd52f3257cc6eeed7a25a845e3040.m3u8
 Canale 7 Italia[geo-blocked],https://epg.pw/stream/49aba0809fbfae2b046580dcbbf85daeb12d21cedd187244ef2d41716dd795be.m3u8
 Canale Dieci Italy,https://epg.pw/stream/5aa019f126f9e51a514bc697d1ef8ddc50fd67b936907cc636f118b9e9180d38.m3u8
+Canale_46_Sicilia,https://epg.pw/stream/5f1c6fdf7ad9727d98f4295e2a475a90c4a44aa5977ebbf18b3a388ee5ab5a08.m3u8
 Cielo Italia[geo-blocked],https://epg.pw/stream/7274afabe3aca6d0f17020f56925fe899bf21daa7bbc28043ed776460e21c60b.ctv
 Cielo Italia[geo-blocked],https://epg.pw/stream/dfbbd9e2e762801a15f8fff35783ef423fdf396c1eca524eda29bc06aa3d0391.m3u8
 DEEJAY[geo-blocked],https://epg.pw/stream/7958406fbbd45d456090598e607a58b6f646ba45bcf010dbeb25b23a3522814b.m3u8
@@ -194,6 +194,7 @@ Premium Stories Italia[geo-blocked],https://epg.pw/stream/e1e253005674088ef638be
 Premium Stories Italia[geo-blocked],https://epg.pw/stream/01c31a46adb754616a4dea07df80efa1556c93e4853c5de1614e19dfc840ba7c.m3u8
 Premium Stories Italia[geo-blocked],https://epg.pw/stream/266dffe3e871a110eea1f34a635ceaa555ec32faecf1e3108f6e2bfca194861e.m3u8
 Rai Movie,https://epg.pw/stream/39173fb526cc993158787e22803819365c1566a6140ab5a3d1cacb568d67c0e8.m3u8
+Sky Cinema +24 HD Italia,https://epg.pw/stream/80278a39bfed93fd8c99d59fed1cd7cf5308365e4f3a0cf78ee8146acaca1cee.m3u8
 Sky Cinema Classics Italia,https://epg.pw/stream/cc5a2b245c00c1769b529b487bb339202f6541fbe74b2411bf6a9d3daff67d80.ctv
 Sky Cinema Family Italy[geo-blocked],https://epg.pw/stream/6594b6ef40b4222217d2d5b786b7a356be426d86fff55b19b2ff0c84cfdc5504.ctv
 Sky Family HD Italia,https://epg.pw/stream/3cb65050941e3ef959fe075919a090ed48d7c822b3a3c5e302b52e4cb2e91c0c.ctv
@@ -203,7 +204,6 @@ Sky Passion HD Italia,https://epg.pw/stream/c1c10a01e86a9f4cfb9da7f31d66277f54d2
 Sky Passion HD Italia[geo-blocked],https://epg.pw/stream/49ac7c8bbcdde90f8587cd04b4b9d9b315473c63e55ebe5af5fa30b495014d03.m3u8
 Sky Primafila Italia[geo-blocked],https://epg.pw/stream/b058cf788b47cac2999b5296219d4b154b3be9152a58543067f3458ff2ad1da9.ctv
 Top Crime,https://epg.pw/stream/dae012c3188d49657fe4f85ed6d73a8e275841ad737aac668d199b6d233e7fb4.ctv
-Top Crime[geo-blocked],https://epg.pw/stream/190a2e5a5fb4d9e9013902f2cee5ace4e36887e4ed66a59422dd42474c57eb07.ctv
 Top Crime[geo-blocked],https://epg.pw/stream/e46c332b67b173b2dd49b68cd0ecd66d31ddc76b2a4be5b43a9b1223e80d795a.m3u8
 Top Crime[geo-blocked],https://epg.pw/stream/45679b40c81daf5d409c005fe7ccd5731aab5239116a6ec797681f9fca934b90.m3u8
 Top Crime,https://epg.pw/stream/1e51fdf5bb5e1974f0ae2800e7b885d4973043b5ec5f1670fc34b48f7a25d219.ctv
@@ -245,8 +245,6 @@ Italia1[geo-blocked],https://epg.pw/stream/5f9c77f55f0322f0aff36fb41f6b1a122b4f2
 Italia1[geo-blocked],https://epg.pw/stream/23463725578124bb6b05f965ef9ff1839b54a2dd2765722ae4126cb509236af6.m3u8
 Italia1,https://epg.pw/stream/e6e0418db3e1749b16ca70a4d39aa22876e2a9620f6633aac811df06cd827f0a.m3u8
 Telepace[geo-blocked],https://epg.pw/stream/703aaad1efc58c606947978dd9408ef2bf935ddae1b69a5c19ebaaba5bbfc066.m3u8
-Telepace[geo-blocked],https://epg.pw/stream/5430e75e89e085206033512e81500a2a9220ba3a421f0109552e679ad18c8fa9.m3u8
-Telepace[geo-blocked],https://epg.pw/stream/01abb35f4ef5d7d1b0707e88038bee67ae425a2eb4a1abd35fbf0bd81b4fb49d.m3u8
 Sport,#genre#
 CSI Web Tv[geo-blocked],https://epg.pw/stream/a4b16064fcb2c74eb08944d6c04acedb2f5634b29019671528ff6cd4e04a026c.m3u8
 CSI Web Tv[geo-blocked],https://epg.pw/stream/f5d7bb87d199bff548adf951c57185a2b80ed58ef27d47e49a83ca32e72049f5.m3u8
@@ -260,6 +258,7 @@ Fox Sports Italia,https://epg.pw/stream/c1efbfd3cf64166925164f92fc3af62a7199befb
 Fox Sports Italia,https://epg.pw/stream/26749a7032a4a27848b75b8930ce8fceb957ff40cfb0cf8c53f6c4ff7a74e06f.ctv
 Fox Sports Italia,https://epg.pw/stream/b48a3d92a00ae25602f17addf851edc7d5366b49c3653f4dd62f07db4fded8db.ctv
 Fox Sports Italia[geo-blocked],https://epg.pw/stream/d453321784eb5c7122f10fb597187a920f9eada482010a90604a589c45359f5d.m3u8
+Juventus tv,https://epg.pw/stream/fa16da1f20a4f9f47c8276144ea93a7cb70f2124defe6d1fcda3b18a296dd2bd.ctv
 Juventus tv[geo-blocked],https://epg.pw/stream/38b344ada0237274475131abaa53266f12ecd4bcf4aba8b248a55c3f4c4e3164.m3u8
 Juventus tv[geo-blocked],https://epg.pw/stream/f5fcb1d0aabfba65035459030217f3ed7b5768a4b3bed06de572a056c8e1e1cc.ctv
 Milan Channel[geo-blocked],https://epg.pw/stream/11718b8f154ac83d9fb8d1b97ed72867db67965cbef184eac8ab88499e2e4ff3.m3u8
@@ -291,5 +290,4 @@ Telenord,https://epg.pw/stream/52159a84c4211f900f1d5297abd4187fcaee58eba51d650cb
 Telenord,https://epg.pw/stream/ca86776448e73b78b078402bda28c73cbbdb74dc4587f2d17b7636fab543d9db.m3u8
 Tsn Livigno[geo-blocked],https://epg.pw/stream/4108efecbafa4043a9a4645516f1c7a0ebf1ef5ac31bf81b9905e8738861ceaf.m3u8
 Tv Luna Sport,https://epg.pw/stream/c5f15213eb5a4f8d97c403dcfe48fad18eb1be1e992e9d70097a0410f59808e6.m3u8
-WWE Italia,https://epg.pw/stream/a66533fcf9e7335dbca06d9be32156be66d5c3ca54c3e00d03794ad3f2d79edf.ctv
 WWE Italia,https://epg.pw/stream/7ab1a21ca8b86935f48037bc5e3b05b434abfb549bf67e57c559e6366f9f6a7d.m3u8

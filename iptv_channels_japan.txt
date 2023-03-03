@@ -89,6 +89,7 @@ BS TBS,https://epg.pw/stream/106a011aa32e09e66c096540b3794e7228492d1b82bca1c0a54
 BS TBS,https://epg.pw/stream/d80e78cd5e950204e183030d95e1156d6022c695e8213d641f85e709592a1141.ctv
 BS TBS,https://epg.pw/stream/c2251f6271aa456fea7838379e14ffdab5f4935384f0f97718cb7de96f04d1d8.ctv
 BS TBS,https://epg.pw/stream/ea22664c7029b76d1abaec9620caebfcdf96b3057882f688e1cb49f2fd928d52.ctv
+BS TBS,https://epg.pw/stream/6390cfb195a8456e520442a076c51851b94e6c0d06565688b5ab9fec99d77656.ctv
 BS TBS[geo-blocked],https://epg.pw/stream/65a023675f87d6a22e77f4896f5dbdc514f9eb7bef8a94e720375886c00900f7.m3u8
 BS TBS,https://epg.pw/stream/7151a3c8223c83e225752d04ff4ff19afb96cd96e3396e5fe5f18eaf2ee3e612.m3u8
 BS TBS,https://epg.pw/stream/941cabd8f07948c62489b7fbba38eb751c085f143a33d5d3f524a66af89bc00c.m3u8
@@ -114,7 +115,6 @@ FUJI TV[geo-blocked],https://epg.pw/stream/bee986b4253c725bd4b2a9565e07794fd82bb
 FUJI TV,https://epg.pw/stream/7979e430fea9da93aaf731fbf39f734ebef59e5f629a5f9591ff43c472899118.m3u8
 FUJI TV,https://epg.pw/stream/e0bd51bf65e5789f436d8b402be6f16980304eb1733ae42cd631139e0eb29b33.m3u8
 Kansai TV,https://epg.pw/stream/f7122e8ea1607bb89746b1850e5b63870606e9bf0c2d7e252cb985d1a2d54fa2.ctv
-Kansai TV[geo-blocked],https://epg.pw/stream/839e58fc7d808c66128136b35028d514b9e1c344c1293a5555b94b36d602ce96.m3u8
 Kansai TV,https://epg.pw/stream/bf1212cb4c1a12676b7bc4473aa0344111555825a82394dde0be7d2253ec97fe.m3u8
 Kansai TV,https://epg.pw/stream/63bd819c056f1da37cf7dd43bcacf7e88f8225457d3bef50b7f686f26a215a37.ctv
 MBS JAPAN[geo-blocked],https://epg.pw/stream/f00c5153b09c8c647d6d6d1cd5e49efee78ac1a80c5b80d06246c667fc5abe9a.m3u8
@@ -205,6 +205,8 @@ Nippon TV,https://epg.pw/stream/01106c1e3973283cb87bca1a8e24aab4aacc6b2fb729ee03
 Nippon TV,https://epg.pw/stream/bbc1153d35b43a61ea5b2aff7b0418c3083c3cc6dd080aae9241626f443f1bfc.m3u8
 Nippon TV[geo-blocked],https://epg.pw/stream/40ce844f888250e39ad29545d014df4ec98ea22a2d5eb041af41fc966bdee9e9.m3u8
 TOKYO MX[geo-blocked],https://epg.pw/stream/35c94f7e0f83bf851da2a5b73745cc946e98108d589e5324a346dce75bf73b9f.m3u8
+TOKYO MX[geo-blocked],https://epg.pw/stream/4f3dff0cde0e7d72cb95f048f20e5903b80b7a021bb489f8919476154eba6062.m3u8
+TOKYO MX[geo-blocked],https://epg.pw/stream/9a07e0c9f6599b28eebf75961ead7fab00f33c26c58fd0e490ca15d4c285df8a.m3u8
 TOKYO MX[geo-blocked],https://epg.pw/stream/29188c902e7236f19cacfafb93bd5e1edc8cd9e84163835a920fbd47162c209c.m3u8
 TOKYO MX[geo-blocked],https://epg.pw/stream/c13995a46f0dd428857d8704de869b4ebdc01a7d406e9d9e06a9f0327ee70d26.m3u8
 TOKYO MX[geo-blocked],https://epg.pw/stream/58f2883de74a8423d2a6deb73a2fe6776199fbd0b828dddf5b3dbedba537536a.m3u8
@@ -283,7 +285,6 @@ STAR CHANNEL 1,https://epg.pw/stream/b6ae542c4a25528ce4117259dd00d3ef87a7e0bb998
 STAR CHANNEL 1[geo-blocked],https://epg.pw/stream/c5ece125752908feb63fef9985f8fcd534c60f017920cfe703d5fc69d8744049.ctv
 STAR CHANNEL 1[geo-blocked],https://epg.pw/stream/71abd66210c9c510d2e21db5f1b7afae03dc43bf22ddd885c1a27ca5f1a68a81.ctv
 STAR CHANNEL 1,https://epg.pw/stream/2974e0f0ec18fc4baaba214660d361e0467f818ef8eed241e53217c1cbfebe71.m3u8
-STAR CHANNEL 2,https://epg.pw/stream/3f40f28eeeb32a1c17458e2ba9355cd0660bca708dabb86459123a6fbee3a36f.m3u8
 STAR CHANNEL 2,https://epg.pw/stream/a2f1e7eb20b7407fbcc4cd03207025455802ca187d987fbfc7a28fcd00a2e460.m3u8
 STAR CHANNEL 2,https://epg.pw/stream/c2d0406e463a92d0e5947b6b70d9b52feb1500bd0e20210bda960bfeb59e980b.ctv
 STAR CHANNEL 3[geo-blocked],https://epg.pw/stream/5ad9cabac6520b72cf0164029b70471cf22744db97622a0d40e55f5244817073.ctv
@@ -296,7 +297,6 @@ STAR CHANNEL 3[geo-blocked],https://epg.pw/stream/25a9f8842475410a84e008a65832b7
 STAR CHANNEL 3,https://epg.pw/stream/1dc5ad47bce93a7c470af4b769abb3bbe53612f10e3b8ae2c489d711b4e5ede6.ctv
 STAR CHANNEL 3[geo-blocked],https://epg.pw/stream/5d1ca79d01080506943845cfe8d2155fcc7ce31195f2f96796c45db884989089.m3u8
 STAR CHANNEL 3,https://epg.pw/stream/098b732054e1e755448e83179255fb72a4d42a809e144928ea10d177e951c0b0.ctv
-STAR CHANNEL 3,https://epg.pw/stream/5beeeb80e178a87dfe1258c547c925be4f877dcd8c8880a526202ad02d4c5125.m3u8
 Star 3[geo-blocked],https://epg.pw/stream/de538fa06a2248ba10de2d3150cc1bd38c7ffcf24556b995f5ce0567ba227f6d.m3u8
 Star 3,https://epg.pw/stream/09b301d8f902a6f4446b7f0ac2daeb77af86cd4782d6e158e3e612273a235665.m3u8
 Star 3,https://epg.pw/stream/0f76cfe14a304ddb200baeae8a9895e40a745c14f3a81c4006809385ea8d2b28.m3u8
@@ -363,6 +363,7 @@ Gunma TV[geo-blocked],https://epg.pw/stream/b08f956bfbcedce6c65ed6f915d6565802f8
 Gunma TV[geo-blocked],https://epg.pw/stream/7db0b656a835a8641c8b957d0f35f73ecf74587f03bbd53235581b259d7343eb.m3u8
 JSTV 2,https://epg.pw/stream/4207f6f25c5d3fbdcf5f4e67e7968374cdc0bdb6f8d71285e38755d2941da43c.m3u8
 JSTV 2[geo-blocked],https://epg.pw/stream/78e2de445c825867e7697faa39e7046979e7bd1037ae19a2e30e6c538a69e645.m3u8
+NHK BS8K,https://epg.pw/stream/173af13fb68653091e672b13b2f140646dd5f4de06b97421c8a508708c9b277c.m3u8
 NHK BS8K[geo-blocked],https://epg.pw/stream/a88c86a4d9fed77b84aa980a5fe3d85aee3a8d7e73465d1662de30afac65babc.m3u8
 NHK BS8K,https://epg.pw/stream/ad234ae07aaf497a6884753f5722a489018575ff082c40cfc69428b446fa3fd5.ctv
 NHK華語視界,https://epg.pw/stream/ca896264f79939f6bbcd3a8ce45d382538752d215984f2696373275d9089ecff.m3u8
@@ -398,6 +399,8 @@ Weathernews[geo-blocked],https://epg.pw/stream/3326fdae2bceaef5cac59462c4f4ada83
 Weathernews[geo-blocked],https://epg.pw/stream/3c174ac73f6abb5db9559962656004c104c401c838e822ac879d0bbab9e4a29b.m3u8
 Weathernews[geo-blocked],https://epg.pw/stream/439ddafd86c33e7f88075e8ba71ddfbd33dc0ef9de2a0506d8e273e06bad6da7.m3u8
 Weathernews,https://epg.pw/stream/1492f8dbafef03c7d058ee2a2f93f6efbe2d67ce13629e718af866bde7156392.m3u8
+Weathernews[geo-blocked],https://epg.pw/stream/381c5435aa767882ff6874ceb5afc82a9905b49f277a9bef8d203795704edc6c.m3u8
+Weathernews[geo-blocked],https://epg.pw/stream/37613226badd85186d4cccd3ad6a89c46fa819cf2f4b5b37571ad8ec0d1363a8.m3u8
 Weathernews[geo-blocked],https://epg.pw/stream/79d4d09756b4b720e5dcc5c3993d8d86c5a469db5b8e7fdf5ae996ef74481b05.m3u8
 Weathernews[geo-blocked],https://epg.pw/stream/bedae7a05bcb675b97d79a208da02693ce4ab7e570aca068a9104f1fd4b95ec7.m3u8
 Weathernews[geo-blocked],https://epg.pw/stream/231354e02782fb8211da76bb89cd4c4f7f82fd227ff04ab6e57a27fb0849fe61.m3u8
@@ -416,6 +419,7 @@ Weathernews[geo-blocked],https://epg.pw/stream/d3dcf950bb5907b02cc169fab21822705
 Other,#genre#
 BS Japanext,https://epg.pw/stream/b1b4b21113e4feb6355c157e2bde730a70f1b00564a9a53bfcb8ea1b3bd71203.m3u8
 BS テレ東,https://epg.pw/stream/c80ba31f801a2836744418e62fa0cbfdfd6dc6ceae83bb2c31f12f6b10c70c54.m3u8
+Jupiter Shop Channel[geo-blocked],https://epg.pw/stream/1ccc0c14410e5e255eba5a586b4d29b193e2e82c2c0d59403c1c2ea42c2f9076.m3u8
 Jupiter Shop Channel[geo-blocked],https://epg.pw/stream/0eec97d489821ddb6074fa84a0749c93de5fbeadbee341cea52db682eace5d1a.m3u8
 Jupiter Shop Channel[geo-blocked],https://epg.pw/stream/eb7ab6d74ffb3acbc79fdce327a661fab638b99a412389585da539174ba7bd40.m3u8
 Jupiter Shop Channel,https://epg.pw/stream/6c1b62470ea7561d0d0c70c0858f36e52ad4807ed510fbd8a1493e1db19f6eb7.m3u8
@@ -437,11 +441,11 @@ Lala TV,https://epg.pw/stream/b7579d963ae37470fb937ea13d27662ebbf930a62fe054eb19
 Lala TV[geo-blocked],https://epg.pw/stream/b776285fe57bb85cca35fc2a5d368f266641a26468a8da24865c2fc3bc1f3abe.m3u8
 Lala TV,https://epg.pw/stream/00a85dd2d7daab2feb934b1a8150fbe6ac2d59bfc4d9df24bb5e3721278f8c41.m3u8
 Lala TV,https://epg.pw/stream/4e4844aa3a4d9a959a8736c5d7e4d372abc6cc174438fb52a30ce073f7808c8f.ctv
-Lala TV,https://epg.pw/stream/3b37b2b9ff9342fdcb4b650ffcb50aeabae2fa055a4bf01140ec33f6e377d2f9.ctv
 Lala TV[geo-blocked],https://epg.pw/stream/b537042000978484324f751b8b25991428cef1a8e30739314247120d8c10b08d.m3u8
 Lala TV,https://epg.pw/stream/24142234ce133278e677a86d9f0748d86a9103b19a0622218fae0943858451f1.ctv
 Lala TV,https://epg.pw/stream/1cd88931b9d8f29bbc16a75735cd10237dbcb39619d80ca87806cd269ec41924.ctv
 QVC Japan,https://epg.pw/stream/6a43611a8ea506772e20c3a0e6f24b8528ba6e5600a481ed5a5d945cd9ec894d.m3u8
+QVC Japan,https://epg.pw/stream/22191e4bb6c3cb73a739b0f2dac1db9784c1c484a467ecb71c25539707ded1fa.m3u8
 QVC Japan,https://epg.pw/stream/91013d0200d2514e6657e07c7ba0da54b04f16d779ca9e215fd630ea464c1647.m3u8
 QVC Japan,https://epg.pw/stream/870c7b92f79c30c9d6373666d64002f588b9b84c5c13c9efa0a9758f720976e1.m3u8
 Toei Channel[geo-blocked],https://epg.pw/stream/588df510716438f06d6ec373dfd7d0e8901dc94365928693cc0e2745dc745d18.m3u8

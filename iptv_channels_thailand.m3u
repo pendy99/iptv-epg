@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="AMARIN 34 HD" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020411135377_14.png" group-title="Generic",[HD]amarin hd[geo-blocked]
 https://epg.pw/stream/f7e05722412056cfd9e08866d6bb389a5ae1ca87ad1f630691e4ddab7f707bf1.m3u8
-#EXTINF:-1 tvg-name="BeinSport Thailand" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/14/20150914105052131120_22.jpg" group-title="Sport",[BD]beinsport hd[geo-blocked]
+#EXTINF:-1 tvg-name="BeinSport Thailand" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/14/20150914105052131120_22.jpg" group-title="Sport",[HD]beinsport hd[geo-blocked]
 https://epg.pw/stream/9040d8cf6bb729195e3dab354f5d99e5a14233b2fd8be3bd668fd7445ef9e146.ctv
 #EXTINF:-1 tvg-name="CH 5 HD" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/25/20150725050909737136_67.jpg" group-title="Generic",[HD]cinelatino hd 5[geo-blocked]
 https://epg.pw/stream/524cc874fe0b7b5a971bf516dc1b5f4b4ec9ceb4d1f78bcba7ad1d9efc3f2392.ctv
@@ -17,10 +17,6 @@ https://epg.pw/stream/277731fd1dd2e2237c12e1357bb779aaabc8feac5d879006ca934a51da
 https://epg.pw/stream/6d4a10406f935072c81129978cc23a4002a36cbbdf6c5486b61213fe022d2e37.ctv
 #EXTINF:-1 tvg-name="CH5" tvg-id="" tvg-country="Thailand" tvg-language="Tamil" tvg-logo="https://epg.pw/media/img/tmp_logo/ch5.PNG" group-title="Generic",[HD]CH 8
 https://epg.pw/stream/b34693626566a7ae067dd3b68761ff135abd2cac52cdb1b728a915f58cbdf5a6.m3u8
-#EXTINF:-1 tvg-name="CTH 1 HD" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/30/20160530193958493614_87.png" group-title="Sport",[BD]ct 1 fhd@@1
-https://epg.pw/stream/3462ef3a3a6b9e21ba975462428b12af80dc14b716ef5521efed344cc1d8a5bb.ctv
-#EXTINF:-1 tvg-name="CTH 1 HD" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/05/30/20160530193958493614_87.png" group-title="Sport",[BD]ct 1 fhd
-https://epg.pw/stream/86a625c662e476f57bac8fa4446462aed7e7a88fd7f93006290db0b56cc10817.ctv
 #EXTINF:-1 tvg-name="Cartoon Club" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/images/channel/2022/09/22/large/20220922235351323531_90.jpg" group-title="Cartoon",[BD]Club 17[geo-blocked]
 https://epg.pw/stream/236ccf9d72257ea6e8006fe9fbba232378ae316e6b2831af216992d2e9afaa8c.m3u8
 #EXTINF:-1 tvg-name="Cartoon Club" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/images/channel/2022/09/22/large/20220922235351323531_90.jpg" group-title="Cartoon",[HD]filmax l cartoon@@1
@@ -205,8 +201,6 @@ https://epg.pw/stream/9c4aa61e70449b580466c35efa42092dfa5af5ca2648aca91719b8db40
 https://epg.pw/stream/0d3213cebebd4a4feec0874f4e36960bce3f86cf190715daf7f0537a7c7b45e6.ctv
 #EXTINF:-1 tvg-name="TNN 24 " tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/25/20150725051510332933_91.jpg" group-title="News",[HD]ptn 24
 https://epg.pw/stream/226e8c6ce2e625b7e0a945f98c682559d5a71bb00195489f06cc278cfb0c4c1c.ctv
-#EXTINF:-1 tvg-name="TV 3 HD" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/25/20150725050754369924_97.jpg" group-title="Generic",[HD]m+ lcampeones 3 hd  solo eventos
-https://epg.pw/stream/b8ceb90ae539f3cb75c862d2f888c88c7f30b34104219631f886b87c4b72fb69.ctv
 #EXTINF:-1 tvg-name="TV 3 HD" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/25/20150725050754369924_97.jpg" group-title="Generic",[BD]movistar  cine 3 hd@@2
 https://epg.pw/stream/02424363da924a46bbed8009e62085669aa4be08841f4d4752187306359263b8.ctv
 #EXTINF:-1 tvg-name="ThaiPBS" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/images/channel/2015/10/22/large/20151022174602353216_74.jpg" group-title="News",[HD]thaipbs-3@@1
