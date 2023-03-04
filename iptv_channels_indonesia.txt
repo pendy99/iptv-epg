@@ -20,6 +20,7 @@ Spacetoon ID[geo-blocked],https://epg.pw/stream/95d7030950dcd596c0b5dbc45b6772cc
 Spacetoon ID,https://epg.pw/stream/47df4caae8f38f72b6765aacc0faed2008f0c974c772abc1f60f6d2250f71ed7.m3u8
 Spacetoon ID,https://epg.pw/stream/44331e40d9c3857b5c76ebb67e799527d928f16670f5c91862db8f3c3ca14233.m3u8
 Entertainment,#genre#
+MIVO TV,https://epg.pw/stream/8b8ec3160d54c1b90dd64b5b2291299fe4eadaef2d53f6a19593ea6e55caabd9.m3u8
 MIVO TV[geo-blocked],https://epg.pw/stream/de8cb558b563523c3d6184a8ea6ca82a417db356725ad3a220f195660189df21.m3u8
 MNC Infotainment Indonesia[geo-blocked],https://epg.pw/stream/21074380f6cb02d0baaa684e92c908ba5f13847fd9fe12af5e46077b5ce8716e.ctv
 MNC Infotainment Indonesia[geo-blocked],https://epg.pw/stream/f1024288e3070bbd109d231828f1f43317567f79c6beb95f3b003b02e7445347.ctv
@@ -40,7 +41,6 @@ RCTI[geo-blocked],https://epg.pw/stream/849d3f9d0b750f2e6b3dfc702ebc9de769a4a6cf
 RCTI[geo-blocked],https://epg.pw/stream/94f0ec101c572dcaef028abcca7e3dfd7ea21d360ac9d92cff64c1c1f174bb1d.ctv
 TVRI Indonesia,https://epg.pw/stream/337fb4d1af75d3c23a7e4ef82ed0353c99767ee5d735fefe438fb3740c6080e2.m3u8
 Trans 7[geo-blocked],https://epg.pw/stream/26cfab6b55145b267b6e539f4b86c23f092db4dbb31a2f60c092e300c9d3a19a.ctv
-Trans 7[geo-blocked],https://epg.pw/stream/a8c129f18c27adf8e6bf8b36ff57b21fdd0175eb8d1ef3c4f69b2e1d3918eefb.m3u8
 Trans 7,https://epg.pw/stream/2cec3de531735c675d593029538b6f6f25508863f5fcb6ffbec5eff2c22c8325.m3u8
 Trans 7,https://epg.pw/stream/dd487b4143fb658cf883418634dd8b64ba649f9d1c74467a9b75098aa545d1fb.m3u8
 Trans 7[geo-blocked],https://epg.pw/stream/986025e69ded7fddef82232e2c82d9a0cec968d95ed7a218275ff16e17f53299.m3u8
@@ -50,7 +50,6 @@ Trans 7[geo-blocked],https://epg.pw/stream/91cee4d2de4bc4112366daed8786a672aa6d5
 Trans 7,https://epg.pw/stream/342ec82acbb6c3275d014464549a39c1e13911ef7946f3545824e735abdc01d7.ctv
 Trans 7[geo-blocked],https://epg.pw/stream/0fcadc36a80ccf6c3e9e04f5f23f5a66b30698401385ce152777c339cc9abb14.ctv
 Trans 7,https://epg.pw/stream/d1b6cba1130f08aaa6814ab0f78ba9550f4c88b216a68f837b5b08c99bb6c531.m3u8
-Trans 7,https://epg.pw/stream/aac683e806f497b7790d703e12c77eda227cdb06b62165bc0426ac2234e2ea58.ctv
 Trans 7[geo-blocked],https://epg.pw/stream/960978278e523e0b72f6dd089070c6f91abd99bb5be30d3089910a567396fcd6.m3u8
 Trans 7[geo-blocked],https://epg.pw/stream/7ca75f98d0fe40f1c496b9e3d74f4cc4b95aa5e0c3c3566a68b134d6febe57ca.ctv
 Trans 7,https://epg.pw/stream/528d96d94ade063071f11dc1c21a0df3bd609b083c4beaf439aaf1f4acafff0e.m3u8
@@ -58,6 +57,7 @@ Trans 7[geo-blocked],https://epg.pw/stream/fbc09a07280741fa48da29170ba779188c70b
 Trans 7[geo-blocked],https://epg.pw/stream/15b7ae56c2a0294c67d841fbf2f34bce956793d83c77fc8305004caf220325f1.m3u8
 Trans 7,https://epg.pw/stream/9cabfdfd223cd80700aaac93d4cec46805771703d62a251f6e013ce981741637.m3u8
 Trans 7,https://epg.pw/stream/063e11a7d10feb31601ce4ea9f17ed5041cc99ac83ce18b96e6c87e43843b360.m3u8
+Trans 7[geo-blocked],https://epg.pw/stream/a8c129f18c27adf8e6bf8b36ff57b21fdd0175eb8d1ef3c4f69b2e1d3918eefb.m3u8
 Trans 7,https://epg.pw/stream/197c0649c9d19e06a1e3cf16cd5ae354675761c48c36a4f97fa696ad1100ebf6.m3u8
 Trans 7[geo-blocked],https://epg.pw/stream/b91a48ae97a14a235419b519c788eb6a356917cc765101eb65deaf402d356900.m3u8
 Trans 7,https://epg.pw/stream/eb9819c9506038a2e27b838ffa87047282054c227716c4758ce63e32d346a6aa.m3u8
@@ -77,15 +77,14 @@ TransTV HD[geo-blocked],https://epg.pw/stream/4f6bda1e3676283ad06a44148ae1830e48
 Generic,#genre#
 ANTV Indonesia[geo-blocked],https://epg.pw/stream/6ce9f9cac80ff3c32274ebfc9e01957fb28ed085d1cb7a21e7432da20d7e21cc.ctv
 Elshinta TV Indonesia[geo-blocked],https://epg.pw/stream/0fd065575be21e741cd663150a57912d77ea856646173bd70d7d494c16f4a9af.m3u8
-Indosiar,https://epg.pw/stream/ee49361fb14ccf6b6caa39a3fc0dc50b21fcb110d120a2261c246cb37168cdd9.m3u8
 Indosiar[geo-blocked],https://epg.pw/stream/f52567ecc321258c0ffaeba1b7fd2441745b6dfad9d16424fd3daba224b0fc30.m3u8
 Indosiar[geo-blocked],https://epg.pw/stream/ae664354ba487931417baa8923de9ebe7e2974b913f205fd804d769509921dd2.m3u8
 Indosiar[geo-blocked],https://epg.pw/stream/3048a07b7834b8c3ae6883a1ed74d910b44f54f8794a34055f6a0fe69a331c0d.m3u8
 Indosiar,https://epg.pw/stream/15ddf1cbc2e8f7bd67864cfe9de42940e07752973561589fbdf18bf88b6bfc7a.m3u8
+Indosiar,https://epg.pw/stream/ee49361fb14ccf6b6caa39a3fc0dc50b21fcb110d120a2261c246cb37168cdd9.m3u8
 Indosiar,https://epg.pw/stream/113102170a2dfe03cbdd09a6743ac8b6e5ded8e2d0544faf9de894bb762be863.m3u8
 O Channel Indonesia,https://epg.pw/stream/687e45c65126dfcf91c50cda8c4634ec41770156af0b0880561298e4c0fc0850.m3u8
 O Channel Indonesia[geo-blocked],https://epg.pw/stream/b39adff612a326767ce0786f735e9940c5779cda94d5d9ea39966d3451f80cd8.m3u8
-O Channel Indonesia[geo-blocked],https://epg.pw/stream/8972c676d5564db9c8a6569f31e6fa789f92bf3b7aba6c05105a9474b7c4339a.m3u8
 O Channel Indonesia[geo-blocked],https://epg.pw/stream/2a5f621e66f0084efebc9b957ed61a2bd3a571fc06149244f470f4cd0366dfa4.m3u8
 SCTV[geo-blocked],https://epg.pw/stream/15e398a74733e1f41e3a8795611f728419e755b8fcc6db3a0c6b7f3770f23787.m3u8
 SCTV,https://epg.pw/stream/b903b7d6726c2deff7770f7a07b103a18ef6d13773d70a91a4f3a2913e4ddf3d.m3u8
@@ -239,7 +238,6 @@ Kompas TV[geo-blocked],https://epg.pw/stream/0c529b7d11f377a8c8f32c3b107677a124d
 Kompas TV[geo-blocked],https://epg.pw/stream/0ca24d07d5ce34e9428395cfd3ab2c1c7871db13e8518409a1c4e52c922d531a.ctv
 Kompas TV[geo-blocked],https://epg.pw/stream/4fb9115cdf20db60616e4e0a852496a641c2a6bcd713987a17019153eead8540.ctv
 Kompas TV[geo-blocked],https://epg.pw/stream/adb6b0c799588049985eef559b0dd79e20e735615abd9acef7d2dd9b1e476705.ctv
-Kompas TV,https://epg.pw/stream/fc37c430a5decef61322a633aefb5f248139e52f1001a089c17db6ab2f0ace9b.m3u8
 Kompas TV[geo-blocked],https://epg.pw/stream/4aa7c67ecac27734b4d080f80aad96e09110020cb91f4ffcb1d9affd7c396ec6.ctv
 Kompas TV[geo-blocked],https://epg.pw/stream/4d73283cd921f0835b0412aca208ef379e72df15f03e3da22651a561ee58f90b.ctv
 Kompas TV[geo-blocked],https://epg.pw/stream/6022befe7d43aedb15246a4797bb9f51d9242b4f408f9f64278b6f6359998937.ctv

@@ -20,6 +20,7 @@ MBC 3,https://epg.pw/stream/ddb1ae0959f89d96e4603062a31ad5981306e0ff26a849191730
 MBC 3,https://epg.pw/stream/04d3d40ec06bb4de7a89762f27117b73eaf8dfc0add31b62d4f1d5536543019c.ctv
 MBC 3[geo-blocked],https://epg.pw/stream/9d3bd9b417f14c8373d11d8c70ee37736b20f9c4d4915ffba715920c8d0c9ca7.m3u8
 MBC 3,https://epg.pw/stream/5c88d10c49c9629b079a603f0ef1f0a7bcfa0bc859d92561e301928cc23ffeec.m3u8
+MBC 3[geo-blocked],https://epg.pw/stream/706c79595932e0d6e4fc2c5a19339319e6af0e35bb0c7be4d2113bbe4659b3b6.ctv
 MBC 3,https://epg.pw/stream/46dc214694556d05c0a9a4f1510c23747fb176c3b2149ce91917461292af4711.m3u8
 MBC 3[geo-blocked],https://epg.pw/stream/69573f8849609b5d224727dffa77629d0c8be594f5cb521542577ebf128f9226.m3u8
 NOON Kids [geo-blocked],https://epg.pw/stream/38d4d250190f4e182f26d3e7f71502fe1c04bdaa8cdd4cf3c5dae4c50386746e.m3u8
@@ -41,7 +42,6 @@ Space Toon Arabic,https://epg.pw/stream/60df3e10d66a4dfbf3ce9c1b17c863e665e18cb3
 Space Toon Arabic[geo-blocked],https://epg.pw/stream/820c6f7772e2bc725b9e0bbdbc74656de9380290906d16a73d53c74b4a3e8592.ctv
 Space Toon Arabic,https://epg.pw/stream/8053f8c1af094d0136a36fc86fe33311d6eca13135399c6e2bfdee93a33a1911.ctv
 Space Toon Arabic,https://epg.pw/stream/ffb2c7709b20b0f943e406b66609d65e8ec7ae75b205b875253f829d3511608d.ctv
-Space Toon Arabic[geo-blocked],https://epg.pw/stream/d6fe78d22747343f16560953b3089414f9225aac2ccb65cd6122830b2ab1b79a.m3u8
 Space Toon Arabic[geo-blocked],https://epg.pw/stream/51b8e46708fc0cc6ef41e403e257fb2fa3d50d2225b9695b75835f34bb8be025.m3u8
 Space Toon Arabic,https://epg.pw/stream/cee3d04e07045c20af584cbbe4b6debd3677b964d14f28d9ad0e567270275649.ctv
 Space Toon Arabic,https://epg.pw/stream/5a47f91069f780e84a9e35c02e153a088bd99a83bbf2f2e18e0def6acbbd6ead.ctv
@@ -55,6 +55,8 @@ Space Toon Arabic,https://epg.pw/stream/8d97225952960e988a8d16b71742cac920b81c8e
 Space Toon Arabic[geo-blocked],https://epg.pw/stream/d4d190ee59a56f46183c329996ad3e764f8df89088a5bb0d9ef86decfbc85f2c.ctv
 Space Toon Arabic,https://epg.pw/stream/f28b04dcdb97fd6f83b08ceef4b3d134f2a40f85cd581d270131ce9ebc57f535.m3u8
 Spacetoon TV Saudi,https://epg.pw/stream/ddad93feca124dc73c88897c4ddee5aca90cd1ccd97ea430be55e9939181983a.m3u8
+Documentary,#genre#
+Al Jesr TV,https://epg.pw/stream/725437b1884ad35761ba37d36cf5459bfff165af589fae5ccd0a0940bc401813.ctv
 Entertainment,#genre#
 AL IMAN[geo-blocked],https://epg.pw/stream/43629d6a991a83815d91d5a279c1a6f3c9045a3b812892bce07269454a06607d.ctv
 Al HAZ TV,https://epg.pw/stream/951cc03287896a7d54fe3a350584fd7e3b408ef64af1d7f860ec705d33239d81.m3u8
@@ -87,6 +89,7 @@ Music Plus,https://epg.pw/stream/b3b5d192d239cdb3f86f9276890d87ca4acb79c52f84fbc
 Rotana Clip,https://epg.pw/stream/7de5aeabe2a5f51dc5975d0bc25c0f44cbaa9501ff508afa7c0bd0ff677bad2f.ctv
 Rotana Clip,https://epg.pw/stream/c1b78a4b6378605d081e881ddb279cf0917418c5bd862012bf4a627e2bd4e349.ctv
 Rotana Clip,https://epg.pw/stream/7b4cfae3b310d468210c93dc102ebd179bfa1651748f44840612b7d194e50a8a.ctv
+Rotana Clip,https://epg.pw/stream/2164aeff16985a65b36b2414b863f5390e65c26d8f0a59c7f5ac5badf9f4bfea.ctv
 Rotana Clip,https://epg.pw/stream/3dcf0375897c9e26b489655139175da6491add31d94eb6e9d30067b990c025e7.ctv
 Rotana Music[geo-blocked],https://epg.pw/stream/159f31cbe885f3015e117d512be07dbd59cb0e0a90e355f66cd59cbc95b2a5ee.ctv
 Rotana Music[geo-blocked],https://epg.pw/stream/68a68b9da8c81bec24943ba17f817a1d33d3276952d1b91113b6e12209ca0b9e.ctv
@@ -140,7 +143,9 @@ ART 2[geo-blocked],https://epg.pw/stream/cfbceaac3d6af92d3dec90d72f51ba1fbd97546
 ART Hekayat 2 Saudi[geo-blocked],https://epg.pw/stream/bacb7798be5377cd6a6f630e8e9511d33bf6a1402449fc7db8527c699605791d.ctv
 ART Hekayat 2 Saudi,https://epg.pw/stream/a4d08691d92997c8e51b7d727054042fef070573ec245b210a68fa6492691ec8.ctv
 ART Hekayat 2 Saudi,https://epg.pw/stream/f5804d0c27522ff45ff5000a155f0445fe1ad95b6fc2608c7e43d09849380f2a.ctv
+ART Hekayat Saudi,https://epg.pw/stream/0a8023e2e28abaa1d7c0e8f8fa4932f496a18914909d0f2a8bb7fdf16b1fc5d2.ctv
 ART Hekayat Saudi,https://epg.pw/stream/5ead6d3f2b16374ef25090319ae07622dbc170b38d90ff15d0ed0de282601ee1.ctv
+Afaq TV,https://epg.pw/stream/5322308a9141f741eb747205da145681e40e02f5514a3f71e79b8fb424e1d800.ctv
 Al Hayat Mosalsalat[geo-blocked],https://epg.pw/stream/f7e114caf2d82f88df9fc6f7ca45e4d455f79bec05bd6f2ef80ee6fddff4ce16.ctv
 Al Karma,https://epg.pw/stream/16bdf257332974b2728182e81c716862c87dfe4537a2ad8ecdfbaecb536b6385.ctv
 Al Karma,https://epg.pw/stream/64ae637b8057f8509fa68a7ab6c0d03e8baa288f5af894b509c4238c269bc2d0.ctv
@@ -192,12 +197,14 @@ Almajd 3,https://epg.pw/stream/49546d9ac75b12f2e5275d067830c55f5edb55fe96bdf1295
 Almajd 3,https://epg.pw/stream/ef07d980caeddec15bd922e90bed05124720a944dcd3d572e41dd15add2261b0.ctv
 Almajd 3,https://epg.pw/stream/2ebf5d9635b7bf7d6113999e51e3e20e8826aad7ed7a8e95dfc1019873a4e032.ctv
 Almajd 3,https://epg.pw/stream/9a8be5ebbeeb203ab1558e02ce9b5a0ee1d38f835d374b3fb0e3eb9dc5049f87.ctv
+Arena Sport 1 HD  (RS ),https://epg.pw/stream/73c97bca609ba3cfb8ad9eef85368a4ad3108a5708136453d52d167b1419017c.ctv
 Arena Sport 1 HD  (RS ),https://epg.pw/stream/68363d646ab7fa9d71d506dc1f8c749f43986ce3545d29ec944e7ac49bd9ae0b.ctv
 Awdeh,https://epg.pw/stream/cc882d0dc3c863c8dcbe28f6b4530bc80a4ba2fee40a5b49135a037807e9e042.ctv
 Bahrain,https://epg.pw/stream/86f12578f9d85e6f820613c14ed724fc45fb2eed2421844537dcf9fc5449fd49.ctv
 Bahrain,https://epg.pw/stream/a4634dd98e3ad5c70cb31d01b1349cd3b672d9a6546d6d00af3c239b07997624.m3u8
 Bahrain,https://epg.pw/stream/747e2073852055bca214a67f6662e2965ab36007c4eb98fa431716e359daeaf2.ctv
 Bahrain,https://epg.pw/stream/c8d81b1a44ed22c6b7a341d02e813f148de0f1914b651023dfae035587fc9470.m3u8
+Bahrain,https://epg.pw/stream/6de403237b971862f4adda9392cedc49fd0c2e0ded81053550204e8762b08042.ctv
 C TV,https://epg.pw/stream/536cf6cca741501548455ac76982c01040a7bed468cad6672bddae43f4895b1c.ctv
 C TV,https://epg.pw/stream/6618f2b63bf8c904a8afe4ad463b794eb2b9c1bc90c3cb765ecc6415223c6ae0.ctv
 C TV,https://epg.pw/stream/f39bc88f855773c6454cd2ed6fa1b0025b750ba603a4d45c36748b9729aa24fb.ctv
@@ -404,7 +411,6 @@ Time comedyi,https://epg.pw/stream/22aaf3146e69274de96b13b8c72cc09c980bce4d17ee5
 Time comedyi[geo-blocked],https://epg.pw/stream/30afc6b9d320e197d616d2acd734d44aabf2a1dc45a42c110427b7a0be2176c3.m3u8
 Time comedyi[geo-blocked],https://epg.pw/stream/2a69c0efa5059a4e8718ed99b4f4980e0682ffdab79ebf80061e4cb2cc90d44e.m3u8
 asrar tv ,https://epg.pw/stream/afc18598d6e12ebb5b55cfb1785f0530c053fa20855b4c6ac8afb1a5347f944a.ctv
-asrar tv [geo-blocked],https://epg.pw/stream/6cb6813b30803fd99496909494d62df4b3bc0f6998d2c6b0c5ca8d9d8d565fb9.ctv
 films ,https://epg.pw/stream/f7afc1cd038c9e796859ba117edcbd25d848dfb7c5310d9fc0f1881ecce898a3.ctv
 films [geo-blocked],https://epg.pw/stream/0b9600ad625d50718cfa2d3324200bcb4e1c918ba5909d2feb137e3858bd7cb2.m3u8
 films [geo-blocked],https://epg.pw/stream/fad2c2a60addf28d824e0160a5d99da9317b3993534bf2a7c506046704fdd57e.m3u8
@@ -436,7 +442,6 @@ Sport,#genre#
 A1 Sports[geo-blocked],https://epg.pw/stream/8e760dd4b88807cff12f06cb00082218fec9a06621b8718f2d9432ad6446a636.m3u8
 A1 Sports,https://epg.pw/stream/e7a2efa12cee4654654515c964d28eb44d2a16140e113699f2b4a2803e86dec3.ctv
 A1 Sports[geo-blocked],https://epg.pw/stream/485b1342c6295635475019020e48e81e5710d34ef639db69c61021a3a4d9e686.m3u8
-A1 Sports[geo-blocked],https://epg.pw/stream/f0fac0dd1d4162e5876ce682f2469d8dc2a68eb7ac9ee4d88da674612ec0b079.m3u8
 A1 Sports,https://epg.pw/stream/358917920a0201027858e44382dc85ff82d12a80add26de9a459fe16c01ad271.m3u8
 A1 Sports[geo-blocked],https://epg.pw/stream/d83967fdf9876574cdd53e90441c0d211c3cab41460340a740050fc0e9ffd6fa.m3u8
 A1 Sports,https://epg.pw/stream/6f021e96ad28f99061994015bed01957653bed8192b6b8ed29792276bb302110.m3u8
@@ -466,20 +471,15 @@ BeIN Sports 1,https://epg.pw/stream/0cc6d88349c6dbd5ce9f22c7fb13bef4977f9a92d04d
 BeIN Sports 1[geo-blocked],https://epg.pw/stream/aae5dc15a83a3ada30f4db97ebfa0247fa09df8fbc8e030fa2b8e1a64bf19b54.ctv
 BeIN Sports 1,https://epg.pw/stream/6a5f9fdcc606917ed68c030477c48d7d42e7b07eb429025d23b5db1a03650c28.ctv
 BeIN Sports 1[geo-blocked],https://epg.pw/stream/376b80ebcc72f8f4731c24b381ae79d50c28a2daa213eacfa52e6ae6419b9631.ctv
-BeIN Sports 1[geo-blocked],https://epg.pw/stream/662e710adf358452743c67bb92b00d0a4447881dbf5b5061fab8be1d3e9a2830.ctv
 BeIN Sports 1,https://epg.pw/stream/8a5d4ffa83348f43b3f0d660f353d28f027492aa064107315677852be276a1ac.ctv
-BeIN Sports 1[geo-blocked],https://epg.pw/stream/7d9bdc570c94886a0685e9e7af169f01fc0002319ea9cc47abf5b56dddd0081c.ctv
 BeIN Sports 1[geo-blocked],https://epg.pw/stream/9f56f85ea96c3f92d56522838d4b42cbf71c33249bb2c611f5509a44cbb31eee.ctv
-BeIN Sports 1[geo-blocked],https://epg.pw/stream/8493971eecda77ad8145e899f17dac9b7f2cc05271d15b50f5444d0e58b79623.ctv
 BeIN Sports 1[geo-blocked],https://epg.pw/stream/07521c7872b3fc8309fd50537402434b4605d455255a68930dda84aa5c93fd29.ctv
-BeIN Sports 1[geo-blocked],https://epg.pw/stream/1b06ff6214bb0c1357eb4a2dc2d989c9e9b06f9a243e1b71d1d64307aed0c267.ctv
-BeIN Sports 1[geo-blocked],https://epg.pw/stream/2ef6abb2c2237252f2b9a4bf75cf5f4c7640daceed05bdb0e059d1a5db0e48d9.ctv
-BeIN Sports 1[geo-blocked],https://epg.pw/stream/6acc1c23b0d7b7ceacfff74cbfb990914302c04cdf6d6791748ae7270a39a08f.ctv
 BeIN Sports 1[geo-blocked],https://epg.pw/stream/f94d1adeb5aa810e937631c4674bc3b32d9af61f6951d80a0fa63f62a4ddc01a.ctv
 BeIN Sports 1[geo-blocked],https://epg.pw/stream/787d7759cab0eb8cbcfce547f2d14227dd3421edaf90ae8bd3cab5782e761ecb.ctv
 BeIN Sports 1,https://epg.pw/stream/0fbf032b0194807bca045fac6ea1b4e3dc1af9d42353669087be8e8b37fd762b.m3u8
 BeIN Sports 1[geo-blocked],https://epg.pw/stream/72ccbb7e913fcf4df0c23ae4792f62fa13d21bdf48f0ca571a94c18c76a69f49.m3u8
 BeIN Sports 1,https://epg.pw/stream/ba4e2456bef6e5dc8975da5396a0208eba900445eb8a9163842d10c7d2517a62.ctv
+BeIN Sports 1,https://epg.pw/stream/61aa7d30d5a80ce0a212c0d77f36c63b021f476d5e80d8917c2ec502dde404d1.ctv
 BeIN Sports 1[geo-blocked],https://epg.pw/stream/7e2151de2eac29bace27e7f75f729f1c4c2baae3479aec33b1a1807d6c1a5170.ctv
 BeIN Sports 1,https://epg.pw/stream/ab41a11ddba9b6923e65b1720ff129f532edf62297674aca08fd67d66e1e74ee.m3u8
 BeIN Sports 1,https://epg.pw/stream/2116cec0897abda604773dd3f93bfc0a7866ac1f230330a275c46a5aa9a10c84.ctv
@@ -515,13 +515,9 @@ BeIN Sports 2,https://epg.pw/stream/fc7e9e6f0c36cf8ba01a27e53c818567f3201c1fc9ce
 BeIN Sports 2,https://epg.pw/stream/5ab6257b2e5bc4d9803074c1a50a22c819751c665d3c78e38c4c5af5e66e52cd.ctv
 BeIN Sports 2,https://epg.pw/stream/68b0b14bfe47abb185c8cfe9113b43ac73548c8260deaed11bf4d1b39ee08e6f.ctv
 BeIN Sports 2,https://epg.pw/stream/872f5dd0d52a11d09a7f4408a19c92b12f1ceda35891c098897dfed085f0ef89.ctv
-BeIN Sports 2[geo-blocked],https://epg.pw/stream/4c5ec7da87b8c69953d59e1e7978d09072c09ccda89ca3d6d432a9dbfa602f47.ctv
-BeIN Sports 2,https://epg.pw/stream/70f165bd51d3feb876ca4b8bd349dd55f52cff29199047c9d211189bddc84571.ctv
 BeIN Sports 2,https://epg.pw/stream/508c2013ac587a7240843205f59bc287e2d80bd693f3f0adbb349ba3dcda7348.ctv
 BeIN Sports 2,https://epg.pw/stream/20d95eb30ae4824f3902d8e57c30fd16d63530871367cce6e92ac8480a03fbbb.ctv
-BeIN Sports 2[geo-blocked],https://epg.pw/stream/5bc622cd613489ee873bf11491fbf2ac88471442678b6746476eab94b25e2df5.ctv
 BeIN Sports 2,https://epg.pw/stream/e685591193ddaa15520d101df0486bf4acf244822809a2eaf5d505f77e0d60e1.ctv
-BeIN Sports 2[geo-blocked],https://epg.pw/stream/6efda3a9f8cc2869131b97e80232698c443f8d0c9df9276babce4ffd33e6dcdb.ctv
 BeIN Sports 2,https://epg.pw/stream/f518a3d52f439b5480fdea6550a03d07d2d2bf129331bc1d83c70120ab918bb6.ctv
 BeIN Sports 2,https://epg.pw/stream/469f324bb69d786dfd2fe40c14dcd6ddc5aceb3f110cbad3a8ae3d019f9dbee1.ctv
 BeIN Sports 2[geo-blocked],https://epg.pw/stream/e05e4130cd4811083da1bc435aaa4c9193423b4cd9957cf4ebea8ffb89227eba.ctv
