@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="Halom TV" tvg-id="62704" tvg-country="Hungary" tvg-language="Hungarian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174701559053_21.png" group-title="Entertainment",[SD]halom tv
 https://epg.pw/stream/8288572ce0f57d1028824375724162230aa4f88da046f75b33864429920675ab.m3u8
-#EXTINF:-1 tvg-name="Halom TV" tvg-id="62704" tvg-country="Hungary" tvg-language="Hungarian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174701559053_21.png" group-title="Entertainment",[VGA]shalom tv
-https://epg.pw/stream/7392c7a3edaf21a325c1df9af66b5ebc76af8b1041a063cf84d6a908f8886fe7.ctv
 #EXTINF:-1 tvg-name="M2 Channel Hungary" tvg-id="" tvg-country="Hungary" tvg-language="Hungarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102230535050128_82.jpg" group-title="Generic",[HD]m2 hd@@1[geo-blocked]
 https://epg.pw/stream/bb9c09cf4862ba15e9fab4456226b328ce84a937ea334ffb4e6e1fab804f15a9.ctv
 #EXTINF:-1 tvg-name="M2 Channel Hungary" tvg-id="" tvg-country="Hungary" tvg-language="Hungarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102230535050128_82.jpg" group-title="Generic",[BD]m2@@1
@@ -11,8 +9,10 @@ https://epg.pw/stream/9ec657f2ff3e50c9105b49f7b4ca7abe4d2abfbf418358229a8e448132
 https://epg.pw/stream/bc1d61e368e4f309c023143cf79b569b3014f12078111baa378c3d949b8ccdf9.ctv
 #EXTINF:-1 tvg-name="M2 Hungary" tvg-id="" tvg-country="Hungary" tvg-language="Hungarian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530201125097610_39.png" group-title="Entertainment",[HD]Hungry
 https://epg.pw/stream/e19034e55ffe40c956c98eaba6b3a03c39f5c5089dfcef2834346dde70a07a23.m3u8
-#EXTINF:-1 tvg-name="M4 Sport Channel Hungary" tvg-id="" tvg-country="Hungary" tvg-language="Hungarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102230708820300_13.jpg" group-title="Generic",[HD]m4 sport fhd@@1
+#EXTINF:-1 tvg-name="M4 Sport Channel Hungary" tvg-id="" tvg-country="Hungary" tvg-language="Hungarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102230708820300_13.jpg" group-title="Generic",[SD]m4 sport fhd@@1
 https://epg.pw/stream/a399fc2c23a6e886f81244b45b1a86fa08328d416ab0b51d397c29a377b19bb6.ctv
+#EXTINF:-1 tvg-name="Mese TV" tvg-id="" tvg-country="Hungary" tvg-language="Hungarian" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152206766746_71.png" group-title="Cartoon",[VGA]esne tv@@2
+https://epg.pw/stream/24055c842816111e5e01e111798fb25d243b9ec725eddf7866fec05698d2d060.m3u8
 #EXTINF:-1 tvg-name="Mese TV" tvg-id="" tvg-country="Hungary" tvg-language="Hungarian" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152206766746_71.png" group-title="Cartoon",[HD]mekke tv[geo-blocked]
 https://epg.pw/stream/6d51407241f0685b1ff325aadd42f685253d9ddc88bc9f8ad0d971cb7d5e6fd4.ctv
 #EXTINF:-1 tvg-name="Mese TV" tvg-id="" tvg-country="Hungary" tvg-language="Hungarian" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152206766746_71.png" group-title="Cartoon",[VGA]esne tv@@4
@@ -25,9 +25,7 @@ https://epg.pw/stream/43874f69f7185f2f1f408fc47e4dbeec752a07b0cdb87fdb71984728ae
 https://epg.pw/stream/cbdd71c12e438f245aa5f6a88210ee7124caef0c69a8be9c2720960aaa67c2ce.m3u8
 #EXTINF:-1 tvg-name="Superone HD" tvg-id="" tvg-country="Hungary" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/02/20150202091024178897_37.jpg" group-title="Other",[BD]superone hd@@1[geo-blocked]
 https://epg.pw/stream/f61cf8e28aa17e52aab9c5f597bc64cecd238ca7f8f9f53c702f8f3a38f5f4fb.m3u8
-#EXTINF:-1 tvg-name="Superone HD" tvg-id="" tvg-country="Hungary" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/02/20150202091024178897_37.jpg" group-title="Other",[HD]super one hd@@1
+#EXTINF:-1 tvg-name="Superone HD" tvg-id="" tvg-country="Hungary" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/02/20150202091024178897_37.jpg" group-title="Other",[SD]super one hd@@1
 https://epg.pw/stream/30b23d7f55c4c0216798b38e424f0ee357f19ed86172e333ed437f48603c07c3.m3u8
-#EXTINF:-1 tvg-name="Superone HD" tvg-id="" tvg-country="Hungary" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/02/20150202091024178897_37.jpg" group-title="Other",[HD]SuperOne HD[geo-blocked]
-https://epg.pw/stream/6727c3fa52807ae3bd451630c8fb2324424e720ceae530064f75d6ca52c16ca5.m3u8
 #EXTINF:-1 tvg-name="Superone HD" tvg-id="" tvg-country="Hungary" tvg-language="English" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/02/20150202091024178897_37.jpg" group-title="Other",[HD]SuperOne HD
 https://epg.pw/stream/4cb3f54246b5ef991fc38789c16c2d033f8fb01087cdafccc2bc3acb4e8296a9.m3u8
