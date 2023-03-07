@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-name="Algeria 3" tvg-id="" tvg-country="Africa" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717081031329501_74.jpg" group-title="Generic",[BD]algeria.3[geo-blocked]
+https://epg.pw/stream/713236b548e292b08a0855117dfc4b1e071325fb162312e6172d5042ffa8b5d7.ctv
 #EXTINF:-1 tvg-name="Algeria 3" tvg-id="" tvg-country="Africa" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/17/20150717081031329501_74.jpg" group-title="Generic",[SD]algerie 3 hd[geo-blocked]
 https://epg.pw/stream/a2b428ab2de991987472501ac0fca05437658b27d9409b5801e041145f6c7412.ctv
 #EXTINF:-1 tvg-name="Algeria Tamazigh" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/19/20150619212630673193_20.png" group-title="Generic",[VGA]alg:  algerie 4 tamazight
@@ -111,3 +113,7 @@ https://epg.pw/stream/8bb8c3fe21db6236de731446860f1ae42aff015222a192c5e342747ad8
 https://epg.pw/stream/e96ad1dc79ad5d3c6461b16370276a867c94d89d793f3504ed27cd6cb1d8e208.m3u8
 #EXTINF:-1 tvg-name="Vision TV 4 Africa" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201110353394041_30.jpg" group-title="Generic",[VGA]Vision TV 4 Africa[geo-blocked]
 https://epg.pw/stream/3fec17cc8a860d58affc4ceb2f64cb84023d8c357c977dfbee3c79b15ec5ee7e.m3u8
+#EXTINF:-1 tvg-name="algeria" tvg-id="" tvg-country="Africa" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/26/20140826061452043386_60.jpg" group-title="News",[SD]algeria.5[geo-blocked]
+https://epg.pw/stream/3d3e4933f8276de8846fa785e9928c269da03684841879c3ad6242fca287f390.ctv
+#EXTINF:-1 tvg-name="algeria" tvg-id="" tvg-country="Africa" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/26/20140826061452043386_60.jpg" group-title="News",[HD]algeria.4[geo-blocked]
+https://epg.pw/stream/8f9221eb60ff602696058637517d6c45b4fd8001bae4797a43eba2676ccee16b.ctv

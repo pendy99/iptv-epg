@@ -50,6 +50,7 @@ HISTORIA 1 PT,https://epg.pw/stream/952cd7107f3d2aac82cac800785353b9ababd27d70e0
 HISTORIA 1 PT[geo-blocked],https://epg.pw/stream/9f72b083a107e135fec97fbed7d8508c4f5b0e9d7c074e1cc2d3328e191528ac.m3u8
 HISTORIA 1 PT[geo-blocked],https://epg.pw/stream/8e1a6af16a9535b5366b773af396cca4b8cee19fb78887f40b7f7074707964fb.m3u8
 ODISSEIA 1 PT,https://epg.pw/stream/8fcf808a0986359b480936600bcbc3f3051c33d8f2bab204e58c935bc1886984.ctv
+Odisseia PT[geo-blocked],https://epg.pw/stream/b419f6abec91c1627654f48c595276351464aecd1655c04789a51f6a21bb58bb.ctv
 Entertainment,#genre#
 MAIS TVI PT,https://epg.pw/stream/5f3ac15665de17039362570873c18bd9ee6b8253e47b798363f69e35188729ad.m3u8
 RECORD 1 PT,https://epg.pw/stream/a2d9bd559705e1b5b26b5c0f115a5b9947efafe57db85ff628b534ba39150d73.ctv
@@ -103,14 +104,18 @@ RTP 1[geo-blocked],https://epg.pw/stream/6f1d1485c8bf699a0a96853eb2b0812dc3bfbd6
 RTP 1[geo-blocked],https://epg.pw/stream/dedfca2808111987f066afb4a52a39b54ec55fd47c2c2819b969c8b07cac7b5b.m3u8
 RTP 1,https://epg.pw/stream/6df2fc374621169e8f8714da4a0f7a81874a98470ec52b0ee0b29edacb8161e6.ctv
 RTP 1,https://epg.pw/stream/952536828060368998e522160ca677257f4f4f7b423b810acdf2372743df1fd2.ctv
+RTP 1[geo-blocked],https://epg.pw/stream/da02d70d59e2eac348a2212f31b17cafdddb3eadccab06479add77ea7d3f69e9.ctv
 RTP 1[geo-blocked],https://epg.pw/stream/836017adecd2b9593f994fe54f486bfa58d21c974559db19c07116c3b6ca23c2.ctv
 RTP 1,https://epg.pw/stream/255f430aa81863abba578cf66609bedce8f68137667cc189f02688753b65353b.ctv
+RTP 1,https://epg.pw/stream/63ffb19057f5c212453ab6749503c2d4361d6be4a444c35dfa601462f3ee2271.ctv
 RTP 1[geo-blocked],https://epg.pw/stream/6677f3fe6cbaa6bc2b717c5cbbfc381a59fc19fcd7c7d6f227aa681bee36a133.m3u8
 RTP 2,https://epg.pw/stream/2bcfc59753d6ef878f6030c7b1553e2c83d7391a80ae9ae548920c6fb009c4f8.ctv
 RTP 2,https://epg.pw/stream/202b51c6329847988e05f3aedad96e50ffd7f4df580c322dd57dde911ab75ba4.ctv
 RTP 2,https://epg.pw/stream/c7816d347863fd7c374ed4871fb6ca0a4bc7578f685873be3caf63147196af26.ctv
 RTP 2,https://epg.pw/stream/a660895ed3189dbed28adc5d81d2aa46443be748279e4faff4092ab9125545e0.ctv
 RTP 2,https://epg.pw/stream/96459604579d31aa03ef015efee5364f13ef1d3a6a0173f72f6004d3b8d7e5c5.ctv
+RTP 2,https://epg.pw/stream/fc9e3489b2ec8078c9a75a0021c6f3568a69ee3f4742c5cfb1aee52e590b793f.ctv
+RTP 2,https://epg.pw/stream/e5c212922f7a69b10a9fc6e2d7e101c12816817972f1976d4dca5a70ccf01932.ctv
 RTP 2,https://epg.pw/stream/fbf941e0c6b1c87626fff30c59f368f63c2c9cf966f1d2392a0cb43489fec9a4.m3u8
 RTP 3 PT,https://epg.pw/stream/8ea0f3001876496ee8a64be12ac333e6b3a44a27b2897cde976e27d90e84c92d.m3u8
 RTP 3 PT,https://epg.pw/stream/b055aa30de7d050dc06db0b1c391e42f9fb6e94cc6bb32d34eab227e404447b4.ctv
@@ -148,6 +153,7 @@ RTP Madeira,https://epg.pw/stream/bed68e6be37e8adfa80cef64e199f961315657f220b913
 RTP Madeira[geo-blocked],https://epg.pw/stream/3e653fd07ca4dbf4ac94d803c49f9b007b7614809f452ac360672675fb4b007e.m3u8
 RTP Madeira,https://epg.pw/stream/a47842ca5fbda775328c7fe8df3d38129d8094e04e603ac51519df083f2ad9a8.m3u8
 RTP Memoria,https://epg.pw/stream/119ded21278aebc1bf3132ce9bb3acf9bd4f4420e7f26366298d7957ef2507b6.ctv
+RTP Memoria[geo-blocked],https://epg.pw/stream/189afb8e8c47c52b7c6d6cfccb0a45aef4d8e398b4ea4d9d388a84271316fd3c.ctv
 SIC,https://epg.pw/stream/db2b82469ce804e1c366d900bc198f1d2683ff42bab024d66ae3f25f0a6862fc.ctv
 SIC,https://epg.pw/stream/bf28c052fc12c34e021d46d3b1334b6d25c70fb8e67ba08b90eaea64f28d7e1b.m3u8
 SIC,https://epg.pw/stream/955e3b82520a4db906e7ea644392b3842ac0c4cfc8b0316b0ec4fc138b1af775.m3u8
@@ -155,9 +161,11 @@ SIC[geo-blocked],https://epg.pw/stream/cb8c2f484e2e67b501ab297763556ea216fc7faf3
 SIC,https://epg.pw/stream/c69c5a6e71fb0763e73b123251ded40a4ee53198764307e34288f73e9f857a8f.m3u8
 SIC,https://epg.pw/stream/8d70281cbe405daa0dc180644a460dc66099a708297f3aa3a2b56cc3cc59aa5a.ctv
 SIC[geo-blocked],https://epg.pw/stream/789df18e810eda32a439c3f7dc6767f81a19df4b1734f4b7a5e4c5a9fb5231af.ctv
+SIC,https://epg.pw/stream/edb773d401e21d75d88213cbad3ee31ad820efc284d0080b2a7d91e0665140ef.ctv
 SIC[geo-blocked],https://epg.pw/stream/5665f7101402e1d203ffd2727b32b6b8516e05e5f938763d19de5bb2627e53a0.ctv
 SIC[geo-blocked],https://epg.pw/stream/6b1671f3ef0bb1c03e6cbd8ce7800c7737b0248693a5c2c66b31d6d902bb178a.m3u8
 SIC Caras,https://epg.pw/stream/08df2d6f97313b315d6cb7299789b2b1d4ae249bb80d44758199cbbd061c2cf1.ctv
+SIC Caras[geo-blocked],https://epg.pw/stream/8fb3d184fdb5aa1c50bf3b259a081dce03b39008e85d2cd08c1adec352813c31.ctv
 TV Cancao Nova[geo-blocked],https://epg.pw/stream/05c31d7d714707fb19f8e611f679f5230b9cf1236b50a917d77376fc79ecd13c.m3u8
 TV Cancao Nova,https://epg.pw/stream/83abec5e5ce1e459798303645cbb97446558cd5c2eab184e8a171401ddeacd0f.m3u8
 TV Ciencia,https://epg.pw/stream/d1dd8e6a70afa4e3199a9f07123489649d2bb3f1a2b547881c0c3bc2e2b51b4f.m3u8
@@ -168,6 +176,7 @@ TV Fatima[geo-blocked],https://epg.pw/stream/05f4e92d33795da16e0d671d2cc77ecb7b8
 TV Globo Portugal[geo-blocked],https://epg.pw/stream/5ddd67d2dcfa61597f81a8afa35f3ff0ff29aa95c47e8fd8fb15c76c1cbfc1bf.m3u8
 TVI[geo-blocked],https://epg.pw/stream/6e37c6e671f0118466a2ba5f831eb03b088a40afe714af3fffd890dc08aea1f7.m3u8
 TVI,https://epg.pw/stream/e60cfcb93231a90138058f3b7502dd5607789eda2ba877fa52fd84030b11d433.ctv
+TVI[geo-blocked],https://epg.pw/stream/b1ef110ed677c9fa6d4f727e01e9b5b88414773980bbca79df965c488131ade7.ctv
 TVI[geo-blocked],https://epg.pw/stream/138143857a5fd5c3a2931fd21fdcc2e635c828897bd42533352cba43454ec115.m3u8
 TVI,https://epg.pw/stream/28d7cd8460c7a0b59dd3c1e82cd40a68ed8ee2ebe2e4dda29a0b1decad747fe0.m3u8
 TVI,https://epg.pw/stream/09fc33e8cf9366100fd09b0fbb0081fc29d0713e6bee36fe648493697fcbc32f.m3u8
@@ -187,6 +196,7 @@ AXN BLACK Portugal[geo-blocked],https://epg.pw/stream/73a1fd4d6e1f3ab0f07adbb704
 AXN BLACK Portugal,https://epg.pw/stream/dc3696611b80dc8f6b18ae41efbce28c954c755b71ae479ae84260c8d7a61747.ctv
 AXN Portugal,https://epg.pw/stream/c09c9f05e6a1a5828cd6833328c5c10c3012b508c50411382feb9d4ca4f20db7.ctv
 AXN Portugal[geo-blocked],https://epg.pw/stream/e580fbb0ce4bcc5cdc91e82a959a3052060c83b5d6b98b69d09918cb3b57ce44.m3u8
+AXN Portugal,https://epg.pw/stream/74b86222430c47050a21e127f996f72b1ecbfbeeea7ab18a901f8d04d1f9cafb.ctv
 AXN WHITE Portugal,https://epg.pw/stream/fc0809f4c571e5d988225059e6e75fdea46bb80673fe28f75cc2f0d6fb700885.ctv
 AXN WHITE Portugal[geo-blocked],https://epg.pw/stream/90ebfee282bc230fc4f4102fd16811fc8c9ae7d07e608c46d7fccc3a87becb8e.ctv
 AXN WHITE Portugal,https://epg.pw/stream/97b56e399673fe8ffc0f32f392f608814e5eeb6f4742676a251b8c67b1f06324.ctv
@@ -215,6 +225,7 @@ TVCine 1 PT,https://epg.pw/stream/a6f447258f3c03fecefe791fe014437af1433157027ec9
 TVCine 1 PT[geo-blocked],https://epg.pw/stream/bfed0faeef64d18a0c07d5240e4756e69546324ea66620cabae22aed3f60103f.m3u8
 TVCine 1 PT,https://epg.pw/stream/434711db5b3418900f7511bcd07f555d5b2a247f449d81867a80c2d56ec96664.m3u8
 TVCine 1 PT[geo-blocked],https://epg.pw/stream/9758c6fb4556a11eeeeeabac026aeb26bfe7be43690547cfa286947c15426bc8.m3u8
+TVCine 2 PT,https://epg.pw/stream/d58bc52809162caf98e40f1c2163e7644a33637c8e111efe44217130c7a7962d.ctv
 TVCine 2 PT,https://epg.pw/stream/d688e688a656c683083b89501d0650f22318f5e3a390bdab761119a335b459d6.ctv
 TVCine 2 PT,https://epg.pw/stream/e8476f127e7be57b6e94c619d4c6d2a4c3c9b4d5ca037dcbd1c38a7de01aa45d.ctv
 TVCine 2 PT,https://epg.pw/stream/c9b4e3b443312cfbbb3c4dd71dd2742f3e84864785f2406e523fa3a2be00ee52.ctv
@@ -237,6 +248,7 @@ MTV Portugal[geo-blocked],https://epg.pw/stream/226a64a9ba1a85853bcfb4da0da70cf3
 MTV Portugal,https://epg.pw/stream/b30944469f3020a9e7579b11f1f89007561a546612ddf9bf222146d96089f7f9.ctv
 MTV Portugal,https://epg.pw/stream/89392913e98a1f46d04802c92c895aa1c3a5ec5c8f409fd74025e75c25d80398.ctv
 MTV Portugal,https://epg.pw/stream/f93ff8c90c6cceb369cec0ea69d7657d38df3fb6176eba44aa515f2c827bcb86.ctv
+MTV Portugal,https://epg.pw/stream/65fb8e4cdea5c13f347526614e2da59a5dd64a27cf756c4f9d12741aa68ca4ce.ctv
 MTV Portugal,https://epg.pw/stream/e5c2dc5241676c710aca625f4829246836a2a02bdf82648d4eceaa5c5fa3c37d.m3u8
 MTV Portugal[geo-blocked],https://epg.pw/stream/9627466fa35a653b996c599a4a3dee4f43b340d5d47b03c7eab1996d34cdc6c8.m3u8
 MTV Portugal,https://epg.pw/stream/d26e3e3b39cb1a94f9a1c5d76f44bb175ec6dc14100efc441b6759514153755f.m3u8
@@ -256,9 +268,12 @@ Euronews Portugal[geo-blocked],https://epg.pw/stream/045b1553819637dc0ee2b650844
 RTP Informacao[geo-blocked],https://epg.pw/stream/05865534b168af210dda731097683a6f221f2d28302a943022732309254ae660.m3u8
 SIC NOTICIAS 1 PT,https://epg.pw/stream/baa49e304d9b66abd4bc34dd3cbce1f8733e4ac0dd6fce46a80bb7daca04e76b.ctv
 SIC NOTICIAS 1 PT,https://epg.pw/stream/fbbaaec9831728c1932691f20e57f60e7765de20a687e112872af60f80834f89.m3u8
+SIC Notícias,https://epg.pw/stream/ff171e61c0787468d93e50659684447bd141ead468c48527372b0afa80be21a1.ctv
+SIC Notícias,https://epg.pw/stream/863182ca00710487d52e1c7f63563a4e140476879616da4bf044c108b57a86f8.ctv
 Other,#genre#
 ARTV[geo-blocked],https://epg.pw/stream/a9665b87ebf4dbcd36a97da458b974a9258d2af16c6dfe44d9ce4be4aa742f43.ctv
 ARTV,https://epg.pw/stream/aadd2a35cc8e0c43a365bdf0aa7b01ea411c6c076d3367269fbb337f4ec98b48.ctv
+ARTV[geo-blocked],https://epg.pw/stream/1c82f622e663780c14d0f7e0683136e02c63b92a7427f56a8fa6874930bd5eaa.ctv
 RTPi[geo-blocked],https://epg.pw/stream/6aa3776b16bd291cd62f73877dea077b5dd2fa6af8f133f988cd79dda1c879bd.m3u8
 RTPi[geo-blocked],https://epg.pw/stream/14f5703b7f1d8a5ed3c546a1453ba7e9588cab3e4639df0d9da7b8fe3dc5ae35.m3u8
 RTPi[geo-blocked],https://epg.pw/stream/0034398f4351e8e84f06ca278d1a29c8d7711103d1a31a4ace663ca6b833bca2.m3u8
@@ -268,6 +283,8 @@ Benfica TV,https://epg.pw/stream/bf26ed64159154bf2ac8a693ba4a3fd8d6cb032ac5c897b
 Benfica TV,https://epg.pw/stream/0cac903d43e7897591a06fbc454ea8e5f1f807f9440160c20e0eca7a79ea5f96.ctv
 Benfica TV,https://epg.pw/stream/35d5e5f79f08006714a46a2a81e768d8c8e1f9b283e082e87a5ad2ad78ed540e.ctv
 Benfica TV,https://epg.pw/stream/4a7b3b755ac2d00724b62652aec57149e07d136e5efa12db803c84f35f1c2063.ctv
+Benfica TV[geo-blocked],https://epg.pw/stream/842f79d081562dae7c9d8fe2f8fb957fd6f4d40659f5f8be8b53af61e36b535d.ctv
+Benfica TV,https://epg.pw/stream/c3f01d7530ab880707b41a44c9b74b5c4e47fc1f7197969c0734583071bef464.ctv
 Benfica TV,https://epg.pw/stream/63e91e6a061ec65e9d679324daa2d74098adfa6668970c87939c91325edf166b.ctv
 ESPN PT,https://epg.pw/stream/517300361601e675934db34e96b117395634d4d6b07606e4f52e5a27b6a27d6e.ctv
 ESPN PT,https://epg.pw/stream/742168bf24d5a8e6147685a8ca142f9361666bd742e72ba49412b47ecd12a177.m3u8
@@ -302,12 +319,15 @@ PORTO CANAL 1 PT,https://epg.pw/stream/61214b0b18832ee428f43bc5358c924dc13cfef8e
 PORTO CANAL 1 PT,https://epg.pw/stream/257d2c90b92244a42943fcd18d14b6c53d0bd9aad639e93e6d8e0d1777b255b1.m3u8
 PORTO CANAL 1 PT[geo-blocked],https://epg.pw/stream/a221a0121bf8c7178051e3c920e52b805c2897d89734e45d69481445d904cac5.m3u8
 PORTO CANAL 1 PT,https://epg.pw/stream/f28c6a69d3d6a4c1e85d5f4cabed55e4208d67841eb6afb08c3801f730733460.ctv
+Porto Canal,https://epg.pw/stream/46357f1b24ccdb11487e25a288f106644e9f0fdede9e3374347c85ed2cd6e593.ctv
 Porto Canal,https://epg.pw/stream/129100b37d3eb1970cb6741f68150d6c82cac6254c34198ca88338ded14af5b3.m3u8
 Porto Canal[geo-blocked],https://epg.pw/stream/00e574bc929210203023f8c932739a409e5133f94d0aed79f5d65724259b3f49.m3u8
 Porto Canal,https://epg.pw/stream/aff2636ee86bf5f2e680b9299817c1e55bedc869682f2d9f8f057f74ac62f1b9.ctv
 SPORT TV 4 PT,https://epg.pw/stream/086a5846500eed61c62ae1da904a58fb462142b732eb709384a5fa81a36259f0.ctv
 SPORT TV 5 PT[geo-blocked],https://epg.pw/stream/69809136bf0ec912895860a6ae25a29b1d71f5038c77c93c6a2d8544f38d03be.ctv
 SPORT TV 5 PT,https://epg.pw/stream/23a3fa980a64edb67aba1925cae6a70aa14aeb723fce7187f52a9e8cc23713ba.ctv
+SPORT TV 5 PT,https://epg.pw/stream/d2b1dd40a5541f06a0766dac765f3b1a65dc5b72d21621774a75a4800fb95210.ctv
+SPORT TV 5 PT,https://epg.pw/stream/2a9a7f45a956ddd715400cc3b0af51aa62d2535e1ed320d7d347ab9549faa605.ctv
 Sport TV 1,https://epg.pw/stream/099f06bbf7a5f043c0a117dd148bd5b637c9c67cf6eb23a4f5a1c4fb46a5997b.ctv
 Sport TV 1,https://epg.pw/stream/514e25405ae8e6338a87008358978ac7622edfb622c36074592ee8cc9eefc989.ctv
 Sport TV 1,https://epg.pw/stream/73c62c9bc3432735216b2b4342692ddc1fe6287264dc2913cbddc41cdf572f23.ctv
@@ -332,20 +352,30 @@ Sport TV 3,https://epg.pw/stream/241a37a66122b8081c7fb1e8040a6a76f4b1fbf1a0d85d3
 Sport TV 3,https://epg.pw/stream/562e85c544af177cd7ca814ea187df07e47924844c5aa835d38c94094c96e2da.ctv
 Sport TV 3[geo-blocked],https://epg.pw/stream/3e367545197d9d2f76cd942068f99173785121fff15ecea7ce84806b2f1b0e2c.ctv
 Sport TV 3,https://epg.pw/stream/2acb142bfdb1ba682a99e8c7e73696fdf12b49c9619fd57210c2a8257c1057bb.ctv
+Sport TV 3,https://epg.pw/stream/9d618a2349c25d5d1b0709be6438aa4ef4a1707622617a852d5ba04b62e59bbf.ctv
+Sport TV 3[geo-blocked],https://epg.pw/stream/ed608f5d130ef396b0970674ba4d6757c947a982ee62efde445de1327a4a3f72.ctv
+Sport TV 3[geo-blocked],https://epg.pw/stream/46e20eaed2d8a80db093ddd883c3650a366d723353c8776ec0dd76e3805e87af.ctv
 Sport TV 3,https://epg.pw/stream/35b7a248d51e906d2ddec75b30580bc97777f21c1d4c8733dc308641d2b1855d.ctv
 Sport TV 3,https://epg.pw/stream/a9c7f2dd212831d7f09b4d28b6c0b16f2db8ff21d8f552267d76784928323798.ctv
 Sport TV 3,https://epg.pw/stream/03eda5d56f4403b7c183dc2166eaabf292cb3efb2b2c7f7afe4f17a78744e80a.ctv
 Sport TV 3,https://epg.pw/stream/1a14eca3f8534d4926ce0b14b990ffe9b3ceb56746b5a5b4010c477896339656.ctv
+Sport TV 3,https://epg.pw/stream/23cae4740b3c7c2e924b813d1e37cead067fb4907e3760401026a6a78a1cf709.ctv
+Sport TV 3,https://epg.pw/stream/98eeef11e28b3ec36a2ca209746c37f37bdd2c106a4152f0700dea44f11b9412.ctv
+Sport TV 3,https://epg.pw/stream/62df8bacd610a1ea593b09bbaf9d37ee53ae70a8d3e638cd3f62ac47c153bb4f.ctv
 Sport TV 3[geo-blocked],https://epg.pw/stream/c922c67c1e4c341bf2218654113668a4e5311cb1564c66d02110c721f6ab8289.m3u8
 Sport TV 3,https://epg.pw/stream/411d5579524b67e0ed406a182ee5b5907492346279536e5e18129ff03b682371.m3u8
 Sport TV 3,https://epg.pw/stream/9d254b8c54f3d69da2f3694c4922749bbbba4db9a78f59383486b5b0455fc70a.ctv
 Sport TV 3,https://epg.pw/stream/a2d72de11cb4bf3b9557f75224d6474e9077dbdc160435ac8c0067f76976764e.ctv
+Sport TV 4,https://epg.pw/stream/37b86fb20dbed3ba156f389e922c9fcad07b4225bff290463a909d8d134e7f00.ctv
+Sport TV 4,https://epg.pw/stream/1520c4265e1d6e5bced61ad637cbb24990b12bac46a89de526f56f2a1ed29642.ctv
 Sport TV 4,https://epg.pw/stream/9d1c5629a268bf31df6877ff589585b8898715bf519a1b2a0dfa06b0b9a11102.ctv
+Sport TV 4,https://epg.pw/stream/2698e8850b1ad7434fd88c8869e59b56e97fc21d8d70b1e76e2222f8bbc33d39.ctv
 Sport TV 4,https://epg.pw/stream/949c49c7ddf7e94d416898a069694c0fff5bf1268cbe88dc204a4dfbfe87747d.ctv
 Sport TV 4[geo-blocked],https://epg.pw/stream/e397a21ce973717c443a16c6f00866a6a49f39c91ec716d7d8b90a2f98a5aa23.m3u8
 Sport TV 4[geo-blocked],https://epg.pw/stream/5359a2a641a325637c73f2b5dd685d37dc869286b1a9593467102a0b12c60cba.m3u8
 Sport TV2,https://epg.pw/stream/aa86c83297c15aab1a3096fc6187ceac62ee58a4f04d829ff7d8c936c1199210.ctv
 Sport TV2,https://epg.pw/stream/f7aad79aa86372fa7c716e5c2b6b13d9d1fcbc282df34a13d3e7e05b7ec5d91c.ctv
+Sporting TV[geo-blocked],https://epg.pw/stream/c4bad2e4745c7997b7e8409e4390704fb829ad14c1cb1b983b943ca501ce569a.ctv
 Sporting TV,https://epg.pw/stream/6d3c73e0d501ee443611a445fe69d9d4342bb9b7cec685516b489c45154e8338.ctv
 Sporting TV[geo-blocked],https://epg.pw/stream/70d66989f8d76f5ba2ac52c902bab635d06690a77c498e8d3975b8fe048106b7.m3u8
 Sporting TV,https://epg.pw/stream/80701dc41aa77bd12441b0a57ecdf002a824657793a227e85223a1621b2d58d1.m3u8
