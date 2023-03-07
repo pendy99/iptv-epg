@@ -1,10 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-name="MITV Burmese" tvg-id="" tvg-country="Myanmar" tvg-language="Burmese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/12/20170312021120503161_80.jpg" group-title="Generic",[HD]mitv
-https://epg.pw/stream/29081a897c88f6499a41eae165c9eb4ee58fb5c7f070e98db474335119c7d2c1.m3u8
-#EXTINF:-1 tvg-name="MITV Burmese" tvg-id="" tvg-country="Myanmar" tvg-language="Burmese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/12/20170312021120503161_80.jpg" group-title="Generic",[BD]mitv@@1
-https://epg.pw/stream/9e77ac7ab8a0d7f54b3d523ba1f6de3fa06889d116fdf33ea99b38b79cf17787.m3u8
-#EXTINF:-1 tvg-name="MITV Burmese" tvg-id="" tvg-country="Myanmar" tvg-language="Burmese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/12/20170312021120503161_80.jpg" group-title="Generic",[HD]mitv hd
-https://epg.pw/stream/f3e520c37d79e0968fc7c94e71b5b56840e952270b775eb4b9e3925e34657f60.m3u8
 #EXTINF:-1 tvg-name="MRTV" tvg-id="" tvg-country="Myanmar" tvg-language="Burmese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/09/20170309023715746495_42.jpg" group-title="Generic",[BD]mgr tv@@1
 https://epg.pw/stream/3d4c8def49a5ef10a741668eee74254f093bb2cd31dcada50b8035329dd1f6cb.m3u8
 #EXTINF:-1 tvg-name="MRTV Entertainment" tvg-id="" tvg-country="Myanmar" tvg-language="Burmese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/06/21/20180621031314830901_50.png" group-title="Entertainment",[VGA]entertainment@@3[geo-blocked]
@@ -17,7 +11,5 @@ https://epg.pw/stream/ffef79100c418dd702245b2fbb0160e4422c8f317840cfaeac23994b2a
 https://epg.pw/stream/39fe212a41f41e48c9ec58a6ab64c4c1fc34babfb4f809e07c9bc19e9502d104.m3u8
 #EXTINF:-1 tvg-name="Mahar Bawdi" tvg-id="" tvg-country="Myanmar" tvg-language="Burmese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/09/20170309024030097697_10.jpg" group-title="Other",[SD]缅甸MAHABAWDI[geo-blocked]
 https://epg.pw/stream/4d9d99ae60776bf8685114c052d5a0ea16288a03ee8fd9ebaf7b195d1ee0d201.m3u8
-#EXTINF:-1 tvg-name="SKN SP HD" tvg-id="" tvg-country="Myanmar" tvg-language="Burmese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/07/26/20180726192122190716_68.jpg" group-title="Sport",[BD]band sp fhd h265
-https://epg.pw/stream/670748be1de2752c430401ce17f39ff1a69bb1bc8545f1a44ac935b3ad5f7336.ctv
 #EXTINF:-1 tvg-name="Sky Net - Buddha" tvg-id="" tvg-country="Myanmar" tvg-language="Burmese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/03/12/20170312015325794193_86.png" group-title="Other",[BD]普贤菩萨像
 https://epg.pw/stream/4a0a84d1dd3c6860ebb9bef5a2e7a3c9a6943074d37f0587775e05a6cea2df38.m3u8
