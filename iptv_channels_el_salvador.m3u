@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-name="Canal 4 (El Salvador)" tvg-id="" tvg-country="El Salvador" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205537119999_50.png" group-title="Sport",[BD]canal 4 el salvador
+https://epg.pw/stream/9151ba1104fea55cb842ac2eecbdfd9e6d6a41c113e4b788a932b9a23f134091.ctv
 #EXTINF:-1 tvg-name="Canal 4 (El Salvador)" tvg-id="" tvg-country="El Salvador" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205537119999_50.png" group-title="Sport",[VGA]ni | canal 4
 https://epg.pw/stream/4cf0c985d2d6674e6913b010a1354638be713c2b3604fda2054893bfe4cf568a.m3u8
+#EXTINF:-1 tvg-name="Elim TV" tvg-id="" tvg-country="El Salvador" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174627259915_46.png" group-title="Other",[BD]elite tv@@1[geo-blocked]
+https://epg.pw/stream/d0df9d96e444782118abe96f2128048ee549f6fd22a88f242d0b8b2bb23c017f.m3u8
 #EXTINF:-1 tvg-name="Elim TV" tvg-id="" tvg-country="El Salvador" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174627259915_46.png" group-title="Other",[VGA]Elim TV[geo-blocked]
 https://epg.pw/stream/f343823b4f4299283b1a5cad8e92512a8f846d9805a710649a45c6606312f758.m3u8
 #EXTINF:-1 tvg-name="Elim TV" tvg-id="" tvg-country="El Salvador" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174627259915_46.png" group-title="Other",[SD]elim tv[geo-blocked]

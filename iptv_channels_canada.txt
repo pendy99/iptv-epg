@@ -23,7 +23,8 @@ Treehouse[geo-blocked],https://epg.pw/stream/b78c09cd0c9c8e65e346f1526d3ea7f2569
 Treehouse,https://epg.pw/stream/d911675554908537c5458494defed1a41d88e696eb0a2ee4c4c7fa181721b6a1.ctv
 YTV[geo-blocked],https://epg.pw/stream/a73289cd70471d0b918504368f8c5d92be77f5786bce16c32303e1cf1ca3e9d4.ctv
 YTV[geo-blocked],https://epg.pw/stream/3268b97e5502231bd8f788b3644d86b6c5a988069e23fbc498e2ca2fdc0bdc1f.m3u8
-YTV[geo-blocked],https://epg.pw/stream/32533e861c7402742316ab29f58adcf64eb4cc2482037785a6e87f2cf2426e3c.m3u8
+Documentary,#genre#
+Love 4K Nature[geo-blocked],https://epg.pw/stream/b6e7f2512f6be0ee4a51a0a52ffb68c9cffe708e57dc797a0157c9b81326e9ce.m3u8
 Entertainment,#genre#
 Edge TV[geo-blocked],https://epg.pw/stream/3b099395de641a34938e4404bd001c88a088a7aeaa30045c7d2a368a479b4a54.m3u8
 GLOBAL TV,https://epg.pw/stream/bf5b265b6349db6a5ecbb197e96cfb2f03141d47b215b23a286cc4028ec348fd.m3u8
@@ -48,6 +49,7 @@ CBC OTTAWA[geo-blocked],https://epg.pw/stream/fae1ec6362fc67c85277787b615b10abce
 City TV,https://epg.pw/stream/f3238a0a1df7f6b5dfc81b6b389aa5df9b02feee7ea6f50afff45ec0054e4d69.m3u8
 City TV,https://epg.pw/stream/2ee86a6911a1cd747ef95740e8dc63092afe076039cbbfedcd9c036d4787f6d4.ctv
 City TV[geo-blocked],https://epg.pw/stream/8d7bb18366d56aee66138c5ca4242790aae8f4505218d1dfd84260778cbf840c.m3u8
+City TV,https://epg.pw/stream/d2cb92f600bbc855d60c719d07ba5ec8e7b8a3ab9370829ec930d15c567fce74.ctv
 City TV,https://epg.pw/stream/55ebc4807dce4f4b5361a9a46a298d6a46c58b7701a1712083c90111e90c766f.ctv
 City TV[geo-blocked],https://epg.pw/stream/7fb2b2e8949844da8bea9351e99e35593d01bded3fa97e74acd565f7266a538f.m3u8
 City TV[geo-blocked],https://epg.pw/stream/ad275c3577df59628a9c92eff8faec1b4d5a0636486e52b48a99d098b7935a02.m3u8
@@ -129,13 +131,11 @@ CTV,https://epg.pw/stream/b77d624cd9430d4bffbb7f41226df1b3c283de81da19728320acda
 CTV[geo-blocked],https://epg.pw/stream/570951475f45690b4838bdf61bc5be93f912b16bb247909640bb60a31d3562a2.m3u8
 CTV[geo-blocked],https://epg.pw/stream/573c96b90712995b2209e0df3dd520fbb221bdeec49151af913e19b822ea81c2.m3u8
 CTV[geo-blocked],https://epg.pw/stream/17dac7d2f025bf1d192eede67b837f532869aeede20b3500e0c0eddccf76cbc8.m3u8
+CTV[geo-blocked],https://epg.pw/stream/0e12d39da83ca0eab036c0a4eef39d82e8dbb375f7f43661d4e773cea2656b39.m3u8
 CTV[geo-blocked],https://epg.pw/stream/209145881a0b70dc8ecbd29e5522cfde07ef12bbda14d071dfa9b37f7dbf1d9d.m3u8
 CTV[geo-blocked],https://epg.pw/stream/cf8d94946e554a953eeb51f5401989bf5ab4981070adb6be1a4a267ac29c60be.m3u8
 CTV,https://epg.pw/stream/1f1808d813e6d006395bb52b4dbb919a3939258e694ac23b0ced45ee597eca00.ctv
 CTV,https://epg.pw/stream/0ba97c018778dc753f3fa2bfe9f996f727d0e1dc490be504df6adb8d16f046ae.m3u8
-IIPCTV Eng,https://epg.pw/stream/21b487f17234db56dbbe4a860248316fcc449ab6ce217ec11e74eac3e7de24b4.ctv
-IIPCTV Eng,https://epg.pw/stream/9d6295d684e3ecfcb7f4aacc51121db04535def45ac1ad5672447c8897e19e25.ctv
-IIPCTV Eng[geo-blocked],https://epg.pw/stream/2f355b5a0ad66c267dac9668494203b7286151495f1a7e9a174ef53191424367.ctv
 TVA,https://epg.pw/stream/3478b72b2542f8cf1a604baf06c6ca62edcf18f9f389a73bd562239f6935f0f6.m3u8
 TVA[geo-blocked],https://epg.pw/stream/96b51be3c576101e43b26a6a9a79d3e7210b4bd068fd324c8613858fb059bdeb.m3u8
 TVA,https://epg.pw/stream/4f727a81abf793201e9f31d6d9779fda1ebbe2d4abbbcc7e6eef3a9e53f37591.m3u8
@@ -202,5 +202,7 @@ TSN 3[geo-blocked],https://epg.pw/stream/963c0a6afd9ab9f8dec5d9e40299b68640c04cb
 TSN 4[geo-blocked],https://epg.pw/stream/30a2322968cf90892001f12affa91d1b4c3c681c2b482c2737bd6f7ed7b93fff.m3u8
 TSN 5[geo-blocked],https://epg.pw/stream/20356e892e223569225ac7ce246afd7a880fe65d9f26e7a8ffcb7333bc2603eb.ctv
 TSN2[geo-blocked],https://epg.pw/stream/37742bbd3f5015714b717b0719ad9bf857d71e59d8b1de80d81039cd9c67e86d.m3u8
+TVA SPORT,https://epg.pw/stream/e72d021b0cbf0fa154b2fc784227bef47ba1c26af1cc51805ea71a22be82469f.m3u8
 TVA SPORT,https://epg.pw/stream/abc903e615db1eb945259266282d2159400ce778a78e3dcc5f6bb9f074c82b3f.m3u8
+TVA SPORT[geo-blocked],https://epg.pw/stream/46a5be03e983539a720901a416022bbf8164512630cc546802be0065cde4bc29.ctv
 TVA SPORT[geo-blocked],https://epg.pw/stream/5fc8b5ec830c7e78fd5ff7fc0b6d3373fa4c2bc10e8cec79c35e436996599b4f.m3u8

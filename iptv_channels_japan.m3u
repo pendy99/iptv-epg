@@ -133,8 +133,6 @@ https://epg.pw/stream/f6ff38ff5d0863431b8637df212c2afd61615c78c2f4c4582f9772f63c
 https://epg.pw/stream/38cea8d22546363a3a47ad89d8572e204d96b39cbf7a14b4eb0e106e4047dc6a.m3u8
 #EXTINF:-1 tvg-name="BS朝日" tvg-id="62981" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154749296470_94.jpg" group-title="Cartoon",[HD]bs 朝日
 https://epg.pw/stream/08948901ad4b6939a8f753bb77c5acc9c46d62b72f9f150a7d501a26c641dea2.m3u8
-#EXTINF:-1 tvg-name="BS朝日" tvg-id="62981" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154749296470_94.jpg" group-title="Cartoon",[VGA]BS朝日
-https://epg.pw/stream/d9c91a451ba81ed9e87856251b483c5593a308110ff66af799e8b325bd34c140.m3u8
 #EXTINF:-1 tvg-name="BS朝日" tvg-id="62981" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154749296470_94.jpg" group-title="Cartoon",[VGA]BS朝日[geo-blocked]
 https://epg.pw/stream/48a02949ff5bf03ab93fe9763c52aef6d1df52e889c6ebc16fcc1e4b97ed98b5.m3u8
 #EXTINF:-1 tvg-name="CNNj" tvg-id="63058" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021057423021_50.png" group-title="News",[HD]CNN@@2[geo-blocked]
@@ -189,9 +187,9 @@ https://epg.pw/stream/9dc035bd71db981367ebe181758cbadc8c13f899308cc0bff05a0751e3
 https://epg.pw/stream/c786eb5b678df5043ca8bb2676e3311c2c49dd04e238a8482252be2915a54820.m3u8
 #EXTINF:-1 tvg-name="Disney Channel Japan" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152136271795_75.png" group-title="Cartoon",[VGA]disney channel japan[geo-blocked]
 https://epg.pw/stream/01cc80e266dc66be81badb6a6a00ff0812e5dadde071cda08cee3f5b3b8d4963.m3u8
-#EXTINF:-1 tvg-name="FM-N1" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021054629175_98.png" group-title="News",[BD]n1 fhd
+#EXTINF:-1 tvg-name="FM-N1" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021054629175_98.png" group-title="News",[SD]n1 fhd
 https://epg.pw/stream/b53ffdd1487d9aa80db8b132d852a1db1cc9fe7dd559c6d4075b2a98fa3315b7.ctv
-#EXTINF:-1 tvg-name="FM-N1" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021054629175_98.png" group-title="News",[BD]n1 fhd@@1
+#EXTINF:-1 tvg-name="FM-N1" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021054629175_98.png" group-title="News",[SD]n1 fhd@@1
 https://epg.pw/stream/0c3ae2703d7086e782551b8775012b6fa3f2b0dc248d673cb4e396a592e07490.ctv
 #EXTINF:-1 tvg-name="FM-N1" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021054629175_98.png" group-title="News",[VGA]fmn@@4[geo-blocked]
 https://epg.pw/stream/a4de2705af3d5265bb3057e895e15994f43d17b8e0b660c24aec18b81bd71a77.ctv
@@ -237,17 +235,19 @@ https://epg.pw/stream/521aa322435f17a3cd5a8572bf69bb2058c5561a9cb210f78480edd84e
 https://epg.pw/stream/b08f956bfbcedce6c65ed6f915d6565802f8574ec1ab92262642a5f7c7664969.m3u8
 #EXTINF:-1 tvg-name="Gunma TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021050569119_37.png" group-title="News",[HD]Gunma TV (720p)[geo-blocked]
 https://epg.pw/stream/7db0b656a835a8641c8b957d0f35f73ecf74587f03bbd53235581b259d7343eb.m3u8
-#EXTINF:-1 tvg-name="HOT ANIME" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/fb7a6713e5656f8399158390f793769a.png" group-title="Cartoon",[SD]hot
+#EXTINF:-1 tvg-name="HOT ANIME" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/fb7a6713e5656f8399158390f793769a.png" group-title="Cartoon",[HD]hot
 https://epg.pw/stream/549f3f443d99acbab7448c2bc1cfcef3e9cce01eb7d4edd23611bb7fcc39ca6c.m3u8
 #EXTINF:-1 tvg-name="HOT ANIME" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/fb7a6713e5656f8399158390f793769a.png" group-title="Cartoon",[BD]Hot and Mean[geo-blocked]
 https://epg.pw/stream/8b0163e85cad99f9c01a3417aa02779effd08c4f600d823b84460336ac4b29d8.m3u8
+#EXTINF:-1 tvg-name="HOT ANIME" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/fb7a6713e5656f8399158390f793769a.png" group-title="Cartoon",[HD]hot@@3
+https://epg.pw/stream/d845cf272006b4a9f9dd236353074e8ba63a7ca0cd5c88efbf31fbc16f3db237.ctv
 #EXTINF:-1 tvg-name="HOT ANIME" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/fb7a6713e5656f8399158390f793769a.png" group-title="Cartoon",[HD]HOT
 https://epg.pw/stream/fdb611883f1127d160ab2ae1518cfc4823250a91c5d43efc1790e283d369c115.m3u8
 #EXTINF:-1 tvg-name="HOT ANIME" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/fb7a6713e5656f8399158390f793769a.png" group-title="Cartoon",[HD]Hot and Mean
 https://epg.pw/stream/14ab369ea42b082ce7bce8b75281918b7e8f27402ee9ea5fc4283ddc970f12f1.m3u8
 #EXTINF:-1 tvg-name="HOT ANIME" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/fb7a6713e5656f8399158390f793769a.png" group-title="Cartoon",[HD]hot@@2
 https://epg.pw/stream/bedbf00d5a380219881beab8839a3270593291991d0dbd4618e504e54b4ae1d6.m3u8
-#EXTINF:-1 tvg-name="HOT ANIME" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/fb7a6713e5656f8399158390f793769a.png" group-title="Cartoon",[BD]hot and mean
+#EXTINF:-1 tvg-name="HOT ANIME" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/fb7a6713e5656f8399158390f793769a.png" group-title="Cartoon",[HD]hot and mean
 https://epg.pw/stream/696674eef84dad33a834f72d40f37a38369e4d62d9b30bc7be4f9097f92ff7bd.m3u8
 #EXTINF:-1 tvg-name="HOT ANIME" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/fb7a6713e5656f8399158390f793769a.png" group-title="Cartoon",[BD]hot@@1
 https://epg.pw/stream/293f0bf2644ef819ac21715a9c904225d26707a779bb3e99f94025c5daf5fdb8.m3u8
@@ -257,6 +257,8 @@ https://epg.pw/stream/8bee903606674f5433464c06eb0dc5fcd3d035b0f5772fb04c2f28eadc
 https://epg.pw/stream/2b8c0498885780ae0ddb56b5037c29beaa06e93c709bbd007966f5b2cfc9f48e.m3u8
 #EXTINF:-1 tvg-name="J SPORTS 1" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165726980841_51.jpg" group-title="Sport",[HD]j sports 1@@7
 https://epg.pw/stream/086759a9c96072c0bf8b5e14dabaab00552ad1f17763591386f86623f153c049.m3u8
+#EXTINF:-1 tvg-name="J SPORTS 1" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165726980841_51.jpg" group-title="Sport",[HD]j sports 1@@1
+https://epg.pw/stream/8d422deab62637630db364167e893b621b37e282218e5d278b3a3bcf41b688cd.m3u8
 #EXTINF:-1 tvg-name="J SPORTS 1" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165726980841_51.jpg" group-title="Sport",[HD]j sport 2 
 https://epg.pw/stream/418ea157caa6587fcbc5327fbe750a215c526c231f13034863ec398382b6e6a9.m3u8
 #EXTINF:-1 tvg-name="J SPORTS 1" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165726980841_51.jpg" group-title="Sport",[HD]j sports 1@@5[geo-blocked]
@@ -265,6 +267,8 @@ https://epg.pw/stream/9c320811097258da2a9851613c4b0ff32b5787f78539fcd4547febb980
 https://epg.pw/stream/fac1173d753249771e03be8d56b005686b6e316b2e17685c8747087112792bf2.m3u8
 #EXTINF:-1 tvg-name="J SPORTS 1" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165726980841_51.jpg" group-title="Sport",[SD]j sports 1@@4
 https://epg.pw/stream/d912d5feef7097d7d73f4c51b92ff45c69185ed8b146a0bc729043523e3652cf.m3u8
+#EXTINF:-1 tvg-name="J SPORTS 1" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165726980841_51.jpg" group-title="Sport",[VGA]j sports 1 (480p) [not 24/7]
+https://epg.pw/stream/15809e6b2808cd3731d5a857a776db44b2421e973e9b1627f0dc405e61c4f87d.m3u8
 #EXTINF:-1 tvg-name="J SPORTS 2" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162826971601_87.jpg" group-title="Sport",[HD]j sport 2[geo-blocked]
 https://epg.pw/stream/c7eafb1b960fa43716eb8a81d13a8749c89e4c79583a485bf96e2cad1b692201.m3u8
 #EXTINF:-1 tvg-name="J SPORTS 2" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162826971601_87.jpg" group-title="Sport",[VGA]j sports 2[geo-blocked]
@@ -277,6 +281,8 @@ https://epg.pw/stream/e6880b67d3a8be6f61219297c9dca1a24221d0eb234bf3b110a93df770
 https://epg.pw/stream/7fc7e83903e5ad18203982cd03fc92699f095ad663b676f21e2c072f5bded8ff.m3u8
 #EXTINF:-1 tvg-name="J SPORTS 2" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162826971601_87.jpg" group-title="Sport",[VGA]j sports 2 (480p) [not 24/7]
 https://epg.pw/stream/c7d891099fc0ee8c1c540461780094709a65c39038196a32c2c6f25db6f16de9.m3u8
+#EXTINF:-1 tvg-name="J SPORTS 2" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162826971601_87.jpg" group-title="Sport",[HD]j sport 2@@1
+https://epg.pw/stream/f33a82d4fdb2c0cfd5c7e11b3adec2a105cce50a10684998e18962720489094f.m3u8
 #EXTINF:-1 tvg-name="J SPORTS 2" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162826971601_87.jpg" group-title="Sport",[HD]j sports 2@@7[geo-blocked]
 https://epg.pw/stream/653dc7232b7c5fc3ac58f0bc3a167f50864c5a3d33f0b7f753bda0bcf672dc74.m3u8
 #EXTINF:-1 tvg-name="J SPORTS 2" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162826971601_87.jpg" group-title="Sport",[HD]j sports 2@@3[geo-blocked]
@@ -287,6 +293,8 @@ https://epg.pw/stream/23e46749d3f6bb15abc8226dc29892f0addf92b4519bd4e503cdc2cb29
 https://epg.pw/stream/02c0e67eeec6fc183d64c657fec34f70dac98473a2904d7656fbf7b53a655518.m3u8
 #EXTINF:-1 tvg-name="J SPORTS 3" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162738908092_15.jpg" group-title="Sport",[VGA]j sports 3 (480p) [not 24/7]
 https://epg.pw/stream/1ea4288bb567bb4d9bcda1b654a151508bda26c2bdbd119be0e46b75e8dd3f00.m3u8
+#EXTINF:-1 tvg-name="J SPORTS 3" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162738908092_15.jpg" group-title="Sport",[HD]j sport 3[geo-blocked]
+https://epg.pw/stream/c24c7fcdde2a39d5158181478b6eed1f99b576d388c2a716dc0cd01a5b132254.m3u8
 #EXTINF:-1 tvg-name="J SPORTS 3" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162738908092_15.jpg" group-title="Sport",[BD]j sports 3@@3[geo-blocked]
 https://epg.pw/stream/8c7971374f2650f9d7a3981f926efcfc52d586040620def1153746b6c1161e01.m3u8
 #EXTINF:-1 tvg-name="J SPORTS 3" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162738908092_15.jpg" group-title="Sport",[VGA]j sports 3@@2
@@ -295,8 +303,12 @@ https://epg.pw/stream/f7cfc499ea81a4aa113e8d168d9d35094296dd31b624055b4d6e2e38de
 https://epg.pw/stream/7cca0aaf7b444fd3892e66e38762f7199c53fd113ee85b8e9da8dcf858549a69.m3u8
 #EXTINF:-1 tvg-name="J SPORTS 4" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513162616728241_88.jpg" group-title="Sport",[VGA]j sports 4@@1
 https://epg.pw/stream/558b6ef323d6424dd0298c029b17ac1669033f7e4ed670184237f4010c0553ab.m3u8
+#EXTINF:-1 tvg-name="J Sports Plus" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021047695930_67.png" group-title="Sport",[BD]dtv sports plus[geo-blocked]
+https://epg.pw/stream/7c15f8b5dc114b7aeb3508477b1ae83570abc912c4e4fdd5a53e8624667a4575.ctv
 #EXTINF:-1 tvg-name="J Sports Plus" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021047695930_67.png" group-title="Sport",[BD]win sports plus *
 https://epg.pw/stream/8a1d95e578d3b58b4ed3756543c45e9c337718f939e537cb2789f2728df179d4.ctv
+#EXTINF:-1 tvg-name="J Sports Plus" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021047695930_67.png" group-title="Sport",[HD]dtv sports plus  sd
+https://epg.pw/stream/2a09a0069a652cee36e4e4a348157317a0c03d169efe092404facad35f82bd31.ctv
 #EXTINF:-1 tvg-name="JSTV 2" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021043410554_30.png" group-title="News",[HD]stv2 - sóc trăng
 https://epg.pw/stream/4207f6f25c5d3fbdcf5f4e67e7968374cdc0bdb6f8d71285e38755d2941da43c.m3u8
 #EXTINF:-1 tvg-name="JSTV 2" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021043410554_30.png" group-title="News",[HD]Sofy.tv@@2[geo-blocked]
@@ -343,10 +355,14 @@ https://epg.pw/stream/22afee7f3c9eebc02767ba330da25cbbab9287cac302284833dea63120
 https://epg.pw/stream/dc91463a5ad63b49d496966dcae39a59b4d51d1afdbdb2d58bb2902ac82f8726.ctv
 #EXTINF:-1 tvg-name="Lala TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/09/21/large/20210921164441007565_73.png" group-title="Other",[VGA]villa tv@@1[geo-blocked]
 https://epg.pw/stream/0b222529bf1606052cf8ec1be5361dcd192201830dc9db3d7afdc0ceb6f786ba.m3u8
+#EXTINF:-1 tvg-name="Lala TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/09/21/large/20210921164441007565_73.png" group-title="Other",[BD]laliga tv[geo-blocked]
+https://epg.pw/stream/90324d76a623ae698284a395dee83d1056e3c3d41ceb9d393c6ebb039960367a.ctv
 #EXTINF:-1 tvg-name="Lala TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/09/21/large/20210921164441007565_73.png" group-title="Other",[HD]m+ laligatv +
 https://epg.pw/stream/ef61d178091145bf345bf34654a88e4a83a83dc06c70ab0fafd00ec30163f7d7.ctv
 #EXTINF:-1 tvg-name="Lala TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/09/21/large/20210921164441007565_73.png" group-title="Other",[BD]lana tv +
 https://epg.pw/stream/0b47574a2875a9dfaeaa0a3ab45ff990d9ab57321541884f51fd292e23b04be4.m3u8
+#EXTINF:-1 tvg-name="Lala TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/09/21/large/20210921164441007565_73.png" group-title="Other",[HD]legal tv[geo-blocked]
+https://epg.pw/stream/0ea6fbb7cf057c47e3be0d5708700dfc4f5ce0ed2ea4b98f55a87f0d04ace1ba.ctv
 #EXTINF:-1 tvg-name="Lala TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/09/21/large/20210921164441007565_73.png" group-title="Other",[HD]lana tv@@2
 https://epg.pw/stream/b7579d963ae37470fb937ea13d27662ebbf930a62fe054eb1977f3f15103246e.m3u8
 #EXTINF:-1 tvg-name="Lala TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/09/21/large/20210921164441007565_73.png" group-title="Other",[HD]lana tv@@3[geo-blocked]
@@ -445,7 +461,7 @@ https://epg.pw/stream/a88c86a4d9fed77b84aa980a5fe3d85aee3a8d7e73465d1662de30afac
 https://epg.pw/stream/ad234ae07aaf497a6884753f5722a489018575ff082c40cfc69428b446fa3fd5.ctv
 #EXTINF:-1 tvg-name="NHK Education" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513160430068486_35.jpg" group-title="Cartoon",[BD]education@@2[geo-blocked]
 https://epg.pw/stream/aafab624021206f67b2bb1b5acd8dbcacef0c4d68b7241c81e15b06dbb109573.ctv
-#EXTINF:-1 tvg-name="NHK Education" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513160430068486_35.jpg" group-title="Cartoon",[SD]education[geo-blocked]
+#EXTINF:-1 tvg-name="NHK Education" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513160430068486_35.jpg" group-title="Cartoon",[BD]education[geo-blocked]
 https://epg.pw/stream/c439c0c848cfd3dc1d22a99675c14abff2767080860606d896de0ee35f47b79d.m3u8
 #EXTINF:-1 tvg-name="NHK General" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165826308836_55.jpg" group-title="Generic",[HD]ftv general[geo-blocked]
 https://epg.pw/stream/19cb872bd28b86b7db807aebaca61fa05cea5d5acced2f5a8f33a7f99d0bc7bb.ctv
@@ -549,35 +565,35 @@ https://epg.pw/stream/6dffc9eeb50d489a5c8506fb45f9e409c612a31be29b1badf9fa746717
 https://epg.pw/stream/c8a4d2fbad11e0869b8d1718e6680a097f09b0edc531f83225ae422d59fcfa33.ctv
 #EXTINF:-1 tvg-name="NTV News 24" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154632979433_35.jpg" group-title="News",[HD]ntv news 24[geo-blocked]
 https://epg.pw/stream/097f22795d7cf69c9ddadc18edf9374f811cf84ad31e5a48c40b90f0dfcb99b0.m3u8
-#EXTINF:-1 tvg-name="NTV News 24" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154632979433_35.jpg" group-title="News",[VGA]news 24@@1
+#EXTINF:-1 tvg-name="NTV News 24" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154632979433_35.jpg" group-title="News",[SD]news 24@@1
 https://epg.pw/stream/314fbe563ee4fb757c58cabecb36291f7d7d4e55158c19d5b47c6a54a72951f2.ctv
 #EXTINF:-1 tvg-name="NTV News 24" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/13/large/20220513154632979433_35.jpg" group-title="News",[VGA]NTV News24[geo-blocked]
 https://epg.pw/stream/b514654fbea63db1611313b18e289413d1be3ea88618b50d23ee28d5f8ed766a.m3u8
-#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[BD]m+ netflix 1@@1
+#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[HD]m+ netflix 1@@1
 https://epg.pw/stream/14995ac17969a7523eea80789691d457d650fe2c15d516e0c814ec91ca03a5eb.ctv
-#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[BD]m+ netflix 1
+#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[HD]m+ netflix 1
 https://epg.pw/stream/0f7693adea5fd8f794fb3a7f7e05a246230e6bab1834efa124d2c6a7a0612a18.ctv
 #EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[HD]netflix 1@@1
 https://epg.pw/stream/01c1bb45001d5970747842a60b71316806093c0aa54f8b80d8923e1074e607b6.ctv
-#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[BD]netflix 3@@1
+#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[HD]netflix 3@@1
 https://epg.pw/stream/9888b226c6bdf316789711a81b3bff6d5d83132b087d7051b3912f4289efcf55.ctv
-#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[HD]netflix 2@@1
+#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[SD]netflix 2@@1
 https://epg.pw/stream/21a5b128d0c17ff567620d32c1b44d2b7ed53e5058b3cfd23f549aa818bd8781.ctv
 #EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[VGA]netflix 5@@1
 https://epg.pw/stream/0e52dc57c72fe16507609f651a76a9fcd3fbb15c98a509dfd248bce9d4fb72b6.ctv
 #EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[HD]netflix 1@@2
 https://epg.pw/stream/e1d754f3d6199ac69e9884c0d4e967ec61795490fcfcc0e8441b89aaf686734d.ctv
-#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[BD]netflix 3@@2
+#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[HD]netflix 3@@2
 https://epg.pw/stream/ae469ee65071a9725d1effca53cb19b59c4bd6665d5b12f2636a706dca8f1207.ctv
-#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[HD]netflix 2@@2
+#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[SD]netflix 2@@2
 https://epg.pw/stream/c2569defe2b9410b79ada0628f9f142a438bf063966db639777930243d9e9a5f.ctv
 #EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[HD]netflix 1
 https://epg.pw/stream/df9807cd9681b92a051db9f73c7b0239e2257c01fb7b6fc30cd85f763139a2e4.ctv
 #EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[VGA]netflix 5@@2
 https://epg.pw/stream/48743f6b05849fd06ca2bdf577fb727bd7babd952a944024e4ef176f848b228e.ctv
-#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[BD]netflix 3
+#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[HD]netflix 3
 https://epg.pw/stream/595689aa395d655568254986f858f124d4f7e6a035b1b04295d242a1f59544fb.ctv
-#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[HD]netflix 2
+#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[SD]netflix 2
 https://epg.pw/stream/616f2a4f20aafe506b86787b28743d85258e66123d00a78f5b18e3a3edcb8311.ctv
 #EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[VGA]netflix 5
 https://epg.pw/stream/a2680e47d41addf756ab5c954e5dbc23f247b6dd179a50e4ed343c7807f370f6.ctv
@@ -593,11 +609,11 @@ https://epg.pw/stream/2061b1308700bc7dc672e4b7b9743e3fefb2d349fa31411e9bb7a6da88
 https://epg.pw/stream/295117ef9adad4cb9b937fef3cee505e969c342ba4fe9dcf1304645a97e4710f.ctv
 #EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[HD]filmax l netflix
 https://epg.pw/stream/7c0cd9bb3abd198140628b81f9a05193bf07249a5693d62497122e585968af10.ctv
-#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[BD]m+ netflix 2@@1[geo-blocked]
+#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[HD]m+ netflix 2@@1[geo-blocked]
 https://epg.pw/stream/8546c9a9bd6ea7009801d864a79181e64a92cec6c408edc62e53ca4edc540765.ctv
-#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[BD]m+ netflix 2@@2
+#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[HD]m+ netflix 2@@2
 https://epg.pw/stream/7bd55dca9b8ed4c45a562951b8f56313761d797415e4d9cbea0947eea2bb4f93.ctv
-#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[BD]m+ netflix 2
+#EXTINF:-1 tvg-name="Netflix(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/10/large/20211210235908754439_80.png" group-title="Movie",[HD]m+ netflix 2
 https://epg.pw/stream/93a9c8d696abe27a2f1595ae04f5b10a45339e59b2b02f1660b28f109db157c6.ctv
 #EXTINF:-1 tvg-name="Nihon Eiga TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/11/25/20171125145913714014_54.jpg" group-title="Movie",[VGA]tv nihon
 https://epg.pw/stream/75444e6dd9c9e0842b5d8bcdbf90ea9cdfec7f590a0633f0f44e9c7421bd0791.m3u8
@@ -687,6 +703,10 @@ https://epg.pw/stream/0af90a919c21d6f953c533d43a35e1119fb3fc89834adeba899b23934a
 https://epg.pw/stream/2a72d767c86e5a1aa0bc274ae32ef2ac9eb3322d6da67fab3b5f1876e3d2016e.ctv
 #EXTINF:-1 tvg-name="STAR CHANNEL 3" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/11/04/20171104205857821216_96.jpg" group-title="Movie",[HD]star channel hd@@4
 https://epg.pw/stream/8fe7b8852bbc7027307a4b78fc4a380459e338df83b304d44c04df65ad45a08c.ctv
+#EXTINF:-1 tvg-name="STAR CHANNEL 3" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/11/04/20171104205857821216_96.jpg" group-title="Movie",[BD]star channel sd =@@1
+https://epg.pw/stream/ac534e53345b0fbe2da3f9677840b63887053184c05cba7d5ac1e531bd0790c1.ctv
+#EXTINF:-1 tvg-name="STAR CHANNEL 3" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/11/04/20171104205857821216_96.jpg" group-title="Movie",[BD]star channel sd =
+https://epg.pw/stream/7a3db4cd5702dcf56585730c30392609dc2dff956b6810bacdc0cdcb0050dab7.ctv
 #EXTINF:-1 tvg-name="STAR CHANNEL 3" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/11/04/20171104205857821216_96.jpg" group-title="Movie",[BD]star channel h265@@1
 https://epg.pw/stream/ccad854f2b6fd314baaff88f7c74a899a140afceeedc00a3d4521b4786966ccb.ctv
 #EXTINF:-1 tvg-name="STAR CHANNEL 3" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/11/04/20171104205857821216_96.jpg" group-title="Movie",[HD]star channel hd@@5
@@ -699,6 +719,10 @@ https://epg.pw/stream/1dc5ad47bce93a7c470af4b769abb3bbe53612f10e3b8ae2c489d711b4
 https://epg.pw/stream/5d1ca79d01080506943845cfe8d2155fcc7ce31195f2f96796c45db884989089.m3u8
 #EXTINF:-1 tvg-name="STAR CHANNEL 3" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/11/04/20171104205857821216_96.jpg" group-title="Movie",[BD]star channel fhd@@3
 https://epg.pw/stream/098b732054e1e755448e83179255fb72a4d42a809e144928ea10d177e951c0b0.ctv
+#EXTINF:-1 tvg-name="STAR CHANNEL 3" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/11/04/20171104205857821216_96.jpg" group-title="Movie",[SD]star channel lq
+https://epg.pw/stream/1ede06bbca753c0f1b26cf6c333e867cfe436394c169970cbf1a1f65912be58e.ctv
+#EXTINF:-1 tvg-name="STAR CHANNEL 3" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/11/04/20171104205857821216_96.jpg" group-title="Movie",[BD]star channel mexico fhd
+https://epg.pw/stream/f056d05449ec968b5df113f4fd9601d83ca87aeaef051cf938afa237708d2fd2.ctv
 #EXTINF:-1 tvg-name="Samurai Fighting TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/11/04/20171104204507191987_81.jpg" group-title="Sport",[VGA]samurai x
 https://epg.pw/stream/5f693d7cc0ef669b66bd0959a1310a206288adcce9f21ee8785802f3adfa429a.ctv
 #EXTINF:-1 tvg-name="Sony Music" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/10/26/large/20211026184914196856_79.png" group-title="Cartoon",[BD]sky music[geo-blocked]
@@ -797,6 +821,8 @@ https://epg.pw/stream/36dd709be0feb7604fde4afea3eaaf317e725709f5e990f8dc0ac7a2c1
 https://epg.pw/stream/bd2dd0a246ec36496944f8ad9bf79c74eebd2d4460d16e73f4fcc22d90b9d237.m3u8
 #EXTINF:-1 tvg-name="TV Asahi" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022109896337_87.png" group-title="Entertainment",[VGA]tv asahi (480p)[geo-blocked]
 https://epg.pw/stream/9486f8383b288c2f38a04fd0a25751b7a30c255685d671573860555a44a65fbf.m3u8
+#EXTINF:-1 tvg-name="TV Asahi" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022109896337_87.png" group-title="Entertainment",[HD]asahi tv[geo-blocked]
+https://epg.pw/stream/6aad4fe0ce886a9fd5a48c13569df7f689802f997d39107ef1fc6de43a8e5016.m3u8
 #EXTINF:-1 tvg-name="TV Asahi" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/25/large/20220525022109896337_87.png" group-title="Entertainment",[VGA]tv sul bahia
 https://epg.pw/stream/0a65ee3f58fa4831442cce790434f4a133828d79b7983769ca3048fabcd9c894.m3u8
 #EXTINF:-1 tvg-name="TV Asahi Channel 1" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/09/21/large/20210921173614061272_19.png" group-title="News",[VGA]TV Asahi
@@ -891,7 +917,7 @@ https://epg.pw/stream/2aaeb933af9d8bb7a44d9e8d0d7f1f6fa772157903de1e966787949520
 https://epg.pw/stream/d3dcf950bb5907b02cc169fab2182270581c4a4ebdecff31f3502f6df85cb43f.m3u8
 #EXTINF:-1 tvg-name="dTV(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/11/large/20211211000333648373_33.png" group-title="Movie",[BD]japan hdv@@1
 https://epg.pw/stream/4e44c605d99b950ebd1963cf689b10894e749db1a92cbb074c2db192c162c122.m3u8
-#EXTINF:-1 tvg-name="dTV(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/11/large/20211211000333648373_33.png" group-title="Movie",[BD]japan hdv
+#EXTINF:-1 tvg-name="dTV(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/11/large/20211211000333648373_33.png" group-title="Movie",[HD]japan hdv
 https://epg.pw/stream/0acd0fc0e8acef91c65fa95d041c1201d2d526c555659f713419fbc866c6cd51.m3u8
 #EXTINF:-1 tvg-name="dTV(Japan)" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/11/large/20211211000333648373_33.png" group-title="Movie",[HD]Japan HDV
 https://epg.pw/stream/cf7b48c268de92d8941b0313d8e8a3be6a6d4cc4b09ff79362f88af90f96d587.m3u8
