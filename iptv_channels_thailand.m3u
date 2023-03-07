@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-name="AMARIN 34 HD" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020411135377_14.png" group-title="Generic",[BD]34
+https://epg.pw/stream/2ae54f90e5888e69a86877c481cb977dedb1773a1ddd5189522233a5f7402052.m3u8
 #EXTINF:-1 tvg-name="AMARIN 34 HD" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020411135377_14.png" group-title="Generic",[HD]amarin hd[geo-blocked]
 https://epg.pw/stream/f7e05722412056cfd9e08866d6bb389a5ae1ca87ad1f630691e4ddab7f707bf1.m3u8
 #EXTINF:-1 tvg-name="AMARIN 34 HD" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020411135377_14.png" group-title="Generic",[VGA]34
@@ -137,6 +139,8 @@ https://epg.pw/stream/9e83266e3ff9bee1cf1f9fc1a2783db57bb981c932f2e7edea9bb7f68f
 https://epg.pw/stream/52d3d25341a0d71d5c7d84bed32cbbe100db96e61b8392ced28f717822087ed6.m3u8
 #EXTINF:-1 tvg-name="NEWS TV " tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/25/20150725051603616242_60.jpg" group-title="Entertainment",[SD]WPVI-TV News[geo-blocked]
 https://epg.pw/stream/94df2853d25482c9f8e5fa9f7b5775d54ee99636284595a38a01de7f69004035.m3u8
+#EXTINF:-1 tvg-name="NEWS TV " tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/25/20150725051603616242_60.jpg" group-title="Entertainment",[BD]set news[geo-blocked]
+https://epg.pw/stream/8e9115b96306721513a276f3b0c9f0506463d66feec07a63a7ddae304530a1e3.ctv
 #EXTINF:-1 tvg-name="NEWS TV " tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/25/20150725051603616242_60.jpg" group-title="Entertainment",[BD]ftv news (民視新聞台)[geo-blocked]
 https://epg.pw/stream/eaadc858c1403e92ee61a29006e962c3d403fca2296fa0ceff11be6326359204.m3u8
 #EXTINF:-1 tvg-name="NEWS TV " tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/25/20150725051603616242_60.jpg" group-title="Entertainment",[HD]KCCI-TV News Des Moines IA (720p)[geo-blocked]
@@ -235,5 +239,5 @@ https://epg.pw/stream/b16efc82b16e0ec00a01822f8fdc67378632e2e584d3ff705b717e7750
 https://epg.pw/stream/451bf7696a570afbe518eb3b8100a71cf292d3d8b4e17371f4029b111df52c3a.m3u8
 #EXTINF:-1 tvg-name="WorkPoint TV" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/25/20150725051933918347_59.jpg" group-title="Entertainment",[VGA]TVWorkNet (480p)[geo-blocked]
 https://epg.pw/stream/a3c4191462a518895e3c35c5cd1e2dc2b89d037addde709f9ab6068788626462.m3u8
-#EXTINF:-1 tvg-name="WorkPoint TV" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/25/20150725051933918347_59.jpg" group-title="Entertainment",[HD]waypoint tv[geo-blocked]
+#EXTINF:-1 tvg-name="WorkPoint TV" tvg-id="" tvg-country="Thailand" tvg-language="Thai" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/25/20150725051933918347_59.jpg" group-title="Entertainment",[VGA]waypoint tv[geo-blocked]
 https://epg.pw/stream/3e2a3804bbf60486387fc9d9f8991d54b54a5a1d91220c91bd5b2581c6d26f5a.m3u8
