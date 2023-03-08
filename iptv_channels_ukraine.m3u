@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-name="1+1 Ukraine" tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174725923216_74.png" group-title="Generic",[BD]Fake Taxi HD[geo-blocked]
+#EXTINF:-1 tvg-name="1+1 Ukraine" tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174725923216_74.png" group-title="Generic",[HD]Fake Taxi HD[geo-blocked]
 https://epg.pw/stream/a0cdfd5230ebb04da5b0709171fb22b787bd246f6c0ae3ed1c4892c52f3c772e.m3u8
 #EXTINF:-1 tvg-name="11 канал" tvg-id="5920" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113232152120756_32.png" group-title="News",[SD]4 канал hd ua
 https://epg.pw/stream/da552fc5a6cc9a52e66e7b1941b33bceec4e00579e44b3ff9b5826f6a356138c.m3u8
@@ -93,5 +93,7 @@ https://epg.pw/stream/5e2a906093166193000184841495a7c86cc6b06972b5db8e55a4617cdc
 https://epg.pw/stream/7ae4f15547f8b5b38788bc4a5258f06a988002569c5942f12bfedd98f957196a.m3u8
 #EXTINF:-1 tvg-name="Правда тут" tvg-id="" tvg-country="Ukraine" tvg-language="Ukrainian" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/01/28/20170128041206387389_79.png" group-title="News",[HD]правдатут київ
 https://epg.pw/stream/8e7c592c765f296b7c07840e66506158907842c9a6f479778a9088498c68adfb.m3u8
+#EXTINF:-1 tvg-name="Телеканал Футбол 2" tvg-id="" tvg-country="Ukraine" tvg-language="Russian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113232249335104_81.png" group-title="Sport",[BD]телеканал 360
+https://epg.pw/stream/e37cd4a6913d7ccfa90d073f4f4a95db79db5a815ddbf0d6f1349142633d56c8.m3u8
 #EXTINF:-1 tvg-name="Телеканал Футбол 2" tvg-id="" tvg-country="Ukraine" tvg-language="Russian" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113232249335104_81.png" group-title="Sport",[BD]телеканал 360°@@1[geo-blocked]
 https://epg.pw/stream/2b7f59b76fad365782bb326a2e645d63a4c66527beff4fdf3cd3319484fccc35.m3u8

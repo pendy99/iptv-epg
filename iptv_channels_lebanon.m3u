@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="Aghani" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/01/20150701030027596274_35.jpg" group-title="Entertainment",[BD]aghani@@3
 https://epg.pw/stream/c1210476f856833661f7ae87e941b3d606d94aca6a3d4c631e6f6db3fce3be87.ctv
-#EXTINF:-1 tvg-name="Aghani" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/01/20150701030027596274_35.jpg" group-title="Entertainment",[SD](lbn) aghani aghani
+#EXTINF:-1 tvg-name="Aghani" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/01/20150701030027596274_35.jpg" group-title="Entertainment",[BD](lbn) aghani aghani
 https://epg.pw/stream/3ad82e6a3855f375031ecd71945ad793964885b735dbd4bb71152b63468b6df5.ctv
 #EXTINF:-1 tvg-name="Aghani" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/01/20150701030027596274_35.jpg" group-title="Entertainment",[BD]aghani@@2[geo-blocked]
 https://epg.pw/stream/6afa09c6eb8fae1f81e86ca1a40157dbbaa3a17127ab07beaa31260da93ddfb6.ctv
@@ -23,6 +23,8 @@ https://epg.pw/stream/8396a4b83f7c34b1b90da1ed79bd9b6f85e355a458a5e82f9eca4196a0
 https://epg.pw/stream/661307c49aef396d6fa5c09ab34a754e3594c7085c3253bf3cd3f1ea4b3d5f6c.ctv
 #EXTINF:-1 tvg-name="Al Manar" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173942271488_66.png" group-title="News",[SD](lbn) al manar hd
 https://epg.pw/stream/44f22713d6e3421234e0d62f6ef2460bd0f510db45a457c2223f89daed3d5e28.ctv
+#EXTINF:-1 tvg-name="Al Manar" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173942271488_66.png" group-title="News",[HD]al manar@@1
+https://epg.pw/stream/ae5805ffab364bd81eee899b6c5e2424a00d894e129aecde77a3f5c6a2a58605.m3u8
 #EXTINF:-1 tvg-name="Al Manar" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173942271488_66.png" group-title="News",[BD]rfo almanya
 https://epg.pw/stream/e8ed2a53d2a05d64502bec22b9266003343af019989af1db86e4db20be5fd313.m3u8
 #EXTINF:-1 tvg-name="Al Manar" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506173942271488_66.png" group-title="News",[SD]Al Manar (576p) [Not 24/7]
@@ -45,7 +47,7 @@ https://epg.pw/stream/b300658b60c97017b4a17b708418300b66f6ccacd207577c4397c7831e
 https://epg.pw/stream/db6358042f2f3b0081ea5af7f5dbfc3f34f6b8d1883e83808909b8b874d6feb2.ctv
 #EXTINF:-1 tvg-name="AlJadeed" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/24/20140824015513429167_22.jpg" group-title="Entertainment",[HD]aljadeed hq
 https://epg.pw/stream/85a81ce14699be25b76517344987f81a5406827d9051e3b45ad51e466d9570dd.ctv
-#EXTINF:-1 tvg-name="AlJadeed" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/24/20140824015513429167_22.jpg" group-title="Entertainment",[SD](lbn) jadeed hd
+#EXTINF:-1 tvg-name="AlJadeed" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/24/20140824015513429167_22.jpg" group-title="Entertainment",[BD](lbn) jadeed hd
 https://epg.pw/stream/ee151bbbfd76331bf1d74f4b5141ce05c265db80ad0950bc7d887e27bd853aed.ctv
 #EXTINF:-1 tvg-name="AlJadeed" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/24/20140824015513429167_22.jpg" group-title="Entertainment",[HD]al jadeed 2
 https://epg.pw/stream/0d561dd3b95b9431a45f5a42c52c09d385f014a5c6ad85cf0f4919963c651625.ctv
@@ -65,8 +67,6 @@ https://epg.pw/stream/60c0ba0450647c9f3ba4264e3f7dc59f15f6c089ca1bfef5c67846b360
 https://epg.pw/stream/7474afe660b812dfef1f8537f9a8a293fbec67328ae7ac141fee26748ba18333.ctv
 #EXTINF:-1 tvg-name="Future TV" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821084437951735_39.jpg" group-title="Generic",[HD]fuel tv@@5[geo-blocked]
 https://epg.pw/stream/95f2442250caf4f33c7134dce17d0296ae38f051d5ae6f33a4a61701de2608ac.m3u8
-#EXTINF:-1 tvg-name="Future TV" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821084437951735_39.jpg" group-title="Generic",[SD]fuel tv@@4
-https://epg.pw/stream/72d474d878d12bd9e1ceacdaa98f09d1b9fff1192798e688ad2c3822aecc604b.ctv
 #EXTINF:-1 tvg-name="Future TV" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821084437951735_39.jpg" group-title="Generic",[BD]fuel tv@@7
 https://epg.pw/stream/b70d3c9260ea0bbc9b36c15857eaf4087d5f91f8464e3b37570a8908d54a3e1a.m3u8
 #EXTINF:-1 tvg-name="Future TV" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821084437951735_39.jpg" group-title="Generic",[SD](lbn) future
@@ -97,12 +97,8 @@ https://epg.pw/stream/084d0158831dc567933659935735bb19e86df5271ecb523b71431f3b4f
 https://epg.pw/stream/8e13e851d3d66c1a734321e51438b48c60c18cc78f4fc6b9a2695893b5e0c017.m3u8
 #EXTINF:-1 tvg-name="LBC Europe" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020702363382_36.png" group-title="Generic",[SD]ant1europe
 https://epg.pw/stream/2e53ade45ace7541ef02190269b72fb75348894069a8a0c1a9de9adf4880d302.m3u8
-#EXTINF:-1 tvg-name="LBC Europe" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020702363382_36.png" group-title="Generic",[BD]cbs europa@@1
-https://epg.pw/stream/7d33e6aabeeb9bb6242bf58ea98eff2dec8172f1c7e32ccde9501d9e69792826.ctv
 #EXTINF:-1 tvg-name="LBC Europe" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020702363382_36.png" group-title="Generic",[HD]WeatherSpy Europe (720p)[geo-blocked]
 https://epg.pw/stream/7cae6d5bc020a7023fe48181e55a18f4f242c0d5050fb4977f51acff419d78b0.m3u8
-#EXTINF:-1 tvg-name="LBC Europe" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020702363382_36.png" group-title="Generic",[HD]lbc europe hd@@2
-https://epg.pw/stream/084ad201b12d12c35508beb15a5f3e11501394ec670a48ff827b8be146e7cd54.ctv
 #EXTINF:-1 tvg-name="LBC Europe" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020702363382_36.png" group-title="Generic",[HD]lbc europe hd@@1
 https://epg.pw/stream/f6b60d8d3d3614d80eb3e301c235a14485d7910c1f20568a0b3c1e3660ba450b.ctv
 #EXTINF:-1 tvg-name="LBC Europe" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020702363382_36.png" group-title="Generic",[HD]The Pet Collective Europe (720p)[geo-blocked]
@@ -111,7 +107,7 @@ https://epg.pw/stream/5244f33f06289d31912a511c811631885d6a36371d3e95d5c1439919e4
 https://epg.pw/stream/54d4ffba575e53bbbcbd887281bd16960003d6c3e6a77770923a731eef65da9f.ctv
 #EXTINF:-1 tvg-name="LBC HD International" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201170057912444_66.jpg" group-title="Generic",[HD]lbn: lbc hd
 https://epg.pw/stream/12997b39ac65b9bb27fd459879a06b07faddb26f25fa4390be13363f8a164f32.ctv
-#EXTINF:-1 tvg-name="LBC HD International" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201170057912444_66.jpg" group-title="Generic",[BD](lbn) lbc hd
+#EXTINF:-1 tvg-name="LBC HD International" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201170057912444_66.jpg" group-title="Generic",[HD](lbn) lbc hd
 https://epg.pw/stream/d3c427babf204d0a42e47fe216b1b379e77f3f94f555aaa07c59fecca3b3e5ba.ctv
 #EXTINF:-1 tvg-name="LBC HD International" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201170057912444_66.jpg" group-title="Generic",[BD]leb | lbc 4k
 https://epg.pw/stream/ad59be40289509b0e7feb4042b4e478f94841579e599572dfa83b4be9a146c2e.ctv
@@ -123,10 +119,12 @@ https://epg.pw/stream/9ffcc87ff22e8594a6e2837aa1cef9a687f39c820bcb46bd53074d7304
 https://epg.pw/stream/cc8c170f283cc69ac26152f6d8d651bb77136710411aa4c9b74eb3ccce439183.m3u8
 #EXTINF:-1 tvg-name="LBC International" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174912035196_59.png" group-title="Generic",[HD]cnbc internasional[geo-blocked]
 https://epg.pw/stream/abaf88f7dcd3a472fa385cd088b041820ab91f9c4b8970380a96d29ef779bcf9.ctv
-#EXTINF:-1 tvg-name="LBC International" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174912035196_59.png" group-title="Generic",[SD](lbn) lbc-international
+#EXTINF:-1 tvg-name="LBC International" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174912035196_59.png" group-title="Generic",[BD](lbn) lbc-international
 https://epg.pw/stream/e9118d02b37263a0a73ff3115806c6bff79f0810ef3d8750c34062b7fc77d49c.ctv
-#EXTINF:-1 tvg-name="LBC International" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174912035196_59.png" group-title="Generic",[HD]sic internacional@@3
-https://epg.pw/stream/490b5bef299bdbf3e57e3d0fd2de900cc09ba99547d45fa5d14a26925448cad1.ctv
+#EXTINF:-1 tvg-name="LBC International" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174912035196_59.png" group-title="Generic",[HD]cnbc international
+https://epg.pw/stream/d512360c5ec9d907f5acadd00efa10fdf8faa3b58823a712bbe7583bd8a50872.ctv
+#EXTINF:-1 tvg-name="LBC International" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174912035196_59.png" group-title="Generic",[VGA]~ all international ~[geo-blocked]
+https://epg.pw/stream/63b4e7745926a5084f1d58b5c0308acacb4b03ed6c6a0f7a715d284f13432cd9.ctv
 #EXTINF:-1 tvg-name="LBC Nagham" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613181703412826_21.png" group-title="Generic",[BD]lbc 4k
 https://epg.pw/stream/ccc1e757b522a5fe5780797866db6d815231c825a635b4e8bbdc6307abb0b1fe.ctv
 #EXTINF:-1 tvg-name="LBC Sat" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/13/20140613181829331225_43.png" group-title="Generic",[HD]lbc sat
@@ -155,7 +153,7 @@ https://epg.pw/stream/f74d5c513476a7eeb5d32bb4ee2455582b122b4910e25eb68b7ef117e5
 https://epg.pw/stream/4e3eb92ee0ad68739286e621577fc274206bbd306a311c2767d7379ef5ad2e28.ctv
 #EXTINF:-1 tvg-name="MTV Lebanon" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201164631263144_42.jpg" group-title="Music",[BD]mtv lebanon hd@@3
 https://epg.pw/stream/99aa70dfc96990c3a768a86df317514cf812e4ff377e95ee2581b14aed042b05.ctv
-#EXTINF:-1 tvg-name="MTV Lebanon" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201164631263144_42.jpg" group-title="Music",[BD]MTV Lebanon (1080p)[geo-blocked]
+#EXTINF:-1 tvg-name="MTV Lebanon" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201164631263144_42.jpg" group-title="Music",[VGA]MTV Lebanon (1080p)[geo-blocked]
 https://epg.pw/stream/a6655feb78600d35d44f2375080de6efd44c2bb8e0cb7c180cf18e42c9113c5a.m3u8
 #EXTINF:-1 tvg-name="MTV Lebanon" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201164631263144_42.jpg" group-title="Music",[BD]mtv lebanon@@1[geo-blocked]
 https://epg.pw/stream/6b1c7240ac3c9b825cd7cfd6375a47865124fc66b983e7e7c8f7ed078d81c647.m3u8
@@ -193,5 +191,5 @@ https://epg.pw/stream/10419ac72713f179b1246a994e17b707e288ab49e99a4b8d2b0227bb59
 https://epg.pw/stream/5c819365a508df5cb34eb1a8ee542e62fa6f3fb0738e039e071967f6fb75e481.ctv
 #EXTINF:-1 tvg-name="Tele Lebanon" tvg-id="" tvg-country="Lebanon" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/06/20150506201628943591_74.jpg" group-title="Entertainment",[BD]tele lebanon 4k +6h
 https://epg.pw/stream/9382230d7741a0dc8924a83d68b7fedb252f463169b0d1ddb7925c9c2a1fb7ad.ctv
-#EXTINF:-1 tvg-name="Tele Liban" tvg-id="" tvg-country="Lebanon" tvg-language="فارسی" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/10/20150510020322243973_85.jpg" group-title="Entertainment",[SD](lbn) tele liban
+#EXTINF:-1 tvg-name="Tele Liban" tvg-id="" tvg-country="Lebanon" tvg-language="فارسی" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/05/10/20150510020322243973_85.jpg" group-title="Entertainment",[HD](lbn) tele liban
 https://epg.pw/stream/0ccad6357a660f4d64ac92d34bccdbf8706d44de17ef052ec7be098f23be0eb9.ctv

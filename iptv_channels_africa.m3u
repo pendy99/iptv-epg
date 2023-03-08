@@ -17,7 +17,7 @@ https://epg.pw/stream/1b2eedb50b7cb8f73a69d8a693eaf70810520e408c6c0a84d01b65a8fe
 https://epg.pw/stream/d37c6b65574ee2b5ab611c70406787d1cae1f6544b352d382a9796213d6db24b.ctv
 #EXTINF:-1 tvg-name="CRTV Cameroon" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2015/10/25/large/20151025111251671975_39.jpg" group-title="Generic",[HD]crtv@@1[geo-blocked]
 https://epg.pw/stream/6b506624e894f646c1d67bd08df6b07e4cbdc444336d0fa40e67cd933813e909.m3u8
-#EXTINF:-1 tvg-name="CRTV Cameroon" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2015/10/25/large/20151025111251671975_39.jpg" group-title="Generic",[HD]CRTV[geo-blocked]
+#EXTINF:-1 tvg-name="CRTV Cameroon" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2015/10/25/large/20151025111251671975_39.jpg" group-title="Generic",[VGA]CRTV[geo-blocked]
 https://epg.pw/stream/f4a533299a4fab6e96d6f2e46849e4cbc21225d182cde99fc9d9b5463023ea64.m3u8
 #EXTINF:-1 tvg-name="Canal 2 Africa" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174932817014_86.png" group-title="Generic",[VGA]canal 2 perico@@2
 https://epg.pw/stream/416bf7f2fdc1c430cc091f80ffe687f18018ae3eedeed27f56b44a216f268763.m3u8
@@ -37,6 +37,8 @@ https://epg.pw/stream/e64b3a59a25c2e989afecb36d5abe69b094a7ffac9dc61a0ed4e083959
 https://epg.pw/stream/794e84d69878afd795990cfba8eb5228fcb3e8f460ab7000b6404c24b3dc16a3.m3u8
 #EXTINF:-1 tvg-name="Diaspora Ghana Television" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/10/19/20151019151000211479_53.jpg" group-title="Generic",[BD]sol television[geo-blocked]
 https://epg.pw/stream/46d01fae9bcf5f3b4ecf6df1081acf0f17c22f59718878fdd1c5b1e3e5204c96.m3u8
+#EXTINF:-1 tvg-name="Dunamis TV Africa" tvg-id="" tvg-country="Africa" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201093612110173_81.jpg" group-title="Generic",[HD]dunamis tv
+https://epg.pw/stream/26f1474d913fe37bdf7bf4d1e4739fc8411332dad98571b96ca0915761167e5d.ctv
 #EXTINF:-1 tvg-name="GHANA TV" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/08/21/20150821162104686830_63.jpg" group-title="Generic",[HD]hatun tv[geo-blocked]
 https://epg.pw/stream/942bed914c5fb05095b701329f1f6d6bf71aaf8e99b25b1b368e99e5e0e01fae.m3u8
 #EXTINF:-1 tvg-name="GTV (GHANA)" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/10/19/20151019150514143371_66.jpg" group-title="Generic",[HD]gtv@@12[geo-blocked]
@@ -63,8 +65,6 @@ https://epg.pw/stream/8e64893378d0fde6a7b30b98ee53d2423d3d52f908a39ec7fd73828b0f
 https://epg.pw/stream/97680ab69e00a7553e63b58771709ed2adc0a248c7fff459c48e6e2d5bc38186.m3u8
 #EXTINF:-1 tvg-name="Sudan TV" tvg-id="" tvg-country="Africa" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174517013931_59.png" group-title="Generic",[SD]sudan now 24
 https://epg.pw/stream/75ab1d6f542912b0ad1f67ad8bb5166958b124ce499d9a1fc1f84f369dad3cb0.ctv
-#EXTINF:-1 tvg-name="Sudan TV" tvg-id="" tvg-country="Africa" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174517013931_59.png" group-title="Generic",[BD]sundance tv@@8
-https://epg.pw/stream/dfa74338cbd77d9948348fd2bce52faf788bf8da940c9cd5c0d7af5ce208ea4e.ctv
 #EXTINF:-1 tvg-name="Sudan TV" tvg-id="" tvg-country="Africa" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174517013931_59.png" group-title="Generic",[HD]sundance tv@@3[geo-blocked]
 https://epg.pw/stream/de0822f67f0c57c405d568cc38bde5c405c67721243258a3e259fa5562a16f49.ctv
 #EXTINF:-1 tvg-name="Sudan TV" tvg-id="" tvg-country="Africa" tvg-language="العربية" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174517013931_59.png" group-title="Generic",[SD]sudan tv@@1
@@ -95,10 +95,16 @@ https://epg.pw/stream/da3ddedcd1e54f79cf09f5cda0dbecd1ea267b0ed681fa99aaf8fc9e38
 https://epg.pw/stream/90fc70cf7724f654a8b6817a9dfba78021a152581272a73ab73a2dff8ce0b391.m3u8
 #EXTINF:-1 tvg-name="TVC News" tvg-id="3857" tvg-country="Africa" tvg-language="English" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="News",[VGA]vtv news
 https://epg.pw/stream/7607da1e01845bf4dd228390bdaf1992130fe9c1bd085aade8be2925d5fb9572.m3u8
+#EXTINF:-1 tvg-name="TVC News" tvg-id="3857" tvg-country="Africa" tvg-language="English" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="News",[HD]tvc news
+https://epg.pw/stream/a6ee8628912e8ac9b08806e8e3febad8f6086a91f63baaa8833c68ee4825d6e1.ctv
+#EXTINF:-1 tvg-name="TVC News" tvg-id="3857" tvg-country="Africa" tvg-language="English" tvg-logo="https://epg.pw/media//tmp/123.png" group-title="News",[SD]tvc sd@@1
+https://epg.pw/stream/32f12d4fd4a22e8e2bdb22e6b490f44939e48339ae7394956ff814bdf18a268d.ctv
 #EXTINF:-1 tvg-name="Telecongo" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020543799977_62.png" group-title="Generic",[BD]pe | telecolor
 https://epg.pw/stream/a110f9d910d739462aecbdff434de305d80d6647d858085aa7ee02a5f587dfb8.m3u8
-#EXTINF:-1 tvg-name="Telecongo" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020543799977_62.png" group-title="Generic",[BD]Telecolor (Yurimaguas) (720p) [Not 24/7][geo-blocked]
+#EXTINF:-1 tvg-name="Telecongo" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020543799977_62.png" group-title="Generic",[HD]Telecolor (Yurimaguas) (720p) [Not 24/7][geo-blocked]
 https://epg.pw/stream/4162b1ea771a3434f665d766600f4cfad4666245abfca9d887058456c1b854ff.m3u8
+#EXTINF:-1 tvg-name="Universal Somali TV " tvg-id="" tvg-country="Africa" tvg-language="Somali" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/23/20150623213333377109_93.png" group-title="Generic",[SD]tv universal@@2[geo-blocked]
+https://epg.pw/stream/88b007551a5802b2598a20139c1e5a9cb65c2ffb18b17d6088e240beb09ea70d.m3u8
 #EXTINF:-1 tvg-name="Universal Somali TV " tvg-id="" tvg-country="Africa" tvg-language="Somali" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/23/20150623213333377109_93.png" group-title="Generic",[VGA]tv universal hd@@1[geo-blocked]
 https://epg.pw/stream/d98ac1e0f085b17ff352c4ee7126171da8502839096514c5522a26a61be73b21.ctv
 #EXTINF:-1 tvg-name="Universal Somali TV " tvg-id="" tvg-country="Africa" tvg-language="Somali" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/06/23/20150623213333377109_93.png" group-title="Generic",[BD]universidad autonoma tv@@1[geo-blocked]
@@ -113,7 +119,5 @@ https://epg.pw/stream/8bb8c3fe21db6236de731446860f1ae42aff015222a192c5e342747ad8
 https://epg.pw/stream/e96ad1dc79ad5d3c6461b16370276a867c94d89d793f3504ed27cd6cb1d8e208.m3u8
 #EXTINF:-1 tvg-name="Vision TV 4 Africa" tvg-id="" tvg-country="Africa" tvg-language="French" tvg-logo="https://epg.pw/media/images/channel/2015/12/01/large/20151201110353394041_30.jpg" group-title="Generic",[VGA]Vision TV 4 Africa[geo-blocked]
 https://epg.pw/stream/3fec17cc8a860d58affc4ceb2f64cb84023d8c357c977dfbee3c79b15ec5ee7e.m3u8
-#EXTINF:-1 tvg-name="algeria" tvg-id="" tvg-country="Africa" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/26/20140826061452043386_60.jpg" group-title="News",[SD]algeria.5[geo-blocked]
-https://epg.pw/stream/3d3e4933f8276de8846fa785e9928c269da03684841879c3ad6242fca287f390.ctv
 #EXTINF:-1 tvg-name="algeria" tvg-id="" tvg-country="Africa" tvg-language="العربية" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/08/26/20140826061452043386_60.jpg" group-title="News",[HD]algeria.4[geo-blocked]
 https://epg.pw/stream/8f9221eb60ff602696058637517d6c45b4fd8001bae4797a43eba2676ccee16b.ctv
