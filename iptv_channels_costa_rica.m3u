@@ -1,12 +1,14 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-name="Canal 42 Costa Rica" tvg-id="" tvg-country="Costa Rica" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102182212113386_57.jpg" group-title="Generic",[BD]costa rica
-https://epg.pw/stream/99fbd87c32929e0e29ab43c75628aeaee4c6e566694ac33962ed3f6141601aa4.ctv
 #EXTINF:-1 tvg-name="Canal 6 Costa Rica" tvg-id="" tvg-country="Costa Rica" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102181751459443_16.jpg" group-title="Generic",[HD]Canal 6 (Moreno)
 https://epg.pw/stream/660df7f39fa76be56ce012cd6f6e945bd34d108fbf4325a6938dba1d984c06cf.m3u8
+#EXTINF:-1 tvg-name="Canal 6 Costa Rica" tvg-id="" tvg-country="Costa Rica" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102181751459443_16.jpg" group-title="Generic",[BD]canal 6@@4[geo-blocked]
+https://epg.pw/stream/323c650cfec49c5f3ba49cf5fd5b151e907727eb1c8d35e0ed4dd65bb64c0104.m3u8
 #EXTINF:-1 tvg-name="Canal 6 Costa Rica" tvg-id="" tvg-country="Costa Rica" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102181751459443_16.jpg" group-title="Generic",[BD]Canal 6 (Posadas)[geo-blocked]
 https://epg.pw/stream/8c158b431c171f6da78079f3df49e45ab6c9e94669bfc96565f739f7e9ae6676.m3u8
 #EXTINF:-1 tvg-name="Canal 6 Costa Rica" tvg-id="" tvg-country="Costa Rica" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102181751459443_16.jpg" group-title="Generic",[BD]costa rica repretel 6
 https://epg.pw/stream/b9815a2d755f90156a32e36f388a60992170119d7a9c3af3127658e75950e7eb.ctv
+#EXTINF:-1 tvg-name="Canal 6 Costa Rica" tvg-id="" tvg-country="Costa Rica" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102181751459443_16.jpg" group-title="Generic",[VGA]canal 6@@3
+https://epg.pw/stream/74d280392a0e2e40b37fd8a2f3edb7aff0bdc60511a62a0df06043f28afd7d90.ctv
 #EXTINF:-1 tvg-name="Canal 6 Costa Rica" tvg-id="" tvg-country="Costa Rica" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102181751459443_16.jpg" group-title="Generic",[SD]ni | canal 6
 https://epg.pw/stream/315eddd646adfaad037ab3aec919000872321225e88f83b6f2567dbac9b5605b.m3u8
 #EXTINF:-1 tvg-name="Colosal TV Costa Rica" tvg-id="" tvg-country="Costa Rica" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102141411303997_38.jpg" group-title="Generic",[BD]colosal tv@@3
@@ -19,9 +21,11 @@ https://epg.pw/stream/9d872184df2088baeea1d9817c8b4a473eb70de3feeb01df969944e391
 https://epg.pw/stream/1848adbf9a777fbe24ab17fc7d81b5aa9ec654a36c4769217a8364daec42120e.m3u8
 #EXTINF:-1 tvg-name="Telemundo 48 El Paso" tvg-id="" tvg-country="Costa Rica" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113232426132833_26.png" group-title="Sport",[VGA]48
 https://epg.pw/stream/38cec627246dc9c78400620e0ac7e07476b151afc7cc852cc9fd4e09cd875c87.m3u8
+#EXTINF:-1 tvg-name="Telemundo 48 El Paso" tvg-id="" tvg-country="Costa Rica" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113232426132833_26.png" group-title="Sport",[SD]telemundo las vegas@@1
+https://epg.pw/stream/db576979ff88a34d099130d707934e282561a646c6f1990ca1e7ae8b4e7a82a0.ctv
 #EXTINF:-1 tvg-name="Teletica 7 Costa Rica" tvg-id="" tvg-country="Costa Rica" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102182031249600_74.jpg" group-title="Generic",[HD]costa rica teletica 7
 https://epg.pw/stream/5a19ab2593b8b7209dbaf7dd0833d2b4816f27d873223b061a969501fa99d5f6.ctv
-#EXTINF:-1 tvg-name="Teletica 7 Costa Rica" tvg-id="" tvg-country="Costa Rica" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102182031249600_74.jpg" group-title="Generic",[HD]radio teletica[geo-blocked]
+#EXTINF:-1 tvg-name="Teletica 7 Costa Rica" tvg-id="" tvg-country="Costa Rica" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102182031249600_74.jpg" group-title="Generic",[SD]radio teletica[geo-blocked]
 https://epg.pw/stream/ce5678d62f5182beb5e6b4d646898f208d71f5c42d8f90ea4728a8feb0496000.m3u8
 #EXTINF:-1 tvg-name="XPER TV Costa Rica" tvg-id="" tvg-country="Costa Rica" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102135154509018_31.jpg" group-title="Sport",[HD][哥斯达黎加]telesur costa rica (720p)
 https://epg.pw/stream/3d7685e9ae033a76bb2efd3f461bd23a5141c5e4bb4afa1a0918c0017b4de184.m3u8

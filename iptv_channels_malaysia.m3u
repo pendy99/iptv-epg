@@ -93,8 +93,6 @@ https://epg.pw/stream/6640aef52a728b6211f5371065c05d41b1da877d2cd46d3db8a86d034c
 https://epg.pw/stream/c84046ebd602382374b3384f6aa9b501a92ef1ebef48a75753db1d98dbf93d5f.ctv
 #EXTINF:-1 tvg-name="CCM" tvg-id="" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123002742257631_40.jpg" group-title="Movie",[HD]ccm@@4[geo-blocked]
 https://epg.pw/stream/3d37818f296967bb8307f59cd05745032cfe97e552f2bf4617360e2c9ee90e00.ctv
-#EXTINF:-1 tvg-name="CCM" tvg-id="" tvg-country="Malaysia" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2019/01/23/large/20190123002742257631_40.jpg" group-title="Movie",[VGA]ccm
-https://epg.pw/stream/9411be3a921a4f479a9e058f2c4d45e48ac657a95791977e722a4cbbf799a7f2.ctv
 #EXTINF:-1 tvg-name="CH305/TVB經典" tvg-id="" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png" group-title="Movie",[HD]30A Sidewalks (720p)[geo-blocked]
 https://epg.pw/stream/67f4f37fc8a98b04d749b89a7ea2c72f97f189f2e3ea53eed25ab6e6b80b1abb.m3u8
 #EXTINF:-1 tvg-name="CH305/TVB經典" tvg-id="" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png" group-title="Movie",[HD]30A Investment Pitch (720p)
@@ -113,6 +111,8 @@ https://epg.pw/stream/57daabce0c97a2c34fbf3f749ef955bc7f4193f7c826808c59d76049c8
 https://epg.pw/stream/d01df2ba4e5a1043438e25c133d13e92b8becdbbbb4d6f1e5072e031685740e6.m3u8
 #EXTINF:-1 tvg-name="Celestial Movies" tvg-id="3384" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movie",[BD]celestial movies hd@@1
 https://epg.pw/stream/62e5ff8b75c6f3791b60b2c9f9b6cd4211b85f3a6898888c830d95cc5f020187.ctv
+#EXTINF:-1 tvg-name="Celestial Movies" tvg-id="3384" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movie",[VGA]celestial movie
+https://epg.pw/stream/88ba94af7088fa034f2a3b0442eb301ef8e5430c3b7f13a1ee9a2671e4c1fa57.ctv
 #EXTINF:-1 tvg-name="Celestial Movies" tvg-id="3384" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movie",[VGA]celestial movies@@4[geo-blocked]
 https://epg.pw/stream/8837fa00f9d165a53b3111c4c3b2b6d687dd5e08d9609b88cd99d23e83599494.ctv
 #EXTINF:-1 tvg-name="Celestial Movies" tvg-id="3384" tvg-country="Malaysia" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png" group-title="Movie",[BD]celestial movies (192.168.240.23)
@@ -127,7 +127,7 @@ https://epg.pw/stream/87871a5c1d536907b9d20143f14c81684801218e622294658d860a94e9
 https://epg.pw/stream/d83471320e5b9aa55362c20e9b44dc381bd4288195c7f4bb84571ed921df157f.m3u8
 #EXTINF:-1 tvg-name="Channel W" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152121888863_44.png" group-title="News",[BD]hunt channel[geo-blocked]
 https://epg.pw/stream/d0baa0dda2cd5ee423b6b52c44d01f547e3a2fe439aa60311d25f3c06bc9b840.m3u8
-#EXTINF:-1 tvg-name="Channel W" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152121888863_44.png" group-title="News",[BD]happy channel hd
+#EXTINF:-1 tvg-name="Channel W" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152121888863_44.png" group-title="News",[SD]happy channel hd
 https://epg.pw/stream/70f8ccef23c61f296c027e5c14314c2f0b1b28e34bd85f24e173e2aa368ac586.ctv
 #EXTINF:-1 tvg-name="Channel W" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152121888863_44.png" group-title="News",[HD]kartoon channel[geo-blocked]
 https://epg.pw/stream/62ba75a425c5ec5bc2c9d0d523ddb3bf00d8881a88728ed125c8aac50cbcdf94.m3u8
@@ -169,13 +169,13 @@ https://epg.pw/stream/5e5f3ec117a950fff9582c623b40cb9b53066953c2263d196b20188f29
 https://epg.pw/stream/70a5d9d7b071c85cc411d50831b8ef8977b4311274d20ec2a7ed37468b78ae13.m3u8
 #EXTINF:-1 tvg-name="Channel W" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152121888863_44.png" group-title="News",[BD]the retro channel
 https://epg.pw/stream/77a1cf754ce61c82ec38ddd75bf2ff2e769aeb3ef6d1ecea0a629d86d5256a60.m3u8
-#EXTINF:-1 tvg-name="Channel W" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152121888863_44.png" group-title="News",[BD]video tour channel
+#EXTINF:-1 tvg-name="Channel W" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152121888863_44.png" group-title="News",[VGA]video tour channel
 https://epg.pw/stream/8624f1e8d3828586a84f0b2e26d802930b1eda5e18390d2dc68cf810029b6dfc.m3u8
 #EXTINF:-1 tvg-name="Channel W" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152121888863_44.png" group-title="News",[HD]spectrum channel@@1[geo-blocked]
 https://epg.pw/stream/b6f2978f6a139ea10c0dd68e81d9db2aae53d0c7065c5e49ee724b30524fe6a7.m3u8
 #EXTINF:-1 tvg-name="Channel W" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152121888863_44.png" group-title="News",[BD]turbo channel
 https://epg.pw/stream/4296b468a1210f0755b0be84481dbf69d9c41e4456370be3d5f4d2a789c8b176.ctv
-#EXTINF:-1 tvg-name="Channel W" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152121888863_44.png" group-title="News",[BD]happy channel hd@@1[geo-blocked]
+#EXTINF:-1 tvg-name="Channel W" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152121888863_44.png" group-title="News",[SD]happy channel hd@@1[geo-blocked]
 https://epg.pw/stream/662197ee7ac7fefb31feb404e827c69029a06f087a0c6eb4c32024ec849aaebc.ctv
 #EXTINF:-1 tvg-name="Channel W" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152121888863_44.png" group-title="News",[VGA][印度]channel win (360p)
 https://epg.pw/stream/0cfc2b278a0055eb25f4131a42b391dae10444700e2077b5b9fbcf4266ed0eca.m3u8
@@ -209,8 +209,6 @@ https://epg.pw/stream/2f36046b50361a5b6c0090c5f2d3d36bd81f7e7be4bba33309f2b6601e
 https://epg.pw/stream/2674c24415b8740d9d4e23d54b8a1f9c75527fe76894c5e43df37a55e83f87e1.ctv
 #EXTINF:-1 tvg-name="GO SHOP RUUMA" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/06/24/large/20210624003813844562_46.png" group-title="Generic",[VGA]Shop LC (KCKS-LD10) (480p) [Not 24/7][geo-blocked]
 https://epg.pw/stream/fade6dcc11cf025b5ee267653a4106b4cfd0c5a95a0ab6ff2952acd73242d55e.m3u8
-#EXTINF:-1 tvg-name="JIm Jam" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/25/20140525134604652116_90.jpg" group-title="Entertainment",[SD]jim jam
-https://epg.pw/stream/515d086649d9838a42b6b5420aaeea8912c2b99bb814a473a749aed22afac7a6.ctv
 #EXTINF:-1 tvg-name="MY TV" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020608557074_23.png" group-title="Movie",[BD]mylf tv hd@@2
 https://epg.pw/stream/f592de8d3b277ca447dd565129c1abbc75526eb05166adcb02d72c57da45a8a1.m3u8
 #EXTINF:-1 tvg-name="MY TV" tvg-id="" tvg-country="Malaysia" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020608557074_23.png" group-title="Movie",[BD]mylf tv hd@@1[geo-blocked]
@@ -259,9 +257,9 @@ https://epg.pw/stream/18562dc6eff0b088f1d243a73db5eebf53ebe5f58ee648e6429ea7d0e2
 https://epg.pw/stream/d20b728dc679269319d6b87f1f4f097d8477c179ee794c51cf3a563baf211bc0.m3u8
 #EXTINF:-1 tvg-name="RTM Sports" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2020/05/11/large/20200511221152403554_65.png" group-title="Sport",[HD]directv sports +[geo-blocked]
 https://epg.pw/stream/111818c4cedff1f8b2489902bd50763fee9e0cfdbb9dba029d9d9d67f92735c9.ctv
-#EXTINF:-1 tvg-name="RTM Sports" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2020/05/11/large/20200511221152403554_65.png" group-title="Sport",[HD]directv sports@@3[geo-blocked]
+#EXTINF:-1 tvg-name="RTM Sports" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2020/05/11/large/20200511221152403554_65.png" group-title="Sport",[HD]directv sports@@3
 https://epg.pw/stream/e0c7e1191e0cf2a534c73423dce744dd4edb7749089f8f024faa93e1bf79607c.ctv
-#EXTINF:-1 tvg-name="RTM TV6" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085354647172_54.png" group-title="Generic",[VGA]vrt tv
+#EXTINF:-1 tvg-name="RTM TV6" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2022/03/18/large/20220318085354647172_54.png" group-title="Generic",[HD]vrt tv
 https://epg.pw/stream/997aa6d6d6feadaef9e62f10ebf28be3c57d1256b764cdd56bcaa416591b0f67.m3u8
 #EXTINF:-1 tvg-name="RTM TVi" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2018/10/24/20181024155808221127_87.png" group-title="Generic",[BD]rtm tv 2 [geo-blocked][geo-blocked]
 https://epg.pw/stream/3a5a4747a807da62eb8f0bd02b58fd539bf5ad800580b9501bfddd7ffb6eb35d.ctv
@@ -269,7 +267,7 @@ https://epg.pw/stream/3a5a4747a807da62eb8f0bd02b58fd539bf5ad800580b9501bfddd7ffb
 https://epg.pw/stream/4cd435a92eed6179fb8e05fcdde7c81267eee28b9d08a31d686b7d86ce06b119.ctv
 #EXTINF:-1 tvg-name="RTM2" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/30/20140630001755749619_23.jpg" group-title="Generic",[VGA]af.ortm2
 https://epg.pw/stream/99eed57f4f488cd5fc937701976557784d30203fdbc9796280ec03efe075aec3.ctv
-#EXTINF:-1 tvg-name="Radio Sunnah FM" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/05/22/large/20210522020504218619_88.png" group-title="Other",[SD]radio ritmo fm@@1[geo-blocked]
+#EXTINF:-1 tvg-name="Radio Sunnah FM" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2021/05/22/large/20210522020504218619_88.png" group-title="Other",[HD]radio ritmo fm@@1[geo-blocked]
 https://epg.pw/stream/cdee9530ae9e05f6a0028249bbf8d7f008188beaf4ea78202e8a76edd5c9ab6d.m3u8
 #EXTINF:-1 tvg-name="Sukan RTM" tvg-id="" tvg-country="Malaysia" tvg-language="Bahasa Melayu" tvg-logo="https://epg.pw/media/images/channel/2023/01/22/large/20230122155105563432_30.jpg" group-title="Sport",[BD]sukan rtm [geo-blocked][geo-blocked]
 https://epg.pw/stream/218152818b61f4dc0875f9152d3bebf8c6059d162b4144bb5b281b784cccaec7.ctv
