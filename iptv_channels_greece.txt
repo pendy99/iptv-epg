@@ -10,8 +10,6 @@
 #下載地址為https://epg.pw/app_download.html
 
 
-Cartoon,#genre#
-Greek kid's,https://epg.pw/stream/5adfd70b184e7abab51e38344ab3d50b679006533cd58e88b00d3fbdc353c011.m3u8
 Entertainment,#genre#
 Zougla TV Greece,https://epg.pw/stream/d1c67ae18df950184baa453d5bc92a9c17c1231e2bf337eda2f8dc7f4dd7e9c9.m3u8
 Generic,#genre#
@@ -22,7 +20,7 @@ ANT1,https://epg.pw/stream/557fec17a22627d851880af98d871f39d0c63b60ed1417f24e0b8
 ANT1,https://epg.pw/stream/73f7c019e332ade9d789b86c733d87c8790090028208716095604c35ed96739b.m3u8
 ANT1[geo-blocked],https://epg.pw/stream/1b92e97566587945fba30093a2074e157c4a79866dd443e2e05a81b188915cf2.m3u8
 ANT1,https://epg.pw/stream/b48642a0d6e68a9f359c3e1c8111343c2c1772715219f9040c3d5580230d44fd.m3u8
-ANT1,https://epg.pw/stream/07e8b5d1f479573c8510f4ab5108cc3fe3c2e9f2fae4ba280cb51cec6493a0be.m3u8
+ANT1[geo-blocked],https://epg.pw/stream/07e8b5d1f479573c8510f4ab5108cc3fe3c2e9f2fae4ba280cb51cec6493a0be.m3u8
 ANT1[geo-blocked],https://epg.pw/stream/de8502de99476b4206f1598ab996a491884b1e075310ee4199d1b639185feea1.m3u8
 Alpha Channel Greece[geo-blocked],https://epg.pw/stream/fa842c7adc55d25e46b2f523b03c1740f4f47e3febb428dec33d0304b2e0f908.m3u8
 Alpha Channel Greece[geo-blocked],https://epg.pw/stream/8956ed9da46ef255014023a40eae5a268328fc731cbaa6ceeb322df81ba5b81f.m3u8
@@ -33,15 +31,16 @@ Blue Sky TV Greece[geo-blocked],https://epg.pw/stream/d6133c5da151bad9d2bc6bb43b
 Blue Sky TV Greece,https://epg.pw/stream/66c623bd3d9195616e3f32c156d672537513a875938fcdd1d9aa95e51aa38a28.m3u8
 ERT1 Greece,https://epg.pw/stream/a49b1f6b91aef4585733dea19c9c2fdd80606dd5c9ffc7bca915d1a3c98d135e.m3u8
 ERT3 Greece,https://epg.pw/stream/3605569af82fcaef68e1c9ee099fa928bbeac69d450120af14b77f8baa87e044.m3u8
-Epsilon TV Greece,https://epg.pw/stream/f8b9ffab7f37865b5cb7063c4ae83d70f35868ddecb23f5d7a0db7826a7b84c7.m3u8
+Epsilon TV Greece[geo-blocked],https://epg.pw/stream/f8b9ffab7f37865b5cb7063c4ae83d70f35868ddecb23f5d7a0db7826a7b84c7.m3u8
 HTV Vouli Greece,https://epg.pw/stream/64dc86d832ef692d2802b15d53230493179cc95a1c7c56c033bbdf4e64cef8e5.m3u8
 Ionian Channel Greece[geo-blocked],https://epg.pw/stream/98518298fdaa3a676c5b70e87154e4987fa26c1fe3cca3c737d26fbc081fb22c.m3u8
 Ionian Channel Greece[geo-blocked],https://epg.pw/stream/d582cad423fa56b26f581a564138d1d03c6ac1a70a57af8a0a9523f543d11da2.m3u8
 Ionian Channel Greece[geo-blocked],https://epg.pw/stream/147694232e0351797a6fe93d12c2ec92bcb3039dc728bf23441325fa477f1a37.m3u8
-Ionian Channel Greece,https://epg.pw/stream/29bcf3ac203ad3b4fb0af06ef13de05b45d2d8c7f59353c21a0209bdfd9e1999.m3u8
+Ionian Channel Greece[geo-blocked],https://epg.pw/stream/29bcf3ac203ad3b4fb0af06ef13de05b45d2d8c7f59353c21a0209bdfd9e1999.m3u8
 Ionian Channel Greece[geo-blocked],https://epg.pw/stream/e823369fd2f241616d52b1b7b185840053cb3e7c087053aea1cc8e15937b153d.m3u8
 KONTRA,https://epg.pw/stream/f36e0af4b551dc71e011bebb073f3165d9c849a6ddc2975bddbc4ee199a66442.m3u8
 Mega Channel Greece,https://epg.pw/stream/43cb774598a9a750965f14ab776d8da14fd40fadd7bf8a1043f7f45fa52cac59.ctv
+Mega Channel Greece,https://epg.pw/stream/9d71914fddc3eae98db9ca356fa75034df5b734ccbaa17121bc89c028363d176.ctv
 Mega Channel Greece,https://epg.pw/stream/32f77e5c0e1c7d1414ca345d0ef4753c3736e666915c9d877364c085cc4fc732.ctv
 Mega Cosmos Greece,https://epg.pw/stream/7d49ca28c6e7223171c897da50f7c38f4c9d8cea10e146ce6ca11f3c2274d332.ctv
 NEA TV Greece[geo-blocked],https://epg.pw/stream/084a3e9e02169aa85581db12ce5d88b434a52b3e321f44ea2c506fc525245aa9.m3u8
