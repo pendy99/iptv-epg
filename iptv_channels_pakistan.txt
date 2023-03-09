@@ -26,6 +26,7 @@ PRIME TV,https://epg.pw/stream/8d2832177ed9a4f3a02a87e03ff4a49679a7c709a734513dc
 PRIME TV[geo-blocked],https://epg.pw/stream/9945b975a4b4954979f19bd2b021308bd35c7e66bef67bf3ca63c7f024d9e6c1.ctv
 PRIME TV[geo-blocked],https://epg.pw/stream/47db8d1bf6604358165113b51edfc47c97fccab8dde0bfd15861fb1f86256f60.m3u8
 PRIME TV,https://epg.pw/stream/7e3fd379557ff5c6e0ba2a2d50a115067c21b353d51717158904622bcabf8ccf.m3u8
+PRIME TV,https://epg.pw/stream/169814ccfb36e4ce719e61e2ff818f8e73f0ab6fa174089c48bea3e3d7b95c0c.ctv
 PRIME TV,https://epg.pw/stream/1064a148ea5358af2aa35f603ac627c40d6626b72cb9e89e0edc26a9e5e9102a.m3u8
 PRIME TV[geo-blocked],https://epg.pw/stream/d6db2d47f2d0ee421414248979010ece1e2190cd7267f57b4b0e21c160ee2384.m3u8
 PRIME TV,https://epg.pw/stream/62ea2688fce0a02c42d51d29c5633c1cb6a5c7e1213c51dd6215bb55910b7de2.m3u8
@@ -71,7 +72,6 @@ News,#genre#
 92 NEWS[geo-blocked],https://epg.pw/stream/294ce2785c7b1281b549102f01274bc00551938a1d4a19f420d69e28ee5694cd.ctv
 92 News HD,https://epg.pw/stream/5f55827d7e2cabb512f5d7715a722063a9db87e74c1613a36607afe112fe0039.m3u8
 92 News HD,https://epg.pw/stream/3f8160843a67bb3c429fa12f70cc5f380fd115e1b20a60398f696d6c184ea37f.m3u8
-AAJ NEWS,https://epg.pw/stream/2db09fec66d276290db3bc4e60b61f420dc1e96f7a19062a87b09c62baea66b9.m3u8
 AAJ NEWS,https://epg.pw/stream/f655ed261d36d02425298ff7e772f6d5699d8cc9978187f9b6ed858dab2451d1.m3u8
 ARY NEWS[geo-blocked],https://epg.pw/stream/25b2c199c8d67ccd0edd20e48eb2f96f44b50a5a6713fba1a584f3020d6d37a8.ctv
 ARY NEWS,https://epg.pw/stream/4604a7f672fc677151b313cdf3f51b404c594efe4c866c04a0d7c0de0bf269e4.ctv
@@ -82,7 +82,6 @@ CAPITAL TV,https://epg.pw/stream/c56a196a49f755c6b98897845185bc06b3711da40545ac2
 CAPITAL TV,https://epg.pw/stream/ba687c3ffe36f7ad2c7f53a78bf11b5e9dafdd476aebe68ecd7623ba1977c592.m3u8
 CAPITAL TV[geo-blocked],https://epg.pw/stream/c55e867236da966a790b6797959e83b161af89267115a7a62df39cb4a3484ae1.m3u8
 CAPITAL TV[geo-blocked],https://epg.pw/stream/70fdad47a4332bd91a8f66ad6c47779692ebaf6f8845c51aed157cb7f64eb190.m3u8
-CAPITAL TV,https://epg.pw/stream/256fc686c05b24d0c229021ec1e1ab123c4b89508126cc85f46d987e349d7d4f.m3u8
 CHANNEL 24,https://epg.pw/stream/dcde26fcef6870ccac606f87f8aff198d43b71158d720ed358b70b3f69795958.m3u8
 CITY 42[geo-blocked],https://epg.pw/stream/b2b53359262a85e36a09a5f3cd0a49d75123522bfa0f7355a8e80bef32a729f1.m3u8
 CITY 42[geo-blocked],https://epg.pw/stream/b5635350cf71e3929c3c0929d308126147036823b3b94022c0cb060e5e6f53f0.m3u8
@@ -104,6 +103,7 @@ CITY 42,https://epg.pw/stream/47a3478248126d856ef94cfeb2f32ac713155b50c1e07e639a
 CITY 42[geo-blocked],https://epg.pw/stream/7af8bb7e76ac713f88a015aa3e91803969e33e97066dea1ac804e5d643631ce2.ctv
 DUNYA NEWS[geo-blocked],https://epg.pw/stream/85b3f9ac707a7c2bf2377e7d1c940d50d47ced47fc0a86bfa198fc48737cb882.ctv
 DUNYA NEWS[geo-blocked],https://epg.pw/stream/9c297c234e508a52ebd868adb9e743168a481639fe8ecea44131fe54d5034b16.m3u8
+DUNYA NEWS,https://epg.pw/stream/49db9086afaf17e7b094c752ff040942e07759df3d86b517a9382d0902e1c46a.ctv
 DUNYA NEWS,https://epg.pw/stream/4d3a18667d4ebf74345b8fa74bafb7fb988f2155b0ce857ac79782a598aa1081.m3u8
 DUNYA NEWS,https://epg.pw/stream/da829f17591560de152171d9241afa4bbce6dceb9549633e013838d15137e157.m3u8
 Dawn News,https://epg.pw/stream/046aaeca76eee691a67e6bfbf13422af7b37c05c2001f6fa6dca4998ce1f4adb.m3u8
@@ -131,13 +131,11 @@ News 1,https://epg.pw/stream/a2c5473eafbbe208d9d173897d6526b196e9a2266dddd61d5eb
 News 1[geo-blocked],https://epg.pw/stream/866c3a1bbcf909bd5c7300b86a661a7a314c19002fdc88d1148e6325fb5e9953.ctv
 News 1,https://epg.pw/stream/3024e8b0278917584a05e0b1cf4cb1068e91b807f486f610938da76adac93bc7.ctv
 News 1[geo-blocked],https://epg.pw/stream/e744dadff521aa93c831774ccb5302301000c2c30221bb6400957756c92fba15.m3u8
-News 1[geo-blocked],https://epg.pw/stream/e3ae711aa755a091f6c638907c8fd4f7749784daabc1c119a34d11d97a7e0254.ctv
 News 1,https://epg.pw/stream/18960bc5360b51c595d2f339611111bf7f7c8c4ca0816aaa8498bd8447fb117b.m3u8
 News 1,https://epg.pw/stream/e2f5db774dbd55f1ffdfe8eb33f452112198e9a785ff81260189d8ffe46dda7a.m3u8
 News 1[geo-blocked],https://epg.pw/stream/98aed3d19766bdcfedd2a307ccaab2c14ca3aa2124875e7c0427bc4d160a1c74.m3u8
 News 1[geo-blocked],https://epg.pw/stream/81adc151d5a1ea130205c35cad2f42a172cc08a75285378bf2c6c6564ed8daa1.m3u8
 News 1,https://epg.pw/stream/d0cd152f910fa4fafb96254ec1d8b80c44dfb4d0082b9ce7cee1a4f6a659f7cc.m3u8
-News 1[geo-blocked],https://epg.pw/stream/6340b44c48c46c8e2debe9e290f056d157e5ce6739f229061e813be3159ce00d.ctv
 News 1[geo-blocked],https://epg.pw/stream/02fd1ec7f5a9c1d65e08fafe6eba196639d32474ae022f61306643551e347749.ctv
 News 1,https://epg.pw/stream/c408effce47b71215e464192cc6555ad0a28653c7148d6a7770e5bf0a25acca4.ctv
 News 1,https://epg.pw/stream/38d7e6433912f6dfc832bbea4263cac8de9cfa2c13f997a6c76a91c1dad7b98c.ctv
@@ -180,7 +178,6 @@ News 1[geo-blocked],https://epg.pw/stream/d87f28c1088e2670fe909c30f6cc797260ace4
 News 1,https://epg.pw/stream/10d0448635eac0c4fa6b6c01041a617ed74da18d8c72a4f59dc86dc9d7b38984.m3u8
 News 1[geo-blocked],https://epg.pw/stream/9494e3ee20500e1b651eb70d5d185e3029394f4a793ede4c5856d6f1caa882c8.m3u8
 News 1[geo-blocked],https://epg.pw/stream/9a4f46931b2524948ee8b31eb809f3f5969c2dcb85447d6ad80a1dedaaca5752.m3u8
-News 1[geo-blocked],https://epg.pw/stream/863db01ac4f2f85bb971bf4868b0ffc68eddbfe2df87e30d243b75bd421ccd69.m3u8
 News 1,https://epg.pw/stream/8f26f679bb7af78260bca473e94e7e5b76d930d773bcd1fbb9b32ea8777cdf28.m3u8
 News 1,https://epg.pw/stream/c8f7fb8ac0e8ff96662b558e9cf8fa27ccaa6f723188d616578f78727bd5ccbc.m3u8
 News 1,https://epg.pw/stream/a597a10fba2a811719075360cfdc4e49eb1c668e49f656c75970de2eaf7b3b0e.m3u8
@@ -228,7 +225,7 @@ Sport,#genre#
 GEO SUPER[geo-blocked],https://epg.pw/stream/0a2abe198cff05e5b60141f455584f0689269d1d5d1f62ce8452da4567fe3bb5.ctv
 GEO SUPER,https://epg.pw/stream/28e33c086956728cc444cf46d7d5a1bcf5d235aee9f766a6b27e56464c110f4a.ctv
 GEO SUPER[geo-blocked],https://epg.pw/stream/b50675bc89e8ee44a674e1120929bd8ebfd793b5b663cbc774b1950220c86a89.m3u8
-GEO SUPER[geo-blocked],https://epg.pw/stream/acf79cf8ba9500497f882e8831afdbb56196a6f8497ddaf7b30a5df4a9fc0dfe.ctv
+GEO SUPER,https://epg.pw/stream/6c0d06349f9a070dff90bf99129522f79313b387111ee19d1db7b0a282cd3d2b.ctv
 GEO SUPER,https://epg.pw/stream/2d1b88bb71f9fae01b08bee52941827bd1f0c76676719eccbc5b6a8ceb013d25.m3u8
 GEO SUPER[geo-blocked],https://epg.pw/stream/d29f62afbdd9151ff5c1f9926ecd77f146bc4357155c07ca2a7f565634ab644f.m3u8
 GEO SUPER,https://epg.pw/stream/52224be8032305b2a8312fde8fce3c34fd31d4962af2d622770194b078bf17d8.ctv

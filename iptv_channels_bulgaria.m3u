@@ -23,8 +23,6 @@ https://epg.pw/stream/a3289605bc1a732096f2e705547521a115c8301f792e3dd43892e7e6d3
 https://epg.pw/stream/afbd4829bbfb98a59f03eff1235f52d779383ad0b5a33fec354c8a763643a049.ctv
 #EXTINF:-1 tvg-name="Bulgaria On Air" tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103132214315686_88.jpg" group-title="Generic",[BD]bulgaria on air@@1
 https://epg.pw/stream/911b6c7bcb5742143f2350e7d57e41b08d7d5bff1e35976117c8e02424358fe6.ctv
-#EXTINF:-1 tvg-name="DSTV" tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174153925161_29.png" group-title="Entertainment",[HD]dstv
-https://epg.pw/stream/3ea9cd01bb73e9b079bfc828034145875f6daab3ba53c3d1d4505994625cad53.m3u8
 #EXTINF:-1 tvg-name="DSTV" tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174153925161_29.png" group-title="Entertainment",[BD]Dust[geo-blocked]
 https://epg.pw/stream/540b46726994b00cbf76623e723a9d7db0c835bcb72446376b90a4107de4b59e.m3u8
 #EXTINF:-1 tvg-name="DSTV" tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174153925161_29.png" group-title="Entertainment",[BD]DUST[geo-blocked]
@@ -109,6 +107,8 @@ https://epg.pw/stream/4e2b05f4d115721c2cb6b183563d7eacf232645c9b4f20d5520e091e92
 https://epg.pw/stream/03f72f7cdde30b26dfe1f786d41992c078149f394c338d46dc24bc63b5ae13f1.ctv
 #EXTINF:-1 tvg-name="Tiankov Pop Folk Bulgaria" tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103135543539649_30.jpg" group-title="Entertainment",[VGA]V Pop2
 https://epg.pw/stream/3d48b7d4abaf7852dbd5f2c07b697eadb26a451e46b8a5f5606322493288f8a5.m3u8
+#EXTINF:-1 tvg-name="Tiankov Pop Folk Bulgaria" tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103135543539649_30.jpg" group-title="Entertainment",[SD]pop
+https://epg.pw/stream/237e675a8103df47eb8cbd181bd7b7f9c25908fc7b38e87ddb983f6e6fbd7e82.ctv
 #EXTINF:-1 tvg-name="bTV Bulgaria" tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103131210993255_27.jpg" group-title="Generic",[VGA]btv@@5
 https://epg.pw/stream/7aeba3477cddcb3fc68717faa541b0346002af864f3ca126e027dec25fb5f8b4.m3u8
 #EXTINF:-1 tvg-name="bTV Bulgaria" tvg-id="" tvg-country="Bulgaria" tvg-language="Bulgarian" tvg-logo="https://epg.pw/media/images/channel/2015/11/03/large/20151103131210993255_27.jpg" group-title="Generic",[VGA]btv@@6[geo-blocked]
