@@ -42,7 +42,6 @@ Augsburg TV,https://epg.pw/stream/f21de2de14650005c654755c7b11e77f49bfd6a1959f1a
 Augsburg TV,https://epg.pw/stream/cbd4e7903cfbd48a3d3fd0e774b8a8e9e56d5d2448c9063da6e8332170b1cd41.m3u8
 Augsburg TV,https://epg.pw/stream/069456c8952de283ee6a92c1a635dc49e2bd0f201a6acc1cd2dae443a7a85108.m3u8
 Augsburg TV,https://epg.pw/stream/f4995f2da2469b297ad7f723d1c66d988d58640a127a34f175c067855bbca562.m3u8
-BR Alpha,https://epg.pw/stream/306303bbd0fbe0f7779ce325ac0acfcc6f2117dadbffed0696c33bc696274d65.m3u8
 BR Alpha[geo-blocked],https://epg.pw/stream/754ea3932d25e9fadec6b2dc38e9929a8b7378377f0940c65f4f54dc59634612.ctv
 BR Alpha[geo-blocked],https://epg.pw/stream/db555b119dd6a4abc044716a5a4d477d29c611717ff50bbf328ddd567799395d.m3u8
 BR Alpha[geo-blocked],https://epg.pw/stream/545312debba208beaf017e40e1fb336e15994bbdcd9a810fee217e2c0e29963f.m3u8
@@ -133,6 +132,7 @@ Kiel TV,https://epg.pw/stream/29128cde95bce8557fd097f8d13948df2b000cfa2489237330
 Kiel TV,https://epg.pw/stream/818b6eb6682db1aef4fa4fb37c2c2f1ce3702158a5eb04abacc23431a2a1dd3f.m3u8
 Kiel TV[geo-blocked],https://epg.pw/stream/fb81c8a3f3f81d4c1c78d7dc7d154e3bee474dc0bb22a02877e1531b8b5ed7da.m3u8
 Kiel TV,https://epg.pw/stream/0656de89367eaa48c2d3af7651ec6a065ec2fcb5ae02fc18ecf8ed1d00b09288.m3u8
+Kiel TV,https://epg.pw/stream/e30139408135a5d7e059174718c3e138357ee6db281f31f90dbacf4f36cc2e16.ctv
 Leipzig Fernsehen[geo-blocked],https://epg.pw/stream/996e9bef720ab206cd48a08d0e84bd1d65f7b669f8e1906807f1c9363c119e20.m3u8
 Leipzig Fernsehen[geo-blocked],https://epg.pw/stream/e0360cfa0f8d4b64e4a42ebdb57ebad9e9e949d2e19da8c84339583812675692.m3u8
 Light Channel Deutschland,https://epg.pw/stream/576cc1e1a2089f5ffaa65784b9907a716b1906c86a386116206d7057d4167529.m3u8
@@ -174,6 +174,7 @@ QVC[geo-blocked],https://epg.pw/stream/1e4d032b1a53f21d04a0fd859c971ba90f7328ed1
 QVC,https://epg.pw/stream/e074c93842cf73357221b3ea1d1cb47843aa44120a926f6cd1f1727d5d5a2b0e.m3u8
 QVC[geo-blocked],https://epg.pw/stream/ff32a946f0cb0dad23668b8c9259bf87c9386c1fb2733ad9c3c21ce76230d165.ctv
 QVC[geo-blocked],https://epg.pw/stream/0d8cf7fd5bdcab057b20060da4d9450f6ac931b3ab2311b3592ac34b271139b0.m3u8
+QVC,https://epg.pw/stream/e6853d8b1774c8373b26911834b8bf75b46b67929e7ade3c603236533fefc742.ctv
 QVC,https://epg.pw/stream/42953b047f6b85e393ba050b48cee2d617e2278ffe25dbe1de916f78554bd16f.m3u8
 QVC,https://epg.pw/stream/209cf640542b9b819fe984ae8958aad21627582c8693db052222d8e80f96cff7.m3u8
 QVC[geo-blocked],https://epg.pw/stream/b8817bd50bdf148f88df567f0f95abb929f42eba3a3d74c20cd304948d7ae088.m3u8
@@ -271,6 +272,7 @@ Sky Select UK,https://epg.pw/stream/2773bc321daab298863bedc29496b6b480fa8af5536e
 Sky Select UK,https://epg.pw/stream/1e32c09d4cf5a89bc55df981cf1cbb4937173388cd7a4fc2793ee9bf2b4d0646.ctv
 Sky Select UK,https://epg.pw/stream/3d02efe6d3b997f66996e299f9156f8ce7f47f89f5dfb84ce1e82f35c6eb3453.ctv
 TNT Serie Deutschland,https://epg.pw/stream/0e1f9de1eae2b669597b8a36d29ad5bb5fc1b5c61cc80cf6bdac4688b9014cc8.ctv
+TNT Serie Deutschland,https://epg.pw/stream/399fbbd14707e10376fe1ead10c2e4f21f4b5a365e82c007cfb6beed2d8fb8d5.ctv
 News,#genre#
 DW FHD,https://epg.pw/stream/bb84a75b5337e352c32cae65016f0b273d9f332ac7ce218c3da61f00a02d94dc.ctv
 DW FHD[geo-blocked],https://epg.pw/stream/9f99f2a08b714782f69afcbdde7e272cdaea50fee03699c804b6dc27eb7073ab.m3u8
@@ -284,9 +286,7 @@ DW FHD,https://epg.pw/stream/85f86e3e47675b91465daf31accad7c6bbf6c89ee6006cc8117
 DW FHD,https://epg.pw/stream/6c3aa21308f100afb9053824d8b3c2390b141721ec31a4770cde183af789218a.ctv
 DW Latino America,https://epg.pw/stream/4f3d63afb8f24a680e06357f21e3618c4ef8286b429ee2440a09070a7cd283cc.ctv
 DW Latino America,https://epg.pw/stream/b8acff7ef9a5f901a5b35342190064e628ce46dfa45ac8a6dfa5aa37d55f6420.ctv
-DW Latino America,https://epg.pw/stream/e7b3ac8d81de7428c4b51809a8975837b720b381617be55291350e91d402b0b6.m3u8
 DW Latino America,https://epg.pw/stream/906e996ce7ed9a9fa9b1872945594cd1e95eccc0f2f8244d38ae49da3f6b6b8c.ctv
-DW Latino America,https://epg.pw/stream/9d379124867232d4f727ff2bfb2a4c4023376a9063a6f73850acb4a933331b57.m3u8
 DW Latino America,https://epg.pw/stream/fd773d3596a6e47d553a36cbf9b0d208f0ee944e5b4ab678753c842da796ba15.m3u8
 DW Latino America,https://epg.pw/stream/4aedb82fd700837808fae59abe1f7ed6c1a399748f056960cd63af1a7e9546de.ctv
 DW News Asia,https://epg.pw/stream/2d8ad03142ec9048607da4d3a851725455125ebaba1a0e462314f15af14ada69.ctv
@@ -310,6 +310,7 @@ ZDF Info HD Deutschland[geo-blocked],https://epg.pw/stream/b15680ea8f1d7f086e07b
 德國之聲[geo-blocked],https://epg.pw/stream/20c910709932e2af991d7b3de667f1ec8aa890a8a7b1dfa63522444d0ada1268.m3u8
 Sport,#genre#
 ESL Gaming tv[geo-blocked],https://epg.pw/stream/f58316ad3a7e756f1d24a291ba6de018b53767ce73cdee18019e7bf2cfea3e8c.ctv
+ESL Gaming tv[geo-blocked],https://epg.pw/stream/b955d6232404b33f2527131f849109f8f9e32d79168301b56dfc46f25d66946a.m3u8
 ESL Gaming tv[geo-blocked],https://epg.pw/stream/25cfaed7a2aca42e13e76a322b3dc1d4ae03a33f41b32dd2b21ac45934d19e0d.m3u8
 ESL Gaming tv[geo-blocked],https://epg.pw/stream/8d349269dcdd388c88d05a7ecf324b2536fbcda7ad66760bfdfc53c621841f64.m3u8
 SKY Bundesliga 1,https://epg.pw/stream/3fcffb26ab2926ffd77b3ccfbcd12b4339cb2168e097cd758859831ddd211663.ctv
