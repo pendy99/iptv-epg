@@ -235,7 +235,7 @@ https://epg.pw/stream/8457791939951ade507d129a3fe91b8ad7b8e35a2e0bb44880acd33f12
 https://epg.pw/stream/7b2fd78ce2352105197a0cc68b898e0821f7cce48a661e8a9fca641d00002ab0.ctv
 #EXTINF:-1 tvg-name="Canal Once Internacional" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102141746955585_45.jpg" group-title="Generic",[VGA]caracol internacional@@3
 https://epg.pw/stream/2b097a1bbf8e09e33857d1c157897e60081ec80f18b960187aab4f6bb8be69bd.ctv
-#EXTINF:-1 tvg-name="Canal Once Internacional" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102141746955585_45.jpg" group-title="Generic",[HD]cubavision internacional@@1
+#EXTINF:-1 tvg-name="Canal Once Internacional" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102141746955585_45.jpg" group-title="Generic",[VGA]cubavision internacional@@1
 https://epg.pw/stream/c56c3787f35970611fc652237c966d7b50cbd30e418ea2683f15c57f861a3b39.ctv
 #EXTINF:-1 tvg-name="Canal de las Estrellas Mexico" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/02/large/20151102164053003810_76.jpg" group-title="Generic",[HD]las estrellas hd@@2
 https://epg.pw/stream/7168f121eda4dca6228c68ee1be27db5a69b3b55f681b5a63fd641d77d4e7d83.ctv
@@ -539,6 +539,8 @@ https://epg.pw/stream/62cc014ef7bce1c5d0ef43204c8b48053a78ab46e5525400ca47262cdc
 https://epg.pw/stream/1552a444c4e7201d0077241318ebc22c07b651594b061b4dca1213738aeea1fe.ctv
 #EXTINF:-1 tvg-name="STUDIO UNIVERSAL" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[HD]studio universal hd i@@1
 https://epg.pw/stream/0a42b93e1bdeceeace5abac6260b6507871d29a5335c0e484720ae366785f1c8.ctv
+#EXTINF:-1 tvg-name="STUDIO UNIVERSAL" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[VGA]studio universal@@13[geo-blocked]
+https://epg.pw/stream/e18fff9a573433744901b8230419b59d892b473e82a8b7dfa63b1c860509d997.ctv
 #EXTINF:-1 tvg-name="STUDIO UNIVERSAL" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[VGA]studio universal@@17
 https://epg.pw/stream/1183c2f114e75fe11300195567ac98a6fc8dca1384dadd93630622484a1cf6de.m3u8
 #EXTINF:-1 tvg-name="STUDIO UNIVERSAL" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[VGA]studio universal@@12
@@ -573,7 +575,7 @@ https://epg.pw/stream/430f7e9b56bcaff764f591e102eef6d31bdbe7a9ee37fb111b95997ad3
 https://epg.pw/stream/f289f248c07e5af40929bb491f560c91c8791b8f357ce60c1362fba69f31cc9e.ctv
 #EXTINF:-1 tvg-name="STUDIO UNIVERSAL" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[HD]studio universal lq@@1
 https://epg.pw/stream/fb10a4459e6a76cb99f53cc5875ba70b68010a81e276ce64f517c660f57f372a.ctv
-#EXTINF:-1 tvg-name="STUDIO UNIVERSAL" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[HD]studio universal sd
+#EXTINF:-1 tvg-name="STUDIO UNIVERSAL" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[VGA]studio universal sd
 https://epg.pw/stream/277cff7c2f7bb548e4a027b44eb5b717ffabef92d6e61af50152045d87beccf2.ctv
 #EXTINF:-1 tvg-name="STUDIO UNIVERSAL" tvg-id="" tvg-country="Mexico" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/04/16/20160416005246436880_17.jpg" group-title="Documentary",[BD]studio universal@@1
 https://epg.pw/stream/a4e1e2aca7303b6da76c0cb275aa55ef2c1e9e7f8614d82576d788e78a67c9b2.ctv
