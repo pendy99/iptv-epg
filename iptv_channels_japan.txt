@@ -95,6 +95,7 @@ BS TBS,https://epg.pw/stream/c2251f6271aa456fea7838379e14ffdab5f4935384f0f97718c
 BS TBS,https://epg.pw/stream/ea22664c7029b76d1abaec9620caebfcdf96b3057882f688e1cb49f2fd928d52.ctv
 BS TBS,https://epg.pw/stream/a40f4898797cfb07401bebd14b811bd80281e34be2b0b6f36b3466d3718985f4.ctv
 BS TBS,https://epg.pw/stream/ca32c14fb83f9d7eae59e8381eaed6ba8e92cb973bc335ee22672dfa0cb2239c.m3u8
+BS TBS,https://epg.pw/stream/6390cfb195a8456e520442a076c51851b94e6c0d06565688b5ab9fec99d77656.ctv
 BS TBS[geo-blocked],https://epg.pw/stream/65a023675f87d6a22e77f4896f5dbdc514f9eb7bef8a94e720375886c00900f7.m3u8
 BS TBS,https://epg.pw/stream/7151a3c8223c83e225752d04ff4ff19afb96cd96e3396e5fe5f18eaf2ee3e612.m3u8
 BS TBS[geo-blocked],https://epg.pw/stream/4d130ddff1edcbcb776d0c6996d86d26db7be2ca9268bf2d4089f4ca44362ee1.m3u8
@@ -287,7 +288,6 @@ EISEI GEKIJO[geo-blocked],https://epg.pw/stream/4cc6fe4b590881e03af7a6cf172f6a29
 Mondo TV,https://epg.pw/stream/8affdf3dce8aca23dc75bc280ac36d832a27415929308c388ee093dbbb24f1ea.m3u8
 Mondo TV[geo-blocked],https://epg.pw/stream/fed43afd908ebc970cc0e69c78693fb85c1e99f842e4360dea6ec72d183116d3.m3u8
 Mondo TV[geo-blocked],https://epg.pw/stream/9f4a0c0acfe1fecea59937283fdd63dbf15cb5f51dc0775c563986078a9156c4.m3u8
-Mondo TV[geo-blocked],https://epg.pw/stream/5623e517c24d34b8aa82675f9d6b06288295e39473229b910febedc39eb78e49.ctv
 Mondo TV,https://epg.pw/stream/53d4af766c0463f5274da27ed706124fbd9d4abcbf7162a75d69b0f7c409ddd6.m3u8
 Movie Plus,https://epg.pw/stream/794cb8c9c1313b8da3f4d91a891d1f960ab2bc91458ab4e50d534ff831391105.ctv
 Movie Plus,https://epg.pw/stream/462b80ec131e462afda7c72f70b4b59b605d2edb7604ce348c934064e8d054aa.ctv
@@ -357,6 +357,7 @@ Star 3,https://epg.pw/stream/09b301d8f902a6f4446b7f0ac2daeb77af86cd4782d6e158e3e
 Star 3,https://epg.pw/stream/0f76cfe14a304ddb200baeae8a9895e40a745c14f3a81c4006809385ea8d2b28.m3u8
 Star 3,https://epg.pw/stream/315e71f3f597f42466bbba126f348ba572494d8477c3628b106c7a9990cf95e7.m3u8
 Star 3[geo-blocked],https://epg.pw/stream/6d7badb26c95f5f62634c286402877db5d1553b35391fd906051e3919c8f9455.ctv
+Star 3,https://epg.pw/stream/e35fb1491756d9710f914404cdda723f720e80a34a0734e215a1fc3be19ee138.ctv
 Star 3[geo-blocked],https://epg.pw/stream/fbe1b3e25ece5b4b3acf8c1d714dd7ac5532cf5fe885f3f0651f20a17b6bb136.m3u8
 U-NEXT[geo-blocked],https://epg.pw/stream/e76dd699423adb18510e6aef943fc40a753bbd180c7a288fcdc0509f195deda2.ctv
 U-NEXT[geo-blocked],https://epg.pw/stream/caf62f733a375ac37cc8bfe87354e69b155219ad593ac71a01a5a33275306b0e.m3u8
@@ -373,6 +374,7 @@ dTV(Japan),https://epg.pw/stream/4e44c605d99b950ebd1963cf689b10894e749db1a92cbb0
 dTV(Japan),https://epg.pw/stream/0acd0fc0e8acef91c65fa95d041c1201d2d526c555659f713419fbc866c6cd51.m3u8
 dTV(Japan),https://epg.pw/stream/cf7b48c268de92d8941b0313d8e8a3be6a6d4cc4b09ff79362f88af90f96d587.m3u8
 dTV(Japan),https://epg.pw/stream/f285175c4c774fd59f115c08b658f3a1bec6e3e77263d5bf2e4ca722bcf23c1f.m3u8
+チャンネル銀河[geo-blocked],https://epg.pw/stream/4ede69bbce8b850791d041d91a6f4e71e9a764c068256ad81bf3641e33ba71a9.m3u8
 チャンネル銀河[geo-blocked],https://epg.pw/stream/f2138fd68c97390f2d2c238708d959f653df9b2d673c526adb2485b0dd726cd1.m3u8
 衛星劇場[geo-blocked],https://epg.pw/stream/368992decd3c2290685442fa4a9d940c4bd989ee406ce92126dce0089ce053e1.m3u8
 Music,#genre#
@@ -452,7 +454,6 @@ TOKYO MX2[geo-blocked],https://epg.pw/stream/8706d61c7266890e0e4fb4d392fb43c5d5d
 TOKYO MX2[geo-blocked],https://epg.pw/stream/36dd709be0feb7604fde4afea3eaaf317e725709f5e990f8dc0ac7a2c1b24514.m3u8
 TV Asahi Channel 2[geo-blocked],https://epg.pw/stream/084e108a74d41bd2f078c28eef2bb1c1df0403a88d623a2670583456db82f34d.ctv
 TVU山形,https://epg.pw/stream/dd605631a1f00e8b6a4423a2316b1df69c0737af6c156f4134acf132dd72d175.m3u8
-TVU山形[geo-blocked],https://epg.pw/stream/cc19b5cdd48e2d0c29d3aa1f155f0908f11920785868a74daceaf534d419e007.m3u8
 Weathernews[geo-blocked],https://epg.pw/stream/03f5c2fb5e07da747b47b103b998fd861ac08fe6acd26dea9230442df019d0f0.m3u8
 Weathernews[geo-blocked],https://epg.pw/stream/3326fdae2bceaef5cac59462c4f4ada83c732f0f7758a2085b3e7593fafdc781.m3u8
 Weathernews[geo-blocked],https://epg.pw/stream/3c174ac73f6abb5db9559962656004c104c401c838e822ac879d0bbab9e4a29b.m3u8
@@ -477,6 +478,7 @@ Weathernews[geo-blocked],https://epg.pw/stream/f6ca086139def5f2feebac825f4a8600b
 Weathernews[geo-blocked],https://epg.pw/stream/2aaeb933af9d8bb7a44d9e8d0d7f1f6fa772157903de1e966787949520587a3b.m3u8
 Weathernews[geo-blocked],https://epg.pw/stream/d3dcf950bb5907b02cc169fab2182270581c4a4ebdecff31f3502f6df85cb43f.m3u8
 フジテレビ[geo-blocked],https://epg.pw/stream/0037ff42fe1b00959dc9dd1f93e1ef46955b923a952c1c9600a87ccfbd04e725.m3u8
+フジテレビ[geo-blocked],https://epg.pw/stream/60782654b817da860b139a2c093bac7d7be6b579bbbe40620d1b0f43bbea5143.m3u8
 フジテレビ[geo-blocked],https://epg.pw/stream/b127cf69501a9f9b1665805657ed5f8028a6a28355b1ecdce0b2c6bdb90849ac.m3u8
 Other,#genre#
 BS Japanext,https://epg.pw/stream/b1b4b21113e4feb6355c157e2bde730a70f1b00564a9a53bfcb8ea1b3bd71203.m3u8
@@ -556,7 +558,6 @@ J SPORTS 3[geo-blocked],https://epg.pw/stream/7cca0aaf7b444fd3892e66e38762f7199c
 J SPORTS 3,https://epg.pw/stream/40512e1a9acacedf815e1f98018e0e0e3672ecd8c26f925b6430b0bb7b4a5a4c.ctv
 J SPORTS 4,https://epg.pw/stream/558b6ef323d6424dd0298c029b17ac1669033f7e4ed670184237f4010c0553ab.m3u8
 J SPORTS 4,https://epg.pw/stream/2e77fd58b7a185bdeeac21d1b446a22bd011a0c81f6e3ff65cbba41b44ef2ad4.ctv
-J SPORTS 4,https://epg.pw/stream/a8f6fce46f057d649480e0a5cce43e83bbd1b34b7f062d88af665f0a5d444bbd.m3u8
 J Sports Plus[geo-blocked],https://epg.pw/stream/7c15f8b5dc114b7aeb3508477b1ae83570abc912c4e4fdd5a53e8624667a4575.ctv
 J Sports Plus,https://epg.pw/stream/e8dc8c5537c16b06fefab1eb283c51cea89112b684aa613d6109fc4264c1a001.ctv
 J Sports Plus,https://epg.pw/stream/8a1d95e578d3b58b4ed3756543c45e9c337718f939e537cb2789f2728df179d4.ctv
