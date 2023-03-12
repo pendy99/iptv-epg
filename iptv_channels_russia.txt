@@ -306,6 +306,7 @@ amedia 2,https://epg.pw/stream/1eea0f68a26c793613e5bde90347fcc6082969fd411fb68ae
 Первый Канал[geo-blocked],https://epg.pw/stream/f03fc7f413550dc5f239a542b5cd42ab1eeeb9179eaf3455c7f0a30398681248.ctv
 Перец ATB,https://epg.pw/stream/fde200bc8bc099fc680f2e8a6b6e2f7a29e52abd08c2acf0b9687fa69d629879.m3u8
 Перец ATB[geo-blocked],https://epg.pw/stream/626c968d0e48421a01f343693463667d2d4754d96241b337c971ef2610ae168f.m3u8
+Перец ATB[geo-blocked],https://epg.pw/stream/91ed87657e9df4b97ab2cf965ebcfbc25677bbb957f48ae727a475522cf859a6.m3u8
 Подмосковье,https://epg.pw/stream/08c6cf7985e748e28fac16975f3e4c9783f9ced2fccdfc905e39a1ab5e54712f.ctv
 Подмосковье,https://epg.pw/stream/70520fe65481549d2ab92e772fa945f0546b6688bee8d07da266a0e745935133.ctv
 Премьера ТВ[geo-blocked],https://epg.pw/stream/8031a8d7e55466d7dd98984273182400a3841a13f9d9c77ca4dacce19899880a.m3u8
@@ -365,7 +366,6 @@ TV1000 MEGAHIT HD[geo-blocked],https://epg.pw/stream/3216d830c3a65aa1fbaa29650af
 TV1000 MEGAHIT HD[geo-blocked],https://epg.pw/stream/3fc6a42858c3b41fe3437c0725bab7cb8e39ee48746b09666d98bc13af498575.m3u8
 TV1000 MEGAHIT HD,https://epg.pw/stream/0fe87bad90d9180996f7789a3606ff41567807f3b744da5b39ca99700beaf835.m3u8
 TV1000 Русское Кино,https://epg.pw/stream/51bce96e7e358446e60f407a334aef21b892c5a08d7be66f523ac116458a56c8.m3u8
-TV1000 Русское Кино[geo-blocked],https://epg.pw/stream/233cbc8876ff8f7b15d722d059320ddb125cdfba5e5e9604672ae97e79fd7312.m3u8
 TV1000 Русское Кино[geo-blocked],https://epg.pw/stream/dac1522e3e95df686ca1ed81d627321e565083196197ae33aabeada482358ef5.m3u8
 TV1000 Русское Кино,https://epg.pw/stream/35a26113f7a39f263bfa1932de45caf88afc7334b04fd899fdd1fbc469c8c8ea.m3u8
 TV1000 Русское Кино,https://epg.pw/stream/0bf62e0e3d3c803921666418d04c610320b77fa93a383c4d8596b95487b704f8.m3u8
@@ -396,7 +396,6 @@ TVM Channel,https://epg.pw/stream/4c929f37321e802e82ddfb61bd708c569c9f1c4e864729
 КИНОХИТ[geo-blocked],https://epg.pw/stream/05d03cd817033622143523ce72e12592261183948179e1a2b3d242a119ac73db.m3u8
 КИНОХИТ,https://epg.pw/stream/4be04a1858db0208e8cb59d0f22461fbd15c5250c31d8d403cd8675b78edff85.m3u8
 Кино ТВ,https://epg.pw/stream/74d170ccdb7bd560e269f1db68988e545f0a2e515d78f237514c3314c4972c50.m3u8
-Кино ТВ,https://epg.pw/stream/182aeb66949c699434933fc17c40c690fab17459fd7bf2b5e04111553685e78b.m3u8
 Кино ТВ[geo-blocked],https://epg.pw/stream/95e07eced5b126137e9e0bbcd7ce3ff0b33613587ac81178187941e9f084391b.m3u8
 Кино ТВ,https://epg.pw/stream/d6f695af19f142dd1957a12c62f436c2b031f31015a8572a591b81dce68533b1.m3u8
 Кино ТВ[geo-blocked],https://epg.pw/stream/a116c45bdb6d75d0007b93111c6bb833b0929067587e51bf90aadd158acc1dde.m3u8
@@ -417,6 +416,7 @@ TVM Channel,https://epg.pw/stream/4c929f37321e802e82ddfb61bd708c569c9f1c4e864729
 НТВ-Сериал,https://epg.pw/stream/c08ee5052abd7e736a257aee5b50b59e68ede5ad8c6d5a5e8fe9bfb3eab447ac.m3u8
 Наше кино Россия,https://epg.pw/stream/a44dbefa1dc39a71861438bcdd5bb12b61dde7493f07bd3fdfdb3231d1c1b978.ctv
 Россия К[geo-blocked],https://epg.pw/stream/ab16fcf0fdc1202c7238e58837241e8d0dfd4ef0085197ebeb930d5780653658.m3u8
+Россия К,https://epg.pw/stream/691713a09adcaf26e55c12d5e9d45551fae580c943df3a4fd90ad78d020467e0.m3u8
 Русский Роман,https://epg.pw/stream/efadc741115239c51037158fb99ef8b01606124675110502a249977421128fb5.ctv
 Русский Роман,https://epg.pw/stream/70034eb883c3a4ba04bda3b360a6547696837ffc7d6424a4a33f48445653e025.m3u8
 Русский Роман,https://epg.pw/stream/702e87e461d2f57d76f7c20005722df98dca181a964280a779a7e75206ea245d.ctv
@@ -432,20 +432,15 @@ TVM Channel,https://epg.pw/stream/4c929f37321e802e82ddfb61bd708c569c9f1c4e864729
 News,#genre#
 Euronews Russian[geo-blocked],https://epg.pw/stream/e8f51dc1acc7907637e8c6d06daa1f395b7ea5ab2b0abd91fbf115476a06eb32.m3u8
 Euronews Russian[geo-blocked],https://epg.pw/stream/c5c43f5152956fd3ce21fd6c0a83a48ff698b326a092461a7946461c4620d0de.m3u8
-RT[geo-blocked],https://epg.pw/stream/f3d1b84c40a6b8d27a14b7b3f2e01579227802bdc87c7f6ccae6dcd519b3ec33.m3u8
 RT,https://epg.pw/stream/ccf3d322a7d1bd648ae95cfae659f1f7ef7fcf9a659d297623defbcc4fa7cea6.m3u8
 RT,https://epg.pw/stream/c5111081a78ccbd2c748813b10e1f04638605730a2c99ecef48eafcc1067e1eb.m3u8
 RT,https://epg.pw/stream/948d524267fe074a8d93a5349370072faaa6e186bc84f6afaa34c5c5b3f7b29a.m3u8
 RT[geo-blocked],https://epg.pw/stream/b3dbfb15419f0c4f1903858802b792089b88189429446f3f9810a6d59cce4202.m3u8
 RT[geo-blocked],https://epg.pw/stream/678e00eda97a04033df35bd6cacaa1d652b7ddee540cff570db3240999003162.ctv
-RT,https://epg.pw/stream/ad1a90be4ff63e4f75f19edfba135e1c904e6a924496cdff07db0fb15c0254c9.m3u8
 RT,https://epg.pw/stream/aaccad7ac08322de33e1d5fab3043825277def2bccdc758ba6b2ae0c364635dd.ctv
 RT,https://epg.pw/stream/8c0e78d402c27a1ad051dff136e892135863d0b67318bf05d6219b8493063af9.m3u8
 RT[geo-blocked],https://epg.pw/stream/478ea1a3b2b10187f4f717d64853712c8a3994aebd6c2c4881c21a5facdabaaa.m3u8
 RT,https://epg.pw/stream/f667555f05b10db1b56c47ab12b34539996e79491e672cc4e9056432d6970375.m3u8
-RT,https://epg.pw/stream/6be6cf1fb3dc00075113cc98c8e1182d81f1827ec940262b6ca115b1dc51ca55.m3u8
-RT[geo-blocked],https://epg.pw/stream/9cb1dc81a1df8eb22d9d454e5b7167873438c140a988eed872a0d354dcd72c60.m3u8
-RT[geo-blocked],https://epg.pw/stream/e05ec7feea2892608f07aa7935bef2b4c2bcb3bf228df287776188baedad7f34.m3u8
 RT,https://epg.pw/stream/f1ac236b25f25f254b08aa4fc96175c9f7e05ae751e9d800fbdd03a40d544ba3.ctv
 RT[geo-blocked],https://epg.pw/stream/f9204e43380b82efe53be2d5ee962e703441f1c6a4458f7270ae87dcc58e184f.m3u8
 RT,https://epg.pw/stream/5f6e940d338ea7fdd227d792cf5cdbb83683d6bedd9293b84288a6bd63b7bc12.m3u8
@@ -456,7 +451,6 @@ RT Russia Today (English)[geo-blocked],https://epg.pw/stream/0701509806efbacc407
 Russia Today[geo-blocked],https://epg.pw/stream/2ab0602acf8b2c3f053474df0adb01bd73411ce4b6014fbde80e2c4928d92b98.m3u8
 Russia Today[geo-blocked],https://epg.pw/stream/d44f2029d9ea38341e940e663a855a91c74beb4026ae74172a2aad63b77c392e.ctv
 Russia Today[geo-blocked],https://epg.pw/stream/ab87af698af939e16f2d5149ec5fe941e463f8108552e104ea018c0cc022447a.m3u8
-Russia Today,https://epg.pw/stream/9647af36976b7c30c37e5e409e6ce6e4a230c199764cddc6fb77208d38664da7.m3u8
 Russia Today,https://epg.pw/stream/529ce9fb1bc8c5b2b1b1e9f205a3d459018ee1fae59a3fab0d2249001ed95d94.ctv
 Russia Today[geo-blocked],https://epg.pw/stream/1061f4f72d7da90b850ee60ca753d0d4e2a611b0d9ca011d647a898a94dd4b6e.m3u8
 Russia Today[geo-blocked],https://epg.pw/stream/3c58e781e563541c9bed20287210639c4e78c2ebc34465702310a18334cc187f.m3u8
@@ -472,7 +466,6 @@ Russia Today[geo-blocked],https://epg.pw/stream/9f3bf34ab1fe6775963e2b17de087fde
 ИТВ Крым[geo-blocked],https://epg.pw/stream/8a1c7276b6b9e35f04e73d0a85eee6e0a7309a4a6492f599be6ef1e29abd62b1.m3u8
 РЕН ТВ[geo-blocked],https://epg.pw/stream/02c50bdf6f5a2e8ee85947e369e0702c67e8e4d450e697036af7263e1dba0c26.m3u8
 РЕН ТВ,https://epg.pw/stream/19d5ac4410856b842ddba7e6d495d1592876c80eb1d2f81f5aec51175e068be4.m3u8
-РЕН ТВ,https://epg.pw/stream/0cedc140a57281990d7ca49a7dc641151211580d0ba19f3082beecfb003d04a9.m3u8
 РЕН ТВ[geo-blocked],https://epg.pw/stream/c1074f4c4aa09107e651101fc51fe1302639dc7ee76c05c1062a4ba079099adf.m3u8
 РЕН ТВ[geo-blocked],https://epg.pw/stream/b6492855f70c4245407e190e45774823b9d6c143406fef5636be55b818201c0e.m3u8
 РЕН ТВ,https://epg.pw/stream/3291c6f9b80e82c795ab221ef98edf43d409d02807185994f4321241c84eebb5.m3u8
@@ -507,7 +500,6 @@ Mir,https://epg.pw/stream/42f808e4867f50326d85bba20e4cefbcb2f97fdd04c93f0e8a1c4b
 Mir,https://epg.pw/stream/be3ef3d1fdd9fdeb032b2827f4b0c9e4890b9f7b50d1a1ebea3b560d8a3f5158.m3u8
 Mir[geo-blocked],https://epg.pw/stream/82656e860a8ffdc1f6b47adffe300e18861e5a233ebfdc06fc3c66df4529d639.m3u8
 Mir[geo-blocked],https://epg.pw/stream/f8196660ba65859e5984ebc3108c8b7f94df580234130daa6cd61d79507ba3ba.m3u8
-NTV[geo-blocked],https://epg.pw/stream/6362c9c04c2dd01b0b38fabafbc4a1f5cd8f2aa9034ccf9ef3a420d30163b31e.m3u8
 NTV,https://epg.pw/stream/573b333e8378bc1cecb24efcc11dca887ce087a834cdaefe4382185deb59943e.m3u8
 NTV[geo-blocked],https://epg.pw/stream/facdef5be6794a6d873cca7c5a0a19d62518bd7f817c425fb1301d13c64657cb.m3u8
 NTV[geo-blocked],https://epg.pw/stream/33a3a335c0fec899695dc523db77cb1e043eb4a0872f36108ad4a00640520baf.m3u8
@@ -600,7 +592,6 @@ Zvezda Telekanal,https://epg.pw/stream/d506ea6d6a7a7561b1db3bc92b16d48f6a68378d7
 Россия 1 [geo-blocked],https://epg.pw/stream/b0dc43d58ef5b09e237a9015e210e0702c425e88c00035a50b8cb3b4567c78c6.ctv
 Россия 1 ,https://epg.pw/stream/3c194e26f04b1dcbe33f3a1af0dcd42e7da491724375732f9b83ee54b911a301.m3u8
 Россия 1 ,https://epg.pw/stream/887e4a5f6d65faff825568379f70ffa26c27aa59548068570671c6cba01d3453.m3u8
-Россия 1 [geo-blocked],https://epg.pw/stream/c6e475e9e639a2e4041ce333ffea8b05ea9ae17133c03bd70a3756cddc52ee98.ctv
 Россия 1 ,https://epg.pw/stream/8ef286e616ac386fc998c7dbb6448a2d7b22173f2c0b591a8bee804e8ad16863.m3u8
 Россия 1 [geo-blocked],https://epg.pw/stream/2159871392fbd44e3ec4d64e8c17c475fad22bfcfb10c45dd74d066ec95ab9fa.m3u8
 Россия 1 ,https://epg.pw/stream/95e1b013e3512c589a1d3312c4b239ef43344d2de7b600a6f1ba4c01e1b8ad12.m3u8

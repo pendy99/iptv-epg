@@ -11,6 +11,7 @@
 
 
 Cartoon,#genre#
+BUZZ[geo-blocked],https://epg.pw/stream/2104ddfb971b5042fac04c421e49465e899a23e8f468270ae436bd09504ab669.m3u8
 BUZZ[geo-blocked],https://epg.pw/stream/ad21c7b37201085f7e7319da46126d563ba052a722b40d0cddb17e47301aa7fe.m3u8
 BUZZ[geo-blocked],https://epg.pw/stream/e09887bc6ad938344ec2bd5ddc710c22f7a1050573859d0006277da05b5689ea.m3u8
 BUZZ[geo-blocked],https://epg.pw/stream/ed7fe34cf5e3c6e576ea1f19fd27ed5325ccce8c866cdf5b20c7cab518f9824c.m3u8
@@ -33,7 +34,6 @@ Pequeradio TV,https://epg.pw/stream/82557b237d7d7ed65a05dfcbd064abe91c196e196fb8
 Pequeradio TV[geo-blocked],https://epg.pw/stream/ee037b8c3277233b6053554f0845363bb1e1a0b63420cb033ccc0f5e4a4bd2a3.m3u8
 Pequeradio TV,https://epg.pw/stream/11a2090210627835ee38d03987de14a6ee42d3a6ab4071c7af75207737a4fee4.m3u8
 Pequeradio TV,https://epg.pw/stream/9a73732516ec97c84b5c65023dadc3d4e30daefd838d0c4676f6237b28b2d4de.m3u8
-Pequeradio TV,https://epg.pw/stream/be928768588bd1720d57c8af1435139360734248d734f6d7614e0abf007601c3.m3u8
 Pequeradio TV,https://epg.pw/stream/20e70d590dac79a2bea3ec4cce8456505836fee2183c5c85560618a9da05bf48.m3u8
 Pequeradio TV[geo-blocked],https://epg.pw/stream/9fea2f851972e12f46a038f8036e77b728ad992835cb72f2ba1674ad847e442d.m3u8
 Pequeradio TV,https://epg.pw/stream/ad713550c4575b8864364ba6db5540819fe724cab0c200b27ebc073c5477214d.m3u8
@@ -58,7 +58,6 @@ Entertainment,#genre#
 A3S Antreseries,https://epg.pw/stream/9d3abd6a766b37ff5c4dc4942328b9d3321c686e8bde73a8657f0a768453876a.ctv
 Barca TV[geo-blocked],https://epg.pw/stream/336785a9bf16bac7446868dded4095ea9bd0b1494268861a7573387f51bf4063.ctv
 Barca TV,https://epg.pw/stream/742dfeecb39d2a6fc0d61de5321b1d0f95f435fb4f10752435941bb2aab9d31e.ctv
-Barca TV,https://epg.pw/stream/90966ece48cc5657e944f28f84f79c97be801ad9af88b169b44534abf6763e08.ctv
 Barca TV[geo-blocked],https://epg.pw/stream/43b589bdab3396c849d8be0ab3aeba077e5dc2ad25fb2ae86dd9e7284db00409.ctv
 Barca TV,https://epg.pw/stream/e790ba93eecb596e5bdab003fafe46718055754de4e9bee2fee987fb4bdce71b.ctv
 Barca TV,https://epg.pw/stream/7dc03702e74cef4d89c80ca1fa2e57faf41cf9e95f8c060f64a06552bf4a4867.ctv
@@ -146,6 +145,7 @@ Canal+ Toros Spain,https://epg.pw/stream/b7cb712ef4710b754eb223fafb8597ff59a19bd
 Canal+ Toros Spain,https://epg.pw/stream/fc75478a1cc6443c79346618e1bd36928843469f4d02b90a99e6014697c6694d.ctv
 Canal+ Toros Spain,https://epg.pw/stream/e87b9c8a878398a72b08c920966aad92421b45740eb588fcec872d1791d82841.ctv
 Canal+ Toros Spain,https://epg.pw/stream/c8f9550114f7e99b0a0cd37bdb451b9c701f6b4a5f4c1f6d0327b19f46341feb.m3u8
+Canal+ Toros Spain[geo-blocked],https://epg.pw/stream/2c5c37ad83ca3c95ab11c7bcb371c2b628d201f5c3eec02542eda8a474b2bb46.ctv
 Canal+ Toros Spain[geo-blocked],https://epg.pw/stream/7b2d416193d617796cdf69e7f710f42a14dc90855afcab66d2fc2fea3c6064f1.m3u8
 Cuatro TV Espagne[geo-blocked],https://epg.pw/stream/7d98250261e6b6d46d3d92070f50d2ef71ba7e17e9c516facd89c2c0aa2cae2c.ctv
 Cuatro TV Espagne,https://epg.pw/stream/6534c3eb13ea0bde2ca7a6750056bb0633fdb84d6cae4a58567cf8d16e04184d.ctv
@@ -216,7 +216,6 @@ TVE,https://epg.pw/stream/3cbea5c0ae473a274fa44abbc8edb65e792a75b849eaee3faa3408
 TVE,https://epg.pw/stream/6c1b9265302a7dbbafe8ef4855a9bce6e60cfd792cdb773b096af0daec44b9f0.m3u8
 TVE,https://epg.pw/stream/8b599ad7527313d98c33202960f2e1f878b6035f6f7958f4baeb3864888733ee.ctv
 TVE,https://epg.pw/stream/475334c544b4e83d1b0cf1413758cddcd020fe3be9a3e94b50fbc7a0c5d8daca.ctv
-TVE,https://epg.pw/stream/7c8e30650074140992013abd17a4ab20a20c5f6478c2894b61177836df02b703.m3u8
 TVE,https://epg.pw/stream/6a3ad304f347e6b9de01f2268a4dfcb01109aa71e5740a4e6f78d021a408de4c.ctv
 TVE,https://epg.pw/stream/16025971b6131d1df74eb761f180310478c846bed485ca13c154410a620a3c9e.ctv
 TVE,https://epg.pw/stream/a29c52e5743e1df40ba6e20a5975e7473f5c0bf2977282b43e580ba47cfc55f2.ctv
@@ -276,6 +275,7 @@ Ultra Kidz HD,https://epg.pw/stream/34a3315b90c5452a0cc70e9b15442500abde41368288
 Sport,#genre#
 BeIn Sports HD Spain,https://epg.pw/stream/c88fe64efa3c4b91fbfa3c6422120519ed87b92b80c275748959ece8de64f39f.ctv
 BeIn Sports HD Spain,https://epg.pw/stream/c9522427551b30c40374a32834d2db4b1bf43428d1d57064a44c56363d620767.ctv
+Canal Esport3,https://epg.pw/stream/6f0d6a8dfd84f844adb96e777887013ad438d6720cd0f5c164b1bacff0ac614a.ctv
 Canal+ Liga 2 Spain[geo-blocked],https://epg.pw/stream/79ebf4f61fc9c6c3d505f078645bb11fb1381b1345f7275fabe0f4b8f03de2ff.m3u8
 Canal+ Liga 2 Spain[geo-blocked],https://epg.pw/stream/9c369b1e0b36154d423eaa7a8bc001d6286b2c23a7510cc3af0dc7c4e01436ea.ctv
 Canal+ Liga 2 Spain,https://epg.pw/stream/e39225ae64206f49cbbd894fc0d3fa3addefcd3031ca6637da80ad20488ec8b3.m3u8
@@ -361,7 +361,6 @@ Dazn 1,https://epg.pw/stream/688ca8741e9f8b1766ed6ab979b7355b4182f3bf077b5f2e0bf
 Dazn 1,https://epg.pw/stream/80a371706dea2d9bd8ecba29ddda7d474520b31144e13b889809b145367ce777.ctv
 Dazn 1,https://epg.pw/stream/c9441fc202d71a26cf52c54ab8559afc30372d33310f10158be7c31427ce36a5.ctv
 Dazn 1,https://epg.pw/stream/73b4b88e90aeb97dd72ab497e018fce210c8e562fcbf9977b67dc528723fbdee.ctv
-Dazn 1,https://epg.pw/stream/fd108d5f89275c18a034950563f68bd6f488dc855ce170eda2fe463059de08b5.ctv
 Dazn 1,https://epg.pw/stream/202064173c3f2d142aecbddbd44599b82d375e4db4257a04a0f8ef1de4b207fe.ctv
 ESPN+ Spain,https://epg.pw/stream/d4f37d412572d5098ba40131e622d3dc5e4abd470fc173d64007b0eb06dc773f.ctv
 ESPN+ Spain,https://epg.pw/stream/518332098a11976a1e67c0253cf632d1d108bd05b068c9fd0bfbade2b14721b9.ctv
@@ -401,7 +400,6 @@ Liga De Campeones 1[geo-blocked],https://epg.pw/stream/ac758ad3c2768ce70c8584d85
 Liga De Campeones 1,https://epg.pw/stream/21a0e426c6335eddbc16b14cafa47adcec92e304678350c98d7bebb7dc174de2.ctv
 Liga De Campeones 1,https://epg.pw/stream/c6672652a06fecf931fd5f8eff6c2a09106bfc4889e884f8910b0f1055a5796c.ctv
 Liga De Campeones 1,https://epg.pw/stream/4e6143363f6535ef8431007aba8d1517a04a6857bbaaf365bb50427bc0f21bcb.ctv
-Liga De Campeones 2,https://epg.pw/stream/5e9df087dbe6f3b4890d8f5459465b35ed133eab09c8228e36675c7c1021f2ac.ctv
 Liga De Campeones 2,https://epg.pw/stream/8c700f94ae3ec284dd6a045ab7e5a0a419411c89ac46524ede82b677e9db8ae1.ctv
 Liga De Campeones 2,https://epg.pw/stream/70a0281232e2f19261ad4f952377b6ade65dcc8f365856eca0552e741a4d73d0.ctv
 Liga De Campeones 2,https://epg.pw/stream/f605489418ff8ee54b5e47783d7dc82ce92635fc2b07d6af6f9ec28651862832.ctv
@@ -409,7 +407,6 @@ Liga De Campeones 2,https://epg.pw/stream/a6581ad66de111f30f14047057dac5e54e0c8a
 Liga De Campeones 2,https://epg.pw/stream/0504b345263566e5b4f0cd8650ccd32d0f4bd3acb0a2d059fa4161082c801753.ctv
 Liga De Campeones 2,https://epg.pw/stream/0c47f3ec9f7c0421de0844f31d9b661c1d25d852762bd9752845fb7f98812cae.ctv
 Liga De Campeones 2,https://epg.pw/stream/5e42a3d532d62cbf07f067264fac5cce9fd7d564577fb76a400036e13c364a8f.ctv
-Marca TV[geo-blocked],https://epg.pw/stream/eb193c31e1f594ea2a0cc16165b73a4f7dff02c71f0fe121f989657448b866ca.m3u8
 Marca TV,https://epg.pw/stream/2f0a289b756426d35f70cd3a3f36f1d8534cbe1215584d666d2e092321f98885.ctv
 Marca TV,https://epg.pw/stream/6115d99060e6b3971bdadf2f0edb21ad74cc4b582f06c94deabdca0ca508d31c.m3u8
 Marca TV,https://epg.pw/stream/8f515a5b88cffcad606029f5350dd4f958526872c17de9f58cafb3e90453a52d.m3u8
@@ -422,7 +419,6 @@ Movistar F1 Spain,https://epg.pw/stream/75040525221b05f4e352ea622386c48d84813ec5
 Movistar Moto GP Spain,https://epg.pw/stream/0e32b9d8e157d3accf7634b0504b2cf8b0acb3d3f953624974e85bf5f173069d.ctv
 Nat Geo Channel Spain,https://epg.pw/stream/c595fbfb159d8d41f457c9ea24206aecb032ee06bd29fa0264ee441d0f902db2.ctv
 PX TV[geo-blocked],https://epg.pw/stream/d6c317fa85a9e49d0f208827d257b398ada3209872a7d4a33ecbffabf816cc75.m3u8
-PX TV,https://epg.pw/stream/e6a6dc96ed84bbe85b3d9306b42b8a235c586c20a9b68bd51b6bceee4f4fc467.m3u8
 PX TV[geo-blocked],https://epg.pw/stream/60a319701bee09423047f6e8a351b817edd64992015077ced01067b747f588c2.m3u8
 Real Madrid TV,https://epg.pw/stream/65dde1b398b336aa2f51fc01b1e8b2d24d59a289363d621d21a2d8695205db9f.ctv
 Real Madrid TV,https://epg.pw/stream/ae20ba7e6b7c65ce2afd33fc9ab3d16ec0062dd4824614645e6aa0bbe2ffc9c7.m3u8

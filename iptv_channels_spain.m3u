@@ -31,6 +31,8 @@ https://epg.pw/stream/3f8b454de970eb52098f2047b26ebfc4f51eb38baac27be980c4cad573
 https://epg.pw/stream/823b182c6b411ed590cbc2de8b663a3302ce05a031ce8f989589565861c6a003.ctv
 #EXTINF:-1 tvg-name="Aragon TV Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530165833424246_70.png" group-title="Generic",[HD]aragon tv[geo-blocked]
 https://epg.pw/stream/e9d9b4fde44bec69dbd767075fc59e6655831c9774fd922bb13d446865d2a029.m3u8
+#EXTINF:-1 tvg-name="BUZZ" tvg-id="" tvg-country="Spain" tvg-language="latino" tvg-logo="https://epg.pw/media/images/channel/2017/01/08/large/20170108232307989579_46.jpg" group-title="Cartoon",[BD]buzzr[geo-blocked]
+https://epg.pw/stream/2104ddfb971b5042fac04c421e49465e899a23e8f468270ae436bd09504ab669.m3u8
 #EXTINF:-1 tvg-name="BUZZ" tvg-id="" tvg-country="Spain" tvg-language="latino" tvg-logo="https://epg.pw/media/images/channel/2017/01/08/large/20170108232307989579_46.jpg" group-title="Cartoon",[BD]Buzzr (1080p)[geo-blocked]
 https://epg.pw/stream/ad21c7b37201085f7e7319da46126d563ba052a722b40d0cddb17e47301aa7fe.m3u8
 #EXTINF:-1 tvg-name="BUZZ" tvg-id="" tvg-country="Spain" tvg-language="latino" tvg-logo="https://epg.pw/media/images/channel/2017/01/08/large/20170108232307989579_46.jpg" group-title="Cartoon",[HD]buzzr@@1[geo-blocked]
@@ -45,13 +47,11 @@ https://epg.pw/stream/46cff0920452331a78cf30e60bcf7421fb2dea887424f6981e69963363
 https://epg.pw/stream/336785a9bf16bac7446868dded4095ea9bd0b1494268861a7573387f51bf4063.ctv
 #EXTINF:-1 tvg-name="Barca TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127144301627044_48.jpg" group-title="Entertainment",[SD]barca tv@@1
 https://epg.pw/stream/742dfeecb39d2a6fc0d61de5321b1d0f95f435fb4f10752435941bb2aab9d31e.ctv
-#EXTINF:-1 tvg-name="Barca TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127144301627044_48.jpg" group-title="Entertainment",[HD]barca tv@@2
-https://epg.pw/stream/90966ece48cc5657e944f28f84f79c97be801ad9af88b169b44534abf6763e08.ctv
 #EXTINF:-1 tvg-name="Barca TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127144301627044_48.jpg" group-title="Entertainment",[HD]barca tv hd[geo-blocked]
 https://epg.pw/stream/43b589bdab3396c849d8be0ab3aeba077e5dc2ad25fb2ae86dd9e7284db00409.ctv
 #EXTINF:-1 tvg-name="Barca TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127144301627044_48.jpg" group-title="Entertainment",[SD]barca tv@@3
 https://epg.pw/stream/e790ba93eecb596e5bdab003fafe46718055754de4e9bee2fee987fb4bdce71b.ctv
-#EXTINF:-1 tvg-name="Barca TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127144301627044_48.jpg" group-title="Entertainment",[HD]barca tv fhd
+#EXTINF:-1 tvg-name="Barca TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127144301627044_48.jpg" group-title="Entertainment",[SD]barca tv fhd
 https://epg.pw/stream/7dc03702e74cef4d89c80ca1fa2e57faf41cf9e95f8c060f64a06552bf4a4867.ctv
 #EXTINF:-1 tvg-name="Barca TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127144301627044_48.jpg" group-title="Entertainment",[BD]baraza tv hd[geo-blocked]
 https://epg.pw/stream/22838be47916406226a6c932cde656b951464ea860b2aab91ae1cfb5f9bd2b1c.m3u8
@@ -77,7 +77,7 @@ https://epg.pw/stream/6f6e1dfedc38b552ee790e6f95e533635bb35f3038a9319e7b1bdfb493
 https://epg.pw/stream/e543f43cc716b8a8b415438bdea3733b2b1b47734a950ed2e4e979fd81c68e56.ctv
 #EXTINF:-1 tvg-name="Calle 13 Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127161631226515_45.jpg" group-title="Generic",[BD]calle 13 full hd@@2
 https://epg.pw/stream/d55c17b0b327a480f00ac39cc1d48b921ed5c30c712f210603c84ebfdefb0c0d.ctv
-#EXTINF:-1 tvg-name="Calle 13 Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127161631226515_45.jpg" group-title="Generic",[BD]calle 13 hd@@3[geo-blocked]
+#EXTINF:-1 tvg-name="Calle 13 Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127161631226515_45.jpg" group-title="Generic",[HD]calle 13 hd@@3[geo-blocked]
 https://epg.pw/stream/0b6c44490b7995f17384e21b6010c3b7c0abce91cdfae099deb268b42b694cec.ctv
 #EXTINF:-1 tvg-name="Calle 13 Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127161631226515_45.jpg" group-title="Generic",[BD]calle 13 fhd@@2[geo-blocked]
 https://epg.pw/stream/60d8e2c5c32d4765199daa432e03c8062dceec26ab5d90764a4527ee923e34dc.ctv
@@ -101,6 +101,8 @@ https://epg.pw/stream/12b1816e1f8b321033884f469125b575c3c855e58c155e867fc7d7b0f8
 https://epg.pw/stream/93914dcd873221fca13e3478842cc05a0b0f1c01e832fb0b2d7e1ef731da692d.m3u8
 #EXTINF:-1 tvg-name="Canal Cocina Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127141800595798_74.jpg" group-title="Documentary",[HD]cocina[geo-blocked]
 https://epg.pw/stream/d3370df7c1f2d479ed8eb3d9385fece5ca223684fa55f3de2122b0cf0eec05b0.m3u8
+#EXTINF:-1 tvg-name="Canal Esport3" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/02/large/20211102205535207153_40.png" group-title="Sport",[HD]af.canal+ sport 3
+https://epg.pw/stream/6f0d6a8dfd84f844adb96e777887013ad438d6720cd0f5c164b1bacff0ac614a.ctv
 #EXTINF:-1 tvg-name="Canal+ Comedia Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127140546700068_81.jpg" group-title="Entertainment",[HD]m+ comedia
 https://epg.pw/stream/526af583ec11b727ad3e5e8ac338876382c1b85f9ad0fa5eb8fe3db54ab6bc3d.ctv
 #EXTINF:-1 tvg-name="Canal+ Comedia Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127140546700068_81.jpg" group-title="Entertainment",[HD]comedia made in spain[geo-blocked]
@@ -129,7 +131,7 @@ https://epg.pw/stream/cbbb32cce3420d56348d9bce9a56fc09e5d9ad921f3f4dbd6bc1f91144
 https://epg.pw/stream/1c6bfd590cd69e28554fd3fc669bbeebe01fc136d6372afddc9ab8cc950422b8.ctv
 #EXTINF:-1 tvg-name="Canal+ HD Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127135754875583_22.jpg" group-title="Movie",[VGA]canal 6 - esa[geo-blocked]
 https://epg.pw/stream/46c82a72fb965fd061168785da4a373ccbc4eb56af32e13a5fd4b90ca07218ad.ctv
-#EXTINF:-1 tvg-name="Canal+ HD Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127135754875583_22.jpg" group-title="Movie",[HD]canal de casa@@1[geo-blocked]
+#EXTINF:-1 tvg-name="Canal+ HD Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127135754875583_22.jpg" group-title="Movie",[SD]canal de casa@@1[geo-blocked]
 https://epg.pw/stream/3506ff26e7e1cef7372ec9d75331a83e89a18cc73e26548fd7512a00a72d5575.ctv
 #EXTINF:-1 tvg-name="Canal+ Liga 2 Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2016/01/05/20160105052752333700_29.jpg" group-title="Sport",[SD]liga mx[geo-blocked]
 https://epg.pw/stream/79ebf4f61fc9c6c3d505f078645bb11fb1381b1345f7275fabe0f4b8f03de2ff.m3u8
@@ -147,6 +149,8 @@ https://epg.pw/stream/fc75478a1cc6443c79346618e1bd36928843469f4d02b90a99e6014697
 https://epg.pw/stream/e87b9c8a878398a72b08c920966aad92421b45740eb588fcec872d1791d82841.ctv
 #EXTINF:-1 tvg-name="Canal+ Toros Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127142343125001_62.jpg" group-title="Generic",[HD]canal 3 formosa
 https://epg.pw/stream/c8f9550114f7e99b0a0cd37bdb451b9c701f6b4a5f4c1f6d0327b19f46341feb.m3u8
+#EXTINF:-1 tvg-name="Canal+ Toros Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127142343125001_62.jpg" group-title="Generic",[BD]toros 4k[geo-blocked]
+https://epg.pw/stream/2c5c37ad83ca3c95ab11c7bcb371c2b628d201f5c3eec02542eda8a474b2bb46.ctv
 #EXTINF:-1 tvg-name="Canal+ Toros Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127142343125001_62.jpg" group-title="Generic",[SD]canal 3 rosario@@1[geo-blocked]
 https://epg.pw/stream/7b2d416193d617796cdf69e7f710f42a14dc90855afcab66d2fc2fea3c6064f1.m3u8
 #EXTINF:-1 tvg-name="Caza Y Pesca Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127162747554541_70.jpg" group-title="Documentary",[HD]caza y pesca fhd@@1
@@ -175,7 +179,7 @@ https://epg.pw/stream/2e08f4f6110d5884b9fefbd797da69c2d8b81919a80471b50f6c0b509e
 https://epg.pw/stream/7d98250261e6b6d46d3d92070f50d2ef71ba7e17e9c516facd89c2c0aa2cae2c.ctv
 #EXTINF:-1 tvg-name="Cuatro TV Espagne" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/01/20150701104147753702_39.jpg" group-title="Generic",[BD]cuatro@@1
 https://epg.pw/stream/6534c3eb13ea0bde2ca7a6750056bb0633fdb84d6cae4a58567cf8d16e04184d.ctv
-#EXTINF:-1 tvg-name="Cuatro TV Espagne" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/01/20150701104147753702_39.jpg" group-title="Generic",[SD]cuatro fhd
+#EXTINF:-1 tvg-name="Cuatro TV Espagne" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/01/20150701104147753702_39.jpg" group-title="Generic",[BD]cuatro fhd
 https://epg.pw/stream/40a54968e39cc6511407b72f771b157fb0b65c5a6c61348dc425a5ac4151a9c4.ctv
 #EXTINF:-1 tvg-name="Cuatro TV Espagne" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/07/01/20150701104147753702_39.jpg" group-title="Generic",[BD]cuatro@@2
 https://epg.pw/stream/8c04f0cca7b5f4603540607e247a2f5907b9b764e2171737a5425d76003a6be6.m3u8
@@ -363,8 +367,6 @@ https://epg.pw/stream/80a371706dea2d9bd8ecba29ddda7d474520b31144e13b889809b14536
 https://epg.pw/stream/c9441fc202d71a26cf52c54ab8559afc30372d33310f10158be7c31427ce36a5.ctv
 #EXTINF:-1 tvg-name="Dazn 1" tvg-id="45592" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/25/large/20220825234052273903_53.png" group-title="Sport",[HD]dazn 4 hd
 https://epg.pw/stream/73b4b88e90aeb97dd72ab497e018fce210c8e562fcbf9977b67dc528723fbdee.ctv
-#EXTINF:-1 tvg-name="Dazn 1" tvg-id="45592" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/25/large/20220825234052273903_53.png" group-title="Sport",[BD]dazn 3
-https://epg.pw/stream/fd108d5f89275c18a034950563f68bd6f488dc855ce170eda2fe463059de08b5.ctv
 #EXTINF:-1 tvg-name="Dazn 1" tvg-id="45592" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/08/25/large/20220825234052273903_53.png" group-title="Sport",[BD]dazn 2 hd@@7
 https://epg.pw/stream/202064173c3f2d142aecbddbd44599b82d375e4db4257a04a0f8ef1de4b207fe.ctv
 #EXTINF:-1 tvg-name="Disney Channel España" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152137322487_44.png" group-title="Cartoon",[HD]españa[geo-blocked]
@@ -405,7 +407,7 @@ https://epg.pw/stream/a23bf9b1baac2a4a37e0f5851c34ed4a00004becb187c4e48a0975a3db
 https://epg.pw/stream/8931a3c0e7481dbd4c5977cd7c45d216d946aac420a6ebdf16a69d35668a417f.m3u8
 #EXTINF:-1 tvg-name="FDF Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601220619566457_31.png" group-title="Generic",[SD]fdf[geo-blocked]
 https://epg.pw/stream/e0fdf5e80cd09357989cc452b19a94a2193727a8c64c83665b57fc02fcc8dde7.ctv
-#EXTINF:-1 tvg-name="FDF Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601220619566457_31.png" group-title="Generic",[HD]fdf@@3
+#EXTINF:-1 tvg-name="FDF Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601220619566457_31.png" group-title="Generic",[SD]fdf@@3
 https://epg.pw/stream/f394ea9ebfe0ea3df3bf97fe52d3165503cf6a1c0819ae4acd433cbf379807d4.ctv
 #EXTINF:-1 tvg-name="FDF Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601220619566457_31.png" group-title="Generic",[BD]美国my time spain
 https://epg.pw/stream/9c4ce61b0e134e5f07b1c3a8e2d01be3c7fe63e01ec8f60d6322002ef85744b1.m3u8
@@ -497,7 +499,7 @@ https://epg.pw/stream/cd7088aaaa2e952435bcf4344f4d3bf675ca5e2151c6c71979ecf7f333
 https://epg.pw/stream/0af1009cc382558cb010e488b9863d7f3f251f3406c884f8292af0755e0a8322.ctv
 #EXTINF:-1 tvg-name="Ibiza On TV" tvg-id="" tvg-country="Spain" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020440139273_90.png" group-title="Entertainment",[HD]ibiza tv
 https://epg.pw/stream/51be69dca293932d83c63450e572ac341b3b852cbcf8601810578a4eed852a8c.m3u8
-#EXTINF:-1 tvg-name="Ibiza On TV" tvg-id="" tvg-country="Spain" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020440139273_90.png" group-title="Entertainment",[HD]ibiza global tv[geo-blocked]
+#EXTINF:-1 tvg-name="Ibiza On TV" tvg-id="" tvg-country="Spain" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020440139273_90.png" group-title="Entertainment",[VGA]ibiza global tv[geo-blocked]
 https://epg.pw/stream/52a52e8f2b3aa0670b7e37d75441a3c7741546b6633e1db39f93df4526e5b6b1.m3u8
 #EXTINF:-1 tvg-name="Ibiza On TV" tvg-id="" tvg-country="Spain" tvg-language="English" tvg-logo="https://epg.pw/media/images/channel/2022/05/27/large/20220527020440139273_90.png" group-title="Entertainment",[HD]IBizaHDTV
 https://epg.pw/stream/270a6423c45b58a1c8fb941f630fb2c49204350f7e7363dba14935305f8d4c2c.m3u8
@@ -543,7 +545,7 @@ https://epg.pw/stream/ec15afc7800a6951c816878da3d7105d2cdf389e7b2afa39f5d0464aea
 https://epg.pw/stream/4d574ec3b26e7eb160a362bbdc505314069d08f52991d2159120c213680a6d38.ctv
 #EXTINF:-1 tvg-name="Liga De Campeones 1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200413859113_38.png" group-title="Sport",[SD]españa - m. liga de campeones sd
 https://epg.pw/stream/871b6dde4f9350d4b7a72a42786291de6bbca3f29e9e600231be165ceadc5637.ctv
-#EXTINF:-1 tvg-name="Liga De Campeones 1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200413859113_38.png" group-title="Sport",[HD]m+ lcampeones sd@@1[geo-blocked]
+#EXTINF:-1 tvg-name="Liga De Campeones 1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200413859113_38.png" group-title="Sport",[BD]m+ lcampeones sd@@1[geo-blocked]
 https://epg.pw/stream/8988c20e6cf93057b26df7a73ce60c5b13acaf4951632e033c5c0df9db8718bf.ctv
 #EXTINF:-1 tvg-name="Liga De Campeones 1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200413859113_38.png" group-title="Sport",[HD]movistar liga de campeones hd@@1
 https://epg.pw/stream/0921f539fbb21dc8f88b0903f63b6f1692b946409db7d28c99a0d5eabe4b2b88.ctv
@@ -555,15 +557,13 @@ https://epg.pw/stream/21a0e426c6335eddbc16b14cafa47adcec92e304678350c98d7bebb7dc
 https://epg.pw/stream/c6672652a06fecf931fd5f8eff6c2a09106bfc4889e884f8910b0f1055a5796c.ctv
 #EXTINF:-1 tvg-name="Liga De Campeones 1" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200413859113_38.png" group-title="Sport",[SD]españa - m. liga de campeones fhd
 https://epg.pw/stream/4e6143363f6535ef8431007aba8d1517a04a6857bbaaf365bb50427bc0f21bcb.ctv
-#EXTINF:-1 tvg-name="Liga De Campeones 2" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200440212683_15.png" group-title="Sport",[BD]m+ lcampeones 4k@@2
-https://epg.pw/stream/5e9df087dbe6f3b4890d8f5459465b35ed133eab09c8228e36675c7c1021f2ac.ctv
 #EXTINF:-1 tvg-name="Liga De Campeones 2" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200440212683_15.png" group-title="Sport",[SD]2+2
 https://epg.pw/stream/8c700f94ae3ec284dd6a045ab7e5a0a419411c89ac46524ede82b677e9db8ae1.ctv
 #EXTINF:-1 tvg-name="Liga De Campeones 2" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200440212683_15.png" group-title="Sport",[BD]m liga de campeones 3 fhd
 https://epg.pw/stream/70a0281232e2f19261ad4f952377b6ade65dcc8f365856eca0552e741a4d73d0.ctv
 #EXTINF:-1 tvg-name="Liga De Campeones 2" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200440212683_15.png" group-title="Sport",[BD]m liga de campeones uhd
 https://epg.pw/stream/f605489418ff8ee54b5e47783d7dc82ce92635fc2b07d6af6f9ec28651862832.ctv
-#EXTINF:-1 tvg-name="Liga De Campeones 2" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200440212683_15.png" group-title="Sport",[HD]m+ lcampeones +@@2
+#EXTINF:-1 tvg-name="Liga De Campeones 2" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200440212683_15.png" group-title="Sport",[BD]m+ lcampeones +@@2
 https://epg.pw/stream/a6581ad66de111f30f14047057dac5e54e0c8afccd7514ec16efe70acc6cd113.ctv
 #EXTINF:-1 tvg-name="Liga De Campeones 2" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/05/30/20140530200440212683_15.png" group-title="Sport",[BD]m+ lcampeones 1080p@@2
 https://epg.pw/stream/0504b345263566e5b4f0cd8650ccd32d0f4bd3acb0a2d059fa4161082c801753.ctv
@@ -603,8 +603,6 @@ https://epg.pw/stream/6293ab69a8240bfa419d740ea86f4857698645db93ee3e9c1fd6b14866
 https://epg.pw/stream/7ececeeb2a6a69c485faf455878e138f53b587cc92504460b249e91e8659a9b9.m3u8
 #EXTINF:-1 tvg-name="MOVISTAR COMEDIA" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/05/06/20170506073624413326_37.png" group-title="Movie",[HD]distrito comedia@@1
 https://epg.pw/stream/f06a80e82faa68186ce3b9a51a244722b17899c374490334a269fcc45227339a.ctv
-#EXTINF:-1 tvg-name="Marca TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231457756792_31.png" group-title="Sport",[VGA]sumac tv hd[geo-blocked]
-https://epg.pw/stream/eb193c31e1f594ea2a0cc16165b73a4f7dff02c71f0fe121f989657448b866ca.m3u8
 #EXTINF:-1 tvg-name="Marca TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231457756792_31.png" group-title="Sport",[VGA]mar-cil-tv@@1
 https://epg.pw/stream/2f0a289b756426d35f70cd3a3f36f1d8534cbe1215584d666d2e092321f98885.ctv
 #EXTINF:-1 tvg-name="Marca TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/11/13/large/20211113231457756792_31.png" group-title="Sport",[HD]karcag tv
@@ -625,7 +623,7 @@ https://epg.pw/stream/68907e9bfb2e7589aaadf7073bc04864ad2206cee18d7a3587849b1a89
 https://epg.pw/stream/0f776f763e3ea071610e22619dc36c2a6465403a4b4936fb0f7060d0884004ae.ctv
 #EXTINF:-1 tvg-name="Movistar F1 Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127144943109679_92.jpg" group-title="Sport",[BD]movistar+ marvel 1@@1[geo-blocked]
 https://epg.pw/stream/0073154b46b41b075d01f1dab15630db41d932f6c63b0e7c11c5f8a3416d2c9b.ctv
-#EXTINF:-1 tvg-name="Movistar F1 Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127144943109679_92.jpg" group-title="Sport",[SD]movistar f1 fhd[geo-blocked]
+#EXTINF:-1 tvg-name="Movistar F1 Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127144943109679_92.jpg" group-title="Sport",[HD]movistar f1 fhd[geo-blocked]
 https://epg.pw/stream/9471d26a7b50a68dbfd8107d612cdec73d7f8ccca25d48bc99d5e5c193176ca4.ctv
 #EXTINF:-1 tvg-name="Movistar F1 Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127144943109679_92.jpg" group-title="Sport",[BD]movistar+ marvel 1
 https://epg.pw/stream/75040525221b05f4e352ea622386c48d84813ec5f199b823313a005dde22f26c.ctv
@@ -637,7 +635,7 @@ https://epg.pw/stream/c595fbfb159d8d41f457c9ea24206aecb032ee06bd29fa0264ee441d0f
 https://epg.pw/stream/e749ede51da1c5c9fb20e2e95e9024dd44ef5f4f669bfd4430b13158a8ebc3ed.ctv
 #EXTINF:-1 tvg-name="Nat Geo Wild Spain" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2015/11/27/large/20151127154257129297_10.jpg" group-title="Documentary",[HD]nat geo wild españa hd
 https://epg.pw/stream/4daff495487ac57f6554018c1dbe7b5dbbf20d867db2650cf4fd5dc8e0f4f187.ctv
-#EXTINF:-1 tvg-name="Neox Kidz" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152157828425_43.png" group-title="Cartoon",[SD]neox@@5[geo-blocked]
+#EXTINF:-1 tvg-name="Neox Kidz" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152157828425_43.png" group-title="Cartoon",[BD]neox@@5[geo-blocked]
 https://epg.pw/stream/5e62cb792bbd7985ed7d630dd943eb3a12c44632aede264ae6bc50fa23ee252a.ctv
 #EXTINF:-1 tvg-name="Neox Kidz" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2021/10/16/large/20211016152157828425_43.png" group-title="Cartoon",[BD]kidz bop[geo-blocked]
 https://epg.pw/stream/19db6f6600934dca51c63ad939e2b118d36da67f2772aa6cc8f6673df77e6e14.m3u8
@@ -649,9 +647,7 @@ https://epg.pw/stream/208918afc381417a218d3a76c7d927b10da3745c0b186bbccd4730c139
 https://epg.pw/stream/cd8b26bb4c2643a48e2f06cd680397cb0078e3433bb7569478160cef48606f38.m3u8
 #EXTINF:-1 tvg-name="PX TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174713470939_64.png" group-title="Sport",[BD]kpix-tv[geo-blocked]
 https://epg.pw/stream/d6c317fa85a9e49d0f208827d257b398ada3209872a7d4a33ecbffabf816cc75.m3u8
-#EXTINF:-1 tvg-name="PX TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174713470939_64.png" group-title="Sport",[BD]pax tv
-https://epg.pw/stream/e6a6dc96ed84bbe85b3d9306b42b8a235c586c20a9b68bd51b6bceee4f4fc467.m3u8
-#EXTINF:-1 tvg-name="PX TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174713470939_64.png" group-title="Sport",[BD]x1 tv@@1[geo-blocked]
+#EXTINF:-1 tvg-name="PX TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174713470939_64.png" group-title="Sport",[HD]x1 tv@@1[geo-blocked]
 https://epg.pw/stream/60a319701bee09423047f6e8a351b817edd64992015077ced01067b747f588c2.m3u8
 #EXTINF:-1 tvg-name="Pequeradio TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119215627978782_86.png" group-title="Cartoon",[HD]preludio tv[geo-blocked]
 https://epg.pw/stream/bb25399bc37129c24d372045c2b81c8a60cdac4058a9a0a61ea4932fe1194616.m3u8
@@ -663,8 +659,6 @@ https://epg.pw/stream/ee037b8c3277233b6053554f0845363bb1e1a0b63420cb033ccc0f5e4a
 https://epg.pw/stream/11a2090210627835ee38d03987de14a6ee42d3a6ab4071c7af75207737a4fee4.m3u8
 #EXTINF:-1 tvg-name="Pequeradio TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119215627978782_86.png" group-title="Cartoon",[HD]pequeradio@@1
 https://epg.pw/stream/9a73732516ec97c84b5c65023dadc3d4e30daefd838d0c4676f6237b28b2d4de.m3u8
-#EXTINF:-1 tvg-name="Pequeradio TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119215627978782_86.png" group-title="Cartoon",[HD]pequeradio
-https://epg.pw/stream/be928768588bd1720d57c8af1435139360734248d734f6d7614e0abf007601c3.m3u8
 #EXTINF:-1 tvg-name="Pequeradio TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119215627978782_86.png" group-title="Cartoon",[HD]pequeradio tv@@3
 https://epg.pw/stream/20e70d590dac79a2bea3ec4cce8456505836fee2183c5c85560618a9da05bf48.m3u8
 #EXTINF:-1 tvg-name="Pequeradio TV" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/images/channel/2022/01/19/large/20220119215627978782_86.png" group-title="Cartoon",[SD]51 radio tv (480p) [geo-blocked][geo-blocked]
@@ -729,7 +723,7 @@ https://epg.pw/stream/3a3d2cdad869f8bd0fc3d4893f51502b77f2be022a03cf0465dbf4925c
 https://epg.pw/stream/65a6841bb4173ef7bd34d8b3e5999a97cae97042cadd213a197ebbcd401121fc.ctv
 #EXTINF:-1 tvg-name="SPORT MAX" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/12/20151212200544370371_46.png" group-title="Sport",[VGA]max sport 3hd
 https://epg.pw/stream/ec949fd73295be60b4174e1fd10455b0048f1f79fcdc2d0c554bdc3cdfb8921c.m3u8
-#EXTINF:-1 tvg-name="SPORT MAX" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/12/20151212200544370371_46.png" group-title="Sport",[HD]max sport 2 hd
+#EXTINF:-1 tvg-name="SPORT MAX" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/12/20151212200544370371_46.png" group-title="Sport",[SD]max sport 2 hd
 https://epg.pw/stream/e7060c3655a873dd97220ba3d46633594fd80232742ff33c2f6582d9c4b2f917.ctv
 #EXTINF:-1 tvg-name="SPORT MAX" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/12/20151212200544370371_46.png" group-title="Sport",[BD]max sport 3 [geo-blocked]
 https://epg.pw/stream/4f34b3d36c0062c4e4f0d2ad0d85745b9a3337b436677bc87c439cadf4c4dcdc.m3u8
@@ -737,7 +731,7 @@ https://epg.pw/stream/4f34b3d36c0062c4e4f0d2ad0d85745b9a3337b436677bc87c439cadf4
 https://epg.pw/stream/014d0af0177122f9defe3ad0b647e2ddfbaf8e227671393150e6aec3ae82ebeb.ctv
 #EXTINF:-1 tvg-name="SPORT MAX" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/12/20151212200544370371_46.png" group-title="Sport",[HD]x sport[geo-blocked]
 https://epg.pw/stream/67cbff4de808c38f8008543372ee020d37c1939df8440f9af3ef18b4364adcfe.m3u8
-#EXTINF:-1 tvg-name="SPORT MAX" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/12/20151212200544370371_46.png" group-title="Sport",[HD]max sport 2 hd@@1
+#EXTINF:-1 tvg-name="SPORT MAX" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/12/20151212200544370371_46.png" group-title="Sport",[SD]max sport 2 hd@@1
 https://epg.pw/stream/31a79185a00e73d60951ac3be9920b81aa7460ff9e3f61ce024fc12ec70063cb.ctv
 #EXTINF:-1 tvg-name="SPORT MAX" tvg-id="" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/12/12/20151212200544370371_46.png" group-title="Sport",[HD]max sport 3 hd@@1
 https://epg.pw/stream/3f49dd0e6e747b5c8ca293041044fddc99f1c4c896d9c09f18eb7c758e05774b.ctv
@@ -841,8 +835,6 @@ https://epg.pw/stream/6c1b9265302a7dbbafe8ef4855a9bce6e60cfd792cdb773b096af0daec
 https://epg.pw/stream/8b599ad7527313d98c33202960f2e1f878b6035f6f7958f4baeb3864888733ee.ctv
 #EXTINF:-1 tvg-name="TVE" tvg-id="50524" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/img/logo/1_454.jpg" group-title="Generic",[VGA]tve
 https://epg.pw/stream/475334c544b4e83d1b0cf1413758cddcd020fe3be9a3e94b50fbc7a0c5d8daca.ctv
-#EXTINF:-1 tvg-name="TVE" tvg-id="50524" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/img/logo/1_454.jpg" group-title="Generic",[VGA]tve punata hd
-https://epg.pw/stream/7c8e30650074140992013abd17a4ab20a20c5f6478c2894b61177836df02b703.m3u8
 #EXTINF:-1 tvg-name="TVE" tvg-id="50524" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/img/logo/1_454.jpg" group-title="Generic",[VGA]tve@@6
 https://epg.pw/stream/6a3ad304f347e6b9de01f2268a4dfcb01109aa71e5740a4e6f78d021a408de4c.ctv
 #EXTINF:-1 tvg-name="TVE" tvg-id="50524" tvg-country="Spain" tvg-language="Spanish" tvg-logo="https://epg.pw/media/img/logo/1_454.jpg" group-title="Generic",[HD]teve
