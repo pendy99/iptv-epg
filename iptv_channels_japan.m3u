@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
-#EXTINF:-1 tvg-name="ANIMAX MUSIX" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/10/26/large/20211026184203974366_71.png" group-title="Cartoon",[SD]sr musix
-https://epg.pw/stream/8fe6150a076b37100389b3efddc4337e79d66ebf969e97376e060bd80d4869e0.m3u8
 #EXTINF:-1 tvg-name="ANN News FHD" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305152009157499_40.jpg" group-title="News",[BD]band news fhd¹
 https://epg.pw/stream/46504e37f7c05d09de84f886f8f70274680daac8fe11da8ba37419cb41b709d5.ctv
 #EXTINF:-1 tvg-name="ANN News FHD" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/03/05/large/20220305152009157499_40.jpg" group-title="News",[BD]band news fhd h265@@1
@@ -245,8 +243,6 @@ https://epg.pw/stream/39247a675ce2e9e709976b9830246b8a3f67c6291e666e202fe0fb6d56
 https://epg.pw/stream/5b31bca99bd5bc7d3c58d071e08ebd57fd49b62e85b088dfb62b63cd92b2a39d.m3u8
 #EXTINF:-1 tvg-name="FUJI TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151433816998_52.jpg" group-title="Generic",[BD]fuji tv@@6
 https://epg.pw/stream/9437a4448d5684356120cffd573d9216d5710e21a179b1f3649c2f477f087266.ctv
-#EXTINF:-1 tvg-name="FUJI TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151433816998_52.jpg" group-title="Generic",[VGA]fuji tv[geo-blocked]
-https://epg.pw/stream/bee986b4253c725bd4b2a9565e07794fd82bb3e19c705efba6f587d9f6f45fe7.m3u8
 #EXTINF:-1 tvg-name="FUJI TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151433816998_52.jpg" group-title="Generic",[HD]fuji tv@@5
 https://epg.pw/stream/a254646a6a476b827cf2be124f63b383795ba761df07d4e7c403a2aa0a375079.m3u8
 #EXTINF:-1 tvg-name="FUJI TV" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2023/02/05/large/20230205151433816998_52.jpg" group-title="Generic",[HD]bs fuji tv@@5[geo-blocked]
@@ -285,7 +281,7 @@ https://epg.pw/stream/7db0b656a835a8641c8b957d0f35f73ecf74587f03bbd53235581b259d
 https://epg.pw/stream/549f3f443d99acbab7448c2bc1cfcef3e9cce01eb7d4edd23611bb7fcc39ca6c.m3u8
 #EXTINF:-1 tvg-name="HOT ANIME" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/fb7a6713e5656f8399158390f793769a.png" group-title="Cartoon",[BD]Hot and Mean[geo-blocked]
 https://epg.pw/stream/8b0163e85cad99f9c01a3417aa02779effd08c4f600d823b84460336ac4b29d8.m3u8
-#EXTINF:-1 tvg-name="HOT ANIME" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/fb7a6713e5656f8399158390f793769a.png" group-title="Cartoon",[SD]HOT
+#EXTINF:-1 tvg-name="HOT ANIME" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/fb7a6713e5656f8399158390f793769a.png" group-title="Cartoon",[HD]HOT
 https://epg.pw/stream/fdb611883f1127d160ab2ae1518cfc4823250a91c5d43efc1790e283d369c115.m3u8
 #EXTINF:-1 tvg-name="HOT ANIME" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/fb7a6713e5656f8399158390f793769a.png" group-title="Cartoon",[HD]Hot and Mean
 https://epg.pw/stream/14ab369ea42b082ce7bce8b75281918b7e8f27402ee9ea5fc4283ddc970f12f1.m3u8
@@ -539,8 +535,6 @@ https://epg.pw/stream/1f86314d1b8da2f58421ebcd863173434edd98869b3eec7e9dd955cd30
 https://epg.pw/stream/a1c2706a86d0f4f2b471436f872f083819d895f8e6415cf87c304c1c5d273221.m3u8
 #EXTINF:-1 tvg-name="NHK BS4K" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021040986978_14.png" group-title="News",[BD]nhk bs4k[geo-blocked]
 https://epg.pw/stream/73367c42f546bca78f175337d479d8bc1f71c1f3b5b11c2fbcf599f2895eb15f.ctv
-#EXTINF:-1 tvg-name="NHK BS8K" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021039356855_73.png" group-title="News",[BD]nhk@@2
-https://epg.pw/stream/173af13fb68653091e672b13b2f140646dd5f4de06b97421c8a508708c9b277c.m3u8
 #EXTINF:-1 tvg-name="NHK BS8K" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021039356855_73.png" group-title="News",[BD]nhk@@3
 https://epg.pw/stream/f830241dca4594a7e78519bf04ec58e6f71588d4a7d0307dd755ae101db6a0eb.m3u8
 #EXTINF:-1 tvg-name="NHK BS8K" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021039356855_73.png" group-title="News",[HD]nhk[geo-blocked]
