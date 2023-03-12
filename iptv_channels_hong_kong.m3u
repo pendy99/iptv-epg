@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="ATV A1臺" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/10/23/large/20221023213623274855_50.jpg" group-title="綜藝",[BD]atv 4k
 https://epg.pw/stream/af97e8327b0218331fb85b5b3a8b6b1082c76d55004fec8681c2e1688c688721.ctv
-#EXTINF:-1 tvg-name="ATV A1臺" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/10/23/large/20221023213623274855_50.jpg" group-title="綜藝",[VGA]hn | atv
+#EXTINF:-1 tvg-name="ATV A1臺" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/10/23/large/20221023213623274855_50.jpg" group-title="綜藝",[HD]hn | atv
 https://epg.pw/stream/65cbf743cb2f3f39871a7409df6c2a3aa532aee7403f8deb77957854c5a37e3d.m3u8
 #EXTINF:-1 tvg-name="ATV A1臺" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/10/23/large/20221023213623274855_50.jpg" group-title="綜藝",[HD]atv+[geo-blocked]
 https://epg.pw/stream/cdb2e28cd1631d6736d3eb98396dd3197c7859420e9f456c82b3693a0a7a2074.m3u8
@@ -61,6 +61,8 @@ https://epg.pw/stream/5ffaa4d47e4131dfca3c927f73cd852278ea635256b1997ba86f64c8e7
 https://epg.pw/stream/579de3708e2e76149dbe2f48bcf32e4f3c7903a295fdb9d77e0a15f25cbccd87.ctv
 #EXTINF:-1 tvg-name="Discovery Kids" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512210531766962_16.jpg" group-title="紀實",[VGA]discovery id
 https://epg.pw/stream/d1daa3d2b5f2f8192d4b7656d52c4605081d0a5c7fb9726af8f061637ed59794.ctv
+#EXTINF:-1 tvg-name="Discovery Kids" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512210531766962_16.jpg" group-title="紀實",[VGA]discovery kids@@3
+https://epg.pw/stream/ca901d50e94097d9f5e4ab44c7f7ceed321e2af0757d11637441862bf64c9454.m3u8
 #EXTINF:-1 tvg-name="Discovery Kids" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512210531766962_16.jpg" group-title="紀實",[SD]discovery kids@@16[geo-blocked]
 https://epg.pw/stream/3bccd9e3c595f8d2ef316f2e87a28bcc988c31dbbecad91a75bb02c34784f6db.m3u8
 #EXTINF:-1 tvg-name="Discovery Kids" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/12/large/20220512210531766962_16.jpg" group-title="紀實",[VGA]discovery id@@5
@@ -389,7 +391,7 @@ https://epg.pw/stream/ad99fbb3808171764add4db13a462575282c42d739dda465223e47310f
 https://epg.pw/stream/9f0e75dcb17f3d29e3e778732d6a2c0a183225af4a35dc7b1707be12476af14b.m3u8
 #EXTINF:-1 tvg-name="周星馳專輯" tvg-id="" tvg-country="香港" tvg-language="國語" tvg-logo="https://epg.pw/media/images/channel/2019/04/05/large/20190405223557361641_51.jpg" group-title="電影",[HD]周星驰
 https://epg.pw/stream/f9ed87f633db10ef43ec10fdb393e92395047e39777c24fc2c21c4fc2095c272.ctv
-#EXTINF:-1 tvg-name="天威TVG" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174034722469_91.png" group-title="其它",[HD]tvg2 (720p) [not 24/7][geo-blocked]
+#EXTINF:-1 tvg-name="天威TVG" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174034722469_91.png" group-title="其它",[VGA]tvg2 (720p) [not 24/7][geo-blocked]
 https://epg.pw/stream/5f5d711ec70643393e97756925319b264ada507adad5b66aa337e6a0b6ae9a6c.m3u8
 #EXTINF:-1 tvg-name="天威TVG" tvg-id="" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506174034722469_91.png" group-title="其它",[VGA]tvg[geo-blocked]
 https://epg.pw/stream/f257655dd2f976d7dcadd0448e19d2e1186f91243ee8ecc9dfedf377fe1cac32.m3u8
