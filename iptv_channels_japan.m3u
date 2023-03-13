@@ -35,7 +35,7 @@ https://epg.pw/stream/2befbcfc8715ed6aac092fcafe6fd37cabeb10391b2ba8cc4b4616f24f
 https://epg.pw/stream/f1fa0ae48495f3efb3df4f1dd172b93306c3db589c6f1a10244e06f3cdf12797.m3u8
 #EXTINF:-1 tvg-name="Animax" tvg-id="7455" tvg-country="Japan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2017/01/05/large/20170105225900054231_91.png" group-title="Cartoon",[VGA]animax@@14
 https://epg.pw/stream/effb8fc8f6a72704052e3e2947c662c65039d63414cd14c1282ccfc5a415f8da.m3u8
-#EXTINF:-1 tvg-name="Animax" tvg-id="7455" tvg-country="Japan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2017/01/05/large/20170105225900054231_91.png" group-title="Cartoon",[HD]animax
+#EXTINF:-1 tvg-name="Animax" tvg-id="7455" tvg-country="Japan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2017/01/05/large/20170105225900054231_91.png" group-title="Cartoon",[VGA]animax
 https://epg.pw/stream/9450c46419e32026ee84be8af91654dc1466157a3ca812fe7bda1c841f362227.m3u8
 #EXTINF:-1 tvg-name="Animax" tvg-id="7455" tvg-country="Japan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2017/01/05/large/20170105225900054231_91.png" group-title="Cartoon",[HD]animax@@4[geo-blocked]
 https://epg.pw/stream/06c0af6bac7e39fe2b4db004bf8ad9caff82d6c89af86c56c16de3fe3c3b6efd.m3u8
@@ -269,7 +269,7 @@ https://epg.pw/stream/2b8c0498885780ae0ddb56b5037c29beaa06e93c709bbd007966f5b2cf
 https://epg.pw/stream/086759a9c96072c0bf8b5e14dabaab00552ad1f17763591386f86623f153c049.m3u8
 #EXTINF:-1 tvg-name="J SPORTS 1" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165726980841_51.jpg" group-title="Sport",[HD]j sports 1@@1
 https://epg.pw/stream/8d422deab62637630db364167e893b621b37e282218e5d278b3a3bcf41b688cd.m3u8
-#EXTINF:-1 tvg-name="J SPORTS 1" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165726980841_51.jpg" group-title="Sport",[HD]j sport 2 
+#EXTINF:-1 tvg-name="J SPORTS 1" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165726980841_51.jpg" group-title="Sport",[VGA]j sport 2 
 https://epg.pw/stream/418ea157caa6587fcbc5327fbe750a215c526c231f13034863ec398382b6e6a9.m3u8
 #EXTINF:-1 tvg-name="J SPORTS 1" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2022/05/14/large/20220514165726980841_51.jpg" group-title="Sport",[HD]j sports 1@@3
 https://epg.pw/stream/fac1173d753249771e03be8d56b005686b6e316b2e17685c8747087112792bf2.m3u8
@@ -939,6 +939,8 @@ https://epg.pw/stream/588df510716438f06d6ec373dfd7d0e8901dc94365928693cc0e2745dc
 https://epg.pw/stream/23f2a71d406946a57e0ebb818052048d921597f7f045b56e4fa401b4c0c87ea2.m3u8
 #EXTINF:-1 tvg-name="Toei Channel" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/09/21/large/20210921164213208358_67.png" group-title="Other",[HD]tennis channel@@5
 https://epg.pw/stream/e5941ab02fc03e13aa932cf28df2d29f29323c78577e2c373bf857d2c2618204.ctv
+#EXTINF:-1 tvg-name="Toei Channel" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/09/21/large/20210921164213208358_67.png" group-title="Other",[BD]topchannel
+https://epg.pw/stream/fd5d9e6df7135ce44074d70b0193a461ba7a718e414311d0b39934b7db5af09d.m3u8
 #EXTINF:-1 tvg-name="U-NEXT" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021006937190_71.png" group-title="Movie",[HD]Degrassi The Next Generation (720p)[geo-blocked]
 https://epg.pw/stream/caf62f733a375ac37cc8bfe87354e69b155219ad593ac71a01a5a33275306b0e.m3u8
 #EXTINF:-1 tvg-name="U-NEXT" tvg-id="" tvg-country="Japan" tvg-language="Japanese" tvg-logo="https://epg.pw/media/images/channel/2021/12/12/large/20211212021006937190_71.png" group-title="Movie",[HD]Degrassi The Next Generation (Canada) (720p)
