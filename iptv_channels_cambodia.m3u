@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="CTN" tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175014274355_59.png" group-title="Generic",[BD]ctn plus
 https://epg.pw/stream/1c78d18a4c7f48e618c9e0c8d91b94750a4aada884e22635bc3c8e09867645f6.m3u8
-#EXTINF:-1 tvg-name="CTN" tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175014274355_59.png" group-title="Generic",[HD]ctn
+#EXTINF:-1 tvg-name="CTN" tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175014274355_59.png" group-title="Generic",[SD]ctn
 https://epg.pw/stream/639823f3c1a04087c6eeddaef194400e2da541e1555fb284ff6e7ad2787ee17f.m3u8
 #EXTINF:-1 tvg-name="CTN" tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506175014274355_59.png" group-title="Generic",[HD]ctn@@1[geo-blocked]
 https://epg.pw/stream/79f379386329fd1edc79e1ce701c27ce90bc66f511bbcdda061d8cb11cb61c8c.m3u8
@@ -19,8 +19,6 @@ https://epg.pw/stream/767a80f651d4129f3fb0a4154bdd63f801d4cc51276d72b92c3e2f9e63
 https://epg.pw/stream/54cffb0a6fc0279e42d500636931f015ab369278f4e6a8c3f07af36c38ec67bf.m3u8
 #EXTINF:-1 tvg-name="FN TV" tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2021/06/26/large/20210626150003886383_84.png" group-title="News",[BD]gtv fhd[geo-blocked]
 https://epg.pw/stream/e9364964b65b195080af307978b7e027439712b073966fb4673ba666b35b860e.m3u8
-#EXTINF:-1 tvg-name="FN TV" tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2021/06/26/large/20210626150003886383_84.png" group-title="News",[BD]mtv fhd@@5[geo-blocked]
-https://epg.pw/stream/96e57452da86cac05812e24aee8870fa2f5dd99a408c6d15427cfc832e1b9948.ctv
 #EXTINF:-1 tvg-name="FN TV" tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2021/06/26/large/20210626150003886383_84.png" group-title="News",[SD]4fun tv[geo-blocked]
 https://epg.pw/stream/083e990f773346b58c19db7eab3c9e4756cb7b2b4633c99b4be4336bfa5bea0f.m3u8
 #EXTINF:-1 tvg-name="HM CAMBODIA" tvg-id="" tvg-country="Cambodia" tvg-language="Khmer" tvg-logo="https://epg.pw/media/images/channel/2021/06/26/large/20210626145948871370_81.png" group-title="Entertainment",[HD]hm
