@@ -74,6 +74,7 @@ Paramount Channel Brazil[geo-blocked],https://epg.pw/stream/8d9242b6a18d9accfef5
 Paramount Channel Brazil[geo-blocked],https://epg.pw/stream/19d886c79bc541215dc0686fd8b5151d475606da9a37fa7865325f8c60069414.ctv
 Paramount Channel Brazil,https://epg.pw/stream/bdad9d58bd66c77523677c0c1bdbc6d8343f44921f0d91171f80726e09b20648.ctv
 Paramount Channel Brazil,https://epg.pw/stream/d3ec91f65c09b974d396243cc54ef055b730131992d5c5eaef602ff50bba6f06.ctv
+Paramount Channel Brazil[geo-blocked],https://epg.pw/stream/b926441057c6617d012713265aa97ab35ceef48af3dc2f9aba51be17b5f0737c.m3u8
 Paramount Channel Brazil,https://epg.pw/stream/39adbd323a60109277aeaf385744d95444d2a012113ac35d5278d6897ee6861c.ctv
 Paramount Channel Brazil[geo-blocked],https://epg.pw/stream/b09f0d90bc91342cd26b768ac69f8efcba5d4f972ce14009f75e4c06d96bb83b.m3u8
 Paramount Channel Brazil,https://epg.pw/stream/392400ea3f2fadced63d7eb64deb768a776997679d058986eafe79461bebf885.ctv
@@ -147,7 +148,6 @@ Arte TV[geo-blocked],https://epg.pw/stream/7b3f5c28607bb9c28e15dcbbb912bce53764b
 Arte TV[geo-blocked],https://epg.pw/stream/59785f74d27ec63e92c51c0d90f0b831f6b52383cac7595b6bbf51e4fa4e24bd.m3u8
 Arte TV[geo-blocked],https://epg.pw/stream/1d00cfbd33e56c73f781db5a3286be36bbdf4f45ecd0ca0a62e1a75fffa9a67f.m3u8
 Arte TV,https://epg.pw/stream/b362d1f99717b08778a8be1b1fbaad6ec6b6281f5a93b1414edf528287a18335.m3u8
-Atalaia,https://epg.pw/stream/3ee60b0621ad04c968638ed0ca90c616498d236c029999fa96c585ef7f0d8dd3.ctv
 Canal Novo Tempo,https://epg.pw/stream/ea4fb01be9ff17a12fd83e0e7c76af3bf9dd5a2e062f875fcba7f6cb793fef44.m3u8
 Canal Novo Tempo[geo-blocked],https://epg.pw/stream/c4675716bfa1b8f5f14421812f646e6cceffcd8c737d2d15296b229f218b669f.m3u8
 Canal Novo Tempo[geo-blocked],https://epg.pw/stream/585682632ca3a5e3f408250193dbc8fc88b076cc3d0c3877e13b1bfc65808206.m3u8
@@ -190,13 +190,13 @@ Rede TV[geo-blocked],https://epg.pw/stream/d216422517b26b2b9d1560b18c3760e175b1b
 Rede TV,https://epg.pw/stream/dddeb015c2f16e022798fde7dd76d047ac1848ec36386b822797369bf05e2361.m3u8
 Rede TV,https://epg.pw/stream/70f311e44f6e1f1f178a31f57a06106b0a4e64fe23707dd5eff4cfb4d076f39f.m3u8
 Rede TV[geo-blocked],https://epg.pw/stream/e1726e148535cbc76200378033a9c547c10235c4146a50d2d7c396f4686d808f.ctv
+Rede TV,https://epg.pw/stream/11bb22a8dcd5778bf9c5aa3654e83b26cfd5da93d13752372a4db3df88caf25d.m3u8
 Rede TV,https://epg.pw/stream/2ab2a28740f2d28767dcab74517af7cc96b78324cd2653a0763d45ad58cba4de.m3u8
 Rede TV[geo-blocked],https://epg.pw/stream/b9a440691a27ecd9fd570449934611758e236607f1a36559794b84e73548074c.m3u8
 Rede TV,https://epg.pw/stream/5f1640f709b370a796427986da1c890ae1f79fceaca5d05ed3c2025b2a7d84e6.ctv
 Rede TV,https://epg.pw/stream/e9d2140842e6a114edd87b79528e220f6667a2323b5ab5c1e551c9eb3d816c51.ctv
 Rede TV,https://epg.pw/stream/3b237dc16032e5357815e99f50fc4f857e5e18a89b44c11268f60b33573657cd.m3u8
 Rede TV,https://epg.pw/stream/6b7b8744640f5b16992b110af58261ed05ff7c3ce7b055f429fab7ad4f253857.ctv
-Rede TV[geo-blocked],https://epg.pw/stream/2f3dc8589739955d67f51c9e02cbb7adb984116392603d415bef412b490063a6.m3u8
 Rede Vida,https://epg.pw/stream/840b983e3c18914ab22e8b7f161bc428ad8b1cd5e8ab7665fb74ea81265e7b7d.m3u8
 Rede Vida,https://epg.pw/stream/e3ffa95a203907ad22e314a87a7107ed5f6f9e82478cf21aabe066b6d1153526.m3u8
 Rede Vida,https://epg.pw/stream/55e6615d337b21f63197263f27dc7b87192db53e9d7ccd9a11be101857d221fc.m3u8
@@ -228,13 +228,11 @@ TV 1001 Noites[geo-blocked],https://epg.pw/stream/991b82cdeb6c937877adb5df537693
 TV ABCD,https://epg.pw/stream/e868e0c014dc907f847cc5c09409761cf3d9cbdaf348d8b53151b8e132c57caa.m3u8
 TV Aberta,https://epg.pw/stream/6584cf64ec6322ee8e4c384f17777590235dd32f099cb2a43cf244295ee30b47.m3u8
 TV Aberta[geo-blocked],https://epg.pw/stream/17a23c1411fa409357e4483c6381213c2eeeea2b7582e123ab5351f429e3fe4f.m3u8
-TV Aparecida[geo-blocked],https://epg.pw/stream/80f505113a660325e307dc6dbce2d7645cf841ffb9db47403136d57c41eabe07.m3u8
 TV Aparecida,https://epg.pw/stream/6a5c149b755baf1f5a17322561f0545a5f32fed2097522a9cacc37b0179818cf.m3u8
 TV Aparecida[geo-blocked],https://epg.pw/stream/aa2edc1f6098d35e399efc44cd1d0e65bc937fb460e4a551413cc88eda34b9f4.m3u8
 TV Aparecida,https://epg.pw/stream/a51a279294d7f0741b32b9846eccc1e7d81e959fda61ac9f189dd22d1ccbcb2c.ctv
 TV Aparecida[geo-blocked],https://epg.pw/stream/d84ed4d81ebfdfa3e5e8407b244f5f3d8630ca53ac1f59913a9b581ec4f5c040.m3u8
 TV Aparecida[geo-blocked],https://epg.pw/stream/bd334ac55ee608da758ecd38e50eab188cc2f2706b02d3cf0c1c0e521b18bbdd.m3u8
-TV Aparecida[geo-blocked],https://epg.pw/stream/19953a31eb8603af32955ed65ed6f5383cd89b7943447e1d13cc1a5ff08ab9e3.m3u8
 TV Brasil,https://epg.pw/stream/18d693f5974225dc9384c7d873dde21b7aa18c54fa40a509e9c5c647ebbc5781.ctv
 TV Brasil[geo-blocked],https://epg.pw/stream/4bddd1818a5f107504a1f21017856317f12640eb5b801cb54cf9c2102bb5bd34.m3u8
 TV Brasil[geo-blocked],https://epg.pw/stream/44c9c49c02c712e985904e84f0edc3d0f780fe8fb7d7800243993086f316cd5d.m3u8
@@ -310,7 +308,6 @@ TV NA ILHA,https://epg.pw/stream/eb8c4f57b1796b6f79f872d2140c866b86f01039140355d
 TV NA ILHA,https://epg.pw/stream/828a6d68d1c832ba588e2d019791b042e7ccc3da378ff3145db386777f09f96c.m3u8
 TV Nova Cidade[geo-blocked],https://epg.pw/stream/8cae9c48eac47af2d8ce69988d36b8e760ff6a8d947672ce42be2828eb46ca2d.m3u8
 Telecine Action,https://epg.pw/stream/2a537037aa0d62d5c6dd41699c6f7e492ae0530d9e3822baba007fc56b59f28e.ctv
-Telecine Action,https://epg.pw/stream/bc4c45389d442dc83396d306472de11dcf79bb3eea2ee2ce74399490732733c8.ctv
 Telecine Action,https://epg.pw/stream/5aaa42864fd7177b218799613e58a421f49da7402b35dd41078374839856585d.ctv
 Telecine Action,https://epg.pw/stream/f1fe454f043f7e2ac231b914063471b5142e555b5599c97179f023fc226dbae7.ctv
 Telecine Action,https://epg.pw/stream/63ac8e5cd65ee27bfa537665ef3bc13a80e167ee5747515f4edbb28120975305.ctv
@@ -318,7 +315,6 @@ Telecine Action,https://epg.pw/stream/2b40df007abdda067d9df15d002ac25ec1860420ac
 Telecine Action[geo-blocked],https://epg.pw/stream/a507b16746b7706b441460b260de9b47370db96b7d3ef18461fa74d8d37fc380.ctv
 Telecine Action,https://epg.pw/stream/e83f5a751924435823f2f4f4f81d4ef5df1592dac840193656fc42a29df9a112.ctv
 Telecine Action,https://epg.pw/stream/7711fceeb5b1717853fc18fa2da2e64c73eb5dc501534e82fa301d085c1aeb03.m3u8
-Telecine Action,https://epg.pw/stream/b2314bea3cb98c6dc8accd22be53c8c4da0b059ae9cfc9957fc24b412ca1a34c.ctv
 Telecine Action,https://epg.pw/stream/1d87c81f6f214e5728983862f50ca8ddba651d9b16d91ec823172bbc20e8be11.ctv
 Telecine Pipoca,https://epg.pw/stream/8771453fe344f5b5eef41954e579b78303051f382d2d1a7cf444dd93e4c6dd79.ctv
 Telecine Pipoca,https://epg.pw/stream/761d89c2ffbc334eea003f0b4ce8a0a95cbca7c7189a05c1a7f7e9a29ee7715a.ctv
@@ -414,7 +410,6 @@ Band,https://epg.pw/stream/8cb65584b94b38b8764e2708e19ead7057f5451a0d11cb65b479d
 Band,https://epg.pw/stream/87ffcfede0997a577bf2168a7ffe8dbc5961cc7471e517e729dafeff57b28440.ctv
 Globo News Brazil,https://epg.pw/stream/90c62710258230b7fab0286d22b88487a53db9f8e255fb943625b1ba76aaf71e.ctv
 Globo News Brazil,https://epg.pw/stream/e827ea6662255d30adbfa2e5990fcd118c28d1194d30a60d188d9256c23c1e13.ctv
-Globo News Brazil,https://epg.pw/stream/dc0c8c29087252514625886e9b75fb5e486a07d90a3a7e6a765157c83693617a.ctv
 Globo News Brazil,https://epg.pw/stream/cfa24e161302e7255d17d395a1b6880850fefed37c1d4758495b7c1cd0f3e660.ctv
 Globo News Brazil,https://epg.pw/stream/63aaf7c556ab21762b23adc761eee9749a8bb5ef37c446117617ca4c47b9a5dd.ctv
 Globo News Brazil[geo-blocked],https://epg.pw/stream/67410e2fabe072a16c0a6794dcfc5d15ddbae20dc6b789e2e0403bfcfd283c31.ctv
@@ -439,13 +434,13 @@ Record News HD Brazil,https://epg.pw/stream/c5ff53aeefebb1e6b8006fbc11cc13906745
 Record News HD Brazil,https://epg.pw/stream/6c0092d448456f4e78e4338bc7d49d1fbf33bcea90b7a6e63b8230577a80d8fa.ctv
 Record News HD Brazil[geo-blocked],https://epg.pw/stream/01318f17a98fb35b3cd061154fd5a89d4d132e6fd1b0b54359dfa501f7a6fb9a.ctv
 Other,#genre#
-Telecine Cult Brazil,https://epg.pw/stream/81927d37ed6bac1c77beed14dc91f74fa9b0930cc10efca5b6d369ebe715d89c.ctv
 Telecine Cult Brazil,https://epg.pw/stream/9cd2441d2f0e18216c8003fd926cd24a72667037edeb3400e7589b89ca793263.ctv
 Telecine Cult Brazil,https://epg.pw/stream/661b2efaa4ddd62d661f5f1b3abbb33cee591c54689aaf81731277052b073cbd.ctv
 Telecine Cult Brazil,https://epg.pw/stream/6ea7d2354187be4d4327534c2cb791d03c61aa474751eb7c7bc39d30a0ff752e.ctv
 Telecine Cult Brazil,https://epg.pw/stream/778871bd9293e02315585ea0dd353da31a291f1a79ea7767803abe126c4362d8.ctv
 Telecine Cult Brazil,https://epg.pw/stream/cb98a686410700e4d258bdb466e1cea27e2bf7fe042c009af892600430149817.ctv
 Telecine Cult Brazil,https://epg.pw/stream/5e3ebcda6854078e4116fe8bd3ae4e49414fbc5c8c00bd3d5d7379b903a30202.ctv
+Telecine Cult Brazil,https://epg.pw/stream/81927d37ed6bac1c77beed14dc91f74fa9b0930cc10efca5b6d369ebe715d89c.ctv
 Tv Japi[geo-blocked],https://epg.pw/stream/0181f4549e5dc238e5e98fcbb816a6d12f6f027762c4684edd144d8ef55531bc.m3u8
 Sport,#genre#
 All Sports[geo-blocked],https://epg.pw/stream/8c46236bd691560fcf29c75b88c02a628ee263f26c45dacb4243e4ab8244edf9.m3u8
@@ -474,7 +469,6 @@ SporTV 1,https://epg.pw/stream/6a1970e9b4df78c38676710da5374b04de9a79e9ffccd71f2
 SporTV 1,https://epg.pw/stream/73582d7407261fe6a60ccf8ede5a083bdfdf8a757ad736eb452deee35944509c.ctv
 SporTV 1,https://epg.pw/stream/6fdd6eef31cf8f4d6c291663c07eb215e7951b2f97289ae86056e9b013ea3276.ctv
 SporTV 1,https://epg.pw/stream/6400c771e156d3371f75f8f2243822d471dba8c25ebe469c9a5c84253142cc27.ctv
-SporTV 1,https://epg.pw/stream/fdb33c6a95ebc9ffe5e9e89203b376a217ee373a1c2e4cffc943b41f3654ad8f.ctv
 SporTV 1[geo-blocked],https://epg.pw/stream/1e0c01e4c1223ddc749330f28f01e41e588159fa247527f95d0bc39a758ce1eb.m3u8
 SporTV 1,https://epg.pw/stream/870f3ae4ae4a730f6d46e1e27b0cbb8dd8d7465f14d0898b5f0f2274141b8a9f.ctv
 SporTV 1,https://epg.pw/stream/3dcb9a52fd5e27a497566e308a8753f9958186fb4a5723396400abb776713738.ctv
