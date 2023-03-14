@@ -415,8 +415,6 @@ https://epg.pw/stream/9f68e386ea43779bd930ec3f24dcea8d8256ba7301469441343fc03d6a
 https://epg.pw/stream/f18f30994cce1a4068cbf324a473bbacf29fadcf087733c1c7e724ea4eb69b9c.m3u8
 #EXTINF:-1 tvg-name="Retrô Cartoon Brazil" tvg-id="" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2022/09/22/large/20220922235633713760_49.jpg" group-title="Cartoon",[VGA]Retrô Cartoon (480p) [Not 24/7][geo-blocked]
 https://epg.pw/stream/9c8f9e5f9434cdbf76c05121e2d89d737e419208d42bb7f1892120687590e64a.m3u8
-#EXTINF:-1 tvg-name="SBT" tvg-id="50708" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015059627652_22.jpg" group-title="Generic",[HD]sbt
-https://epg.pw/stream/9bd14ff4ebe11be073de7244aa3494bb451ec9084bd615b143a8a7b91980cd48.m3u8
 #EXTINF:-1 tvg-name="SBT" tvg-id="50708" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015059627652_22.jpg" group-title="Generic",[HD]sbt norte - tv guajara
 https://epg.pw/stream/1bf730c56b25f176c194b8f27c6feb54a9fa98bdea5bae056f7af83f5fa8c823.m3u8
 #EXTINF:-1 tvg-name="SBT" tvg-id="50708" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015059627652_22.jpg" group-title="Generic",[HD]sbt 1
@@ -435,7 +433,9 @@ https://epg.pw/stream/79ee145fbb378c378865fab58cc88eb407be117f694455386f1dcf86d0
 https://epg.pw/stream/3c6bdeb44a29ea78691cd00305c287c82f7e6b9745842132d64f806251449acc.ctv
 #EXTINF:-1 tvg-name="SBT" tvg-id="50708" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015059627652_22.jpg" group-title="Generic",[BD]sbt@@9
 https://epg.pw/stream/8dc2ee2336170baef5dcbe7ff795e8434a6fda3bfcec6670761dd2b31d3f7afa.ctv
-#EXTINF:-1 tvg-name="SBT HD" tvg-id="50495" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2023/02/06/large/20230206154610239662_46.png" group-title="Generic",[HD]SBT HD[geo-blocked]
+#EXTINF:-1 tvg-name="SBT" tvg-id="50708" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/09/09/20140909015059627652_22.jpg" group-title="Generic",[HD]sbt
+https://epg.pw/stream/9bd14ff4ebe11be073de7244aa3494bb451ec9084bd615b143a8a7b91980cd48.m3u8
+#EXTINF:-1 tvg-name="SBT HD" tvg-id="50495" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2023/02/06/large/20230206154610239662_46.png" group-title="Generic",[BD]SBT HD[geo-blocked]
 https://epg.pw/stream/1eab7487ce51fde937e0ecac369e62e9a319f5e4716269706c7bdd5c033959ad.ctv
 #EXTINF:-1 tvg-name="SBT HD" tvg-id="50495" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2023/02/06/large/20230206154610239662_46.png" group-title="Generic",[HD]sbt sp hd+
 https://epg.pw/stream/25654cc52fee4be969013617db3819848d720f9ccb58ee63aaab4732de26762d.ctv
@@ -577,7 +577,7 @@ https://epg.pw/stream/a2838947fb9b444138eda5f7ea23419eda1bec822d58ec47e724dfb5da
 https://epg.pw/stream/2b9d0c3d22f2ab5e56add6453bc1e949469fcb895b85e5aa1b90d871fd0172a4.ctv
 #EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[HD]music box brasil hd²[geo-blocked]
 https://epg.pw/stream/99d5d0f2cdea883c0fa9c859ef6ce810c3ff14b966793ab266a39f1a4ddf363b.ctv
-#EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[HD]TNT Sports 2 Brasil (720p) [Not 24/7][geo-blocked]
+#EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[VGA]TNT Sports 2 Brasil (720p) [Not 24/7][geo-blocked]
 https://epg.pw/stream/8d87d587b052d721b93111ba6ec50036c195d2a01c7c84c82f47792884ac2ba0.m3u8
 #EXTINF:-1 tvg-name="TV Brasil" tvg-id="45778" tvg-country="Brazil" tvg-language="Portuguese" tvg-logo="https://epg.pw/media/images/channel/2015/10/21/large/20151021194917904651_75.jpg" group-title="Generic",[HD]music box brasil hd¹[geo-blocked]
 https://epg.pw/stream/08fc1961465868ba8ec48ae86ca870c15c37118eb37330799a1f00b3c8f587ec.ctv
