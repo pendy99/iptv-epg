@@ -477,7 +477,7 @@ https://epg.pw/stream/a1ac22dbfa00b56afe3a25310e9a13053295b86a062c2b1976b93637de
 https://epg.pw/stream/9cfdb87a6b94da9245167a90dd78e0fd51b6a3eebeaaf8b32a81764763016d9a.m3u8
 #EXTINF:-1 tvg-name="Event TV" tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/12/24/large/20221224210615087603_91.jpeg" group-title="News",[SD]levante tv
 https://epg.pw/stream/9ab5d1ef6d9d1835eec4331e70d5f762961aa0fb135f4ff98bcca6405f36749f.m3u8
-#EXTINF:-1 tvg-name="FISHING TV" tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222052971725_56.png" group-title="Other",[HD]fish tv sd@@1
+#EXTINF:-1 tvg-name="FISHING TV" tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222052971725_56.png" group-title="Other",[VGA]fish tv sd@@1
 https://epg.pw/stream/04333aab0eeb081f8a7b2c8424308d4009ab99a04686568532eca4c190654b4f.ctv
 #EXTINF:-1 tvg-name="FISHING TV" tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/02/10/large/20220210222052971725_56.png" group-title="Other",[HD]fish tv hd@@1
 https://epg.pw/stream/194a3327dcc961148314738b4e8bb849196453a8130be1968bb39e2bb5862c56.ctv
@@ -1381,6 +1381,8 @@ https://epg.pw/stream/9483be4d974764948506fccddd5164120374c35984bda9d0e8376480a1
 https://epg.pw/stream/96702ba56e613e18ca12a4b00cf26f2fad5a56f899ea738e418ed3ec8f39b17e.ctv
 #EXTINF:-1 tvg-name="阿里郎電視臺" tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101015036019568_90.jpg" group-title="Generic",[BD]阿里郎电视
 https://epg.pw/stream/fd9208cc2fc679357fa838ed219a2ea1545604cdc2172a7017390e18ff073d47.m3u8
+#EXTINF:-1 tvg-name="阿里郎電視臺" tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101015036019568_90.jpg" group-title="Generic",[HD]阿里郎电台
+https://epg.pw/stream/827ba29be082576243e6f74b3fa98ae8d62cbe842ed5a11703769ea9cabad2ed.m3u8
 #EXTINF:-1 tvg-name="阿里郎電視臺" tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101015036019568_90.jpg" group-title="Generic",[BD]阿里郎电台@@1
 https://epg.pw/stream/637f8523a3222173629bf340a85d5fdba72234c03ecf0d70e6eb4456e49131bf.m3u8
 #EXTINF:-1 tvg-name="阿里郎電視臺" tvg-id="" tvg-country="Korea" tvg-language="Korean" tvg-logo="https://epg.pw/media/images/channel/2022/11/01/large/20221101015036019568_90.jpg" group-title="Generic",[HD]阿里郎电视
